@@ -1,0 +1,61 @@
+---
+class: Inotrope
+chemistry: Endogenous catecholamine
+dose:
+    arrest: 1mg IV
+    shock: 0.05-2µg/kg/min IV
+    anaphylaxis:
+        - "No IV access: 500μg IM Q5 min"
+        - "Grade II: 20μg IV"
+        - "Grade III: 100-200μg IV"
+    airway oedema: 5mg neb
+pharmaceutics:
+    presentation: Clear, colourless solution typically at 0.1-1mg/ml in a brown glass ampoule
+pharmacokinetics:
+    absorption:
+        - No PO bioavailability due to destruction by COMT and MAO in the gut brush border
+        - Variable ETT and SC absorption
+    distribution:
+        pKa: 9.69
+        vd: 0.1-0.2L/kg
+        protein binding: 12%
+    metabolism:
+        half-life: 2 minutes
+        pathway: Metabolised rapidly and completely by mitochondrial MAO and COMT within liver, kidney, and blood
+        metabolites:
+            - VMA
+            - Metadrenaline
+    elimination:
+        renal: Metabolites
+mechanism: Active at all adrenoreceptors. β > α at lower doses. α1 effects dominate at high doses.
+pharmacodynamics:
+    resp:
+        - ↑ MV
+        - Bronchodilation
+    cvs: 
+        - ↑ Inotropy
+        - ↑ HR
+        - ↑ SVR and PVR
+        - ↑ BP
+        - ↑ CO
+        - ↑ Myocardial O2 consumption
+        - Coronary vasodilation
+        - Arrhythmogenic
+    cns:
+        - ↑ Pain threshold
+        - ↑ MAC
+    endo:
+    msk:
+        - Necrosis with extravasation
+    met:
+        - ↑ BMR
+        - ↑ Lipolysis
+        - ↑ Gluconeogenesis and BSL
+        - ↑ Lactate
+        - Initially ↑ insulin secretion (β), then ↓ (α)
+    ren:
+        - ↓ RBF
+        - ↑ In sphincter tone
+    gu:
+    git:
+    haeme:

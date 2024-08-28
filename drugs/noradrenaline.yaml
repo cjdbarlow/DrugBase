@@ -1,0 +1,45 @@
+---
+class: Vasopressor
+chemistry: Endogenous catecholamine
+dose:
+    shock: 0.05-1.5µg/kg/min
+pharmaceutics:
+    presentation: Clear, colourless, light-sensitive solution. Sodium metabisulfite as excipient.
+pharmacokinetics:
+    absorption: No PO bioavailability due to destruction by COMT and MAO in the gut brush border
+    distribution:
+        pKa: 8.85
+        vd: 0.12L/kg
+        protein binding: 25%
+    metabolism:
+        half-life: 2 minutes
+        pathway: Metabolised rapidly and completely by mitochondrial MAO and COMT within liver, kidney, and blood
+        metabolites:
+            - VMA
+            - Normetadrenaline
+    elimination:
+        renal: Metabolites
+        other: Pulmonary uptake of up to 25%
+mechanism: Highly selective for the α1 adrenoreceptor.
+pharmacodynamics:
+    resp:
+        - ↑ Minute ventilation
+        - Bronchodilation
+    cvs: 
+        - ↑ SVR
+        - Venoconstriction and ↑ preload
+        - ↑ Myocardial oxygen consumption
+        - ↑ Coronary flow
+        - Reflex ↓ HR secondary to ↑ SVR
+    cns:
+    endo:
+    msk:
+        - Necrosis with extravasation
+    met:
+        - ↓ Receptor affinity ↓ in acidosis, causing ↓ clinical effect
+    ren:
+        - ↓ Renal blood flow
+    gu:
+        - ↓ Uterine blood flow and foetal bradycardia
+    git:
+    haeme:

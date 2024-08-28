@@ -1,0 +1,30 @@
+---
+class:
+chemistry:
+dose:
+pharmaceutics:
+    presentation:
+pharmacokinetics:
+    absorption:
+    distribution:
+        pKa:
+        vd:
+        protein binding:
+    metabolism:
+        half-life:
+        pathway:
+        metabolites:
+    elimination:
+        renal:
+mechanism:
+pharmacodynamics:
+    resp:
+    cvs:
+    cns:
+    endo:
+    msk:
+    met:
+    ren:
+    gu:
+    git:
+    haeme:
