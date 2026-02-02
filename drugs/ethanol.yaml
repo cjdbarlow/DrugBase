@@ -1,0 +1,34 @@
+---
+class: Weak alcohol
+chemistry:
+dose:
+    standard drink: One unit is ~8g/10ml of pure ethanol
+    toxic alcohol: 0.6g/kg, targeting a BAC of 0.1-0.15%
+pharmaceutics:
+    presentation:
+    stability:
+pharmacokinetics:
+    absorption: Rapid oral absorption
+    distribution:
+        pKa:
+        vd:
+        protein binding:
+    metabolism:
+        half-life:
+        pathway:
+        metabolites:
+    elimination:
+        renal:
+mechanism: ↑ GABA-mediated inhibition (reversible with flumazenil). Inhibition of Ca2+ entry. Inhibition of NMDA function. Inhibition of adenosine transport.
+contraindications:
+pharmacodynamics:
+    resp:
+    cvs:
+    cns:
+    endo:
+    msk:
+    met:
+    ren:
+    gu:
+    git:
+    haeme:
