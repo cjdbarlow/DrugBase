@@ -1,0 +1,40 @@
+---
+class: Soluble guanylate cyclase stimulator
+chemistry: 
+dose:
+    heart failure:
+        - "Decompensated HF: 2.5mg, 5mg, 10mg"
+pharmaceutics:
+    presentation:
+    stability:
+pharmacokinetics:
+    absorption:
+    distribution:
+        pKa:
+        vd:
+        protein binding:
+    metabolism:
+        half-life:
+        pathway:
+        metabolites:
+    elimination:
+        renal:
+mechanism: Stimulates sGC, which interacts with NO to produce cGMP.
+contraindications:
+    - "SBP <100mmHg"
+    - "Severe hepatic impairment"
+    - "eGFR <15"
+pharmacodynamics:
+    resp:
+    cvs:
+    cns:
+        - ↑ Lusitropy
+        - ↓ Myocardial fibrosis
+        - ↓ Myocardial inflammation
+    endo:
+    msk:
+    met:
+    ren:
+    gu:
+    git:
+    haeme:
