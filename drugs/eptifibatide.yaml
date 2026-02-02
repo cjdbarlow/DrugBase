@@ -1,0 +1,47 @@
+---
+class: Glycoprotein IIb/IIIa inhibitor
+chemistry:
+dose:
+    antiplatelet:
+        - "Load: 180 µg/kg"
+        - "Maintenance: Weight based. Indications include: high thrombus burden, failed PCI, or prior to surgical revascularisation."
+pharmaceutics:
+    presentation:
+        - 2mg/mL
+    stability:
+        - Light sensitive in ampoule
+        - Incompatible with furosemide
+pharmacokinetics:
+    absorption:
+    distribution:
+        pKa:
+        vd:
+        protein binding:
+    metabolism:
+        half-life:
+        pathway:
+        metabolites:
+    elimination:
+        renal:
+mechanism: Inhibits formation of arterial thrombus by preventing fibrinogen, von Willebrand factor and other adhesive
+ligands binding to platelets
+contraindications:
+    - Severe bleeding
+    - Risk of intracranial bleeding
+    - Ischaemic stroke within 30 days
+    - Severe hypertension
+pharmacodynamics:
+    resp:
+    cvs:
+    cns:
+    endo:
+    msk:
+    met:
+    ren:
+    gu:
+    git:
+    haeme:
+        - Thrombocytopenia
+        - Full reversal of platelet inhibition after 6 hours
+        - Should be ceased 4 hours prior to CABG
+        - No effect on PT/APTT
