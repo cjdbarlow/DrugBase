@@ -14,9 +14,9 @@ pharmacokinetics:
     metabolism:
         half-life: 3 minutes
         pathway:
-        metabolites:
             - 25% of dose converted to noradrenaline
             - Remainder is metabolised by MAO and COMT similar to nor/adrenaline
+        metabolites:
     elimination:
         renal: Metabolites
 mechanism: D1 dominates at ≤5µg/kg/min. β1 dominate at 2-10µg/kg/min. α dominates >10µg/kg/min.

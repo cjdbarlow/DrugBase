@@ -4,6 +4,7 @@ chemistry:
 dose:
 pharmaceutics:
     presentation:
+    stability:
 pharmacokinetics:
     absorption:
     distribution:
@@ -17,6 +18,7 @@ pharmacokinetics:
     elimination:
         renal:
 mechanism:
+contraindications:
 pharmacodynamics:
     resp:
     cvs:

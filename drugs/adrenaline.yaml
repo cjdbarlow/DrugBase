@@ -9,6 +9,7 @@ dose:
         - "Grade II: 20μg IV"
         - "Grade III: 100-200μg IV"
     airway oedema: 5mg neb
+    push dose: 5-10µg
 pharmaceutics:
     presentation: Clear, colourless solution typically at 0.1-1mg/ml in a brown glass ampoule
 pharmacokinetics:
