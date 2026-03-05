@@ -19,7 +19,12 @@ pharmacokinetics:
         metabolites:
     elimination:
         renal: Metabolites
-mechanism: D1 dominates at ≤5µg/kg/min. β1 dominate at 2-10µg/kg/min. α dominates >10µg/kg/min.
+mechanism:
+    target:
+        - D1 receptor
+        - β1 adrenoreceptor
+        - α1 adrenoreceptor
+    action: D1 dominates at ≤5µg/kg/min. β1 dominate at 2-10µg/kg/min. α dominates >10µg/kg/min.
 pharmacodynamics:
     resp:
     cvs:
