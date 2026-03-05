@@ -1,0 +1,50 @@
+---
+aliases:
+class: Inotrope
+chemistry: Synthetic catecholamine
+dose:
+    shock: 2.5-20µg/kg/min IV
+pharmaceutics:
+    presentation: 12.5mg/mL solution
+    compatibility:
+pharmacokinetics:
+    absorption: No PO bioavailability
+    distribution:
+        pKa: 10.14
+        vd: 0.2L/kg
+        protein binding: Unknown; presumed minimal
+    metabolism:
+        half-life: ~2 minutes
+        duration: Very short; rapid onset
+        pathway: Metabolised by COMT and MAO
+        metabolites:
+    elimination:
+        renal: Metabolites
+mechanism:
+    target:
+        - β1 adrenoreceptor (+)-enantiomer  is full agonist
+        - β2 adrenoreceptor
+        - α1 adrenoreceptor (-)-enantiomer is half agonist
+    action: ↑ cAMP → ↑ intracellular Ca2+ → ↑ contractility
+pharmacodynamics:
+    resp:
+    cvs:
+        - ↑ Inotropy
+        - ↑ Lusitropy
+        - ↑ HR
+        - ↑ CO
+        - ↓ SVR (net; β2 > α1)
+        - ↓ PVR
+        - ↑ Myocardial O2 consumption
+        - Arrhythmogenic
+    cns:
+    endo:
+    msk:
+    met:
+    ren:
+        - ↑ RBF (secondary to ↑ CO)
+    gu:
+    git:
+    haeme:
+references:
+

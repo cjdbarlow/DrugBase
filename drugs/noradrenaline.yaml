@@ -1,10 +1,13 @@
 ---
+aliases:
+    - Norepinephrine
 class: Vasopressor
 chemistry: Endogenous catecholamine
 dose:
     shock: 0.05-1.5µg/kg/min
 pharmaceutics:
     presentation: Clear, colourless, light-sensitive solution. Sodium metabisulfite as excipient.
+    solubility: Water-soluble
 pharmacokinetics:
     absorption: No PO bioavailability due to destruction by COMT and MAO in the gut brush border
     distribution:
@@ -13,6 +16,7 @@ pharmacokinetics:
         protein binding: 25%
     metabolism:
         half-life: 2 minutes
+        duration: Very short; rapid onset
         pathway: Metabolised rapidly and completely by mitochondrial MAO and COMT within liver, kidney, and blood
         metabolites:
             - VMA
@@ -47,3 +51,5 @@ pharmacodynamics:
         - ↓ Uterine blood flow and foetal bradycardia
     git:
     haeme:
+references:
+

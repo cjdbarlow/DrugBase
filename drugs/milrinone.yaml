@@ -1,0 +1,53 @@
+---
+aliases:
+    - Primacor
+class: Inodilator
+chemistry: Biperidine derivative
+dose:
+    heart failure: 0.1-0.75µg/kg/min IV"
+pharmaceutics:
+    presentation: 1mg/mL solution
+    compatibility:
+    solubility:
+pharmacokinetics:
+    absorption: 92% oral bioavailability
+    distribution:
+        pKa: 4.6
+        vd: 0.38L/kg
+        protein binding: 70%
+    metabolism:
+        half-life: 2.3 hours (prolonged in renal impairment)
+        duration: Onset 5-15 minutes
+        pathway: Primarily renal elimination; minor hepatic metabolism
+        metabolites:
+            - O-glucuronide (inactive)
+    elimination:
+        renal: Predominantly excreted unchanged; dose reduction required in renal impairment
+mechanism:
+    target:
+        - Phosphodiesterase 3 (PDE3)
+    action: Inhibits PDE3 → ↑ cAMP in cardiac and vascular smooth muscle. Selective for cardiac and vascular smooth muscle over airway. ↑ cAMP → ↑ inotropy in myocardium and vasodilation in vascular smooth muscle.
+contraindications:
+    - Severe aortic stenosis
+    - Severe pulmonary stenosis
+    - Severe hypertrophic obstructive cardiomyopathy
+pharmacodynamics:
+    resp:
+    cvs:
+        - ↑ Inotropy
+        - ↑ Lusitropy
+        - ↑ HR
+        - ↑ CO
+        - ↓ SVR
+        - ↓ PVR
+        - Arrhythmogenic
+    cns:
+    endo:
+    msk:
+    met:
+    ren:
+        - ↑ RBF secondary to ↑ CO
+        - Reduced clearance in renal failure → drug accumulation
+    gu:
+    git:
+    haeme:
