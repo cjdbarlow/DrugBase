@@ -2,7 +2,7 @@
 class: Inotrope
 chemistry: Endogenous catecholamine
 dose:
-    shock: 1-50µg/kg/min. ↑ By 1-4µg/kg/min ~10 minutely until desired response.
+    shock: 1-50µg/kg/min
 pharmaceutics:
     presentation: Clear, colourless solution with 200mg or 800mg in water
 pharmacokinetics:
@@ -15,7 +15,7 @@ pharmacokinetics:
         half-life: 3 minutes
         pathway:
             - 25% of dose converted to noradrenaline
-            - Remainder is metabolised by MAO and COMT similar to nor/adrenaline
+            - Remainder metabolised by MAO and COMT
         metabolites:
     elimination:
         renal: Metabolites
@@ -32,7 +32,7 @@ pharmacodynamics:
         - ↑ HR
         - ↑ CO
         - Coronary vasodilation
-        - ↑ SVR and PVR (At high doses)
+        - ↑ SVR and PVR
         - ↑ VR
         - Tachyarrhythmias
     cns:
@@ -43,7 +43,7 @@ pharmacodynamics:
         - Necrosis with extravasation
     met:
     ren:
-        - ↑ RBF and UO at low doses, although is not renoprotective
+        - ↑ RBF and UO at low doses, not renoprotective
     gu:
     git:
         - Mesenteric vasodilation

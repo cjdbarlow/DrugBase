@@ -1,0 +1,56 @@
+---
+aliases:
+    - ADH
+    - Arginine vasopressin
+class: Non-adrenergic vasopressor
+chemistry: Cyclic nonapeptide
+dose:
+    vasoplegia: 0.5-4 units/min IV
+pharmaceutics:
+    presentation: 20 units/mL solution
+    compatibility:
+    solubility: Water-soluble
+pharmacokinetics:
+    absorption: No PO bioavailability; destroyed by intestinal peptidases
+    distribution:
+        pKa: 10.26
+        vd: 0.14-0.2L/kg
+        protein binding: 30%
+    metabolism:
+        half-life: 17-35 minutes
+        duration: Rapid onset; sustained effect
+        pathway: 35% metabolised by endothelial peptidases in the liver
+        metabolites:
+            - Inactive peptide fragments
+    elimination:
+        renal: 65% excreted unchanged
+mechanism:
+    target:
+        - V1 receptor (Gq-coupled)
+        - V2 receptor (Gs-coupled)
+    action: V1 → ↑ IP3 → ↑ intracellular Ca2+ → vasoconstriction. V2 → ↑ cAMP → aquaporin-2 insertion in collecting duct → water reabsorption. Vasopressor affinity maintained at low pH, unlike catecholamines.
+contraindications:
+pharmacodynamics:
+    resp:
+    cvs:
+        - ↑ SVR and PVR
+        - ↑ BP
+        - Reflex ↓ HR
+        - Coronary vasoconstriction at high doses
+    cns:
+    endo:
+        - ↑ ACTH release (V3 receptor)
+    msk:
+    met:
+    ren:
+        - ↓ Urine output (V2-mediated aquaporin insertion)
+    gu:
+        - ↑ Uterine contractility (V1)
+    git:
+        - ↓ Mesenteric blood flow
+        - ↓ Portal venous pressure
+    haeme:
+        - ↑ Platelet aggregation (V1)
+        - ↑ Factor VIII and vWF (V2)
+references:
+

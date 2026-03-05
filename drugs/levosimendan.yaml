@@ -1,0 +1,50 @@
+---
+aliases:
+    - Simdax
+class: Inodilator
+chemistry: Pyridazinone-dinitrile derivative
+dose:
+    heart failure: 0.05-0.2µg/kg/min IV for 24 hours
+pharmaceutics:
+    presentation: 2.5mg/mL concentrate for infusion
+    compatibility:
+    solubility: Minimally water-soluble
+pharmacokinetics:
+    absorption: 85% oral bioavailability; given IV in practice
+    distribution:
+        pKa: 6.3
+        vd: 0.3L/kg
+        protein binding: 99%
+    metabolism:
+        half-life: ~1 hour (levosimendan); >80 hours (active metabolite OR-1896)
+        duration: Clinical effect develops over ~3 days and persists for 2-3 weeks due to OR-1896
+        pathway: 95% → inactive metabolites; 5% → OR-1896 (active, long-acting) via intestinal bacteria
+        metabolites:
+            - OR-1896 (active; potent)
+    elimination:
+        renal: OR-1896 excreted renally; caution in renal impairment
+mechanism:
+    target: Troponin C
+    action: Binds Ca2+-saturated troponin C → stabilises open state during systole → ↑ contractility without increasing Ca2+ demand. Activates ATP-sensitive K+ channels in vascular smooth muscle → vasodilation. At high doses, also inhibits PDE3.
+contraindications:
+    - Severe hepatic impairment (OR-1896 accumulation)
+    - Severe renal impairment (OR-1896 accumulation)
+pharmacodynamics:
+    resp:
+    cvs:
+        - ↑ Inotropy
+        - ↑ Lusitropy
+        - ↑ HR
+        - ↑ CO
+        - ↓ SVR
+        - ↓ PVR
+        - Arrhythmogenic
+    cns:
+    endo:
+    msk:
+    met:
+    ren:
+    gu:
+    git:
+    haeme:
+references:
