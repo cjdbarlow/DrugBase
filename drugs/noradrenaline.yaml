@@ -20,7 +20,11 @@ pharmacokinetics:
     elimination:
         renal: Metabolites
         other: Pulmonary uptake of up to 25%
-mechanism: Highly selective for the α1 adrenoreceptor.
+mechanism:
+    target:
+        - α1 adrenoreceptor
+        - β1 adrenoreceptor
+    action: Predominantly α1 agonist. Minor β1 activity.
 pharmacodynamics:
     resp:
         - ↑ Minute ventilation
