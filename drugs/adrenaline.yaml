@@ -1,4 +1,6 @@
 ---
+aliases:
+    - Epinephrine
 class: Inotrope
 chemistry: Endogenous catecholamine
 dose:
@@ -22,6 +24,7 @@ pharmacokinetics:
         protein binding: 12%
     metabolism:
         half-life: 2 minutes
+        duration: Very short; rapid onset
         pathway: Metabolised rapidly and completely by mitochondrial MAO and COMT within liver, kidney, and blood
         metabolites:
             - VMA
@@ -66,3 +69,5 @@ pharmacodynamics:
     gu:
     git:
     haeme:
+references:
+

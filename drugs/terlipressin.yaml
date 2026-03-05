@@ -1,0 +1,54 @@
+---
+aliases:
+class: Vasopressor
+chemistry: Cyclic peptide
+dose:
+    variceal bleeding: 1-2mg IV Q4-6h
+    hepatorenal syndrome: 0.5-1mg IV Q4-6h, titrated up to 2mg Q4-6h
+pharmaceutics:
+    presentation: Lyophilised powder for reconstitution
+    compatibility:
+    solubility: Water-soluble
+pharmacokinetics:
+    absorption: 1% oral bioavailability; destroyed by gastric acid and enzymes
+    distribution:
+        pKa: 10
+        vd: 0.6-0.9L/kg
+        protein binding: Minimal
+    metabolism:
+        half-life: ~50 minutes (terlipressin); active metabolite extends duration to ~6 hours
+        duration: ~6 hours (due to active metabolite)
+        pathway: Metabolised by endothelial peptidases to lysine vasopressin (active)
+        metabolites:
+            - Lysine vasopressin (active)
+    elimination:
+        renal: Lysine vasopressin excreted by renal and hepatic clearance
+mechanism:
+    target:
+        - V1 receptor (Gq-coupled)
+        - V2 receptor
+    action: Prodrug converted to lysine vasopressin; V1 selective. V1 → ↑ IP3 → ↑ intracellular Ca2+ → vasoconstriction with predominantly splanchnic effect. Moderate V2 antidiuretic activity.
+contraindications:
+    - Pregnancy
+    - Sepsis without circulatory failure
+pharmacodynamics:
+    resp:
+    cvs:
+        - ↑ SVR
+        - ↓ Portal venous pressure
+        - Reflex ↓ HR
+        - Risk of coronary vasoconstriction
+        - May worsen diastolic dysfunction
+    cns:
+    endo:
+    msk:
+    met:
+    ren:
+        - Mild antidiuretic effect (V2)
+    gu:
+        - ↑ Uterine contractility (V1)
+    git:
+        - ↓ Mesenteric blood flow
+        - ↓ Portal pressure → ↓ variceal bleeding
+    haeme:
+references:

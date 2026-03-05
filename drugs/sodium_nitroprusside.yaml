@@ -1,0 +1,58 @@
+---
+aliases:
+    - SNP
+class: Vasodilator
+chemistry: Inorganic ferrocyanide complex
+dose:
+    hypertension: 0.25-10µg/kg/min IV
+pharmaceutics:
+    presentation: 50mg powder for reconstitution
+    compatibility: Light-sensitive (opaque bags/tubing); incompatible with alkaline solutions
+    solubility: Highly water-soluble; minimally fat-soluble
+pharmacokinetics:
+    absorption: 0% oral bioavailability
+    distribution:
+        pKa: -3.3
+        vd: 0.25L/kg
+        protein binding: None
+    metabolism:
+        half-life: ~2 minutes
+        duration: Onset within seconds
+        pathway:
+            - Spontaneous decomposition → ferrous nitrosyl (FeNO) + 5 cyanide ions (CN⁻)
+            - Reaction with haemoglobin → cyanmethaemoglobin + 4 CN⁻
+            - CN⁻ converted to thiocyanate by hepatic rhodanese
+        metabolites:
+            - Cyanide (CN⁻; toxic)
+            - Thiocyanate (less toxic; renally excreted)
+    elimination:
+        renal: Thiocyanate excreted renally; accumulates in renal impairment
+mechanism:
+    target:
+        - Soluble guanylate cyclase
+    action: Spontaneous NO donor → activates sGC → ↑ cGMP → ↑ K+ conductance → membrane hyperpolarisation and ↓ intracellular Ca2+ → vascular smooth muscle relaxation. Balanced arterial and venous dilation (unlike GTN which preferentially dilates veins). Risk of coronary steal in coronary artery disease.
+contraindications:
+pharmacodynamics:
+    resp:
+    cvs:
+        - ↓ Preload (venodilatation)
+        - ↓ Afterload (arterial dilation)
+        - Reflex ↑ HR
+        - ↓ BP
+        - Coronary steal risk in CAD
+    cns:
+        - ↑ ICP (caution in neurological injury)
+        - Headache
+    endo:
+    msk:
+    met:
+        - Cyanide toxicity at doses >2µg/kg/min (lactic acidosis, elevated mixed venous O2)
+    ren:
+        - Thiocyanate accumulation in renal impairment → toxicity
+    gu:
+    git:
+    haeme:
+        - Methaemoglobinaemia
+considerations:
+  - Typically more efficacious than GTN
+references:

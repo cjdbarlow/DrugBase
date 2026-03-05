@@ -1,0 +1,54 @@
+---
+aliases:
+    - Aramine
+class: Adrenergic vasopressor
+chemistry: Phenylethylamine; structural analogue of noradrenaline
+dose:
+    bolus: 0.5-2mg IV
+    infusion: 0.5-5mg/hr IV
+pharmaceutics:
+    presentation: 10mg/mL solution
+    compatibility:
+    solubility: Excellent water solubility
+pharmacokinetics:
+    absorption: Oral absorption feasible but not used clinically. Good IM and SC absorption.
+    distribution:
+        pKa: 8.79
+        vd: 4L/kg
+        protein binding: 45%
+    metabolism:
+        half-life: Distribution half-life minutes; elimination over hours to days
+        duration: 20-60 minutes per dose
+        pathway: Not metabolised by MAO or COMT; persists in catecholamine storage vesicles
+        metabolites:
+    elimination:
+        renal: Slowly excreted unchanged over days
+mechanism:
+    target:
+        - α1 adrenoreceptor
+        - β1 adrenoreceptor
+    action:
+        - Also has direct agonist activity at α1 and β1 receptors.
+        - Indirect sympathomimetic. Displaces noradrenaline from noradrenergic storage vesicles, ↑ noradrenaline release. 
+contraindications:
+pharmacodynamics:
+    resp:
+        - Mild bronchodilation (β2)
+    cvs:
+        - ↑ SVR
+        - ↑ BP
+        - Reflex ↓ HR
+        - ↓ CO
+        - ↑ Coronary flow
+    cns:
+    endo:
+    msk:
+        - Necrosis with extravasation
+    met:
+    ren:
+        - ↓ Renal blood flow
+    gu:
+    git:
+        - ↓ Splanchnic blood flow
+    haeme:
+references:
