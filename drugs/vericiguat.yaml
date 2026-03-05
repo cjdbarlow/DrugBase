@@ -5,7 +5,7 @@ dose:
     heart failure: 2.5mg, 5mg, 10mg
 pharmaceutics:
     presentation:
-    stability:
+    compatibility:
 pharmacokinetics:
     absorption:
     distribution:
@@ -18,7 +18,10 @@ pharmacokinetics:
         metabolites:
     elimination:
         renal:
-mechanism: Stimulates sGC, which interacts with NO to produce cGMP.
+mechanism:
+    target:
+        - Soluble guanylate cyclase (sGC)
+    action: Stimulates sGC, which interacts with NO to produce cGMP.
 contraindications:
     - "SBP <100mmHg"
     - "Severe hepatic impairment"

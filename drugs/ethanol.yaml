@@ -6,7 +6,7 @@ dose:
     toxic alcohol: 0.6g/kg, targeting a BAC of 0.1-0.15%
 pharmaceutics:
     presentation:
-    stability:
+    compatibility:
 pharmacokinetics:
     absorption: Rapid oral absorption
     distribution:
@@ -19,7 +19,13 @@ pharmacokinetics:
         metabolites:
     elimination:
         renal:
-mechanism: ↑ GABA-mediated inhibition (reversible with flumazenil). Inhibition of Ca2+ entry. Inhibition of NMDA function. Inhibition of adenosine transport.
+mechanism:
+    target:
+        - GABA-A receptor
+        - NMDA receptor
+        - Ca2+ channel
+        - Adenosine transporter
+    action: ↑ GABA-mediated inhibition (reversible with flumazenil). Inhibition of Ca2+ entry. Inhibition of NMDA function. Inhibition of adenosine transport.
 contraindications:
 pharmacodynamics:
     resp:

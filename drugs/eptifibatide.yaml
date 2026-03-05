@@ -8,8 +8,8 @@ dose:
 pharmaceutics:
     presentation:
         - 2mg/mL
-    stability:
         - Light sensitive in ampoule
+    compatibility:
         - Incompatible with furosemide
 pharmacokinetics:
     absorption:
@@ -23,8 +23,10 @@ pharmacokinetics:
         metabolites:
     elimination:
         renal:
-mechanism: Inhibits formation of arterial thrombus by preventing fibrinogen, von Willebrand factor and other adhesive
-ligands binding to platelets
+mechanism:
+    target:
+        - Glycoprotein IIb/IIIa receptor
+    action: Inhibits formation of arterial thrombus by preventing fibrinogen, von Willebrand factor and other adhesive ligands binding to platelets
 contraindications:
     - Severe bleeding
     - Risk of intracranial bleeding

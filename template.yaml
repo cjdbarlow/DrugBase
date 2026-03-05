@@ -1,10 +1,12 @@
 ---
+aliases:
 class:
 chemistry:
 dose:
 pharmaceutics:
     presentation:
-    stability:
+    compatibility:
+    solubility:
 pharmacokinetics:
     absorption:
     distribution:
@@ -13,11 +15,14 @@ pharmacokinetics:
         protein binding:
     metabolism:
         half-life:
+        duration:
         pathway:
         metabolites:
     elimination:
         renal:
 mechanism:
+    target:
+    action:
 contraindications:
 pharmacodynamics:
     resp:
@@ -30,3 +35,5 @@ pharmacodynamics:
     gu:
     git:
     haeme:
+considerations:
+references:

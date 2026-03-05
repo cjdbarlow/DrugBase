@@ -28,7 +28,13 @@ pharmacokinetics:
             - Metadrenaline
     elimination:
         renal: Metabolites
-mechanism: Active at all adrenoreceptors. β > α at lower doses. α1 effects dominate at high doses.
+mechanism:
+    target:
+        - α1 adrenoreceptor
+        - α2 adrenoreceptor
+        - β1 adrenoreceptor
+        - β2 adrenoreceptor
+    action: β > α at lower doses. α1 effects dominate at high doses.
 pharmacodynamics:
     resp:
         - ↑ MV

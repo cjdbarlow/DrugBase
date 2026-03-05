@@ -8,7 +8,7 @@ dose:
         - "Maintenance: Adjust by 2.5mg/hr Q15 minutes, up to 15mg/hr"
 pharmaceutics:
     presentation:
-    stability: Incompatible with furosemide, bicarbonate.
+    compatibility: Incompatible with furosemide, bicarbonate.
 pharmacokinetics:
     absorption:
     distribution:
@@ -21,8 +21,10 @@ pharmacokinetics:
         metabolites:
     elimination:
         renal:
-mechanism: Selectively inhibits the influx of calcium ions into cardiac and smooth muscle,
-resulting in relaxation of coronary vascular smooth muscle and myocardium
+mechanism:
+    target:
+        - L-type voltage-gated calcium channel
+    action: Selectively inhibits the influx of calcium ions into cardiac and smooth muscle, resulting in relaxation of coronary vascular smooth muscle and myocardium
 contraindications:
     - Aortic stenosis
     - Acute myocardial infarction <7 days
