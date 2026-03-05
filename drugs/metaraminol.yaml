@@ -1,0 +1,69 @@
+---
+aliases:
+    - Aramine
+class: Adrenergic vasopressor
+chemistry: Phenylethylamine; structural analogue of noradrenaline
+dose:
+    bolus: 0.5-2mg IV
+    infusion: 0.5-5mg/hr IV
+pharmaceutics:
+    presentation: Clear colourless/slightly yellow 10mg/mL solution; sodium metabisulfite
+    compatibility: 0.9% NaCl, D5W, Hartmann's
+    solubility: Freely water-soluble
+pharmacokinetics:
+    absorption: Oral absorption feasible but not used clinically. Good IM and SC absorption.
+    distribution:
+        pKa: 8.79
+        vd: 4L/kg
+        protein binding: 45%
+    metabolism:
+        half-life: Distribution half-life minutes; elimination over hours to days
+        duration: 20-60 minutes per dose
+        pathway: Not metabolised by MAO or COMT; persists in catecholamine storage vesicles
+        metabolites:
+    elimination:
+        renal: Slowly excreted unchanged over days
+mechanism:
+    target:
+        - α1 adrenoreceptor
+        - β1 adrenoreceptor
+    action:
+        - Direct α1/β1 agonist
+        - False transmitter; displaces stored noradrenaline → ↑ release
+contraindications:
+    - Cyclopropane or halothane anaesthesia
+pregnancy:
+    code: C
+    justification: Uterine vasoconstriction → ↓ placental perfusion and fetal hypoxia
+pharmacodynamics:
+    resp:
+    cvs:
+        - ↑ SVR
+        - ↑ PVR
+        - ↑ BP
+        - Reflex ↓ HR
+        - ↓ CO
+        - ↑ Coronary flow
+    cns:
+    endo:
+    msk:
+        - Necrosis with extravasation
+    met:
+    ren:
+        - ↓ Renal blood flow
+    gu:
+    git:
+        - ↓ Splanchnic blood flow
+    haeme:
+considerations:
+    - Acidosis → ↓ effect
+    - MAOI/TCA → ↑ effect
+    - Digitalis → arrhythmias
+    - Repeated dosing → cumulative effect
+references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 4 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Phebra 2 Pty Ltd. Aramine Injection Australian Product Information. Version 03. Revised 19 October 2020.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Young P, Psirides A. Wellington ICU Drug Manual. 2nd Ed. Wellington Regional Hospital. 2013.
+    - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.
