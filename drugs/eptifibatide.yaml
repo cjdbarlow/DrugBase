@@ -8,8 +8,8 @@ dose:
 pharmaceutics:
     presentation:
         - 2mg/mL
-    stability:
         - Light sensitive in ampoule
+    compatibility:
         - Incompatible with furosemide
 pharmacokinetics:
     absorption:
@@ -23,13 +23,18 @@ pharmacokinetics:
         metabolites:
     elimination:
         renal:
-mechanism: Inhibits formation of arterial thrombus by preventing fibrinogen, von Willebrand factor and other adhesive
-ligands binding to platelets
+mechanism:
+    target:
+        - Glycoprotein IIb/IIIa receptor
+    action: Inhibits formation of arterial thrombus by preventing fibrinogen, von Willebrand factor and other adhesive ligands binding to platelets
 contraindications:
     - Severe bleeding
     - Risk of intracranial bleeding
     - Ischaemic stroke within 30 days
     - Severe hypertension
+pregnancy:
+    code: C
+    justification: Placental haemorrhage → prematurity/fetal loss
 pharmacodynamics:
     resp:
     cvs:
@@ -45,3 +50,8 @@ pharmacodynamics:
         - Full reversal of platelet inhibition after 6 hours
         - Should be ceased 4 hours prior to CABG
         - No effect on PT/APTT
+references:
+    - Merck Sharp & Dohme (Australia) Pty Limited. INTEGRILIN Australian Product Information. Revised 7 July 2020. Released by the Therapeutic Goods Administration under FOI 26-2273 in February 2026.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 4 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database

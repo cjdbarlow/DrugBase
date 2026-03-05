@@ -6,7 +6,7 @@ dose:
     toxic alcohol: 0.6g/kg, targeting a BAC of 0.1-0.15%
 pharmaceutics:
     presentation:
-    stability:
+    compatibility:
 pharmacokinetics:
     absorption: Rapid oral absorption
     distribution:
@@ -19,7 +19,13 @@ pharmacokinetics:
         metabolites:
     elimination:
         renal:
-mechanism: ↑ GABA-mediated inhibition (reversible with flumazenil). Inhibition of Ca2+ entry. Inhibition of NMDA function. Inhibition of adenosine transport.
+mechanism:
+    target:
+        - GABA-A receptor
+        - NMDA receptor
+        - Ca2+ channel
+        - Adenosine transporter
+    action: ↑ GABA-mediated inhibition (reversible with flumazenil). Inhibition of Ca2+ entry. Inhibition of NMDA function. Inhibition of adenosine transport.
 contraindications:
 pharmacodynamics:
     resp:
@@ -32,3 +38,7 @@ pharmacodynamics:
     gu:
     git:
     haeme:
+references:
+    - Royal Pharmaceuticals. Dehydrated Alcohol Injection US Prescribing Information. Revised October 2025.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
