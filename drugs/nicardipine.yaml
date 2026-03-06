@@ -3,9 +3,8 @@ class: Dihydropyridine calcim-channel blocker
 chemistry:
 dose:
     hypertension:
-        - "Load: 5mg/hr"
-        - "Consider loading dose reduction in: angina, hepatic impairment, renal impairment, elderly, or CYP3A4."
-        - "Maintenance: Adjust by 2.5mg/hr Q15 minutes, up to 15mg/hr"
+        - load: 2.5-5mg/hr
+        - maintenance: Adjust by 2.5mg/hr Q15 minutes, up to 15mg/hr
 pharmaceutics:
     presentation:
     compatibility: Incompatible with furosemide, bicarbonate.
