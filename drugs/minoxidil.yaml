@@ -1,0 +1,65 @@
+---
+aliases: Loniten
+class: Potassium channel activator
+chemistry: Pyrimidine N-oxide
+dose:
+    HTN (PO): 5-40mg/day OD-BD
+pharmaceutics:
+    presentation: 2.5mg or 10mg tablet; 2% or 5% topical
+    compatibility:
+    solubility: Slightly water-soluble
+pharmacokinetics:
+    absorption: ~95% oral bioavailability
+    distribution:
+        pKa: 4.61
+        vd: 200L/kg
+        protein binding: Minimal
+    metabolism:
+        half-life: ~3 hours
+        duration: Up to 72 hours (greatly exceeds half-life due to extensive tissue distribution)
+        pathway: Hepatic (90%); glucuronide conjugation
+        metabolites:
+            - Minoxidil sulfate (active)
+            - Minoxidil glucuronide (less active)
+    elimination:
+        renal: 10% unchanged; remainder as metabolites
+mechanism:
+    target:
+        - ATP-sensitive K+ channel
+    action: Minoxidil sulfate opens KATP channels → hyperpolarisation → ↓ Ca2+ entry → arteriolar relaxation
+contraindications:
+    - Phaeochromocytoma
+    - Pulmonary HTN secondary to mitral stenosis
+pregnancy:
+    code: C
+    justification: In utero exposure → neonatal hypertrichosis
+pharmacodynamics:
+    resp:
+    cvs:
+        - ↓ SVR
+        - ↓ Afterload
+        - ↓ MAP
+        - Reflex ↑ HR
+        - ↑ CO
+        - ↑ Renin release (RAAS activation)
+    cns:
+    endo:
+    msk:
+        - Hypertrichosis (dose-dependent; exploited topically for androgenetic alopecia)
+    met:
+    ren:
+        - ↑ Na+/H2O retention
+        - Peripheral oedema
+    gu:
+    git:
+    haeme:
+considerations:
+    - β blocker + loop diuretic required
+    - Pericardial effusion/tamponade
+    - Arteriolar only; no venodilation
+    - "Topical use: androgenetic alopecia"
+references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 4 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Pfizer Australia Pty Ltd. Loniten Australian Product Information. Version pfplonit11119. Revised 7 November 2019.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.

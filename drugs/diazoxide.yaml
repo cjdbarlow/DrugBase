@@ -1,0 +1,66 @@
+---
+aliases: Proglycem; Hyperstat
+class: Potassium channel activator
+chemistry: Benzothiadiazine
+dose:
+    Hypertensive Crisis (IV): 1-3mg/kg; max 150mg; repeat q5-15min PRN
+    Hypoglycaemia (PO): 3-8mg/kg/day divided q8-12h
+pharmaceutics:
+    presentation: 15mg/mL injection; 50mg capsule; 50mg/mL oral suspension (US)
+    compatibility:
+    solubility: Insoluble in water
+pharmacokinetics:
+    absorption: Rapidly and well absorbed orally
+    distribution:
+        pKa: 10.43
+        vd: 0.33 L/kg
+        protein binding: 90-95%
+    metabolism:
+        half-life: ~26 hours
+        pathway: Hepatic (80%); oxidation and conjugation
+        metabolites:
+            - Inactive metabolites
+    elimination:
+        renal: 20% unchanged; remainder as inactive metabolites
+mechanism:
+    target:
+        - ATP-sensitive K+ channel
+    action: Activates ATP-sensitive K+ channels in vascular smooth muscle → membrane hyperpolarisation → ↓ voltage-dependent Ca2+ channel opening → ↓ intracellular Ca2+ → vasodilation. Also activates ATP-sensitive K+ channels in pancreatic beta cells → membrane hyperpolarisation → ↓ Ca2+-triggered insulin exocytosis → ↓ insulin release → hyperglycaemia.
+contraindications:
+    - Functional hypoglycaemia
+pregnancy:
+    code: C
+    justification: Fetal bradycardia; neonatal hyperglycaemia; ↓ uterine contraction
+pharmacodynamics:
+    resp:
+    cvs:
+        - ↓ SVR
+        - ↓ Afterload
+        - ↓ MAP
+        - Reflex ↑ HR
+        - ↑ CO
+        - ↑ Renin release (RAAS activation)
+    cns:
+    endo:
+        - ↓ Insulin release → hyperglycaemia
+        - Fluid retention (salt and water retention)
+    msk:
+    met:
+        - Hyperuricaemia
+    ren:
+        - Fluid retention
+    gu:
+    git:
+        - Nausea
+    haeme:
+considerations:
+    - Primarily arteriolar; no significant venodilation
+    - No current IV PI; legacy formulation/dose
+    - Neonate/infant → pulmonary HTN
+    - Renal impairment → ↓ dose
+    - Duration < half-life (protein binding)
+references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 4 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - e5 Pharma, LLC. United States Prescribing Information. Diazoxide Oral Suspension, USP. Revised July 2025.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
