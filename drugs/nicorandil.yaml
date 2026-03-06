@@ -1,0 +1,53 @@
+---
+aliases:
+class: Potassium channel activator
+chemistry: Pyrimidinecarboxamide
+dose:
+    angina/hypertension (PO): 10-30mg PO BD
+pharmaceutics:
+    presentation: 10mg, 20mg tablets
+    compatibility:
+    solubility: Reasonably amphoteric
+pharmacokinetics:
+    absorption: '>75% oral bioavailability'
+    distribution:
+        pKa: 3.18
+        vd: 1.0-1.4L/kg
+        protein binding: ~24%
+    metabolism:
+        half-life: ~2 hours
+        duration: ~12 hours (long-acting)
+        pathway: Hepatic denitration → entry into nicotinamide metabolism
+        metabolites:
+            - Inactive metabolites
+    elimination:
+        renal: Inactive metabolites
+mechanism:
+    target:
+        - ATP-sensitive K+ channel
+    action: Dual mechanism. Activates ATP-sensitive K+ channels → membrane hyperpolarisation → inhibits voltage-dependent Ca2+ channel opening → arterial vasodilation. Additionally has nitrate-like NO-donor properties → ↑ cGMP → venodilation. Unique among class members in acting on both arterial and venous vessels.
+contraindications:
+pharmacodynamics:
+    resp:
+    cvs:
+        - ↓ SVR
+        - ↓ Afterload
+        - ↓ BP
+        - ↓ Preload (venodilation; unlike other class members)
+        - ↑ Coronary flow
+        - Reflex ↑ HR
+    cns:
+        - Headache (common; improves with ongoing use)
+    endo:
+    msk:
+    met:
+    ren:
+    gu:
+    git:
+    haeme:
+        - Inhibition of platelet aggregation
+considerations:
+    - Reduces both preload and afterload due to NO donor effect
+    - Headache common on initiation; tends to improve
+references:
+    - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.

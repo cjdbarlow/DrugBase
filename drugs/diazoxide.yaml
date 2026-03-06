@@ -1,0 +1,56 @@
+---
+aliases:
+class: Potassium channel activator
+chemistry: Benzothiadiazine
+dose:
+    hypertensive emergency (IV): 1-3mg/kg IV (max 150mg per dose); repeat Q5-15 min PRN
+    hypoglycaemia (PO): 3-8mg/kg/day PO divided Q8-12h
+pharmaceutics:
+    presentation: 15mg/mL solution for IV injection; 50mg capsules
+    compatibility:
+    solubility: Insoluble in water
+pharmacokinetics:
+    absorption: Rapidly and well absorbed orally
+    distribution:
+        pKa: 10.43
+        vd: 0.33L/kg
+        protein binding: 90-95%
+    metabolism:
+        half-life: ~26 hours
+        pathway: Hepatic (80%); oxidation and conjugation
+        metabolites:
+            - Inactive metabolites
+    elimination:
+        renal: 20% unchanged; remainder as inactive metabolites
+mechanism:
+    target:
+        - ATP-sensitive K+ channel
+    action: Activates ATP-sensitive K+ channels in vascular smooth muscle → membrane hyperpolarisation → ↓ voltage-dependent Ca2+ channel opening → ↓ intracellular Ca2+ → vasodilation. Also activates ATP-sensitive K+ channels in pancreatic beta cells → membrane hyperpolarisation → ↓ Ca2+-triggered insulin exocytosis → ↓ insulin release → hyperglycaemia.
+contraindications:
+pharmacodynamics:
+    resp:
+    cvs:
+        - ↓ SVR
+        - ↓ Afterload
+        - ↓ BP
+        - Reflex ↑ HR
+        - ↑ CO
+        - ↑ Renin release (RAAS activation)
+    cns:
+    endo:
+        - ↓ Insulin release → hyperglycaemia
+        - Fluid retention (salt and water retention)
+    msk:
+    met:
+        - Hyperuricaemia
+    ren:
+        - Fluid retention
+    gu:
+    git:
+        - Nausea
+    haeme:
+considerations:
+    - Primarily arterial dilator; no significant venodilator effect
+    - Clinically significant hyperglycaemia
+    - Duration shorter than half-life due to extensive protein binding
+references:

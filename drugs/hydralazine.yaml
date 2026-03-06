@@ -1,0 +1,57 @@
+---
+aliases:
+class: Direct vasodilator
+chemistry: Phthalazine derivative
+dose:
+    hypertensive emergency (IV): 5-20mg IV
+pharmaceutics:
+    presentation: 20mg ampoule
+    compatibility: Do not reconstitute with dextrose
+    solubility: Moderate water solubility
+pharmacokinetics:
+    absorption: 22-66% oral bioavailability (extensive first-pass hepatic metabolism); well absorbed from GIT
+    distribution:
+        pKa: 7.3
+        vd: 1.34L/kg
+        protein binding: 87%
+    metabolism:
+        half-life: ~1 hour
+        duration: 2-4 hours
+        pathway: Hepatic; polymorphic N-acetylation
+        metabolites:
+            - Inactive metabolites
+    elimination:
+        renal: Inactive metabolites
+mechanism:
+    target:
+    action:
+contraindications:
+pharmacodynamics:
+    resp:
+    cvs:
+        - ↓ SVR
+        - ↓ Afterload
+        - ↓ BP
+        - Reflex ↑ HR
+        - ↑ CO
+        - ↑ Renin release (RAAS activation)
+        - Coronary vasodilation
+    cns:
+        - ↑ CBF
+        - Headache
+        - Dizziness
+    endo:
+    msk:
+    met:
+    ren:
+    gu:
+    git:
+        - Nausea
+        - Anorexia
+    haeme:
+considerations:
+    - IV onset delayed 5-30 minutes despite IV route
+    - Slow acetylators have prolonged effect and require lower doses
+    - Pure arterial dilator
+    - Chronic use associated with drug-induced SLE (particularly in slow acetylators)
+references:
