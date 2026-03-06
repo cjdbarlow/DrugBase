@@ -1,0 +1,55 @@
+---
+aliases:
+class: Potassium channel activator
+chemistry: Pyrimidine N-oxide
+dose:
+    hypertension (PO): 5-40mg PO OD-BD
+pharmaceutics:
+    presentation: 2.5mg, 5mg, 10mg tablets; topical solution/foam
+    compatibility:
+    solubility: Slightly water-soluble
+pharmacokinetics:
+    absorption: ~95% oral bioavailability
+    distribution:
+        pKa: 4.61
+        vd: 200L/kg
+        protein binding: Minimal
+    metabolism:
+        half-life: ~3 hours
+        duration: Up to 72 hours (greatly exceeds half-life due to extensive tissue distribution)
+        pathway: Hepatic (90%); glucuronide conjugation
+        metabolites:
+            - Inactive metabolites
+    elimination:
+        renal: 10% unchanged; remainder as inactive metabolites
+mechanism:
+    target:
+        - ATP-sensitive K+ channel
+    action: Activates ATP-sensitive K+ channels → membrane hyperpolarisation → ↓ voltage-dependent Ca2+ channel opening → ↓ intracellular Ca2+ → vascular smooth muscle relaxation.
+contraindications:
+    - Phaeochromocytoma (may provoke catecholamine release)
+pharmacodynamics:
+    resp:
+    cvs:
+        - ↓ SVR
+        - ↓ Afterload
+        - ↓ BP
+        - Reflex ↑ HR
+        - ↑ CO
+        - ↑ Renin release (RAAS activation)
+    cns:
+    endo:
+    msk:
+        - Hypertrichosis (dose-dependent; exploited topically for androgenetic alopecia)
+        - Peripheral oedema
+    met:
+    ren:
+    gu:
+    git:
+    haeme:
+considerations:
+    - Extremely high VD (200 L/kg) reflects massive tissue sequestration
+    - Duration of action up to 72h greatly exceeds plasma half-life
+    - Does not act as a venodilator
+    - Topical formulation used for androgenetic alopecia (utilises hypertrichosis effect)
+references:
