@@ -1,0 +1,64 @@
+---
+aliases: Zanidip
+class: Dihydropyridine calcium channel blocker
+chemistry: 1,4-dihydropyridine
+dose:
+    HTN (PO): 10-20mg OD; ≥15 minutes before food
+pharmaceutics:
+    presentation: 10mg or 20mg tablet
+    compatibility:
+    solubility: Excellent lipid solubility; high membrane partitioning
+pharmacokinetics:
+    absorption: 10% oral bioavailability; Tmax 1.5-3 hours
+    distribution:
+        pKa: 9.3
+        vd: 2.5L/kg
+        protein binding: 98%
+    metabolism:
+        half-life: 2-5 hours; terminal 5.8-7.7 hours
+        duration: 24 hours
+        pathway: Hepatic; CYP3A4
+        metabolites:
+            - Inactive metabolites
+    elimination:
+        renal: ~50% as metabolites
+mechanism:
+    target:
+        - Vascular L-type Ca2+ channel
+    action: ↓ Ca2+ influx → arterial vasodilation
+contraindications:
+    - Left ventricular outflow obstruction
+    - Untreated heart failure
+    - Unstable angina; MI <1 month
+    - Severe hepatic impairment
+    - GFR <30mL/min or dialysis
+    - Strong CYP3A4 inhibitors; ciclosporin; grapefruit
+pregnancy:
+    code: C
+    justification: Maternal ↓ MAP → fetal hypoxia
+pharmacodynamics:
+    resp:
+    cvs:
+        - ↓ SVR
+        - ↓ MAP
+        - ↓ Afterload
+        - Reflex ↑ HR
+        - Palpitations
+    cns:
+        - Headache
+        - Dizziness
+    endo:
+    msk:
+        - Peripheral oedema
+        - Flushing
+    met:
+    ren:
+    gu:
+    git:
+        - Nausea
+    haeme:
+considerations:
+    - High-fat meal → 4-fold ↑ bioavailability
+references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 4 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Viatris Pty Ltd. Zanidip Australian Product Information. Revised 21 February 2022.

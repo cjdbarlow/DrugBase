@@ -1,0 +1,66 @@
+---
+aliases: Nimotop
+class: Dihydropyridine calcium channel blocker
+chemistry: 1,4-dihydropyridine
+dose:
+    SAH (PO/NG): 60mg Q4H for 21 days
+    SAH (IV): 1mg/hr (≈15mcg/kg/hr) for 2 hours; then 2mg/hr (≈30mcg/kg/hr) if tolerated
+    <70kg or labile MAP (IV): 0.5mg/hr; max 1mg/hr
+pharmaceutics:
+    presentation: 30mg tablet; 0.2mg/mL IV concentrate
+    compatibility: No PVC; use polyethylene or polypropylene; co-infuse 1:4
+    solubility: Excellent lipid solubility; high CNS penetration
+pharmacokinetics:
+    absorption: 11.6% oral bioavailability; Tmax 0.6-1.6 hours
+    distribution:
+        pKa: 5.4
+        vd: 1.7L/kg
+        protein binding: 98%
+    metabolism:
+        half-life: 1.2-1.8 hours IV; 5-10 hours PO
+        duration: Exceeds plasma half-life
+        pathway: Hepatic; CYP3A4
+        metabolites:
+            - Inactive or substantially less active metabolites
+    elimination:
+        renal: 50% as metabolites
+        faecal: 30% as metabolites
+mechanism:
+    target:
+        - Cerebral vascular L-type Ca2+ channel
+    action: Lower cerebral vascular smooth-muscle resting potential → preferential L-type Ca2+ channel block and vasodilation
+contraindications:
+    - Rifampicin (PO)
+    - Phenobarbital; phenytoin; carbamazepine (PO)
+pregnancy:
+    code: C
+    justification: Maternal ↓ MAP → fetal hypoxia
+pharmacodynamics:
+    resp:
+    cvs:
+        - ↓ MAP
+        - Tachycardia or bradycardia
+    cns:
+        - ↓ Cerebral vascular resistance
+        - Improved neurological outcomes after SAH
+        - Headache
+    endo:
+    msk:
+    met:
+    ren:
+    gu:
+    git:
+        - Nausea
+        - Ileus
+    haeme:
+        - Thrombocytopenia
+considerations:
+    - Phlebitis
+    - Severe hepatic impairment → 50% dose
+references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 4 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Boucher & Muir Pty Ltd. Nimotop Australian Product Information. Revised 30 January 2026.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Young P, Psirides A. Wellington ICU Drug Manual. 2nd Ed. Wellington Regional Hospital. 2013.
+    - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.

@@ -1,0 +1,65 @@
+---
+aliases: Cleviprex
+class: Dihydropyridine calcium channel blocker
+chemistry: 1,4-dihydropyridine
+dose:
+    HTN (IV): 1-2mg/hr; double Q90 seconds initially, then smaller increases Q5-10 minutes near target; usual 4-6mg/hr; max 32mg/hr
+pharmaceutics:
+    presentation: 0.5mg/mL lipid emulsion
+    compatibility: Do not dilute or co-infuse
+    solubility: Excellent lipid solubility; very poor water solubility
+pharmacokinetics:
+    absorption: 0% oral bioavailability
+    distribution:
+        pKa: 5.3
+        vd: 0.56L/kg
+        protein binding: 99.5%
+    metabolism:
+        half-life: 1.8 minutes
+        duration: Onset 2-4 minutes; offset 5-15 minutes
+        pathway: Plasma and tissue esterases
+        metabolites:
+            - Inactive carboxylic acid metabolite
+    elimination:
+        renal: 63-74% as metabolites
+        faecal: 7-22% as metabolites
+mechanism:
+    target:
+        - Vascular L-type Ca2+ channel
+    action: ↓ Ca2+ influx → arterial vasodilation
+contraindications:
+    - Soy or egg allergy
+    - Defective lipid metabolism
+    - Severe aortic stenosis
+pregnancy:
+    code: C
+    justification: Animal studies → ↑ maternal/fetal mortality and gestation
+pharmacodynamics:
+    resp:
+    cvs:
+        - ↓ SVR
+        - ↓ MAP
+        - ↓ Afterload
+        - Reflex ↑ HR
+        - ↑ CO
+    cns:
+        - Headache
+    endo:
+    msk:
+        - Oedema
+        - Flushing
+    met:
+        - ↑ Triglycerides
+    ren:
+    gu:
+    git:
+        - Nausea
+    haeme:
+considerations:
+    - Max 1000mL/24 hours; include in daily lipid load
+    - Use within 12 hours of vial puncture
+references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 4 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Chiesi Australia Pty Ltd. Cleviprex Australian Product Information. Version 4. Revised 26 September 2025.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
