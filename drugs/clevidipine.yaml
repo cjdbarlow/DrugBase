@@ -1,0 +1,50 @@
+---
+aliases:
+class: Dihydropyridine calcium channel blocker
+chemistry: 1,4-dihydropyridine
+dose:
+    acute hypertension (IV): 1-2mg/hr; double dose Q90 seconds until BP target; maximum 32mg/hr
+pharmaceutics:
+    presentation: 0.5mg/mL lipid emulsion for IV infusion
+    solubility: Excellent lipid solubility, very poor water solubility
+pharmacokinetics:
+    absorption: 0% oral bioavailability
+    distribution:
+        pKa: 5.3
+        vd: 0.56L/kg
+        protein binding: 99.5%
+    metabolism:
+        half-life: 1.8 minutes
+        duration: Rapid onset (seconds) and offset (minutes)
+        pathway: Rapidly hydrolysed by plasma and tissue esterases to an inactive carboxylic acid metabolite
+        metabolites:
+            - Inactive carboxylic acid metabolite
+    elimination:
+        renal: Metabolites
+mechanism:
+    target:
+        - α1c subunit of L-type voltage-gated calcium channel
+    action: Dihydropyridine; selective for the vascular smooth muscle isoform. Ultra-short acting due to plasma esterase hydrolysis (esmolol-like profile). ↓ Ca2+ influx → ↓ arterial smooth muscle tone → ↓ afterload. Predominantly arterial dilator.
+contraindications:
+    - Allergy to soy or egg (lipid emulsion vehicle)
+    - Severe aortic stenosis
+    - Defective lipid metabolism
+pharmacodynamics:
+    resp:
+    cvs:
+        - ↓ SVR
+        - ↓ Afterload (predominantly arterial)
+        - Reflex ↑ HR
+        - ↑ CO
+    cns:
+        - Headache
+    endo:
+    msk:
+        - Flushing
+    met:
+    ren:
+    gu:
+    git:
+    haeme:
+references:
+

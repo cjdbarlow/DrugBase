@@ -1,0 +1,53 @@
+---
+aliases:
+class: Dihydropyridine calcium channel blocker
+chemistry: 1,4-dihydropyridine
+dose:
+    hypertension: 10-20mg PO OD (taken 15 minutes before a meal)
+pharmaceutics:
+    presentation: 10mg, 20mg tablets
+    compatibility:
+    solubility: Excellent lipid solubility; highly membrane-partitioned
+pharmacokinetics:
+    absorption: 10% oral bioavailability (extensive first-pass metabolism)
+    distribution:
+        pKa: 9.3
+        vd: 2.5L/kg
+        protein binding: 98%
+    metabolism:
+        half-life: 2-5 hours (plasma); prolonged effect due to high membrane partitioning
+        duration: Clinical duration 24 hours despite short plasma half-life; determined by membrane reservoir
+        pathway: Hepatic; CYP3A4
+        metabolites:
+            - Inactive metabolites
+    elimination:
+        renal: Metabolites
+mechanism:
+    target:
+        - α1c subunit of L-type voltage-gated calcium channel
+    action: Dihydropyridine; selective for the vascular smooth muscle isoform. Highly lipophilic → partitions extensively into the cell membrane, creating a slow-release reservoir which accounts for the prolonged clinical duration despite the short plasma half-life. ↓ Ca2+ influx → ↓ vascular smooth muscle tone.
+contraindications:
+    - Severe hepatic impairment
+    - Severe renal impairment
+    - Concurrent CYP3A4 inhibitors
+pharmacodynamics:
+    resp:
+    cvs:
+        - ↓ SVR
+        - ↓ Afterload
+        - ↓ BP
+        - Minimal reflex tachycardia (gradual onset due to membrane partitioning)
+        - Coronary vasodilation
+    cns:
+        - Headache
+    endo:
+    msk:
+        - Peripheral oedema
+        - Flushing
+    met:
+    ren:
+    gu:
+    git:
+    haeme:
+references:
+

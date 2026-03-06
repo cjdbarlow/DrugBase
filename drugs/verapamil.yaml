@@ -1,0 +1,61 @@
+---
+aliases:
+class: Calcium channel blocker
+chemistry: Phenylalkylamine calcium channel blocker
+dose:
+    SVT (IV): 5-10mg IV over 2 minutes; may repeat 10mg after 30 minutes
+    hypertension/angina (PO): 40-120mg PO TID
+    rate control (SR): 120-240mg PO BD
+pharmaceutics:
+    presentation: 5mg/2mL solution for IV
+    compatibility: Incompatible with albumin, amphotericin, nafcillin
+    solubility: Excellent lipid solubility
+pharmacokinetics:
+    absorption: 24% oral bioavailability (extensive first-pass hepatic metabolism)
+    distribution:
+        pKa: 8.73
+        vd: 3.8L/kg
+        protein binding: 84-91%
+    metabolism:
+        half-life: 4.5-12 hours
+        duration: Clinical effects persist beyond predicted from half-life
+        pathway: Hepatic; CYP3A4 (also a CYP3A4 inhibitor)
+        metabolites:
+            - Norverapamil (active; ~20% potency of parent)
+    elimination:
+        renal: Metabolites
+mechanism:
+    target:
+        - α1c subunit of L-type voltage-gated calcium channel
+    action: Non-selective; binds both the vascular smooth muscle and myocardial isoforms of the L-type Ca2+ channel. Enters from intracellular side → state-dependent block. ↓ Ca2+ influx in both vascular smooth muscle (vasodilation) and cardiac myocytes (↓ inotropy, ↓ automaticity, ↓ AV conduction).
+contraindications:
+    - Severe LV dysfunction
+    - Sick sinus syndrome or high-degree AV block (without pacemaker)
+    - Wolf-Parkinson-White
+    - Hypotension
+pharmacodynamics:
+    resp:
+    cvs:
+        - ↓ SVR
+        - ↓ Afterload
+        - ↓ BP
+        - ↓ HR (SA node suppression)
+        - ↓ AV conduction (rate control in AF/flutter; terminates SVT)
+        - ↓ Inotropy
+        - Coronary vasodilation
+    cns:
+        - Headache
+        - Flushing
+    endo:
+    msk:
+        - Peripheral oedema
+    met:
+    ren:
+    gu:
+    git:
+        - Constipation
+    haeme:
+considerations:
+    - Caution with concurrent beta-blocker use (profound bradycardia)
+references:
+    - Abernethy & Schwartz (1999)

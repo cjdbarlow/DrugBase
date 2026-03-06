@@ -1,0 +1,61 @@
+---
+aliases:
+class: Calcium channel blocker
+chemistry: Benzothiazepine calcium channel blocker
+dose:
+    rate control (IV): 0.25mg/kg IV over 2 minutes; may repeat 0.35mg/kg after 15 minutes; infusion 5-15mg/hr
+    hypertension/angina (PO): 60-120mg PO TID
+    rate control (SR): 120-360mg PO OD
+pharmaceutics:
+    presentation: 5mg/mL solution for IV; 60mg, 120mg, 180mg tablets; SR formulations
+    compatibility:
+    solubility: Excellent lipid solubility
+pharmacokinetics:
+    absorption: 39% oral bioavailability (first-pass hepatic metabolism)
+    distribution:
+        pKa: 7.5
+        vd: 5.3L/kg
+        protein binding: 80-86%
+    metabolism:
+        half-life: 2-5 hours
+        duration: Clinical effects persist beyond predicted from half-life
+        pathway: Hepatic; CYP3A4 (also a CYP3A4 inhibitor)
+        metabolites:
+            - Desacetyldiltiazem (active; ~25-50% potency of parent)
+    elimination:
+        renal: Metabolites
+mechanism:
+    target:
+        - α1c subunit of L-type voltage-gated calcium channel
+    action: Non-selective; binds both vascular smooth muscle and myocardial isoforms. Intermediate selectivity profile between dihydropyridines (vascular) and verapamil (cardiac). ↓ Ca2+ influx → vasodilation and modest ↓ inotropy/chronotropy. Enters from intracellular side; state-dependent block.
+contraindications:
+    - Severe LV dysfunction
+    - Sick sinus syndrome or high-degree AV block (without pacemaker)
+    - Wolf-Parkinson-White
+    - Hypotension
+pharmacodynamics:
+    resp:
+    cvs:
+        - ↓ SVR
+        - ↓ Afterload
+        - ↓ BP
+        - ↓ HR
+        - ↓ AV conduction (rate control in AF/flutter)
+        - Mild ↓ inotropy
+        - Coronary vasodilation
+    cns:
+        - Headache
+    endo:
+    msk:
+        - Peripheral oedema
+        - Flushing
+    met:
+    ren:
+    gu:
+    git:
+        - Constipation
+    haeme:
+considerations:
+    - Less negative inotropy than verapamil
+    - Caution with concurrent beta-blocker use (profound bradycardia)
+references:

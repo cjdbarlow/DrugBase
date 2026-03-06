@@ -1,0 +1,52 @@
+---
+aliases:
+class: Dihydropyridine calcium channel blocker
+chemistry: 1,4-dihydropyridine
+dose:
+    cerebral vasospasm (PO): 60mg PO/NG Q4h for 21 days
+    cerebral vasospasm (IV): 0.5mg/hr, titrate up to 2mg/hr
+pharmaceutics:
+    presentation: 30mg tablets
+    compatibility: Incompatible with PVC; use polyethylene tubing
+    solubility: Excellent lipid solubility; highly CNS penetrant
+pharmacokinetics:
+    absorption: 11.6% oral bioavailability (extensive first-pass metabolism)
+    distribution:
+        pKa: 5.4
+        vd: 1.7L/kg
+        protein binding: 98%
+    metabolism:
+        half-life: 1-2 hours
+        duration: Clinical effects persist beyond predicted from half-life
+        pathway: Hepatic; CYP3A4
+        metabolites:
+            - Inactive metabolites
+    elimination:
+        renal: Metabolites
+mechanism:
+    target:
+        - α1c subunit of L-type voltage-gated calcium channel
+    action: Preferential affinity for cerebral vasculature due to lower resting membrane potential in cerebral smooth muscle → more channels in inactivated state → greater drug effect.
+contraindications:
+    - Hepatic failure (↑ exposure)
+    - Concurrent CYP3A4 inhibitors (↑ exposure)
+pharmacodynamics:
+    resp:
+    cvs:
+        - ↓ BP (systemic; dose-limiting)
+        - Minimal HR or contractility effects
+    cns:
+        - ↓ Cerebral vasospasm
+        - Improved neurological outcomes post-SAH
+        - Headache
+    endo:
+    msk:
+    met:
+    ren:
+    gu:
+    git:
+    haeme:
+considerations:
+    - Risk of profound hypotension
+    - Can alter PO dose to 30mg Q2H to reduce haemodynamic instability
+references:

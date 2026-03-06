@@ -1,0 +1,52 @@
+---
+aliases:
+class: Dihydropyridine calcium channel blocker
+chemistry: 1,4-dihydropyridine
+dose:
+    hypertension/angina: 2.5-10mg PO OD
+pharmaceutics:
+    presentation: 5mg, 10mg tablets
+    compatibility:
+    solubility: Excellent lipid solubility
+pharmacokinetics:
+    absorption: 64% oral bioavailability; Tmax 6-12 hours (very slow absorption)
+    distribution:
+        pKa: 8.6
+        vd: 21.4L/kg
+        protein binding: 95.5%
+    metabolism:
+        half-life: 30-50 hours
+        duration: Slow onset and very long duration; Tmax 6-12 hours
+        pathway: Hepatic; CYP3A4
+        metabolites:
+            - Inactive metabolites
+    elimination:
+        renal: Metabolites
+mechanism:
+    target:
+        - α1c subunit of L-type voltage-gated calcium channel
+    action: Dihydropyridine; selective for the vascular smooth muscle isoform. Very slow on/off kinetics at the receptor explain the prolonged half-life and gradual onset. ↓ Ca2+ influx → ↓ vascular smooth muscle tone. Minimal cardiac effects at therapeutic doses.
+contraindications:
+    - Cardiogenic shock
+    - Severe aortic stenosis
+pharmacodynamics:
+    resp:
+    cvs:
+        - ↓ SVR
+        - ↓ Afterload
+        - ↓ BP
+        - Minimal reflex tachycardia (slow onset attenuates baroreceptor reflex)
+        - Coronary vasodilation
+    cns:
+        - Headache
+    endo:
+    msk:
+        - Peripheral oedema
+        - Flushing
+    met:
+    ren:
+    gu:
+    git:
+        - Constipation
+    haeme:
+references:
