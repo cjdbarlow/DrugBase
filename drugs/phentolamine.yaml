@@ -1,0 +1,53 @@
+---
+aliases:
+class: Alpha antagonist
+chemistry: Imidazoline derivative
+dose:
+    hypertensive crisis/phaeochromocytoma (IV): 2-5mg IV bolus; repeat Q5 min PRN
+pharmaceutics:
+    presentation: 10mg powder for reconstitution
+    compatibility:
+    solubility: Highly lipid-soluble
+pharmacokinetics:
+    absorption: IV only; oral bioavailability variably reported (30-100%)
+    distribution:
+        pKa: 9.78
+        vd: ~6L/kg
+        protein binding: 54%
+    metabolism:
+        half-life: 19 minutes
+        duration: Rapid onset and offset after IV administration
+        pathway: Extensive hepatic metabolism
+        metabolites:
+            - Inactive metabolites
+    elimination:
+        renal: 80% (10-13% as unchanged drug); 20% faecal
+mechanism:
+    target:
+        - α1 adrenoreceptor
+        - α2 adrenoreceptor
+        - β adrenoreceptor
+    action: Competitive (reversible) non-selective alpha blocker → ↓ vascular smooth muscle tone → vasodilation. Direct β agonist activity → further ↑ HR and ↑ CO.
+contraindications:
+    - Coronary artery disease (tachycardia ↑ MVO2)
+pharmacodynamics:
+    resp:
+    cvs:
+        - ↓ SVR
+        - ↓ BP
+        - Reflex ↑ HR
+        - ↑ CO
+    cns:
+    endo:
+    msk:
+    met:
+    ren:
+    gu:
+    git:
+        - Nausea
+        - Vomiting
+    haeme:
+considerations:
+    - Short half-life (19 min) makes it suitable for acute hypertensive crises and phaeochromocytoma management
+    - Drug of choice for catecholamine-excess states (phaeochromocytoma, MAOI crisis, cocaine toxicity)
+references:

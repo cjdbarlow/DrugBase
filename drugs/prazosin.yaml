@@ -1,0 +1,51 @@
+---
+aliases:
+class: Alpha antagonist
+chemistry: Quinazoline derivative
+dose:
+    hypertension/BPH (PO): 0.5mg-20mg PO BD-TDS
+pharmaceutics:
+    presentation: 0.5mg, 1mg, 2mg, 5mg tablets
+    compatibility:
+    solubility: Slightly water-soluble; slightly lipid-soluble
+pharmacokinetics:
+    absorption: 43-69% oral bioavailability (significant first-pass metabolism); bioavailability increased in CCF
+    distribution:
+        pKa: 8.42
+        vd: ~42L/kg
+        protein binding: 92-97%
+    metabolism:
+        half-life: ~2.5 hours
+        duration: 6-8 hours
+        pathway: Hepatic; demethylation and conjugation
+        metabolites:
+            - Inactive metabolites
+    elimination:
+        renal: Minimal; predominantly biliary (metabolites)
+mechanism:
+    target:
+        - α1 adrenoreceptor
+    action: Competitive selective α1 blocker. Preferential blockade of postsynaptic α1 receptors → ↓ vascular smooth muscle tone → vasodilation. Presynaptic α2 autoreceptors relatively unaffected → noradrenaline feedback inhibition intact → minimal reflex tachycardia compared to non-selective alpha blockers.
+contraindications:
+pharmacodynamics:
+    resp:
+    cvs:
+        - ↓ SVR
+        - ↓ Afterload
+        - ↓ BP
+        - ↓ Preload (venodilation)
+        - Minimal reflex tachycardia
+        - Postural hypotension (especially first dose)
+    cns:
+    endo:
+    msk:
+    met:
+    ren:
+    gu:
+        - ↓ Urethral sphincter tone (beneficial in BPH)
+    git:
+    haeme:
+considerations:
+    - First-dose effect — significant postural hypotension after initial dose; start low doses nocte
+    - Minimal tachycardia due to preserved presynaptic α2 autoreceptor function
+references:
