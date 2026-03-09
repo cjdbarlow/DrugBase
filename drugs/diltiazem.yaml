@@ -54,6 +54,7 @@ pharmacodynamics:
     gu:
     git:
         - Constipation
+        - ↓ Lower oesophageal sphincter tone
     haeme:
 considerations:
     - Less negative inotropy than verapamil
