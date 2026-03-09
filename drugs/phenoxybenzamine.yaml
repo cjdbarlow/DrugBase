@@ -1,0 +1,56 @@
+---
+aliases:
+class: Alpha antagonist
+chemistry: Haloalkylamine
+dose:
+    phaeochromocytoma pre-op (PO): 10mg PO BD; titrate up to effect (typically 20-80mg/day)
+pharmaceutics:
+    presentation: 10mg capsules
+    compatibility:
+    solubility: Highly lipid-soluble
+pharmacokinetics:
+    absorption: 20-30% oral bioavailability (incomplete and variable gut absorption)
+    distribution:
+        pKa: 7.97
+        vd: Very large
+        protein binding: High
+    metabolism:
+        half-life: ~24 hours
+        duration: 3-4 days (limited by rate of receptor synthesis)
+        pathway: Hepatic; slow due to minimal free drug in circulation
+        metabolites:
+            - Inactive metabolites
+    elimination:
+        renal: Inactive metabolites (biliary and urinary)
+mechanism:
+    target:
+        - α1 adrenoreceptor
+        - α2 adrenoreceptor
+    action: Irreversible alpha blocker. Covalently alkylates the alpha receptor via an aziridinium intermediate → permanent receptor inactivation until new receptor is synthesised.
+contraindications:
+pharmacodynamics:
+    resp:
+    cvs:
+        - ↓ SVR
+        - ↓ BP
+        - Postural hypotension
+        - Reflex ↑ HR
+        - Arrhythmias
+    cns:
+        - Drowsiness
+        - Fatigue
+        - Nausea
+        - Vomiting
+
+    endo:
+    msk:
+    met:
+    ren:
+    gu:
+        - Inhibition of ejaculation
+    git:
+    haeme:
+considerations:
+    - Risk of refractory hypotension
+    - CNS penetration causes sedation, occasionally excitatory effects
+references:
