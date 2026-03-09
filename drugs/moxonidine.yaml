@@ -1,0 +1,48 @@
+---
+aliases:
+class: Alpha-2 agonist
+chemistry: Imidazoline derivative
+dose:
+    hypertension (PO): 0.2-0.4mg PO OD-BD
+pharmaceutics:
+    presentation: 0.2mg, 0.3mg, 0.4mg tablets
+    compatibility:
+    solubility: Moderately lipophilic
+pharmacokinetics:
+    absorption: 88% oral bioavailability
+    distribution:
+        pKa: 7.4
+        vd: 1.83L/kg
+        protein binding: ~10%
+    metabolism:
+        half-life: 2.2 hours
+        duration: ~24 hours (greatly exceeds plasma half-life)
+        pathway: Minimal hepatic metabolism; majority excreted unchanged
+        metabolites:
+            - Minor inactive metabolites
+    elimination:
+        renal: Predominantly unchanged drug
+mechanism:
+    target:
+        - Imidazoline receptor (I1)
+        - α2 adrenoreceptor
+    action: Iimidazoline I1 receptor agonist (40:1 imidazoline:α2 selectivity) → ↓ sympathetic outflow → ↓ BP. Lower α2 affinity than clonidine → less bradycardia and sedation.
+contraindications:
+pharmacodynamics:
+    resp:
+    cvs:
+        - ↓ SVR
+        - ↓ BP
+        - Minimal effect on HR
+    cns:
+        - Minimal sedation
+    endo:
+    msk:
+    met:
+    ren:
+    gu:
+    git:
+    haeme:
+considerations:
+    - Oral only — no IV formulation
+references:

@@ -1,0 +1,59 @@
+---
+aliases:
+class: Alpha-2 agonist
+chemistry: Imidazoline derivative
+dose:
+    hypertension (PO): 50-200µg PO QID
+    sedation/analgesia (IV): 10-200µg IV
+    neuraxial adjunct: 1-2µg/kg added to spinal or epidural (↓ opioid requirement)
+pharmaceutics:
+    presentation: Clear colourless solution at 150µg/mL
+    compatibility:
+    solubility: Reasonably amphoteric; dissolves in both water and lipid
+pharmacokinetics:
+    absorption: 70-80% oral bioavailability; minimal first-pass metabolism; rapid absorption
+    distribution:
+        pKa: 8.0
+        vd: 2.1L/kg
+        protein binding: 20-40%
+    metabolism:
+        half-life: 9-18 hours
+        duration: ~6 hours
+        pathway: 30-50% hepatic to inactive metabolites; remainder excreted unchanged
+        metabolites:
+            - Inactive metabolites
+    elimination:
+        renal: 50% as unchanged drug
+mechanism:
+    target:
+        - α2 adrenoreceptor
+        - Imidazoline receptor (I1)
+    action: Central α2 agonist → presynaptic ↓ noradrenaline release from peripheral nerve terminals → ↓ sympathetic outflow → ↓ BP, ↓ HR. Sympatholytic effects via imidazoline I1 receptors in the rostral ventrolateral medulla. Peripheral α1 stimulation causes a transient initial ↑ BP with IV bolus administration.
+contraindications:
+pharmacodynamics:
+    resp:
+    cvs:
+        - Transient ↑ BP with IV bolus (peripheral α1 stimulation)
+        - Prolonged ↓ BP
+        - ↓ HR
+        - ↓ AV conduction
+        - ↑ Baroreceptor sensitivity
+        - Rebound hypertension on abrupt cessation
+    cns:
+        - Sedation
+        - Analgesia (↓ noradrenaline release → ↓ opioid requirement)
+        - Anxiolysis
+    endo:
+    msk:
+    met:
+    ren:
+    gu:
+    git:
+    haeme:
+considerations:
+    - Risk of rebound hypertension; taper gradually
+    - Useful for opioid-sparing analgesia and management of opioid withdrawal
+    - Initial hypertensive phase with IV bolus due to peripheral α1 activity — give slowly
+references:
+    - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.
+    - Smith S, Scarth E, Sasada M. Drugs in Anaesthesia and Intensive Care. 4th Ed. Oxford University Press. 2011.
