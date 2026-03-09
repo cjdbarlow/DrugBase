@@ -1,0 +1,64 @@
+---
+aliases: Regitine
+class: Reversible non-selective α antagonist
+chemistry: Imidazoline derivative
+dose:
+    Hypertensive crisis (IV): 2-5mg; repeat q5min PRN
+    Phaeochromocytoma pre-op (IV/IM): 5mg 1-2 hours pre-op
+    Phaeochromocytoma intra-op (IV): 5mg
+    Extravasation (infiltration): 5-10mg in 10mL 0.9% NaCl within 12 hours
+    Paediatric phaeochromocytoma (IV/IM): 1mg
+pharmaceutics:
+    presentation: 5mg vial (US)
+    compatibility: Reconstitute with 1mL water for injection; use immediately
+    solubility: Highly lipid-soluble; mesylate freely water-soluble
+pharmacokinetics:
+    absorption: IV/IM; bioavailability 30% or 100% (route unspecified)
+    distribution:
+        pKa: 9.78
+        vd: ~6 L/kg
+        protein binding: 54%
+    metabolism:
+        half-life: 19 minutes
+        duration: Rapid onset and offset after IV administration
+        pathway: Extensive hepatic metabolism
+        metabolites:
+    elimination:
+        renal: 80% (10-13% as unchanged drug); 20% faecal
+mechanism:
+    target:
+        - α1 adrenoreceptor
+        - α2 adrenoreceptor
+    action: Competitive α1/α2 antagonism → vasodilation + ↑ NA release/reflex sympathetic activity
+contraindications:
+    - MI, coronary insufficiency or angina
+pregnancy:
+    code: B1
+    justification:
+pharmacodynamics:
+    resp:
+    cvs:
+        - ↓ SVR
+        - ↓ MAP
+        - Reflex ↑ HR
+        - ↑ CO
+    cns:
+    endo:
+    msk:
+    met:
+    ren:
+    gu:
+    git:
+        - Nausea/vomiting/diarrhoea
+        - ↑ GI motility/acid secretion
+    haeme:
+considerations:
+    - Rapid IV administration → severe ↓ MAP
+    - Adrenaline → paradoxical ↓ MAP
+    - Peptic ulcer → ↑ GI symptoms
+    - No current Australian PI; Regitine cancelled in 2014
+references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 4 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - 'Hikma Pharmaceuticals USA Inc. United States Prescribing Information: Phentolamine Mesylate for Injection, USP. Revised May 2022.'
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
