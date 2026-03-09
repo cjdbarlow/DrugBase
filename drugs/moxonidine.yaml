@@ -1,0 +1,63 @@
+---
+aliases: Physiotens
+class: Central I1/α2 agonist
+chemistry: Imidazoline derivative
+dose:
+    HTN (PO): 200μg OD; after 2 weeks → 400μg/day OD-BD; max 600μg/day divided
+pharmaceutics:
+    presentation: 200μg, 300μg or 400μg tablet
+    compatibility:
+    solubility: Moderately lipophilic
+pharmacokinetics:
+    absorption: 88% oral bioavailability; Tmax 30-180 minutes; food has no effect
+    distribution:
+        pKa: 7.4
+        vd: 1.83 L/kg
+        protein binding: ~10%
+    metabolism:
+        half-life: 2.2 hours
+        duration: ~24 hours (greatly exceeds plasma half-life)
+        pathway: 10-20% hepatic metabolism
+        metabolites:
+            - 4,5-dehydromoxonidine (weakly active)
+            - Guanidine derivative (weakly active)
+    elimination:
+        renal: Over 90% in urine within 24 hours; 50-75% unchanged
+mechanism:
+    target:
+        - Imidazoline receptor (I1)
+        - α2 adrenoreceptor
+    action: Central I1≫α2 agonism (40:1) in RVLM → ↓ SNS outflow
+contraindications:
+    - CCF (NYHA I-IV)
+    - Age ≥75 years
+    - HR <50, sick sinus or second/third-degree AV block
+    - Malignant arrhythmia
+    - GFR <30mL/min
+pregnancy:
+    code: B3
+    justification:
+pharmacodynamics:
+    resp:
+    cvs:
+        - ↓ SVR
+        - ↓ MAP
+        - Minimal effect on HR
+    cns:
+        - Minimal sedation
+    endo:
+    msk:
+    met:
+    ren:
+    gu:
+    git:
+    haeme:
+considerations:
+    - Oral only
+    - GFR 30-60mL/min → max 200μg/dose and 400μg/day
+    - Concurrent β blocker → cease β blocker first
+    - TCAs → ↓ effect; alcohol/sedatives → ↑ CNS depression
+references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 4 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Viatris Pty Ltd. Physiotens Australian Product Information. Revised 7 February 2022.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
