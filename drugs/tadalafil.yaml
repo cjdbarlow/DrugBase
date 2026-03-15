@@ -1,0 +1,53 @@
+---
+aliases:
+    - Cialis
+class: Pulmonary vasodilator
+chemistry: Pyrazinopyridoindole
+dose:
+    pulmonary hypertension: 40mg PO OD
+    erectile dysfunction: 5-20mg PO PRN or 5mg PO OD
+pharmaceutics:
+    presentation: 5mg, 10mg, 20mg, 40mg tablets
+    compatibility:
+    solubility: Acidic; moderately lipophilic
+pharmacokinetics:
+    absorption: High oral bioavailability; peak plasma concentration ~2 hours; unaffected by food
+    distribution:
+        pKa: 3.5
+        vd: ~0.9L/kg
+        protein binding: 94%
+    metabolism:
+        half-life: 17.5 hours
+        duration: Effects maximal ~2 hours post-dose; long duration supports OD dosing
+        pathway: Hepatic; CYP3A4
+        metabolites:
+            - Methylcatechol glucuronide (inactive)
+    elimination:
+        renal: ~36% urine; predominantly faecal (~61%)
+mechanism:
+    target:
+        - Phosphodiesterase 5 (PDE5)
+    action: Selective PDE5 inhibitor → prevents hydrolysis of cGMP → ↑ cGMP in vascular smooth muscle → ↓ intracellular Ca2+ → vasodilation. Same class mechanism as sildenafil; inactive metabolite (vs sildenafil's active metabolite).
+contraindications:
+    - Concurrent nitrates or nitric oxide (synergistic cGMP elevation → severe hypotension)
+pharmacodynamics:
+    resp:
+    cvs:
+        - ↓ PVR
+        - ↓ SVR
+        - ↓ BP
+        - Reflex ↑ HR
+    cns:
+        - Headache
+    endo:
+    msk:
+        - Back pain/myalgia
+    met:
+    ren:
+    gu:
+        - Priapism
+    git:
+    haeme:
+considerations:
+    - Much longer half-life than sildenafil (17.5h vs 4h) → once-daily dosing
+references:

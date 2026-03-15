@@ -1,0 +1,61 @@
+---
+aliases:
+    - Tracleer
+class: Pulmonary vasodilator
+chemistry: Pyrimidine derivative
+dose:
+    pulmonary hypertension (PO): 62.5mg PO BD for 4 weeks, then 125mg PO BD
+pharmaceutics:
+    presentation: 62.5mg, 125mg film-coated tablets
+    compatibility:
+    solubility: Moderately lipophilic
+pharmacokinetics:
+    absorption: 50% oral bioavailability; peak plasma concentration ~1 hour
+    distribution:
+        pKa: 5.8
+        vd: 28L/kg
+        protein binding: 98%
+    metabolism:
+        half-life: ~5 hours
+        duration: Prolonged effect despite short half-life (tissue distribution)
+        pathway: Hepatic; CYP2C9 and CYP3A4; auto-induces its own metabolism
+        metabolites:
+            - Ro 48-5033 (active; contributes ~10-20% of total effect)
+    elimination:
+        renal: Only 3% recovered in urine; predominantly biliary
+mechanism:
+    target:
+        - Endothelin-A receptor (ETA)
+        - Endothelin-B receptor (ETB)
+    action: Competitive non-selective endothelin receptor antagonist. Blocks ETA on vascular smooth muscle → prevents ET-1-mediated vasoconstriction and smooth muscle proliferation. ETB blockade on endothelium reduces ET-1 clearance (detrimental) and inhibits ET-1-stimulated NO/prostacyclin release (also detrimental). Net effect: vasodilation and ↓ vascular remodelling.
+contraindications:
+    - Pregnancy (Category X; teratogenic)
+    - Hepatic impairment (Child-Pugh B or C)
+    - Concurrent ciclosporin
+    - Concurrent glyburide (hepatotoxicity risk)
+pharmacodynamics:
+    resp:
+        - ↓ PVR
+        - ↓ PAP
+        - ↓ Pulmonary vascular remodelling
+    cvs:
+        - ↓ SVR
+        - ↓ BP
+    cns:
+    endo:
+        - Fluid retention (ETB blockade in kidney)
+    msk:
+    met:
+    ren:
+        - Fluid retention
+    gu:
+    git:
+    haeme:
+        - Anaemia
+considerations:
+    - Monthly LFT monitoring mandatory (dose-dependent hepatotoxicity in ~10%)
+    - Teratogenic — highly effective contraception required; pregnancy test before and monthly during treatment
+    - Pulmonary veno-occlusive disease: avoid (increased pulmonary blood flow can precipitate pulmonary oedema)
+    - Auto-induces CYP enzymes — drug interactions common; reduces efficacy of hormonal contraceptives
+references:
+    - FDA information (Tracleer/bosentan)

@@ -1,0 +1,62 @@
+---
+aliases:
+    - Prostacyclin
+    - PGI2
+    - Flolan
+class: Pulmonary vasodilator
+chemistry: Synthetic analogue of prostacyclin (prostaglandin I2)
+dose:
+    pulmonary hypertension (IV): 2-12 ng/kg/min continuous IV infusion; titrate
+    pulmonary hypertension (nebulised): 20-50 ng/kg/min via continuous ultrasonic nebuliser
+pharmaceutics:
+    presentation: Lyophilised powder for reconstitution; must be reconstituted with specific glycine/NaOH buffer (pH ~12) to prevent spontaneous hydrolysis
+    compatibility: Incompatible with standard diluents (saline, dextrose); use only supplied buffer
+    solubility: Spontaneously hydrolyses in aqueous solution at physiological pH; pKa 4.4
+pharmacokinetics:
+    absorption: Rapidly absorbed into pulmonary circulation via alveolar epithelium (nebulised route)
+    distribution:
+        pKa: 4.4
+        vd: 0.357L/kg
+        protein binding: High
+    metabolism:
+        half-life: ~6 minutes
+        duration:
+            - Vasodilation: comparable to half-life (minutes)
+            - Platelet inhibition: up to 2 hours
+        pathway: Spontaneous hydrolysis and enzymatic degradation; ~16 major and minor metabolites
+        metabolites:
+            - Multiple minor metabolites (largely inactive)
+    elimination:
+        renal: Rapid; renal and biliary
+mechanism:
+    target:
+        - Prostacyclin receptor (IP receptor)
+    action: Activates Gs-coupled IP receptors on vascular smooth muscle and platelets → ↑ adenylyl cyclase → ↑ cAMP → PKA activation → phosphorylation and inhibition of myosin light-chain kinase → smooth muscle relaxation and vasodilation. In platelets: ↑ cAMP → ↓ activation and aggregation.
+contraindications:
+    - Pulmonary veno-occlusive disease (↑ blood flow to congested postcapillary vessels → pulmonary oedema)
+pharmacodynamics:
+    resp:
+        - Pulmonary vasodilation
+        - Bronchodilation
+    cvs:
+        - ↓ PVR
+        - ↓ SVR (systemic vasodilation, particularly with IV route)
+        - ↓ BP
+        - Reflex ↑ HR
+        - Facial flushing
+    cns:
+    endo:
+    msk:
+    met:
+    ren:
+    gu:
+    git:
+    haeme:
+        - Inhibition of platelet aggregation
+considerations:
+    - Extremely short half-life (~6 min) requires continuous infusion; abrupt cessation causes rebound pulmonary hypertension
+    - Nebulised route provides more selective pulmonary vasodilation than IV (less systemic hypotension)
+    - Reconstituted solution must be used within 8 hours; pH-sensitive — use only supplied glycine buffer
+references:
+    - Flolan PI (GlaxoSmithKline)
+    - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.

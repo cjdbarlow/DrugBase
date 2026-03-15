@@ -1,0 +1,55 @@
+---
+aliases:
+class: Pulmonary vasodilator
+chemistry: Propionic acid derivative
+dose:
+    pulmonary hypertension (PO): 5-10mg PO OD-BD
+pharmaceutics:
+    presentation: 5mg or 10mg film-coated tablets
+    compatibility:
+    solubility: Moderately lipophilic
+pharmacokinetics:
+    absorption: 90% oral bioavailability; peak plasma concentration ~1.5 hours
+    distribution:
+        pKa: 4.0
+        vd: 40L/kg
+        protein binding: 99%
+    metabolism:
+        half-life: ~15 hours
+        duration: Once-daily dosing supported by half-life
+        pathway: Glucuronidation (UGT) and CYP3A4 oxidation; 45.6% excreted unchanged
+        metabolites:
+            - 4-hydroxymethyl ambrisentan (minor; largely inactive)
+    elimination:
+        renal: Minor; predominantly biliary
+mechanism:
+    target:
+        - Endothelin-A receptor (ETA)
+        - Endothelin-B receptor (ETB)
+    action: Competitive endothelin receptor antagonist, whick blocks ET-1-mediated vasoconstriction and smooth muscle proliferation. Greater selectivity for ETA (compared to bosentan) theoretically preserves NO/prostacyclin release.
+contraindications:
+pharmacodynamics:
+    resp:
+        - ↓ PVR
+        - ↓ PAP
+        - ↓ Pulmonary vascular remodelling
+    cvs:
+        - ↓ SVR
+        - ↓ BP
+    cns:
+    endo:
+    msk:
+    met:
+    ren:
+        - Fluid retention
+    gu:
+    git:
+    haeme:
+        - Anaemia
+        - ↑ LFTs (transaminitis; less common than bosentan)
+considerations:
+    - Once-daily dosing; longer half-life than bosentan (5h)
+    - Greater ETA selectivity than bosentan may reduce incidence of hepatotoxicity; though LFT monitoring still recommended
+    - Teratogenic
+    - Does not significantly auto-induce CYP enzymes (fewer drug interactions than bosentan)
+references:
