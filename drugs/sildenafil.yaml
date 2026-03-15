@@ -1,0 +1,53 @@
+---
+aliases:
+    - Viagra
+class: Pulmonary vasodilator
+chemistry: Pyrazolopyrimidine
+dose:
+    pulmonary hypertension: 20mg PO TID
+    erectile dysfunction: 25-100mg PO PRN (1 hour before)
+pharmaceutics:
+    presentation: 20mg, 25mg, 50mg, 100mg tablets; 10mg/mL IV solution
+    compatibility:
+    solubility: Basic; moderately lipophilic
+pharmacokinetics:
+    absorption: 41% oral bioavailability; reduced by high-fat meal; peak plasma concentration 1-2 hours
+    distribution:
+        pKa: 8.7
+        vd: ~1.5L/kg
+        protein binding: 96%
+    metabolism:
+        half-life: ~4 hours (parent and active metabolite combined)
+        duration: Vasodilation maximal ~1-2 hours post-dose
+        pathway: Hepatic; CYP3A4 (primary) and CYP2C9
+        metabolites:
+            - N-desmethyl sildenafil (active; ~50% potency of parent)
+    elimination:
+        renal: ~13% in urine; predominantly faecal
+mechanism:
+    target:
+        - Phosphodiesterase 5 (PDE5)
+    action: Selective smooth muscle PDE5 inhibitor → prevents hydrolysis of cGMP → ↑ cGMP in vascular smooth muscle → ↓ intracellular Ca2+ → vasodilation. Effect is NO-dependent — requires active NO-cGMP signalling.
+contraindications:
+    - Concurrent nitrates or nitric oxide (synergistic cGMP elevation → severe hypotension)
+pharmacodynamics:
+    resp:
+    cvs:
+        - ↓ PVR
+        - ↓ SVR
+        - ↓ BP
+        - Reflex ↑ HR
+    cns:
+        - Headache
+        - Visual disturbances (PDE6 inhibition in retina)
+    endo:
+    msk:
+    met:
+    ren:
+    gu:
+        - Priapism
+    git:
+    haeme:
+considerations:
+references:
+    - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.

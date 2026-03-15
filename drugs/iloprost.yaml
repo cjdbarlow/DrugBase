@@ -1,0 +1,53 @@
+---
+aliases:
+class: Pulmonary vasodilator
+chemistry: Synthetic prostacyclin analogue (eicosanoid)
+dose:
+    pulmonary hypertension: 2.5-5µg 6-9 times daily
+pharmaceutics:
+    presentation: Solution for nebulisation
+    compatibility:
+    solubility: Synthetic analogue; more chemically stable than epoprostenol at physiological pH
+pharmacokinetics:
+    absorption: Absorbed via alveolar epithelium; selectively deposited in lung
+    distribution:
+        pKa:
+        vd:
+        protein binding: ~60%
+    metabolism:
+        half-life: 20-30 minutes (longer than epoprostenol; more chemically stable)
+        duration: 45-60 minutes per inhalation
+        pathway: Hepatic β-oxidation of the carboxyl side chain
+        metabolites:
+            - Tetranor-iloprost (inactive)
+    elimination:
+        renal: Predominantly renal
+mechanism:
+    target:
+        - Prostacyclin receptor
+    action: Activates Gs-coupled IP receptors → ↑ cAMP → PKA activation → inhibition of myosin light-chain kinase → smooth muscle relaxation. Inhaled route provides selective pulmonary vasodilation during active inhalation.
+contraindications:
+    - Pulmonary veno-occlusive disease
+    - Severe left ventricular dysfunction
+pharmacodynamics:
+    resp:
+        - Pulmonary vasodilation (selective during inhalation)
+        - Bronchodilation
+    cvs:
+        - ↓ PVR
+        - ↓ PAP
+        - Systemic vasodilation and ↓ BP (less than IV prostanoids)
+    cns:
+    endo:
+    msk:
+    met:
+    ren:
+    gu:
+    git:
+    haeme:
+        - Inhibition of platelet aggregation
+considerations:
+    - Longer half-life than epoprostenol (~20-30 min vs ~6 min) → less frequent dosing, but still requires 6-9 inhalations/day
+references:
+    - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.
+    - Smith S, Scarth E, Sasada M. Drugs in Anaesthesia and Intensive Care. 4th Ed. Oxford University Press. 2011.

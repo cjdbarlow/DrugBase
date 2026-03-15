@@ -1,0 +1,66 @@
+---
+aliases:
+    - NO
+    - iNO
+class: Pulmonary vasodilator
+chemistry: Free radical inorganic gas (NO)
+dose:
+    inhaled: 1-40 ppm via inspiratory limb of ventilator; titrate to response
+pharmaceutics:
+    presentation: Aluminium cylinders containing 100 or 800 ppm NO in N2 (INOMax system); requires proprietary delivery device
+    compatibility: Oxidises to NO2 on contact with O2 — minimise dwell time in circuit
+    solubility: Reacts with water to form nitric acid (HNO3)
+pharmacokinetics:
+    absorption: Rapidly absorbed into pulmonary circulation via alveolar epithelium
+    distribution:
+        pKa: -1.3
+        vd: Unmeasurable; reacts immediately with haemoglobin on entering circulation
+        protein binding: Avidly bound to haemoglobin (as nitrosyl-Hb or methaemoglobin)
+    metabolism:
+        half-life: <5 seconds
+        duration: Seconds (vasodilation ceases immediately on discontinuation)
+        pathway: Reacts with oxyHb → methaemoglobin + nitrate; or with lung water → nitrite → metHb; with deoxyHb → nitrosyl-Hb → metHb on oxygenation
+        metabolites:
+            - Methaemoglobin
+            - Nitrite
+            - Nitrate
+    elimination:
+        renal: Nitrate >70% excreted in urine; metHb metabolised back to Hb within hours by endogenous reductases
+mechanism:
+    target:
+        - Soluble guanylate cyclase (sGC)
+    action: Endogenous gaseous signalling molecule. Diffuses directly into vascular smooth muscle → activates sGC → ↑ cGMP → ↓ intracellular Ca2+ → smooth muscle relaxation and vasodilation. Inhaled route confines effect to ventilated alveoli — preferential ↓ PVR in perfused, ventilated lung units → improves V/Q matching without systemic vasodilation (rapidly inactivated by Hb before reaching systemic circulation).
+contraindications:
+    - Concurrent PDE5 inhibitors (synergistic cGMP elevation → severe hypotension)
+    - Pulmonary veno-occlusive disease (may precipitate pulmonary oedema)
+    - Methaemoglobinaemia
+pharmacodynamics:
+    resp:
+        - Inhibits HPV in ventilated alveoli → ↑ perfusion to ventilated units → ↑ V/Q matching
+        - No effect on unventilated (shunt) units
+    cvs:
+        - ↓ PVR
+        - ↓ PAP
+        - ↑ Capillary permeability
+        - Minimal systemic effect (inactivated by Hb before reaching systemic circulation)
+    cns:
+        - ↑ CBF (cerebral vasodilation)
+    endo:
+    msk:
+    met:
+    ren:
+    gu:
+    git:
+    haeme:
+        - Methaemoglobinaemia (monitor levels; toxic above ~3-5%)
+        - Inhibition of platelet aggregation
+        - Thrombocytopenia (~10% of patients)
+considerations:
+    - Rebound pulmonary hypertension on abrupt cessation — wean gradually
+    - NO2 formation in circuit increases with ↑ FiO2 and ↑ NO dose — pulmonary toxicity risk; minimise both
+    - Monitor MetHb regularly; methylene blue for treatment if severe
+    - Selective pulmonary vasodilation advantage over IV prostanoids (no systemic hypotension)
+references:
+    - TGA (AusPAR) product information
+    - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.
+    - Smith S, Scarth E, Sasada M. Drugs in Anaesthesia and Intensive Care. 4th Ed. Oxford University Press. 2011.
