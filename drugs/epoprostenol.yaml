@@ -1,0 +1,69 @@
+---
+aliases:
+    - Prostacyclin
+    - PGI2
+    - Flolan
+    - Veletri
+class: Pulmonary vasodilator
+chemistry: Synthetic analogue of prostacyclin (prostaglandin I2)
+dose:
+    PAH (acute): 2ng/kg/min IV; ↑ 2ng/kg/min ≥Q15min up to 12ng/kg/min
+    PAH (maintenance): Start 4ng/kg/min below maximum tolerated rate; ↑ 1-2ng/kg/min ≥Q15min
+pharmaceutics:
+    presentation: 0.5mg or 1.5mg lyophilised IV powder
+    compatibility: Reconstitute/dilute with water for injection or 0.9% NaCl; use 0.22µm in-line filter
+    solubility: Hydrolyses as pH falls; reconstituted pH 10.8-12; pKa 4.4
+pharmacokinetics:
+    absorption: IV; rapid pulmonary absorption when nebulised
+    distribution:
+        pKa: 4.4
+        vd: 0.357L/kg
+        protein binding:
+    metabolism:
+        half-life: ≤6 minutes
+        duration:
+            - Vasodilation: comparable to half-life (minutes)
+            - Platelet inhibition: up to 2 hours
+        pathway: Spontaneous hydrolysis and enzymatic degradation; ~16 major and minor metabolites
+        metabolites:
+            - 6-oxo-prostaglandin F1α
+    elimination:
+        renal: Metabolites; 82% urine and 4% faeces after radiolabelled dose
+mechanism:
+    target:
+        - Prostacyclin receptor (IP receptor)
+    action: IP receptor agonist → ↑ cAMP → ↓ MLCK and platelet activation → vasodilation and ↓ aggregation
+contraindications:
+    - CHF due to severe LV dysfunction
+    - Pulmonary oedema during dose-ranging (chronic use)
+pregnancy:
+    code: B1
+    justification:
+pharmacodynamics:
+    resp:
+        - Pulmonary vasodilation
+        - Bronchodilation
+    cvs:
+        - ↓ PVR
+        - ↓ SVR (systemic vasodilation, particularly with IV route)
+        - ↓ BP
+        - Reflex ↑ HR
+        - Facial flushing
+    cns:
+    endo:
+    msk:
+    met:
+    ren:
+    gu:
+    git:
+        - ↓ Gastric acid secretion and emptying
+    haeme:
+        - Inhibition of platelet aggregation
+considerations:
+    - Extremely short half-life (~6 min) requires continuous infusion; abrupt cessation causes rebound pulmonary hypertension
+    - Nebulised route provides more selective pulmonary vasodilation than IV (less systemic hypotension)
+references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 4 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Janssen-Cilag Pty Ltd. VELETRI Australian Product Information. Version 2.0. Revised 27 January 2026.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
