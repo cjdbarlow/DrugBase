@@ -1,0 +1,55 @@
+---
+aliases:
+class: Class Ic antiarrhythmic
+chemistry: Monocarboxylic acid amide
+dose:
+    SVT/VT (IV): 2mg/kg (up to 150mg) over 10-30 minutes; infusion 1.5mg/kg/hr
+pharmaceutics:
+    presentation:
+    compatibility:
+    solubility:
+pharmacokinetics:
+    absorption: 90-95% oral bioavailability
+    distribution:
+        pKa: 9.3
+        vd: 8.7 L/kg
+        protein binding: 50%
+    metabolism:
+        half-life: 20 hours
+        duration:
+        pathway: Hepatic (70%); active metabolites
+        metabolites:
+            - Active metabolites
+    elimination:
+        renal: 30% excreted unchanged
+mechanism:
+    target:
+        - Nav1.5 subunit of voltage-gated sodium channel
+    action: Class Ic — slow association and dissociation creating steady-state block. Reduces rate of rise of Phase 0 without much effect on total duration of the action potential. Causes general reduction in excitability; suppresses unidirectional or intermittent conduction pathways. 
+contraindications:
+pharmacodynamics:
+    resp:
+    cvs:
+        - Precipitates pre-existing conduction disorders
+        - ↓ Inotropy
+        - ↑ Pacing threshold
+        - ↑ Defibrillation energy requirement
+    cns:
+        - Dizziness
+        - Paraesthesia
+        - Headache
+    endo:
+    msk:
+    met:
+    ren:
+    gu:
+    git:
+    haeme:
+considerations:
+    - ↑ Mortality in heart failure patients
+    - ↑ QRS duration but not QT interval
+    - ↑ Pacing threshold and defibrillation energy requirement
+    - Pharmacokinetic interactions with digoxin, propranolol, amiodarone
+references:
+    - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.
+    - Smith S, Scarth E, Sasada M. Drugs in Anaesthesia and Intensive Care. 4th Ed. Oxford University Press. 2011.

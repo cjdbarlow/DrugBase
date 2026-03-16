@@ -1,0 +1,77 @@
+---
+aliases:
+class: Class III antiarrhythmic
+chemistry: Iodinated benzofuran
+dose:
+    cardiac arrest: 5mg/kg up to 300mg IV
+    arrhythmia: Load 5mg/kg up to 300mg over 30-60 minutes, then 15mg/kg over 24 hours
+    maintenance (PO): 200mg TDS for 1 week, then 200mg BD for 1 week, then 200mg OD
+pharmaceutics:
+    presentation:
+        - 100mg and 200mg tablets
+        - 150mg ampoule for IV
+    compatibility:
+    solubility: Highly lipid-soluble; poorly water-soluble
+pharmacokinetics:
+    absorption: Oral bioavailability 20-80%; slow and erratic GI absorption; peak effect ~4.5 hours after oral dose
+    distribution:
+        pKa: 6.56
+        vd: 66 L/kg (extensive accumulation in adipose tissue and muscle)
+        protein binding: 96%
+    metabolism:
+        half-life: 29 days (mean)
+        duration: Onset of action delayed due to redistribution; maximum effect (particularly Class I and IV effects) may take weeks to develop
+        pathway: Hepatic; CYP3A4
+        metabolites:
+            - Desethylamiodarone (active)
+    elimination:
+        renal: Less than 5% renal elimination; predominantly biliary, skin, and lacrimal; not removed by dialysis
+mechanism:
+    target:
+        - Potassium channel (IKr)
+        - Voltage-gated calcium channel
+        - β adrenoreceptor (non-competitive)
+        - α adrenoreceptor
+        - L-type calcium channel
+    action: Blocks repolarising K+ currents in Phase 3 → prolongs repolarisation → ↑ QT. Reduces velocity of Phase 0 (Class I Na+ channel effect). Non-competitive beta-blocker (Class II). Inhibits L-type Ca2+ channels (Class IV). α-blocker-like activity → ↓ SVR.
+contraindications:
+    - Porphyria
+pharmacodynamics:
+    resp:
+        - Pneumonitis (10% 3-year risk)
+        - Pulmonary fibrosis
+        - Pleuritis
+    cvs:
+        - ↓ HR
+        - ↓ BP
+        - ↓ SVR
+        - ↑ QT (without ↑ risk of TdP)
+        - Irritant to peripheral veins
+        - Hypotension with rapid IV administration (due to polysorbate 80 excipient)
+    cns:
+        - Corneal microdeposits (blurring of vision)
+        - Sleep disturbance
+        - Vivid dreams
+        - Peripheral neuropathy
+    endo:
+        - Hyperthyroidism (1%)
+        - Hypothyroidism (6%)
+    msk:
+        - Photosensitivity
+        - Grey skin discolouration
+    met:
+    ren:
+    gu:
+    git:
+        - Nausea
+        - Vomiting
+        - Hepatitis
+        - Cirrhosis
+        - Jaundice
+    haeme:
+considerations:
+    - CYP3A4 inhibitor and highly protein bound — extensive drug interactions including digoxin, statins, warfarin, phenytoin, and other antiarrhythmics
+    - Also exhibits Class I, II, and IV activity
+references:
+    - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.
+    - Rang HP, Dale MM, Ritter JM, Flower RJ. Rang and Dale's Pharmacology. 6th Ed. Churchill Livingstone.

@@ -1,0 +1,55 @@
+---
+aliases:
+class: Class II/III antiarrhythmic
+chemistry: Ethanolamine derivative
+dose:
+    tachyarrhythmia prophylaxis (PO): 40-160mg PO BD
+    tachyarrhythmia prophylaxis (IV): 50-100mg over 20 minutes
+pharmaceutics:
+    presentation:
+        - Solution 10mg/mL
+        - Tablets
+    compatibility:
+    solubility: Highly water-soluble
+pharmacokinetics:
+    absorption: 90-100% oral bioavailability
+    distribution:
+        pKa: 8.3
+        vd: 1.6-2.4 L/kg
+        protein binding: None
+    metabolism:
+        half-life: 12.7 hours
+        duration:
+        pathway: Not metabolised
+        metabolites:
+    elimination:
+        renal: Excreted unchanged in urine
+mechanism:
+    target:
+        - β adrenoreceptor (non-selective; no intrinsic sympathomimetic activity)
+        - Potassium channel (repolarising K+ current, Phase 3)
+    action: Racemic mixture; D-isomer is Class III (blocks K+ channels → prolongs repolarisation → ↑ QT interval); L-isomer has Class II activity (non-selective beta-blocker → ↓ AV nodal conduction). No membrane stabilising activity.
+contraindications:
+pharmacodynamics:
+    resp:
+        - Bronchospasm
+    cvs:
+        - Bradycardia
+        - Hypotension
+        - AV nodal block
+        - Prolonged QT
+        - ↓ Inotropy
+        - Torsades de pointes (less than 2%; more common with high doses, pre-existing long QT, and electrolyte imbalances)
+    cns:
+        - Masking of hypoglycaemia symptoms
+    endo:
+    msk:
+    met:
+    ren:
+    gu:
+        - Sexual dysfunction
+    git:
+    haeme:
+considerations:
+references:
+    - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.

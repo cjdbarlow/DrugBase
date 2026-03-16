@@ -1,0 +1,55 @@
+---
+aliases:
+class: Class Ia antiarrhythmic
+chemistry: Aminobenzamide
+dose:
+    SVT/VT (IV): 100mg IV load; infusion 2-6mg/mL
+pharmaceutics:
+    presentation:
+    compatibility:
+    solubility: Highly water-soluble
+pharmacokinetics:
+    absorption: 75-95% oral bioavailability
+    distribution:
+        pKa: 9.32
+        vd: 1.5-2.5 L/kg
+        protein binding: 15-25%
+    metabolism:
+        half-life: 3-4 hours (parent drug)
+        duration: 4-8 hours (including active metabolite)
+        pathway: Hepatic acetylation (variable fraction); slow acetylators at increased risk of side effects
+        metabolites:
+            - NAPA (N-acetylprocainamide; active)
+    elimination:
+        renal: Significant proportion excreted unchanged renally
+mechanism:
+    target:
+        - Nav1.5 subunit of voltage-gated sodium channel
+        - Potassium channel
+    action: Class Ia — reduces rate of rise of Phase 0, raises threshold potential, prolongs refractory period and action potential duration. Blocks both Na+ and K+ channels → ↑ QRS duration and ↑ QT interval. Also has Class III effects.
+contraindications:
+pharmacodynamics:
+    resp:
+    cvs:
+        - ↓ HR
+        - ↓ SVR
+        - ↓ BP
+        - ↓ CO
+        - Heart block
+        - ↑ QT with risk of TdP
+        - May ↑ HR when used for SVT (via reflex or ↑ AV conduction)
+    cns:
+    endo:
+    msk:
+    met:
+    ren:
+    gu:
+    git:
+    haeme:
+        - Drug-induced lupus (lupoid syndrome) in 20-30% of patients
+considerations:
+    - Slow acetylators have increased side effect risk; NAPA accumulates in renal impairment
+    - Reduces antimicrobial effect of sulfonamides
+references:
+    - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.
+    - Smith S, Scarth E, Sasada M. Drugs in Anaesthesia and Intensive Care. 4th Ed. Oxford University Press. 2011.

@@ -1,0 +1,69 @@
+---
+aliases:
+class: Cardiac glycoside
+chemistry: Cardiac glycoside
+dose:
+    Rate control: 62.5-250µg PO OD
+    Rate control: 250-500µg IV load
+pharmaceutics:
+    presentation:
+        - Tablets
+        - Elixir
+        - Clear colourless solution for IV
+    compatibility:
+    solubility: Essentially insoluble in water
+pharmacokinetics:
+    absorption: 70-80% oral bioavailability; some drug is secreted back into the gut lumen by P-glycoprotein (enterocyte efflux pump); onset delayed 2-3 hours after oral loading
+    distribution:
+        pKa: 7.15
+        vd: 5-11 L/kg (dependent on lean body mass)
+        protein binding: 25%
+    metabolism:
+        half-life: 35-44 hours
+        duration:
+        pathway: Minimal hepatic (~16% of clearance)
+        metabolites:
+    elimination:
+        renal: Predominantly renal elimination as unchanged drug; half-life prolonged in renal failure
+mechanism:
+    target:
+        - Na+/K+ ATPase
+    action: Inhibits cardiac Na+/K+ ATPase → ↑ intracellular Na+ → ↓ activity of Na+/Ca2+ exchanger → ↑ intracellular Ca2+ → ↑ inotropy. Indirect vagotonic effect via sensitisation of baroreceptors and ↑ vagal output from nucleus tractus solitarius → ↓ AV nodal conduction → ↓ ventricular response. Prolongs refractory period of AV node and bundle of His. ↑ slope of Phase 4 (promoting automaticity, overall suppressed by vagotonic effects).
+contraindications:
+pharmacodynamics:
+    resp:
+    cvs:
+        - ↓ HR
+        - ↑ Inotropy
+        - Prolonged PR interval
+        - Shortened QT interval
+        - Arrhythmias (bigeminy, PVCs, 1st/2nd/3rd degree AV block, SVT, VT)
+        - Arterial vasoconstriction
+        - ↑ Coronary blood flow (via ↓ HR → ↑ diastolic filling time)
+        - ↑ CO (via ↓ ventricular response and improved filling)
+    cns:
+        - Deranged red-green colour perception
+        - Visual disturbances
+        - Headache
+        - Depressed level of consciousness (toxicity)
+    endo:
+    msk:
+    met:
+        - Gynaecomastia
+    ren:
+    gu:
+    git:
+        - Nausea
+        - Anorexia
+    haeme:
+        - Eosinophilia
+        - Rash
+considerations:
+    - Narrow therapeutic index, requires monitoring in ICU setting
+    - Severe arrhythmia risk with DC cardioversion
+    - Toxicity exacerbated by hypokalaemia
+    - Multiple drug interactions
+    - "Drugs that ↑ digoxin levels: amiodarone, captopril, erythromycin, verapamil
+    - "Drugs that ↓ digoxin levels: antacids, cholestyramine, phenytoin, metoclopramide""
+references:
+    - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.

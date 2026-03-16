@@ -1,0 +1,54 @@
+---
+aliases:
+    - Lidocaine
+class: Class Ib antiarrhythmic; aminoamide local anaesthetic
+chemistry: Aminoamide
+dose:
+    VT (IV): Load 1mg/kg IV; infusion 1-3mg/min
+pharmaceutics:
+    presentation: Clear solution 10-20mg/mL (1-2%)
+    compatibility:
+    solubility:
+pharmacokinetics:
+    absorption: Oral bioavailability 35%; IV only for arrhythmia
+    distribution:
+        pKa: 7.9
+        vd: 0.9 L/kg
+        protein binding: 70%
+    metabolism:
+        half-life: 10-20 minutes (IV bolus); 45-90 minutes (subcutaneous)
+        duration:
+        pathway: Hepatic amidases (90-95%); inactive metabolites
+        metabolites:
+            - Inactive metabolites
+    elimination:
+        renal: Minimal renal excretion
+mechanism:
+    target:
+        - Nav1.5 subunit of voltage-gated sodium channel
+    action: Class Ib — binds open Na+ channels with fast association and dissociation within the course of a normal beat. Tachyarrhythmias are prevented because dissociation occurs too slowly to permit a further action potential. Preferential binding to refractory channels (e.g. in ischaemia). Reduces rate of rise of Phase 0; shortens repolarisation phase. Little effect on normal cardiac tissue → little effect on ECG. Does not prolong QRS; actually shortens QT.
+contraindications:
+pharmacodynamics:
+    resp:
+    cvs:
+        - AV block
+        - Myocardial depression → ↓ BP (may be unresponsive)
+    cns:
+        - Circumoral tingling
+        - Dizziness
+        - Paraesthesia
+        - Visual disturbances
+        - Confusion
+        - Seizures
+        - Coma
+    endo:
+    msk:
+    met:
+    ren:
+    gu:
+    git:
+    haeme:
+considerations:
+references:
+    - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.
+    - Smith S, Scarth E, Sasada M. Drugs in Anaesthesia and Intensive Care. 4th Ed. Oxford University Press. 2011.
