@@ -1,4 +1,7 @@
+/resources/
+.DS_Store
 .Rproj.user
 .Rhistory
 .RData
 .Ruserdata
+plan.md
