@@ -1,0 +1,76 @@
+---
+aliases: Lanoxin
+class: Cardiac glycoside
+chemistry: Cardiac glycoside
+dose:
+    Maintenance (PO): 62.5-250mcg OD
+    Load (PO): 10-20mcg/kg
+    Load (IV): 0.5-1mg total; 0.25-0.5mg Q4-6H, each over ≥5 minutes
+pharmaceutics:
+    presentation: 62.5mcg or 250mcg tablet; 50mcg/mL elixir; clear 250mcg/mL injection
+    compatibility: 5% glucose; 0.9% NaCl; 4% glucose/0.18% NaCl
+    solubility: Essentially insoluble in water
+pharmacokinetics:
+    absorption: 70-80% oral bioavailability; P-glycoprotein efflux; onset 2-3 hours
+    distribution:
+        pKa: 7.15
+        vd: 5-11 L/kg (dependent on lean body mass)
+        protein binding: 25%
+    metabolism:
+        half-life: 35-44 hours
+        duration:
+        pathway: Minimal hepatic (~16% of clearance)
+        metabolites:
+            - Dihydrodigoxin
+            - Digoxygenin
+    elimination:
+        renal: 50-70% of IV dose excreted unchanged; half-life prolonged in renal failure
+mechanism:
+    target:
+        - Na+/K+ ATPase
+    action: Na+/K+ ATPase inhibition → ↑ intracellular Na+ → ↓ Na+/Ca2+ exchange → ↑ Ca2+ and inotropy; ↑ vagal tone → ↓ AV conduction; ↑ Phase 4 slope and automaticity
+contraindications:
+    - 2nd/3rd-degree AV block
+    - VT/VF
+    - Digoxin-induced arrhythmia
+    - AF with accessory pathway
+    - Hypertrophic obstructive cardiomyopathy
+pregnancy:
+    code: A
+    justification:
+pharmacodynamics:
+    resp:
+    cvs:
+        - ↓ HR; ↑ inotropy/CO/coronary flow
+        - ↑ PR; ↓ QT
+        - Bigeminy; PVCs; AV block; SVT; VT
+        - Arterial vasoconstriction
+    cns:
+        - Red-green dyschromatopsia; visual disturbance
+        - Headache; ↓ LOC
+    endo:
+    msk:
+    met:
+        - Gynaecomastia
+    ren:
+    gu:
+    git:
+        - Nausea
+        - Anorexia
+    haeme:
+        - Eosinophilia
+        - Rash
+considerations:
+    - Narrow therapeutic index
+    - Renal impairment → ↓ elimination
+    - Hypokalaemia/hypomagnesaemia/hypercalcaemia → ↑ toxicity
+    - Toxicity + DC cardioversion → ↑ VF risk
+    - "↑ Levels: amiodarone, captopril, erythromycin, verapamil"
+    - "↓ Levels: antacids, cholestyramine, phenytoin, metoclopramide"
+references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 4 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Aspen Pharmacare Australia Pty Ltd. Lanoxin Australian Product Information. Revised 1 October 2025.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Young P, Psirides A. Wellington ICU Drug Manual. 2nd Ed. Wellington Regional Hospital. 2013.
+    - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.

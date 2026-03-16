@@ -1,0 +1,69 @@
+---
+aliases:
+class: Class Ia antiarrhythmic
+chemistry: Aminobenzamide
+dose:
+    Load (IV): Up to 12mg/kg at ≤0.3mg/kg/min; max 1g
+    Infusion (IV): 50mcg/kg/min
+pharmaceutics:
+    presentation: Clear 100mg/mL injection
+    compatibility: 5% glucose
+    solubility: Highly water-soluble
+pharmacokinetics:
+    absorption: 75-95% oral bioavailability; Tmax 1.5-2 hours
+    distribution:
+        pKa: 9.23
+        vd: 1.5-2.5 L/kg
+        protein binding: 15-25%
+    metabolism:
+        half-life: 3-4 hours (parent drug)
+        duration: 4-8 hours (including active metabolite)
+        pathway: Hepatic acetylation (16-33%)
+        metabolites:
+            - NAPA (N-acetylprocainamide; active)
+    elimination:
+        renal: 30-60% urine unchanged; NAPA renally eliminated
+mechanism:
+    target:
+        - Nav1.5 subunit of voltage-gated sodium channel
+        - Potassium channel
+    action: Open Na+ channel block → ↓ Phase 0/conduction + ↑ QRS; K+ channel block → ↑ APD/refractory period/QT
+contraindications:
+    - Second/complete AV block or hemiblock without pacemaker
+    - Systemic lupus erythematosus
+    - TdP
+pregnancy:
+    code: B2
+    justification:
+pharmacodynamics:
+    resp:
+    cvs:
+        - ↓ SVR/BP/CO
+        - ↑ PR/QRS/QT; AV block
+        - TdP; proarrhythmia
+        - AF/flutter → ↑ ventricular rate
+    cns:
+        - Dizziness
+    endo:
+    msk:
+    met:
+    ren:
+    gu:
+    git:
+        - Nausea; diarrhoea
+    haeme:
+        - Lupoid syndrome (20-30%; long-term)
+        - Agranulocytosis/bone marrow suppression (~0.5%)
+considerations:
+    - Slow acetylators → earlier lupoid syndrome
+    - Renal impairment → procainamide/NAPA accumulation
+    - ↑ Neuromuscular blockade
+    - Reduces antimicrobial effect of sulfonamides
+references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 4 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Hospira, Inc. Procainamide Hydrochloride Injection, USP. United States Prescribing Information. Revised February 2026.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Young P, Psirides A. Wellington ICU Drug Manual. 2nd Ed. Wellington Regional Hospital. 2013.
+    - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.
+    - Smith S, Scarth E, Sasada M. Drugs in Anaesthesia and Intensive Care. 4th Ed. Oxford University Press. 2011.

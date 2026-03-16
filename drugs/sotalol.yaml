@@ -1,0 +1,67 @@
+---
+aliases: Sotacor
+class: Class II/III antiarrhythmic
+chemistry: Ethanolamine derivative
+dose:
+    Arrhythmia (PO): 40-160mg BD
+    Arrhythmia (IV): 0.5-1.5mg/kg over 10 minutes; max 320mg/day
+pharmaceutics:
+    presentation: 80mg or 160mg tablet; clear 10mg/mL injection
+    compatibility: 0.9% NaCl; 5% glucose
+    solubility: Highly water-soluble
+pharmacokinetics:
+    absorption: ~100% oral bioavailability; Tmax 2-3 hours; ↓ with food or milk
+    distribution:
+        pKa: 8.3
+        vd: 1.6-2.4 L/kg
+        protein binding: None
+    metabolism:
+        half-life: 12.7 hours
+        duration:
+        pathway: Not metabolised
+        metabolites:
+    elimination:
+        renal: 75% urine unchanged within 72 hours; <10% faeces
+mechanism:
+    target:
+        - β adrenoreceptor (non-selective; no intrinsic sympathomimetic activity)
+        - Potassium channel (repolarising K+ current, Phase 3)
+    action: D/L isomers → K+ block → ↑ APD/QT; L-isomer → non-selective β block → ↓ AV conduction; no membrane-stabilising activity
+contraindications:
+    - Bronchospasm, asthma or COPD
+    - Sinus bradycardia or sick sinus
+    - Second/third-degree AV block without pacemaker
+    - Shock or uncontrolled CCF
+    - CrCl <10mL/min
+    - Long QT, TdP or hypomagnesaemia
+pregnancy:
+    code: C
+    justification: Fetal/neonatal bradycardia
+pharmacodynamics:
+    resp:
+        - Bronchospasm
+    cvs:
+        - ↓ HR/BP/inotropy; AV block
+        - ↑ QT
+        - TdP; ↑ with high dose, long QT, electrolyte disturbance or renal impairment
+    cns:
+        - Masking of hypoglycaemia symptoms
+    endo:
+    msk:
+    met:
+    ren:
+    gu:
+        - Sexual dysfunction
+    git:
+    haeme:
+considerations:
+    - Renal impairment → accumulation + ↑ TdP risk
+    - Avoid Class Ia/III antiarrhythmics
+    - Abrupt withdrawal → angina, arrhythmia or MI
+references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 4 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Arrotex Pharmaceuticals Pty Ltd. Sotacor Australian Product Information. Revised 26 March 2026.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Young P, Psirides A. Wellington ICU Drug Manual. 2nd Ed. Wellington Regional Hospital. 2013.
+    - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.
