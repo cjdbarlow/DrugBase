@@ -1,0 +1,57 @@
+---
+aliases:
+class: ACE inhibitor
+chemistry: L-proline derivative
+dose:
+pharmaceutics:
+    presentation:
+    compatibility:
+    solubility:
+pharmacokinetics:
+    absorption: 66% oral bioavailability; effects maximal ~1 hour after oral dose
+    distribution:
+        pKa: 3.8
+        vd: 0.2 L/kg
+        protein binding:
+    metabolism:
+        half-life:
+        duration: 24 hours
+        pathway: 88% hepatic
+        metabolites:
+    elimination:
+        renal: 12% excreted unchanged
+mechanism:
+    target:
+        - Angiotensin-converting enzyme (ACE)
+    action: Limits conversion of angiotensin I to angiotensin II via interruption of zinc moiety on ACE → ↓ RAAS effects mediated by angiotensin II via AT1 receptor.
+contraindications:
+pharmacodynamics:
+    resp:
+        - Dry cough (bradykinin-mediated)
+    cvs:
+        - ↓ SVR
+        - ↓ BP
+        - Unaffected HR and baroreceptor reflex
+        - ↑ Natriuresis (normal renal perfusion pressure)
+        - Vascular and myocardial remodelling (beneficial in CCF)
+    cns:
+    endo:
+        - Hypoglycaemia in diabetics
+    msk:
+    met:
+        - ↑ Renin release
+    ren:
+        - Pre-renal failure with reduced renal perfusion pressure (e.g. renal artery stenosis)
+        - ↓ GFR
+    gu:
+    git:
+    haeme:
+        - Agranulocytosis
+        - Thrombocytopenia
+considerations:
+    - Angioedema (immune mediated; unpredictable)
+    - ↓ Aldosterone release → ↑ efficacy of spironolactone; risk of hyperkalaemia
+    - Pharmacodynamic interaction with NSAIDs → risk of AKI
+    - Less effective for hypertension in the black population
+references:
+    - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.
