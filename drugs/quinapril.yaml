@@ -1,0 +1,73 @@
+---
+aliases: Accupril
+class: ACE inhibitor
+chemistry: L-proline derivative; dicarboxylate (-COOH)
+dose:
+    HTN (PO): 10-20mg OD; usual 20-80mg/day OD-BD
+    HF (PO): 5mg BD → 10-20mg BD
+pharmaceutics:
+    presentation: 5mg, 10mg, 20mg or 40mg tablet
+    compatibility:
+    solubility: Freely water-soluble
+pharmacokinetics:
+    absorption: 37% oral bioavailability; effect maximal ~1 hour; food ↓ absorption
+    distribution:
+        pKa: 3.7
+        vd: 3.6-7.8L/kg
+        protein binding: 97%
+    metabolism:
+        half-life: Quinaprilat 2 hours; terminal 25 hours
+        duration:
+        pathway: ~99.9% hepatic; prodrug → quinaprilat
+        metabolites:
+            - Quinaprilat (active)
+            - Minor inactive metabolites
+    elimination:
+        renal: 0.1% excreted unchanged; quinaprilat predominantly renal
+mechanism:
+    target:
+        - Angiotensin-converting enzyme (ACE)
+    action: ACE zinc-site inhibition → ↓ Ang II and aldosterone; ↑ bradykinin
+contraindications:
+    - Pregnancy
+    - Previous ACE inhibitor-associated angioedema
+    - Sacubitril/valsartan within 36 hours
+    - Aliskiren in diabetes
+pregnancy:
+    code: D
+    justification: 2nd/3rd trimester → fetal renal dysfunction, oligohydramnios/death; 1st-trimester safety uncertain
+pharmacodynamics:
+    resp:
+        - Dry cough
+    cvs:
+        - ↓ SVR
+        - ↓ MAP
+        - No reflex ↑ HR
+        - ↓ Vascular and myocardial remodelling
+    cns:
+    endo:
+        - Hypoglycaemia (diabetes)
+    msk:
+    met:
+        - ↑ Renin
+        - ↑ K+
+    ren:
+        - ↑ Natriuresis if renal perfusion maintained
+        - ↓ GFR/AKI if Ang II-dependent (e.g. renal artery stenosis)
+    gu:
+    git:
+    haeme:
+        - Agranulocytosis
+        - Thrombocytopenia
+considerations:
+    - Angioedema (bradykinin-mediated)
+    - K+-sparing diuretics/K+ → hyperkalaemia
+    - NSAIDs → ↓ effect and AKI
+    - ↓ Antihypertensive effect in Black patients
+references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 4 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Solco Healthcare US, LLC. Quinapril Tablets USP US Prescribing Information. Revised August 2020.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Young P, Psirides A. Wellington ICU Drug Manual. 2nd Ed. Wellington Regional Hospital. 2013.
+    - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.

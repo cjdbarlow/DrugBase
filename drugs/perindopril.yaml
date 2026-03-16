@@ -1,0 +1,74 @@
+---
+aliases: Coversyl
+class: ACE inhibitor
+chemistry: L-proline derivative; dicarboxylate (-COOH)
+dose:
+    HTN (PO): 5mg OD; max 10mg/day
+    HF (PO): 2.5mg OD → 5mg OD
+    Stable CAD (PO): 5mg OD for 2 weeks → 10mg OD
+pharmaceutics:
+    presentation: 2.5mg, 5mg or 10mg tablet
+    compatibility:
+    solubility:
+pharmacokinetics:
+    absorption: 66% oral bioavailability; effect maximal ~1 hour; food ↓ conversion to perindoprilat
+    distribution:
+        pKa: 3.8
+        vd: 0.2L/kg
+        protein binding: Perindoprilat 20%
+    metabolism:
+        half-life: Perindopril 1 hour; free perindoprilat 17 hours
+        duration: 24 hours
+        pathway: 88% hepatic; prodrug → perindoprilat
+        metabolites:
+            - Perindoprilat (active)
+            - Five inactive metabolites
+    elimination:
+        renal: 12% excreted unchanged; free perindoprilat renal
+mechanism:
+    target:
+        - Angiotensin-converting enzyme (ACE)
+    action: ACE zinc-site inhibition → ↓ Ang II and aldosterone; ↑ bradykinin
+contraindications:
+    - Pregnancy
+    - Previous ACE inhibitor-associated, hereditary or idiopathic angioedema
+    - Renal artery stenosis
+    - Sacubitril/valsartan within 36 hours
+    - Aliskiren in diabetes or GFR <60mL/min/1.73m2
+pregnancy:
+    code: D
+    justification: 2nd/3rd trimester → fetal renal dysfunction, oligohydramnios/death; 1st-trimester safety uncertain
+pharmacodynamics:
+    resp:
+        - Dry cough
+    cvs:
+        - ↓ SVR
+        - ↓ MAP
+        - No reflex ↑ HR
+        - ↓ Vascular and myocardial remodelling
+    cns:
+    endo:
+        - Hypoglycaemia (diabetes)
+    msk:
+    met:
+        - ↑ Renin
+        - ↑ K+
+    ren:
+        - ↑ Natriuresis if renal perfusion maintained
+        - ↓ GFR/AKI if Ang II-dependent (e.g. renal artery stenosis)
+    gu:
+    git:
+    haeme:
+        - Agranulocytosis
+        - Thrombocytopenia
+considerations:
+    - Angioedema (bradykinin-mediated)
+    - K+-sparing diuretics/K+ → hyperkalaemia
+    - NSAIDs → ↓ effect and AKI
+    - ↓ Antihypertensive effect in Black patients
+references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 4 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Servier Laboratories (Aust.) Pty. Ltd. Coversyl Australian Product Information. Version 26. Revised 11 May 2026.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.

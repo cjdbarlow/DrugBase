@@ -1,0 +1,70 @@
+---
+aliases: Zinopril
+class: ACE inhibitor
+chemistry: L-proline derivative; dicarboxylate (-COOH)
+dose:
+    HTN (PO): 5-10mg OD; usual 10-20mg OD; max 40mg/day
+    HF (PO): 2.5mg OD; usual 5-20mg OD
+    Acute MI (PO): 5mg; 5mg after 24 hours; 10mg after 48 hours; then 10mg OD for 6 weeks
+pharmaceutics:
+    presentation: 5mg, 10mg or 20mg tablet
+    compatibility:
+    solubility:
+pharmacokinetics:
+    absorption: 25% oral bioavailability; effect maximal ~1 hour; Tmax ~7 hours; unaffected by food
+    distribution:
+        pKa: 2.5
+        vd: 124L (~2L/kg)
+        protein binding: Minimal
+    metabolism:
+        half-life: 12.6 hours
+        duration:
+        pathway: Not metabolised; active drug
+        metabolites:
+    elimination:
+        renal: 100% excreted unchanged
+mechanism:
+    target:
+        - Angiotensin-converting enzyme (ACE)
+    action: ACE zinc-site inhibition → ↓ Ang II and aldosterone; ↑ bradykinin
+contraindications:
+    - Pregnancy
+    - Previous ACE inhibitor-associated, hereditary or idiopathic angioedema
+    - Aliskiren in diabetes or GFR <60mL/min/1.73m2
+pregnancy:
+    code: D
+    justification: 2nd/3rd trimester → fetal renal dysfunction, oligohydramnios/death; 1st-trimester safety uncertain
+pharmacodynamics:
+    resp:
+        - Dry cough
+    cvs:
+        - ↓ SVR
+        - ↓ MAP
+        - No reflex ↑ HR
+        - ↓ Vascular and myocardial remodelling
+    cns:
+    endo:
+        - Hypoglycaemia (diabetes)
+    msk:
+    met:
+        - ↑ Renin
+        - ↑ K+
+    ren:
+        - ↑ Natriuresis if renal perfusion maintained
+        - ↓ GFR/AKI if Ang II-dependent (e.g. renal artery stenosis)
+    gu:
+    git:
+    haeme:
+        - Agranulocytosis
+        - Thrombocytopenia
+considerations:
+    - Angioedema (bradykinin-mediated)
+    - K+-sparing diuretics/K+ → hyperkalaemia
+    - NSAIDs → ↓ effect and AKI
+    - ↓ Antihypertensive effect in Black patients
+references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 4 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Alphapharm Pty Limited trading as Viatris. Zinopril Australian Product Information. Revised 10 November 2023.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.

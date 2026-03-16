@@ -1,0 +1,73 @@
+---
+aliases: Zedace
+class: ACE inhibitor
+chemistry: L-proline derivative; sulfhydryl (-SH)
+dose:
+    HTN (PO): 12.5mg initially; then 25-50mg BD; max 75mg BD
+    HF (PO): 6.25mg TDS; usual 25-75mg BD; max 150mg/day
+    Post-MI (PO): 6.25mg; then 25mg TDS → 50mg TDS
+    Diabetic nephropathy (PO): 25mg TDS or 50mg BD
+pharmaceutics:
+    presentation: 25mg or 50mg tablet
+    compatibility:
+    solubility:
+pharmacokinetics:
+    absorption: 75% oral bioavailability; effect maximal ~15 minutes; food ↓ absorption
+    distribution:
+        pKa: 9.8
+        vd: 2L/kg
+        protein binding: 30%
+    metabolism:
+        half-life: 1-2 hours
+        duration: ~6 hours
+        pathway: 60% hepatic; active drug with active metabolites
+        metabolites:
+            - Active metabolites
+    elimination:
+        renal: 40% excreted unchanged
+mechanism:
+    target:
+        - Angiotensin-converting enzyme (ACE)
+    action: ACE zinc-site inhibition → ↓ Ang II and aldosterone; ↑ bradykinin
+contraindications:
+    - Pregnancy
+    - Previous ACE inhibitor-associated, hereditary or idiopathic angioedema
+    - Sacubitril/valsartan within 36 hours
+pregnancy:
+    code: D
+    justification: 2nd/3rd trimester → fetal renal dysfunction, oligohydramnios/death; 1st-trimester safety uncertain
+pharmacodynamics:
+    resp:
+        - Dry cough
+    cvs:
+        - ↓ SVR
+        - ↓ MAP
+        - No reflex ↑ HR
+        - ↓ Vascular and myocardial remodelling
+    cns:
+    endo:
+        - Hypoglycaemia (diabetes)
+    msk:
+    met:
+        - ↑ Renin
+        - ↑ K+
+    ren:
+        - ↑ Natriuresis if renal perfusion maintained
+        - ↓ GFR/AKI if Ang II-dependent (e.g. renal artery stenosis)
+    gu:
+    git:
+    haeme:
+        - Agranulocytosis
+        - Thrombocytopenia
+considerations:
+    - Angioedema (bradykinin-mediated)
+    - K+-sparing diuretics/K+ → hyperkalaemia
+    - NSAIDs → ↓ effect and AKI
+    - ↓ Antihypertensive effect in Black patients
+references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 4 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Alphapharm Pty Ltd trading as Viatris. Zedace Australian Product Information. Revised 20 October 2025.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Young P, Psirides A. Wellington ICU Drug Manual. 2nd Ed. Wellington Regional Hospital. 2013.
+    - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.
