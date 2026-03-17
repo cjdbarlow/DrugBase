@@ -1,0 +1,51 @@
+---
+aliases:
+class: Angiotensin receptor blocker
+chemistry: Imidazole analogue
+dose:
+pharmaceutics:
+    presentation:
+    compatibility:
+    solubility:
+pharmacokinetics:
+    absorption: 23% oral bioavailability; effects maximal ~1 hour after oral dose
+    distribution:
+        pKa: 3.6
+        vd: 0.24 L/kg
+        protein binding:
+    metabolism:
+        half-life:
+        duration:
+        pathway: 80% hepatic
+        metabolites:
+    elimination:
+        renal: 20% excreted unchanged
+mechanism:
+    target:
+        - AT1 receptor
+    action: Competitive inhibition of AT1 receptor → blocks binding of angiotensin II → interrupts RAAS effects mediated via AT1 receptor.
+contraindications:
+pharmacodynamics:
+    resp:
+    cvs:
+        - ↓ SVR
+        - ↓ BP
+        - Unaffected HR and baroreceptor reflex
+        - ↑ Natriuresis
+        - Vascular and myocardial remodelling (beneficial in CCF)
+    cns:
+    endo:
+    msk:
+    met:
+    ren:
+        - ↓ GFR
+    gu:
+    git:
+    haeme:
+considerations:
+    - No bradykinin accumulation → no cough; better compliance than ACE inhibitors
+    - AT1 receptor in cardiac tissue may be more comprehensively blocked than with ACE inhibitors (may improve cardiac outcomes)
+    - AT2 receptor not blocked (may improve cardiac outcomes)
+    - Lower incidence of angioedema compared with ACE-inhibitors
+references:
+    - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.
