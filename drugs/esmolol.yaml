@@ -1,0 +1,51 @@
+---
+aliases:
+class: Beta blocker
+chemistry: Aryloxypropanolamine
+dose:
+    arrhythmia/hypertension (IV): 50-200 μg/kg/min infusion
+pharmaceutics:
+    presentation:
+    compatibility:
+    solubility: Minimal lipid solubility
+pharmacokinetics:
+    absorption: IV only
+    distribution:
+        pKa: 9.5
+        vd: 3.4 L/kg
+        protein binding: 60%
+    metabolism:
+        half-life: 9 minutes
+        duration:
+        pathway: Hydrolysis of methyl ester by red blood cell esterases → inactive metabolite and methyl alcohol
+        metabolites:
+            - Inactive acid metabolite
+            - Methyl alcohol
+    elimination:
+        renal:
+mechanism:
+    target:
+        - β1 adrenoreceptor
+    action: Competitive highly selective β1 antagonist → blocks β1 receptor-mediated cAMP synthesis.
+contraindications:
+pharmacodynamics:
+    resp:
+    cvs:
+        - ↓ HR
+        - ↓ Inotropy
+        - ↓ MVO2
+        - ↓ BP
+    cns:
+    endo:
+    msk:
+    met:
+    ren:
+    gu:
+    git:
+    haeme:
+considerations:
+    - Venous irritant
+references:
+    - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.
+    - Leslie RA, Johnson EK, Goodwin APL. Dr Podcast Scripts for the Primary FRCA. Cambridge University Press. 2011.
+    - Smith S, Scarth E, Sasada M. Drugs in Anaesthesia and Intensive Care. 4th Ed. Oxford University Press. 2011.

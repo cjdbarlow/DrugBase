@@ -1,0 +1,49 @@
+---
+aliases:
+class: Beta blocker
+chemistry: Aryloxypropanolamine
+dose:
+    arrhythmia/hypertension (IV): 1mg IV boluses
+    arrhythmia/hypertension (PO): 12.5-100mg PO BD
+pharmaceutics:
+    presentation:
+    compatibility:
+    solubility:
+pharmacokinetics:
+    absorption: 50% oral bioavailability
+    distribution:
+        pKa: 9.7
+        vd: 2.8-4.8 L/kg
+        protein binding: 12%
+    metabolism:
+        half-life: 3-4 hours
+        duration:
+        pathway: Mainly hepatic; genetic variability in half-life of active metabolites
+        metabolites:
+    elimination:
+        renal:
+mechanism:
+    target:
+        - β1 adrenoreceptor
+    action: Competitive selective β1 antagonist → blocks β1 receptor-mediated cAMP synthesis.
+contraindications:
+pharmacodynamics:
+    resp:
+    cvs:
+        - ↓ HR
+        - ↓ Inotropy
+        - ↓ MVO2
+        - ↓ BP
+    cns:
+    endo:
+    msk:
+    met:
+    ren:
+    gu:
+    git:
+    haeme:
+considerations:
+references:
+    - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.
+    - Leslie RA, Johnson EK, Goodwin APL. Dr Podcast Scripts for the Primary FRCA. Cambridge University Press. 2011.
+    - Smith S, Scarth E, Sasada M. Drugs in Anaesthesia and Intensive Care. 4th Ed. Oxford University Press. 2011.

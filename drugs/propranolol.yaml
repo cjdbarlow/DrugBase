@@ -1,0 +1,63 @@
+---
+aliases:
+class: Beta blocker
+chemistry:
+dose:
+    hypertension (PO): 10-100mg PO BD/TDS
+    arrhythmia (IV): 1mg IV boluses titrated to response
+pharmaceutics:
+    presentation:
+        - Tablets
+        - Solution 1mg/mL
+    compatibility:
+    solubility:
+pharmacokinetics:
+    absorption: 30% oral bioavailability
+    distribution:
+        pKa:
+        vd:
+        protein binding: 95%
+    metabolism:
+        half-life:
+        duration:
+        pathway: Hepatic to active and inactive metabolites
+        metabolites:
+            - Active metabolites
+            - Inactive metabolites
+    elimination:
+        renal: Renal elimination of metabolites
+mechanism:
+    target:
+        - β1 adrenoreceptor
+        - β2 adrenoreceptor
+    action: Competitive non-selective β antagonist → blocks β1 and β2 receptor-mediated cAMP synthesis.
+contraindications:
+pharmacodynamics:
+    resp:
+        - Bronchospasm
+    cvs:
+        - ↓ HR
+        - ↓ Inotropy
+        - ↓ MVO2
+        - ↓ BP
+        - ↑ SVR (β2 effect)
+        - May worsen arrhythmia
+    cns:
+        - Tiredness
+        - Nightmares
+        - Sleep disturbance
+    endo:
+    msk:
+    met:
+        - ↓ Insulin release
+        - Blunted hypoglycaemic response
+    ren:
+    gu:
+    git:
+    haeme:
+considerations:
+    - Contraindicated with cardioselective Ca2+ channel blockers (extreme ↓ HR and ↓ inotropy)
+references:
+    - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.
+    - Leslie RA, Johnson EK, Goodwin APL. Dr Podcast Scripts for the Primary FRCA. Cambridge University Press. 2011.
+    - Smith S, Scarth E, Sasada M. Drugs in Anaesthesia and Intensive Care. 4th Ed. Oxford University Press. 2011.

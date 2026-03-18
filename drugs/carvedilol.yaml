@@ -1,0 +1,52 @@
+---
+aliases:
+class: Beta blocker
+chemistry: Aryloxypropanolamine
+dose:
+pharmaceutics:
+    presentation:
+    compatibility:
+    solubility:
+pharmacokinetics:
+    absorption: 25-35% oral bioavailability
+    distribution:
+        pKa: 8.77
+        vd: 2 L/kg
+        protein binding: 95%
+    metabolism:
+        half-life: 7-10 hours
+        duration:
+        pathway: Mainly hepatic
+        metabolites:
+    elimination:
+        renal:
+mechanism:
+    target:
+        - β1 adrenoreceptor
+        - β2 adrenoreceptor
+        - α1 adrenoreceptor
+    action: Competitive non-selective β and α1 antagonist with membrane stabilising activity → blocks β and α1 receptor-mediated effects.
+contraindications:
+pharmacodynamics:
+    resp:
+        - Bronchospasm
+    cvs:
+        - ↓ HR
+        - ↓ Inotropy
+        - ↓ MVO2
+        - ↓ BP
+        - ↓ SVR and vasodilation (α1 effect → afterload reduction)
+    cns:
+        - CNS effects (good lipid solubility)
+    endo:
+    msk:
+    met:
+    ren:
+    gu:
+    git:
+    haeme:
+considerations:
+references:
+    - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.
+    - Leslie RA, Johnson EK, Goodwin APL. Dr Podcast Scripts for the Primary FRCA. Cambridge University Press. 2011.
+    - Smith S, Scarth E, Sasada M. Drugs in Anaesthesia and Intensive Care. 4th Ed. Oxford University Press. 2011.
