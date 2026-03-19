@@ -1,0 +1,66 @@
+---
+aliases: Adenocor
+class: Antiarrhythmic
+chemistry: Endogenous purine nucleoside
+dose:
+    SVT (IV): 3mg, then 6mg, then 12mg; rapid bolus
+pharmaceutics:
+    presentation: Clear colourless 3mg/mL solution
+    compatibility:
+    solubility: Slightly water-soluble
+pharmacokinetics:
+    absorption:
+    distribution:
+        pKa:
+        vd:
+        protein binding:
+    metabolism:
+        half-life: <10 seconds
+        duration:
+        pathway: Cellular uptake → inosine and AMP
+        metabolites:
+            - Inosine
+            - AMP
+    elimination:
+        renal:
+mechanism:
+    target:
+        - A1 adenosine receptor
+    action: A1 activation → ↑ K+ efflux + ↓ Ca2+ current → SA/AV hyperpolarisation and transient AV block
+contraindications:
+    - Sick sinus syndrome
+    - 2nd/3rd-degree AV block without pacemaker
+    - Asthma or COPD
+    - Long QT syndrome
+    - Severe ↓ MAP or decompensated CCF
+pregnancy:
+    code: B2
+    justification:
+pharmacodynamics:
+    resp:
+        - Bronchospasm
+        - Dyspnoea; ↑ RR/VT
+    cvs:
+        - Transient AV block/asystole
+        - AF/flutter; ventricular ectopy
+        - ↓ MAP
+    cns:
+        - Headache; dizziness
+    endo:
+    msk:
+    met:
+    ren:
+    gu:
+    git:
+    haeme:
+considerations:
+    - Dipyridamole → ↑ effect
+    - Methylxanthines → ↓ effect
+    - Carbamazepine → ↑ AV block
+references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 4 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Sanofi-Aventis Australia Pty Ltd. Adenocor Australian Product Information. Revised 27 July 2026.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Young P, Psirides A. Wellington ICU Drug Manual. 2nd Ed. Wellington Regional Hospital. 2013.
+    - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.
