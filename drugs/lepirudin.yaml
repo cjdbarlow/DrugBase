@@ -1,0 +1,49 @@
+---
+aliases:
+class: Direct thrombin inhibitor
+chemistry: Polypeptide
+dose:
+pharmaceutics:
+    presentation:
+    compatibility:
+    solubility: Good water solubility
+pharmacokinetics:
+    absorption: 10% oral bioavailability
+    distribution:
+        pKa: 4.4
+        vd: 0.3 L/kg
+        protein binding: Minimal (only to thrombin)
+    metabolism:
+        half-life: 1.3 hours
+        duration:
+        pathway: Minimally metabolised; some hepatic hydrolysis liberating peptide fragments and amino acids
+        metabolites:
+    elimination:
+        renal: 48% renally eliminated (35% as unchanged drug, remainder as fragments); monitoring by APTT or ECT
+mechanism:
+    target:
+        - Thrombin
+    action: Binds thrombin, deactivating it and preventing formation of fibrin; also inhibits other thrombin-driven haemostasis including platelet activation
+contraindications:
+pregnancy:
+    code: B3
+    justification: Placental haemorrhage → prematurity/fetal loss
+pharmacodynamics:
+    resp:
+    cvs:
+    cns:
+    endo:
+    msk:
+    met:
+    ren:
+    gu:
+    git:
+    haeme:
+        - Bleeding
+considerations:
+    - Monitoring by APTT or ECT (ecarin clotting time)
+references:
+    - European Medicines Agency. Refludan (lepirudin) Summary of Product Characteristics. Archived product information.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 4 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database

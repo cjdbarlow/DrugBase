@@ -1,0 +1,58 @@
+---
+aliases:
+class: Direct thrombin inhibitor
+chemistry: Synthetic L-arginine derivative
+dose:
+    HIT: 2µg/kg/min IV initially (max 10µg/kg/min); APTT 1.5-3× baseline, ≤100s
+    PCI (HIT): 25µg/kg/min IV + 350µg/kg IV over 3-5min; ACT 300-450s
+    HIT (hepatic): 0.5µg/kg/min IV initially (moderate/severe impairment)
+pharmaceutics:
+    presentation: 1mg/mL in 250mL prefilled IV bag
+    compatibility: Ready to use; no dilution
+    solubility:
+pharmacokinetics:
+    absorption: <1% PO; IV onset immediate
+    distribution:
+        pKa: 13.4
+        vd: 0.2L/kg
+        protein binding: 54%
+    metabolism:
+        half-life: ~45min
+        duration:
+        pathway: Hepatic hydroxylation/aromatisation of 3-methyltetrahydroquinoline ring; ~65% faecal recovery by 6 days
+        metabolites:
+            - M1 (3-5× less active)
+    elimination:
+        renal: ~22% urinary recovery by 12h (16% dose unchanged); inactive metabolites also cleared
+mechanism:
+    target:
+        - Thrombin active site
+    action: Reversible inhibition of free and clot-bound thrombin → ↓ fibrin formation, coagulation-factor activation and platelet aggregation
+contraindications:
+    - Active major bleeding
+pregnancy:
+    code:
+    justification:
+pharmacodynamics:
+    resp:
+    cvs:
+        - ↓ MAP
+    cns:
+    endo:
+    msk:
+    met:
+    ren:
+    gu:
+    git:
+    haeme:
+        - Bleeding
+considerations:
+    - HIT → APTT 2h after commencement/dose change
+    - PCI → ACT 5-10min after bolus and after adjustments
+    - Hepatic impairment → ↓ dose; avoid PCI use in significant disease
+    - ↑ PT/INR complicates warfarin transition
+    - No renal dose adjustment
+references:
+    - Teva Pharmaceuticals USA, Inc. ARGATROBAN IN SODIUM CHLORIDE Injection United States Prescribing Information. Revised June 2026.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.

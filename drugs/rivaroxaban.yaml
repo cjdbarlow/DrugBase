@@ -1,0 +1,65 @@
+---
+aliases:
+    - Xarelto
+class: Factor Xa inhibitor
+chemistry: Oxazolidinone derivative
+dose:
+    Hip/knee prophylaxis: 10mg PO daily; start 6-10h postoperatively once haemostasis established
+    NVAF: 20mg PO daily; 15mg daily if CrCl 15-49mL/min
+    DVT/PE: 15mg PO BD for 3 weeks, then 20mg daily
+    Extended VTE: Consider 10mg PO daily after 6-12 months
+    CAD/PAD: 2.5mg PO BD + aspirin 100mg daily
+pharmaceutics:
+    presentation: 2.5mg, 10mg, 15mg and 20mg tablets
+    compatibility: 15mg/20mg with food; 2.5mg/10mg with or without food
+    solubility: Practically insoluble in water
+pharmacokinetics:
+    absorption: 80-100% PO bioavailability at 10mg; 20mg fasting bioavailability 66%; Tmax 2-4h
+    distribution:
+        pKa: 13
+        vd: 0.7L/kg
+        protein binding: 95%
+    metabolism:
+        half-life: 7-12h
+        duration:
+        pathway: ~66% hepatic metabolism via CYP3A4, CYP2J2 and CYP-independent pathways
+        metabolites: Inactive
+    elimination:
+        renal: ~33% unchanged; metabolites split equally between urine and biliary/faecal routes
+mechanism:
+    target:
+        - Factor Xa
+    action: Inhibition of free, prothrombinase-bound and clot-associated factor Xa → ↓ thrombin generation
+contraindications:
+    - Active/high-risk bleeding or impaired haemostasis
+    - 'CrCl <15mL/min or dialysis'
+    - Coagulopathic moderate/severe hepatic disease
+    - Strong dual CYP3A4/P-gp inhibitors
+    - Pregnancy/lactation
+pregnancy:
+    code: C
+    justification: Placental haemorrhage → prematurity/fetal loss
+pharmacodynamics:
+    resp:
+    cvs:
+    cns:
+    endo:
+    msk:
+    met:
+    ren:
+    gu:
+    git:
+        - Nausea/vomiting (~10%)
+        - ↑ LFTs
+    haeme:
+        - Bleeding
+considerations:
+    - No routine monitoring; rivaroxaban-calibrated anti-Xa if required
+    - Uncontrolled life-threatening bleeding → consider PCC (XARELTO PI)
+    - Not dialysable
+    - Neuraxial haematoma risk
+references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 4 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Bayer Australia Ltd. XARELTO Australian Product Information. Revised 17 September 2024.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.

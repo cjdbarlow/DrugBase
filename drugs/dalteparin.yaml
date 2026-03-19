@@ -1,0 +1,51 @@
+---
+aliases:
+class: Low molecular weight heparin
+chemistry: Glycosaminoglycan; low molecular weight heparin
+dose:
+pharmaceutics:
+    presentation:
+    compatibility:
+    solubility: Excellent water solubility
+pharmacokinetics:
+    absorption: Minimal oral bioavailability (~1%)
+    distribution:
+        pKa: -2.6
+        vd: 0.05 L/kg
+        protein binding: Less than UFH; only chains under 6,000 Da are protein-bound
+    metabolism:
+        half-life: 3-5 hours
+        duration:
+        pathway: Small amount metabolised to lower molecular weight fragments, mainly in the liver
+        metabolites:
+    elimination:
+        renal: 70% renally eliminated; monitoring by anti-Xa activity
+mechanism:
+    target:
+        - Antithrombin III (ATIII)
+    action: Binds antithrombin III causing a conformational change → ↑ affinity for factor Xa but not thrombin
+contraindications:
+pregnancy:
+    code: C
+    justification: Placental haemorrhage → prematurity/fetal loss
+pharmacodynamics:
+    resp:
+    cvs:
+    cns:
+    endo:
+    msk:
+    met:
+    ren:
+    gu:
+    git:
+    haeme:
+        - Haemorrhage
+        - Lower risk of HITTs than UFH
+considerations:
+    - Monitoring by anti-Xa activity
+    - 70% renally eliminated — caution in renal failure
+references:
+    - Pfizer Australia Pty Ltd. FRAGMIN Australian Product Information. Revised 3 July 2025.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 4 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database

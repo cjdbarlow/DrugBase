@@ -1,0 +1,64 @@
+---
+aliases:
+    - Eliquis
+class: Factor Xa inhibitor
+chemistry: Pyrazolopyridinone carboxamide
+dose:
+    Hip/knee prophylaxis: 2.5mg PO BD; start 12-24h postoperatively
+    NVAF: '5mg PO BD; 2.5mg BD if ≥2: age ≥80 years, weight ≤60kg, creatinine ≥133µmol/L'
+    DVT/PE: 10mg PO BD for 7 days, then 5mg BD
+    Extended VTE: 2.5mg PO BD after ≥6 months' treatment
+pharmaceutics:
+    presentation: 2.5mg and 5mg tablets
+    compatibility: May crush in water/D5W for PO/NG administration
+    solubility: Practically insoluble in water
+pharmacokinetics:
+    absorption: ~50% PO bioavailability; Tmax 3-4h
+    distribution:
+        pKa: 13.1
+        vd: 0.3L/kg
+        protein binding: 87%
+    metabolism:
+        half-life: ~12h
+        duration:
+        pathway: ~25% dose recovered as metabolites (mainly faecal); mainly CYP3A4/5
+        metabolites: Inactive sulfate conjugates (renal)
+    elimination:
+        renal: ~27% of total clearance; additional biliary/direct intestinal excretion
+mechanism:
+    target:
+        - Factor Xa
+    action: Inhibition of free, prothrombinase-bound and clot-associated factor Xa → ↓ thrombin generation
+contraindications:
+    - Active/high-risk bleeding or impaired haemostasis
+    - 'CrCl <25mL/min'
+    - Coagulopathic/severe hepatic disease
+    - Strong dual CYP3A4/P-gp inhibitors
+    - Other anticoagulants (except switching or UFH for catheter patency)
+pregnancy:
+    code: C
+    justification: Placental haemorrhage → prematurity/fetal loss
+pharmacodynamics:
+    resp:
+    cvs:
+        - Peripheral oedema
+    cns:
+        - Fatigue
+    endo:
+    msk:
+    met:
+    ren:
+    gu:
+    git:
+    haeme:
+        - Bleeding
+considerations:
+    - No routine monitoring; apixaban-calibrated anti-Xa if required
+    - Uncontrolled life-threatening bleeding → consider PCC (ELIQUIS PI)
+    - Not dialysable
+    - Neuraxial haematoma risk
+references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 4 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Bristol-Myers Squibb Australia Pty Ltd. ELIQUIS Australian Product Information. Revised 21 July 2026.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.

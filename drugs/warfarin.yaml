@@ -1,0 +1,67 @@
+---
+aliases:
+class: Vitamin K antagonist
+chemistry: Coumarin derivative
+dose:
+pharmaceutics:
+    presentation:
+    compatibility:
+    solubility: Practically insoluble in water
+pharmacokinetics:
+    absorption: ~100% oral bioavailability
+    distribution:
+        pKa: 5.87
+        vd: 0.08-0.12 L/kg
+        protein binding: 99%
+    metabolism:
+        half-life: 36-42 hours
+        duration:
+        pathway: Complete hepatic metabolism; S-isomer metabolised by CYP2C9 to 7-hydroxywarfarin (inactive); also via reductases to warfarin alcohols (minimal anticoagulant activity)
+        metabolites: 7-hydroxywarfarin; warfarin alcohols
+    elimination:
+        renal: Renal and faecal elimination of metabolites; 92% of dose recovered in urine within 1 week; minimal free warfarin renally excreted
+mechanism:
+    target:
+        - Vitamin K epoxide reductase complex 1 (VKORC1)
+    action: Interferes with the cyclic interconversion of vitamin K and its 2,3-epoxide, preventing γ-carboxylation of Gla residues on the N-terminal regions of vitamin K-dependent coagulation factors II, VII, IX, and X, as well as anticoagulant proteins C and S, resulting in hepatic synthesis of functionally inactive factors
+contraindications:
+pregnancy:
+    code: D
+    justification: 6-9 weeks → embryopathy; later exposure → fetal bleeding/CNS damage; ↑ miscarriage/perinatal bleeding
+pharmacodynamics:
+    resp:
+    cvs:
+        - Microthrombi
+    cns:
+    endo:
+    msk:
+    met:
+        - Less osteoporosis than heparin due to reduced protein binding
+    ren:
+    gu:
+    git:
+        - Nausea
+        - Vomiting
+    haeme:
+        - Haemorrhage
+        - Skin necrosis
+        - Systemic microemboli
+        - Calciphylaxis
+        - Hypersensitivity reactions
+considerations:
+    - Onset of anticoagulant effect at 8-12 hours
+    - Peak effect at 72 hours due to half-life of existing clotting factors
+    - Requires INR monitoring; complicated pharmacokinetics
+    - Significant interactions with CYP enzyme inducers and inhibitors
+    - Reversal agents — vitamin K, FFP, Prothrombinex
+    - Teratogenic
+references:
+    - Viatris Pty Ltd. MAREVAN Australian Product Information. Revised 16 December 2022.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Young P, Psirides A. Wellington ICU Drug Manual. 2nd Ed. Wellington Regional Hospital. 2013.
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 4 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.
+    - Smith S, Scarth E, Sasada M. Drugs in Anaesthesia and Intensive Care. 4th Ed. Oxford University Press. 2011.
+    - ANZCA August/September 2011
+    - Petkov V. Essential Pharmacology For The ANZCA Primary Examination. Vesselin Petkov. 2012.
