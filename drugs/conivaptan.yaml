@@ -1,0 +1,44 @@
+---
+aliases:
+class: Vasopressin receptor antagonist
+chemistry: Benzazepine
+dose:
+pharmaceutics:
+    presentation:
+    compatibility:
+    solubility: Slightly soluble in water; pKa 11.4
+pharmacokinetics:
+    absorption: Oral bioavailability 40%
+    distribution:
+        pKa: 11.4
+        vd: 0.5 L/kg
+        protein binding: 99%
+    metabolism:
+        half-life: 5 hours
+        duration: Approximately 12 hours
+        pathway: 99% hepatic (CYP3A)
+        metabolites:
+    elimination:
+        renal:
+mechanism:
+    target:
+        - V2 vasopressin receptor
+        - V1A vasopressin receptor
+    action: Inhibits insertion of aquaporins into the apical membrane of collecting duct cells, preventing reabsorption of water; distal site of action means only water is excreted without electrolyte depletion
+contraindications:
+pharmacodynamics:
+    resp:
+    cvs:
+    cns:
+    endo:
+    msk:
+    met:
+        - Hypernatremia
+        - Hyperkalemia
+    ren:
+        - Diuresis
+    gu:
+    git:
+    haeme:
+considerations:
+references:
