@@ -1,0 +1,54 @@
+---
+aliases:
+class: Electrolyte replacement
+chemistry: Divalent cation salt
+dose:
+  hypomagnesaemia: 10-20mmol IV over 10-20 minutes
+pharmaceutics:
+    presentation:
+        - 2mmol/mL; made up into 10mmol in 100mL for peripheral administration
+    compatibility:
+    solubility: Good water solubility
+pharmacokinetics:
+    absorption: 30% oral bioavailability; more absorbed in states of systemic magnesium depletion
+    distribution:
+        pKa: -3.0
+        vd:
+        protein binding: 30%
+    metabolism:
+        half-life: Approximately 4 hours
+        duration:
+        pathway: Not metabolised; cofactor in numerous metabolic processes
+        metabolites:
+    elimination:
+        renal: Renally excreted; reabsorption mainly by thick ascending limb and distal convoluted tubule; supraphysiological plasma concentrations result in decreased reabsorption
+mechanism:
+    target:
+        - NMDA receptor
+        - L-type calcium channel
+    action: Smooth muscle relaxation by increasing uptake of intracellular calcium into the sarcoplasmic reticulum; skeletal muscle relaxation via inhibition of acetylcholine release at the NMJ; CNS depression via inhibition of NMDA receptors; ↓ AV node conduction via calcium channel blockade; cofactor in electrolyte homeostasis including Na+/K+ ATPase function
+contraindications:
+pharmacodynamics:
+    resp:
+        - Bronchodilation
+    cvs:
+        - ↓ SVR
+        - Hypotension
+        - ↓ HR
+    cns:
+        - CNS depression
+        - Anticonvulsant
+    endo:
+    msk:
+        - Muscle weakness
+        - Areflexia
+    met:
+    ren:
+    gu:
+        - ↓ Uterine tone and contractility
+    git:
+    haeme:
+considerations:
+references:
+    - Smith S, Scarth E, Sasada M. Drugs in Anaesthesia and Intensive Care. 4th Ed. Oxford University Press. 2011.
+    - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.
