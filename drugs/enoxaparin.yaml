@@ -1,0 +1,49 @@
+---
+aliases:
+class: Low molecular weight heparin
+chemistry: Glycosaminoglycan; low molecular weight heparin fragments; mean molecular weight 5,000 Da
+dose:
+pharmaceutics:
+    presentation:
+    compatibility:
+    solubility: Excellent water solubility
+pharmacokinetics:
+    absorption: Minimal oral bioavailability (~1%)
+    distribution:
+        pKa: -2.8
+        vd: 0.05 L/kg
+        protein binding: Less than UFH; only chains under 6,000 Da are protein-bound; does not bind to heparin-binding proteins
+    metabolism:
+        half-life: 4-7 hours
+        duration:
+        pathway: Mainly hepatic desulfation and depolymerization to lower molecular weight fragments (less potent or inactive)
+        metabolites:
+    elimination:
+        renal: Approximately 40% of active and inactive fragments combined excreted renally; monitoring by anti-Xa activity
+mechanism:
+    target:
+        - Antithrombin III (ATIII)
+    action: Binds antithrombin III causing a conformational change → ↑ affinity for factor Xa but not thrombin (4:1 anti-Xa to anti-IIa ratio); more predictable effect on Xa than UFH
+contraindications:
+pharmacodynamics:
+    resp:
+    cvs:
+    cns:
+    endo:
+    msk:
+    met:
+    ren:
+    gu:
+    git:
+    haeme:
+        - Haemorrhage
+        - Lower risk of HITTs than UFH; less thrombocytopenia
+considerations:
+    - Monitored with anti Xa
+    - Incomplete reversal with protamine — only the anti-IIa effect is inhibited
+    - Caution in renal failure — approximately 40% renally excreted
+references:
+    - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.
+    - Smith S, Scarth E, Sasada M. Drugs in Anaesthesia and Intensive Care. 4th Ed. Oxford University Press. 2011.
+    - ANZCA August/September 2011
+    - Petkov V. Essential Pharmacology For The ANZCA Primary Examination. Vesselin Petkov. 2012.

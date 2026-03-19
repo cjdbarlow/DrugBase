@@ -1,0 +1,43 @@
+---
+aliases:
+class: Parenteral anticoagulant
+chemistry: Glycosaminoglycan
+dose:
+pharmaceutics:
+    presentation:
+    compatibility:
+    solubility: Excellent water solubility
+pharmacokinetics:
+    absorption: Up to 20% oral bioavailability (only when administered as lipid nanocapsules)
+    distribution:
+        pKa: -3.0
+        vd: 0.2 L/kg
+        protein binding: Does not bind to any plasma proteins
+    metabolism:
+        half-life: 17-20 hours
+        duration:
+        pathway: Minimal metabolism
+        metabolites:
+    elimination:
+        renal: Majority of administered dose excreted unchanged in urine in individuals with normal renal function
+mechanism:
+    target:
+        - Antithrombin III (ATIII)
+    action: Binds antithrombin III causing a conformational change → ↑ affinity for factor Xa but not thrombin
+contraindications:
+pharmacodynamics:
+    resp:
+    cvs:
+    cns:
+    endo:
+    msk:
+    met:
+    ren:
+    gu:
+    git:
+    haeme:
+        - Bleeding
+        - No risk of HITTs
+considerations:
+    - No monitoring required; anti-Xa activity can be used but may overestimate dose
+references:

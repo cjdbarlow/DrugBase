@@ -1,0 +1,56 @@
+---
+aliases:
+class: Parenteral anticoagulant
+chemistry: Glycosaminoglycan; molecular weight 5,000-25,000 Da
+dose:
+pharmaceutics:
+    presentation:
+    compatibility:
+    solubility: Excellent water solubility
+pharmacokinetics:
+    absorption: Minimal oral bioavailability (~1%); IV onset immediate
+    distribution:
+        pKa: -2.0 to -4.0
+        vd:
+        protein binding: Highly protein-bound, mainly to lipoproteins (LDL)
+    metabolism:
+        half-life: Dose-dependent — approximately 30 min at 25 U/kg, 60 min at 100 U/kg, 150 min at 400 U/kg
+        duration:
+        pathway: Sequestered into reticuloendothelial cells and degraded gradually into inactive metabolites; biphasic saturable clearance — rapid at low doses, slower when reticuloendothelial system is saturated at high doses
+        metabolites:
+    elimination:
+        renal: Renal elimination of inactive metabolites
+mechanism:
+    target:
+        - Antithrombin III (ATIII)
+    action: Binds antithrombin III causing a conformational change of the active site, increasing its affinity for factor Xa and thrombin (1:1 anti-IIa and anti-Xa effect); at higher concentrations also inhibits IXa, XIa, XIIa and platelet aggregation
+contraindications:
+pharmacodynamics:
+    resp:
+    cvs:
+        - Hypotension with rapid IV administration
+    cns:
+    endo:
+    msk:
+    met:
+        - Osteoporosis
+    ren:
+        - Inhibits aldosterone secretion
+    gu:
+    git:
+        - ↑ LFTs
+    haeme:
+        - Haemorrhage
+        - HITTs
+        - Alopecia
+considerations:
+    - 1 unit is the  amount required to prevent 1mL of cats blood clotting for 24 hours at 0°C
+    - Risk of HITTs
+    - Monitoring by APTT or ACT
+    - Large interpatient variability due to variable levels of ATIII and heparin binding proteins
+    - Reversal — protamine 1mg per 100 units of heparin
+references:
+    - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.
+    - Smith S, Scarth E, Sasada M. Drugs in Anaesthesia and Intensive Care. 4th Ed. Oxford University Press. 2011.
+    - ANZCA August/September 2011
+    - Petkov V. Essential Pharmacology For The ANZCA Primary Examination. Vesselin Petkov. 2012.

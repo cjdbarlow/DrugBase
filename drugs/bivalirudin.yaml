@@ -1,0 +1,43 @@
+---
+aliases:
+class: Direct thrombin inhibitor
+chemistry: Polypeptide
+dose:
+pharmaceutics:
+    presentation:
+    compatibility:
+    solubility: Reasonable water solubility
+pharmacokinetics:
+    absorption: Minimal oral bioavailability
+    distribution:
+        pKa: 2.78
+        vd: 0.1 L/kg
+        protein binding: Minimal (only to thrombin)
+    metabolism:
+        half-life: Approximately 20 minutes
+        duration:
+        pathway: Mainly proteolysis in the liver (80%)
+        metabolites:
+    elimination:
+        renal: 20% renally cleared as unchanged drug; remainder metabolised; monitoring by APTT or ECT
+mechanism:
+    target:
+        - Thrombin
+    action: Binds thrombin, deactivating it and preventing formation of fibrin; also inhibits other thrombin-driven haemostasis including platelet activation
+contraindications:
+pharmacodynamics:
+    resp:
+    cvs:
+    cns:
+    endo:
+    msk:
+    met:
+    ren:
+    gu:
+    git:
+    haeme:
+        - Bleeding
+considerations:
+    - Monitoring by APTT or ECT (ecarin clotting time)
+    - Effect reversed by existing clot - avoid in conditions of stasis
+references:

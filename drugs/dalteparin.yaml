@@ -1,0 +1,44 @@
+---
+aliases:
+class: Low molecular weight heparin
+chemistry: Glycosaminoglycan; low molecular weight heparin
+dose:
+pharmaceutics:
+    presentation:
+    compatibility:
+    solubility: Excellent water solubility
+pharmacokinetics:
+    absorption: Minimal oral bioavailability (~1%)
+    distribution:
+        pKa: -2.6
+        vd: 0.05 L/kg
+        protein binding: Less than UFH; only chains under 6,000 Da are protein-bound
+    metabolism:
+        half-life: 3-5 hours
+        duration:
+        pathway: Small amount metabolised to lower molecular weight fragments, mainly in the liver
+        metabolites:
+    elimination:
+        renal: 70% renally eliminated; monitoring by anti-Xa activity
+mechanism:
+    target:
+        - Antithrombin III (ATIII)
+    action: Binds antithrombin III causing a conformational change → ↑ affinity for factor Xa but not thrombin
+contraindications:
+pharmacodynamics:
+    resp:
+    cvs:
+    cns:
+    endo:
+    msk:
+    met:
+    ren:
+    gu:
+    git:
+    haeme:
+        - Haemorrhage
+        - Lower risk of HITTs than UFH
+considerations:
+    - Monitoring by anti-Xa activity
+    - 70% renally eliminated — caution in renal failure
+references:

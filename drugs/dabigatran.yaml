@@ -1,0 +1,54 @@
+---
+aliases:
+class: Direct thrombin inhibitor
+chemistry: Small molecule polypeptide
+dose:
+    VTE prophylaxis: 220mg PO daily
+    Atrial fibrillation: 150mg PO BD
+pharmaceutics:
+    presentation:
+        - 75mg capsules
+        - 110mg capsules
+    compatibility:
+    solubility: Poor water solubility
+pharmacokinetics:
+    absorption: Available as dabigatran etexilate (prodrug); approximately 100% bioavailability after prodrug conversion; Tmax 90-180 minutes
+    distribution:
+        pKa: 4.0
+        vd: 1.0 L/kg
+        protein binding: 35%
+    metabolism:
+        half-life: 12-14 hours
+        duration:
+        pathway: Prodrug activated by plasma and hepatic esterases; approximately 20% conjugated with glucuronic acid to form acylglucuronides (pharmacologically active, similar properties to unconjugated dabigatran)
+        metabolites: Acylglucuronides (active)
+    elimination:
+        renal: 80% renal excretion of unchanged drug; 20% biliary excretion of acylglucuronides
+mechanism:
+    target:
+        - Thrombin
+    action: Reversible competitive inhibitor of thrombin (including fibrin-bound thrombin); prevents cleavage of fibrinogen to fibrin and inhibits other thrombin-driven haemostasis
+contraindications:
+pharmacodynamics:
+    resp:
+    cvs:
+        - Peripheral oedema
+    cns:
+        - Insomnia
+    endo:
+    msk:
+    met:
+        - Fever
+    ren:
+    gu:
+    git:
+    haeme:
+        - Haemorrhage
+considerations:
+    - Dialysable
+    - Reversible with idarucizumab
+    - Significant interactions with amiodarone, quinidine, St John's Wort, and other anticoagulant and antiplatelet agents
+    - Allergy reported
+references:
+    - Smith S, Scarth E, Sasada M. Drugs in Anaesthesia and Intensive Care. 4th Ed. Oxford University Press. 2011.
+    - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.

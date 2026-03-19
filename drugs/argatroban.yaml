@@ -1,0 +1,42 @@
+---
+aliases:
+class: Direct thrombin inhibitor
+chemistry: L-arginine derivative
+dose:
+pharmaceutics:
+    presentation:
+    compatibility:
+    solubility:
+pharmacokinetics:
+    absorption: Minimal oral bioavailability (less than 1%)
+    distribution:
+        pKa: 13.4
+        vd: 0.2 L/kg
+        protein binding: 54%
+    metabolism:
+        half-life: Approximately 45 minutes
+        duration:
+        pathway: Hepatic hydroxylation and aromatisation of the 3-methyltetrahydroquinoline ring
+        metabolites:
+    elimination:
+        renal: Inactive metabolites renally cleared; monitoring by APTT
+mechanism:
+    target:
+        - Thrombin
+    action: Binds to the catalytic site of thrombin, deactivating it and preventing formation of fibrin; also inhibits other thrombin-driven haemostasis including platelet activation
+contraindications:
+pharmacodynamics:
+    resp:
+    cvs:
+    cns:
+    endo:
+    msk:
+    met:
+    ren:
+    gu:
+    git:
+    haeme:
+        - Bleeding
+considerations:
+    - Monitoring by APTT
+references:

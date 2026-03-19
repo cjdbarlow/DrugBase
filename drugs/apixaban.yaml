@@ -1,0 +1,43 @@
+---
+aliases:
+class: Factor Xa inhibitor
+chemistry: Oxazolidinone
+dose:
+pharmaceutics:
+    presentation:
+    compatibility:
+    solubility: Practically insoluble in water
+pharmacokinetics:
+    absorption: Approximately 50% oral bioavailability; Tmax 90-200 minutes
+    distribution:
+        pKa: 13.1
+        vd: 0.3 L/kg
+        protein binding: 87%
+    metabolism:
+        half-life: 12 hours
+        duration:
+        pathway: 33% hepatic metabolism via CYP3A4/5; inactive sulfate conjugates renally excreted
+        metabolites:
+    elimination:
+        renal: 33% renal excretion of unchanged drug; 33% biliary and intestinal secretion of unchanged drug; 33% hepatic metabolism
+mechanism:
+    target:
+        - Factor Xa
+    action: Inhibits free factor Xa, prothrombinase-bound factor Xa, and clot-associated factor Xa, preventing thrombin generation
+contraindications:
+pharmacodynamics:
+    resp:
+    cvs:
+        - Peripheral oedema
+    cns:
+        - Fatigue
+    endo:
+    msk:
+    met:
+    ren:
+    gu:
+    git:
+    haeme:
+        - Bleeding
+considerations:
+references:
