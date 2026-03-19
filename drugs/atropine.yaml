@@ -1,0 +1,63 @@
+---
+aliases:
+class: Muscarinic antagonist
+chemistry: Tropane alkaloid
+dose: 600µg-3mg IV
+pharmaceutics:
+    presentation:
+        - Clear colourless solution at 600µg/mL; racemic mixture with only the L-isomer active
+    compatibility:
+    solubility: Atropine sulfate is highly water-soluble; pKa 15.5
+pharmacokinetics:
+    absorption: 90% oral bioavailability; onset of cardiovascular effect within 2-4 minutes of IV administration
+    distribution:
+        pKa: 15.5
+        vd: 1-6 L/kg
+        protein binding: 50%
+    metabolism:
+        half-life: 2-5 hours
+        duration: 2-3 hours (cardiovascular effects)
+        pathway: 50% hepatic hydrolysis
+        metabolites: Tropane, tropic acid, noratropine
+    elimination:
+        renal: 50% excreted unchanged; remainder as metabolites
+mechanism:
+    target:
+        - Muscarinic receptor (M1-M5)
+    action: Competitive antagonism of acetylcholine at muscarinic receptors (M1-M5), which are mainly Gq-coupled, decreasing intracellular ionised calcium and cAMP concentration
+contraindications:
+pharmacodynamics:
+    resp:
+        - Bronchodilation
+        - ↓ Secretions
+    cvs:
+        - ↑ HR
+        - ↑ AV nodal conduction
+    cns:
+        - Central anticholinergic syndrome
+        - Confusion
+        - Delirium
+        - Hallucinations
+        - Mydriasis
+        - ↑ IOP
+        - ↑ CSF secretion in choroid
+        - Cerebral vasoconstriction
+    endo:
+    msk:
+        - Inhibits sweating
+    met:
+    ren:
+    gu:
+        - Urinary retention
+    git:
+        - ↓ LoS tone
+        - ↓ Gastric acid secretion
+        - ↓ Intestinal motility
+        - Constipation
+        - Antiemetic effect
+    haeme:
+considerations:
+    - Crosses the blood-brain barrier
+references:
+    - Smith S, Scarth E, Sasada M. Drugs in Anaesthesia and Intensive Care. 4th Ed. Oxford University Press. 2011.
+    - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.
