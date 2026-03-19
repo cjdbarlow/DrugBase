@@ -1,0 +1,74 @@
+---
+aliases:
+class: Muscarinic antagonist
+chemistry: Racemic tertiary amine tropane alkaloid; L-isomer active
+dose:
+    Bradycardia: 0.5-1mg IV Q5min; max 2mg
+    Premedication: 300-600µg IM/SC 1h before anaesthesia, or IV before induction
+    Reversal: 600µg-1.2mg slow IV with anticholinesterase
+    Organophosphates: 1-2mg IV/IM (up to 6mg if severe) Q5min; then 0.02-0.08mg/kg/h IV
+pharmaceutics:
+    presentation: 600µg/mL clear colourless solution
+    compatibility:
+    solubility: Atropine sulfate is highly water-soluble
+pharmacokinetics:
+    absorption: 90% PO bioavailability; IV cardiac onset 2-4min
+    distribution:
+        pKa: 15.5
+        vd: 1-6L/kg
+        protein binding: 50%
+    metabolism:
+        half-life: 2-5h
+        duration: Cardiac 2-3h
+        pathway: ~50% hepatic hydrolysis
+        metabolites: Tropane, tropic acid, noratropine
+    elimination:
+        renal: ~50% unchanged; remainder as metabolites
+mechanism:
+    target:
+        - Muscarinic receptors (M1-M5)
+    action: Reversible, competitive, non-selective muscarinic antagonism → parasympatholysis
+contraindications:
+pregnancy:
+    code: A
+    justification:
+pharmacodynamics:
+    resp:
+        - Bronchodilation
+        - ↓ Secretions
+    cvs:
+        - ↑ HR
+        - ↑ AV nodal conduction
+        - Arrhythmias
+    cns:
+        - Central anticholinergic syndrome; confusion/delirium/hallucinations
+        - Mydriasis; ↑ IOP
+        - ↑ CSF secretion in choroid
+        - Cerebral vasoconstriction
+    endo:
+    msk:
+        - ↓ Sweating → hyperthermia
+    met:
+    ren:
+    gu:
+        - Urinary retention
+    git:
+        - ↓ LoS tone
+        - ↓ Gastric acid secretion
+        - ↓ Intestinal motility
+        - Constipation
+        - Antiemetic effect
+    haeme:
+considerations:
+    - 'Relative cautions: pyloric stenosis, glaucoma, prostatic hypertrophy'
+    - Crosses BBB and placenta
+    - Doses <0.5mg may cause paradoxical bradycardia in adults
+    - ↓ Airway secretions → mucus plugging
+references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 4 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Juno Pharmaceuticals Pty Ltd. ATROPINE JUNO Australian Product Information. Revised 15 June 2022.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Young P, Psirides A. Wellington ICU Drug Manual. 2nd Ed. Wellington Regional Hospital. 2013.
+    - Smith S, Scarth E, Sasada M. Drugs in Anaesthesia and Intensive Care. 4th Ed. Oxford University Press. 2011.
+    - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.
