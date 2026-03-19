@@ -1,0 +1,46 @@
+---
+aliases:
+class: Dopamine receptor agonist
+chemistry: Benzazepine
+dose:
+pharmaceutics:
+    presentation:
+    compatibility:
+    solubility: Slightly soluble in water; highly soluble in organic solvents; pKa 8.12
+pharmacokinetics:
+    absorption: Oral bioavailability 5.7% due to extensive first-pass metabolism
+    distribution:
+        pKa: 8.12
+        vd: 0.3-0.7 L/kg
+        protein binding: 88%
+    metabolism:
+        half-life: 10 minutes
+        duration: Similar to half-life
+        pathway: 99% hepatic into a variety of metabolites
+        metabolites:
+    elimination:
+        renal:
+mechanism:
+    target:
+        - DA1 receptor
+        - α2 adrenoceptor
+    action: Afferent renal vascular vasodilation (↑ GFR) and natriuresis via Na+/K+ ATPase inhibition in the proximal tubule and thick ascending limb, decreasing sodium reabsorption
+contraindications:
+pharmacodynamics:
+    resp:
+    cvs:
+        - Hypotension
+        - Tachycardia
+        - Flushing
+        - Vasodilation
+    cns:
+    endo:
+    msk:
+    met:
+        - Hypokalemia
+    ren:
+    gu:
+    git:
+    haeme:
+considerations:
+references:
