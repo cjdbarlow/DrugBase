@@ -1,0 +1,50 @@
+---
+aliases:
+class: Naturally occurring purine nucleoside
+chemistry:
+dose: 3mg/6mg/12mg IV in increasing doses
+pharmaceutics:
+    presentation:
+        - Colourless solution at 3mg/mL
+    compatibility:
+    solubility:
+pharmacokinetics:
+    absorption:
+    distribution:
+        pKa:
+        vd:
+        protein binding:
+    metabolism:
+        half-life: Less than 10 seconds
+        duration:
+        pathway: Rapidly deaminated in plasma
+        metabolites:
+    elimination:
+        renal:
+mechanism:
+    target:
+        - A1 adenosine receptor
+    action: Stimulation of A1 adenosine receptors in the SA and AV nodes opens K+ channels causing hyperpolarisation and reduces Ca2+ current, with subsequent blockade of AV nodal conduction
+contraindications:
+    - Sick sinus syndrome
+    - 2nd and 3rd degree AV block
+pharmacodynamics:
+    resp:
+        - Bronchospasm
+        - ↑ RR and ↑ VT
+    cvs:
+        - ↓↓ AV nodal conduction
+        - May cause AF or flutter
+    cns:
+    endo:
+    msk:
+    met:
+    ren:
+    gu:
+    git:
+    haeme:
+considerations:
+    - Dipyridamole increases effect
+    - Methylxanthines (aminophylline, caffeine) decrease effect
+references:
+    - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.
