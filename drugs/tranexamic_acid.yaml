@@ -1,0 +1,51 @@
+---
+aliases: TXA
+class: Serine protease inhibitor
+chemistry: Monocarboxylic acid; synthetic derivative of lysine
+dose:
+    IV: 1g slow IV; may be followed by infusion of 1g over 8 hours
+pharmaceutics:
+    presentation:
+        - Tablets
+        - Syrup
+        - Clear colourless solution for injection
+    compatibility:
+    solubility: Highly water-soluble; minimally fat-soluble
+pharmacokinetics:
+    absorption: 50% oral bioavailability
+    distribution:
+        pKa: 10.22
+        vd: 0.18 L/kg
+        protein binding: 3% (all to plasminogen)
+    metabolism:
+        half-life: 2 hours
+        duration:
+        pathway: Minimally metabolised
+        metabolites:
+    elimination:
+        renal: 95% excreted unchanged in urine; dose reduction required in renal impairment
+mechanism:
+    target:
+        - Plasminogen
+    action: Competitive inhibitor of plasminogen activation by binding to the 5-lysine site on plasminogen, inhibiting formation of plasmin and displacing plasminogen from the surface of fibrin
+contraindications:
+pharmacodynamics:
+    resp:
+    cvs:
+    cns:
+    endo:
+    msk:
+    met:
+    ren:
+    gu:
+    git:
+        - Nausea
+        - Vomiting
+    haeme:
+        - Reduces fibrinolysis
+        - Possible ↑ DVT/PE risk
+considerations:
+    - Dose reduction required in renal impairment
+    - Allergic dermatitis reported
+references:
+    - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.
