@@ -1,0 +1,42 @@
+---
+aliases: tPA
+class: Thrombolytic agent
+chemistry: Recombinant protein
+dose:
+pharmaceutics:
+    presentation:
+    compatibility:
+    solubility: Good water solubility
+pharmacokinetics:
+    absorption: Zero oral bioavailability
+    distribution:
+        pKa: 6.25
+        vd: 0.07 L/kg
+        protein binding: Minimal
+    metabolism:
+        half-life: Elimination ~72 minutes
+        duration:
+        pathway: Metabolised by hepatic reticuloendothelial system
+        metabolites:
+    elimination:
+        renal: Minimal renal excretion
+mechanism:
+    target:
+        - Plasminogen-fibrin complex
+    action: Binds plasminogen in the presence of fibrin; catalyses conversion of plasminogen to plasmin, which degrades fibrin strands
+contraindications:
+pharmacodynamics:
+    resp:
+    cvs:
+    cns:
+    endo:
+    msk:
+    met:
+    ren:
+    gu:
+    git:
+    haeme:
+        - Bleeding
+considerations:
+    - Risk of anaphylaxis (recombinant protein)
+references:
