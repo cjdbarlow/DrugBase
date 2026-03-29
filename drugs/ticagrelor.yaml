@@ -1,0 +1,66 @@
+---
+aliases: Brilinta
+class: P2Y12 inhibitor
+chemistry: Nucleoside (adenosine) analogue
+dose:
+    Load: 180mg PO
+    Maintenance: 90mg PO BD
+pharmaceutics:
+    presentation: 90mg film-coated or orodispersible tablets
+    compatibility: May crush/disperse for PO/NG administration
+    solubility: Practically insoluble in water
+pharmacokinetics:
+    absorption: 25-65% PO bioavailability; absorption within 2-4h
+    distribution:
+        pKa: 12.9
+        vd: 1.2L/kg
+        protein binding: 99.8%
+    metabolism:
+        half-life: ~8h
+        duration: 48-72h; ~60% platelet inhibition at 24h and ~10% at 5 days
+        pathway: Active parent; CYP3A → active AR-C124910XX
+        metabolites: AR-C124910XX (active)
+    elimination:
+        renal: Inactive metabolites renal; active metabolite biliary; majority faecal
+mechanism:
+    target:
+        - P2Y12 receptor
+    action: Reversible non-competitive P2Y12 inhibition → prevents ADP-mediated platelet activation and GPIIb/IIIa activation
+contraindications:
+    - Active bleeding
+    - Previous ICH
+    - Moderate-severe hepatic impairment
+    - Strong CYP3A4 inhibitors
+pregnancy:
+    code: B1
+    justification:
+pharmacodynamics:
+    resp:
+        - Dyspnoea
+    cvs:
+        - Bradyarrhythmia; AV block
+    cns:
+    endo:
+    msk:
+    met:
+        - ↑ Urate; gout
+    ren:
+        - ↑ Creatinine
+    gu:
+    git:
+    haeme:
+        - Bleeding
+        - Aplastic anaemia; thrombocytopenia; neutropenia
+        - TTP
+considerations:
+    - Stop ≥5 days before elective surgery
+    - Platelet transfusion unlikely to reverse effect
+    - Not dialysable
+references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 4 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - AstraZeneca Pty Ltd. BRILINTA Australian Product Information. Revised 10 October 2025.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.
+    - Rang HP, Dale MM, Ritter JM, Flower RJ. Rang and Dale's Pharmacology. 6th Ed. Churchill Livingstone.
+    - 'Dobesh PP, Oestreich JH. Ticagrelor: Pharmacokinetics, Pharmacodynamics, Clinical Efficacy, and Safety. Pharmacotherapy. 2014;34(10):1077-90.'

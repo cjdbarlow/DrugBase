@@ -1,0 +1,62 @@
+---
+aliases:
+class: P2Y12 inhibitor
+chemistry: Thienopyridine
+dose:
+    Load: 60mg PO
+    Maintenance: 10mg PO daily; 5mg if <60kg or consider if ≥75 years
+pharmaceutics:
+    presentation: 5mg and 10mg tablets
+    compatibility:
+    solubility: Practically insoluble in water
+pharmacokinetics:
+    absorption: Rapid, complete absorption; 80% PO bioavailability
+    distribution:
+        pKa: 5.1
+        vd: 1L/kg
+        protein binding: 98% (mainly albumin)
+    metabolism:
+        half-life: Active metabolite 5-7h
+        duration: 7-10 days
+        pathway: Prodrug; intestinal hydrolysis → thiolactone → active metabolite via CYP3A4/2B6
+        metabolites: Active thiol; inactive metabolites
+    elimination:
+        renal: 68% of metabolites in urine; remainder in faeces
+mechanism:
+    target:
+        - P2Y12 receptor
+    action: Irreversible P2Y12 inhibition → prevents ADP-mediated platelet activation and GPIIb/IIIa activation; ↑ potency vs clopidogrel
+contraindications:
+    - Active bleeding
+    - Previous TIA/CVA
+    - Severe hepatic impairment
+pregnancy:
+    code: B1
+    justification: Placental haemorrhage → prematurity/fetal loss
+pharmacodynamics:
+    resp:
+    cvs:
+        - ↓ MI/stent thrombosis/revascularisation vs clopidogrel
+    cns:
+    endo:
+    msk:
+    met:
+    ren:
+    gu:
+    git:
+    haeme:
+        - Bleeding; ↑ vs clopidogrel
+        - Aplastic anaemia; thrombocytopenia; neutropenia
+        - TTP
+considerations:
+    - ≥75 years → generally avoid
+    - Stop ≥7 days before elective surgery
+    - Greater benefit in diabetes vs clopidogrel/ticagrelor
+references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 4 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Southern Cross Pharma Pty Ltd. PRASUGREL LUPIN Australian Product Information. Revised 6 March 2024.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.
+    - Rang HP, Dale MM, Ritter JM, Flower RJ. Rang and Dale's Pharmacology. 6th Ed. Churchill Livingstone.
+    - Australian Prescriber. Prasugrel. National Prescriber. 2010.

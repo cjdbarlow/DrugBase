@@ -1,0 +1,65 @@
+---
+aliases:
+class: Non-selective COX inhibitor
+chemistry: Aromatic acetate
+dose:
+    Antiplatelet: 100mg PO daily
+    Analgesia/migraine: 300-900mg PO Q4-6H; max 3.6g/day
+pharmaceutics:
+    presentation: 100mg, 300mg and 500mg tablets
+    compatibility:
+    solubility: Slightly water-soluble
+pharmacokinetics:
+    absorption: 50% PO bioavailability; rapid absorption, mainly from upper small intestine; Tmax ~1h
+    distribution:
+        pKa: 2.97
+        vd: 0.1-0.2L/kg
+        protein binding: 58% (aspirin); salicylate 80-90%
+    metabolism:
+        half-life: Aspirin ~20min; salicylate 2-12h (dose-dependent)
+        duration:
+        pathway: ~80% hepatic → salicyluric acid and glucuronides; saturable in overdose
+        metabolites: Salicylic acid (active); salicyluric acid; glucuronides
+    elimination:
+        renal: Urine; alkalinisation ↑ unchanged salicylate clearance
+mechanism:
+    target:
+        - COX-1
+        - COX-2
+    action: Irreversible COX acetylation → ↓ TxA2/PGI2; platelet COX-1 inhibition → ↓ aggregation for platelet lifespan; endothelium regenerates COX within hours
+contraindications:
+    - Active GI bleeding
+    - Viral fever in children
+pregnancy:
+    code: C
+    justification: Late use → duct closure, delayed labour and maternal/neonatal bleeding; 100mg/day does not ↑ bleeding time
+pharmacodynamics:
+    resp:
+        - Uncouples oxidative phosphorylation → ↑ O2 consumption and CO2 production
+        - Stimulates, then depresses, respiratory centre in toxicity
+        - Bronchospasm (~20% of asthmatics with NSAID use)
+    cvs:
+        - ↓ MI/CVA risk
+        - ↑ MAP; CCF exacerbation
+    cns:
+    endo:
+    msk:
+    met:
+        - 'Toxicity: respiratory alkalosis/metabolic acidosis; respiratory depression → respiratory acidosis'
+        - 'Reye syndrome (<12 years): mitochondrial injury → hepatic failure/cerebral oedema/encephalopathy; mortality ~40%'
+    ren:
+        - AKI
+    gu:
+    git:
+        - GI ulceration
+    haeme:
+        - Bleeding
+considerations:
+    - Zero-order elimination in overdose
+    - Urinary alkalinisation ↑ elimination
+references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 4 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - 'Therapeutic Goods Administration. Over-the-counter medicine monograph: Aspirin tablets for oral use. Updated 17 October 2024.'
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.
