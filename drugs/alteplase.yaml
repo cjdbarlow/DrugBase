@@ -1,0 +1,65 @@
+---
+aliases:
+    - tPA
+    - Actilyse
+class: Thrombolytic
+chemistry: Recombinant protein
+dose:
+    STEMI: '≥65kg: 15mg IV, then 50mg/30min, then 35mg/60min; <65kg: 15mg IV, then 0.75mg/kg/30min (max 50mg), then 0.5mg/kg/60min (max 35mg)'
+    massive PE: '≥65kg: 10mg IV over 1-2min, then 90mg/2h; <65kg: 10mg IV over 1-2min, then infusion over 2h (total max 1.5mg/kg)'
+    ischaemic stroke: 0.9mg/kg IV (max 90mg); 10% bolus, remainder over 60min; within 4.5h
+pharmaceutics:
+    presentation: 10mg, 50mg powder (IV); 20mg not distributed
+    compatibility: Dedicated IV line; reconstitute to 1mg/mL; NS dilution to ≥0.2mg/mL
+    solubility: Good water solubility
+pharmacokinetics:
+    absorption: Zero oral bioavailability
+    distribution:
+        pKa: 6.25
+        vd: 0.07L/kg
+        protein binding: Minimal
+    metabolism:
+        half-life: Elimination ~72min
+        duration:
+        pathway: Hepatic reticuloendothelial metabolism
+        metabolites:
+    elimination:
+        renal: Minimal
+mechanism:
+    target:
+        - Fibrin-bound plasminogen
+    action: Fibrin-enhanced plasminogen activation → plasmin → fibrin degradation
+contraindications:
+    - Active/recent major bleeding
+    - Previous/suspected ICH or high-risk CNS lesion
+    - Severe uncontrolled hypertension
+    - Recent major surgery, trauma or obstetric delivery
+    - Effective oral anticoagulation
+    - Other IV thrombolytic
+    - 'Stroke: onset unknown/>4.5h, ICH, BP >185/110mmHg, platelets <100×10⁹/L or seizure at onset'
+pregnancy:
+    code: B1
+    justification:
+pharmacodynamics:
+    resp:
+    cvs:
+        - Reperfusion dysrhythmias
+    cns:
+        - ICH
+    endo:
+    msk:
+    met:
+    ren:
+    gu:
+    git:
+    haeme:
+        - Bleeding
+considerations:
+    - IA use described separately; selected ACTILYSE PI is IV only
+    - ACE inhibitors → ↑ anaphylactoid reactions
+    - Stroke → avoid IV heparin/antiplatelets for 24h
+references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 4 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Boehringer Ingelheim Pty Ltd. ACTILYSE Australian Product Information. Revised 17 October 2023.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
