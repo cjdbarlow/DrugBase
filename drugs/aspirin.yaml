@@ -1,0 +1,58 @@
+---
+aliases:
+class: Non-selective COX inhibitor
+chemistry: Aromatic acetate
+dose:
+    Antiplatelet: 100mg PO daily
+    Analgesia/migraine: 300-900mg PO
+pharmaceutics:
+    presentation:
+    compatibility:
+    solubility: Only slightly water-soluble
+pharmacokinetics:
+    absorption: 50% oral bioavailability; gastric absorption due to pKa 3 leads to rapid onset
+    distribution:
+        pKa: 2.97
+        vd: 0.1-0.2 L/kg
+        protein binding: 85%
+    metabolism:
+        half-life: Salicylic acid: 2-12 hours depending on dose
+        duration:
+        pathway: 80% hepatic to salicyluric acid and glucuronides; active metabolite salicylic acid; may exhibit zero-order elimination kinetics in overdose
+        metabolites: Salicylic acid (active); salicyluric acid; glucuronides
+    elimination:
+        renal: Renal elimination; urinary alkalinisation increases elimination rate
+mechanism:
+    target:
+        - COX-1
+        - COX-2
+    action: Irreversible inhibition of COX-1 isoenzyme → ↓ thromboxane A2 synthesis → ↓ platelet activation and aggregation; also prevents PGI2 production. In platelets, COX inhibition persists for the platelet lifespan; endothelial cells regenerate COX within hours
+contraindications:
+pharmacodynamics:
+    resp:
+        - Uncouples oxidative phosphorylation → ↑ O2 consumption and CO2 production
+        - Stimulates (and at higher doses depresses) respiratory centre
+        - In overdose may result in mixed respiratory and metabolic acidosis
+        - Bronchospasm in asthmatics (approximately 20% of asthmatics with NSAID use)
+    cvs:
+        - ↓ MI and CVA risk
+        - ↑ Bleeding
+        - CCF exacerbation
+        - Hypertension
+    cns:
+    endo:
+    msk:
+    met:
+        - "Reye's syndrome in children under 12: mitochondrial damage, hepatic failure, cerebral oedema, and encephalopathy; mortality 40%"
+    ren:
+        - Acute kidney injury
+    gu:
+    git:
+        - GI ulceration
+    haeme:
+        - Haemorrhage
+considerations:
+    - Zero-order elimination kinetics possible in overdose
+    - Urinary alkalinisation increases elimination
+references:
+    - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.

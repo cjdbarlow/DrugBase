@@ -1,0 +1,50 @@
+---
+aliases:
+class: Antiplatelet agent; P2Y12 receptor antagonist
+chemistry: Nucleoside (adenosine) analog
+dose:
+    Load: 180mg PO
+    Maintenance: 90mg PO BD
+pharmaceutics:
+    presentation:
+    compatibility:
+    solubility: Basically insoluble in water
+pharmacokinetics:
+    absorption: Erratic oral bioavailability 25-65%; absorption within 2-4 hours
+    distribution:
+        pKa: 12.9
+        vd: 1.2 L/kg
+        protein binding: 99.8%
+    metabolism:
+        half-life: Approximately 8 hours
+        duration: "48-72 hours; approximately 60% activity persists at 24 hours, 10% at 5 days"
+        pathway: Not a prodrug; extensive hepatic CYP3A metabolism; one active metabolite (parent drug also pharmacologically active)
+        metabolites: One active metabolite
+    elimination:
+        renal: Inactive metabolites renally excreted; main active metabolite undergoes biliary excretion; majority eliminated in faeces
+mechanism:
+    target:
+        - P2Y12 ADP receptor
+    action: Reversible, non-competitive binding to P2Y12 receptor → prevents ADP-mediated platelet activation and the subsequent activation of the GPIIb/IIIa complex
+contraindications:
+pharmacodynamics:
+    resp:
+        - Unexplained dyspnoea
+    cvs:
+    cns:
+    endo:
+    msk:
+    met:
+    ren:
+    gu:
+    git:
+    haeme:
+        - Haemorrhage
+        - Aplastic anaemia
+        - Thrombocytopenia
+        - Neutropenia
+considerations:
+references:
+    - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.
+    - Rang HP, Dale MM, Ritter JM, Flower RJ. Rang and Dale's Pharmacology. 6th Ed. Churchill Livingstone.
+    - Dobesh PP, Oestreich JH. Ticagrelor: Pharmacokinetics, Pharmacodynamics, Clinical Efficacy, and Safety. Pharmacotherapy. 2014;34(10):1077-90.

@@ -1,0 +1,50 @@
+---
+aliases:
+class: Antiplatelet agent; ADP receptor antagonist
+chemistry: Thienopyridine
+dose:
+    Load: 300mg PO
+    Maintenance: 75mg PO daily
+pharmaceutics:
+    presentation:
+    compatibility:
+    solubility: Basically insoluble in water
+pharmacokinetics:
+    absorption: 50% absorbed; only 2% of oral dose converted to active metabolite; rapid absorption with onset within 2 hours
+    distribution:
+        pKa: 3.5
+        vd: 550 L/kg
+        protein binding: 98%
+    metabolism:
+        half-life: Approximately 8 hours
+        duration: 7-10 days (irreversible platelet binding)
+        pathway: Prodrug; majority hydrolysed by carboxylesterase 1 to inactive carboxylic acid metabolite; only 2% converted by CYP450 to clop-AM (active form)
+        metabolites: Clop-AM (active); inactive carboxylic acid metabolite
+    elimination:
+        renal: 50% urinary, 50% faecal elimination of metabolites
+mechanism:
+    target:
+        - P2Y12 ADP receptor
+    action: Irreversibly inhibits ADP binding to P2Y12 receptor on platelets, preventing platelet activation and the subsequent ADP-mediated activation of the GPIIb/IIIa complex
+contraindications:
+pharmacodynamics:
+    resp:
+    cvs:
+    cns:
+    endo:
+    msk:
+    met:
+    ren:
+    gu:
+    git:
+        - Mucosal irritation
+    haeme:
+        - Haemorrhage
+        - Aplastic anaemia
+        - Thrombocytopenia
+        - Neutropenia
+considerations:
+    - Many pharmacokinetic interactions including genetic variability in CYP450 metabolism
+references:
+    - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.
+    - Rang HP, Dale MM, Ritter JM, Flower RJ. Rang and Dale's Pharmacology. 6th Ed. Churchill Livingstone.

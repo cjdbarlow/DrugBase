@@ -1,0 +1,47 @@
+---
+aliases:
+class: Antiplatelet agent; GP IIb/IIIa antagonist
+chemistry: Tyrosine derivative
+dose:
+    Load: 25 mcg/kg IV
+    Maintenance: 15 mcg/kg IV
+pharmaceutics:
+    presentation:
+    compatibility:
+    solubility: Slightly soluble in water
+pharmacokinetics:
+    absorption: Minimal oral bioavailability
+    distribution:
+        pKa: 3.7
+        vd: 0.4-1.0 L/kg
+        protein binding: 64%
+    metabolism:
+        half-life: Approximately 2 hours
+        duration: Platelet aggregation returns to baseline 4-8 hours after cessation
+        pathway: Minimal metabolism
+        metabolites:
+    elimination:
+        renal: Cleared renally as unchanged drug
+mechanism:
+    target:
+        - GP IIb/IIIa receptor
+    action: Reversible antagonism of the GPIIb/IIIa receptor, preventing binding of fibrinogen, fibrin, and von Willebrand factor, thus preventing platelet crosslinking and aggregation
+contraindications:
+pharmacodynamics:
+    resp:
+    cvs:
+        - Coronary artery dissection
+    cns:
+    endo:
+    msk:
+    met:
+    ren:
+    gu:
+    git:
+    haeme:
+        - Haemorrhage
+considerations:
+    - Onset within 10 minutes of IV administration
+references:
+    - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.
+    - Rang HP, Dale MM, Ritter JM, Flower RJ. Rang and Dale's Pharmacology. 6th Ed. Churchill Livingstone.

@@ -1,0 +1,52 @@
+---
+aliases:
+class: Antiplatelet agent; ADP receptor antagonist
+chemistry: Thienopyridine
+dose:
+    Load: 60mg PO
+    Maintenance: 10mg PO daily
+pharmaceutics:
+    presentation:
+    compatibility:
+    solubility: Basically insoluble in water
+pharmacokinetics:
+    absorption: Rapidly and completely absorbed; 80% bioavailability
+    distribution:
+        pKa: 5.1
+        vd: 1 L/kg
+        protein binding: 98% (mainly albumin)
+    metabolism:
+        half-life: Active metabolite 5-7 hours
+        duration: 7-10 days (irreversible platelet binding)
+        pathway: Prodrug; hepatic conversion by CYP3A4 and CYP2B6 to active metabolite
+        metabolites:
+    elimination:
+        renal: 68% of metabolites in urine; remainder in faeces
+mechanism:
+    target:
+        - P2Y12 ADP receptor
+    action: Irreversibly binds P2Y12 receptor → prevents platelet activation and the ADP-mediated activation of the GPIIb/IIIa complex; greater potency than clopidogrel
+contraindications:
+pharmacodynamics:
+    resp:
+    cvs:
+        - Fewer cardiovascular adverse events (stent thrombosis, revascularisation, MI) compared with clopidogrel
+    cns:
+    endo:
+    msk:
+    met:
+    ren:
+    gu:
+    git:
+    haeme:
+        - Haemorrhage
+        - Greater risk of bleeding compared with clopidogrel
+        - Aplastic anaemia
+        - Thrombocytopenia
+        - Neutropenia
+considerations:
+    - Greater benefit in diabetic patients compared with clopidogrel or ticagrelor
+references:
+    - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.
+    - Rang HP, Dale MM, Ritter JM, Flower RJ. Rang and Dale's Pharmacology. 6th Ed. Churchill Livingstone.
+    - Australian Prescriber. Prasugrel. National Prescriber. 2010.
