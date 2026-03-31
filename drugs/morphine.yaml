@@ -1,0 +1,78 @@
+---
+aliases:
+class: Opioid
+chemistry: Natural phenanthrene opioid
+dose:
+    Analgesia (IV): 0.1-0.2mg/kg every 4 hours PRN; administer slowly
+    Analgesia (IV Infusion): 0.02-0.04mg/kg/hr
+pharmaceutics:
+    presentation: Clear, slightly yellow to yellow, preservative-free solution; 5, 10, 15 or 30mg/mL; pH 3.2-4.0
+    compatibility: Compatible with 0.9% NaCl, 5% glucose and Hartmann's; incompatible with alkaline solutions, aminophylline, barbiturates and phenytoin
+    solubility: "pKa 8.0; octanol-water partition coefficient ~1.42; 23% unionised at pH 7.4"
+pharmacokinetics:
+    absorption: PO bioavailability 30%; low lipid solubility → slower onset and SC absorption
+    distribution:
+        pKa: 8.0
+        vd: 3.5 L/kg
+        protein binding: 35%
+    metabolism:
+        half-life: 1.5-2 hours (healthy subjects)
+        duration: 3-4 hours
+        pathway: Hepatic glucuronidation to morphine-3-glucuronide (~70%; neuroexcitatory) and morphine-6-glucuronide (~10%; active)
+        metabolites: Morphine-3-glucuronide (neuroexcitatory); morphine-6-glucuronide (active)
+    elimination:
+        renal: Renal elimination of glucuronides; accumulation in renal impairment
+mechanism:
+    target:
+        - μ-opioid receptor (MOP)
+        - κ-opioid receptor (KOP)
+    action: Gi/o activation → ↓ adenylyl cyclase and cAMP; ↑ postsynaptic K+ conductance and ↓ presynaptic Ca2+ influx → hyperpolarisation and ↓ neurotransmitter release
+contraindications:
+pregnancy:
+    code: C
+    justification: Neonatal respiratory depression; withdrawal with prolonged use
+pharmacodynamics:
+    resp:
+        - ↓ CNS sensitivity to CO2 → ↓ RR and ↓ VT (↓ RR > ↓ VT)
+        - ↑ Reliance on hypoxic drive
+        - Respiratory depression potentiated by high FiO2
+    cvs:
+        - ↓ HR
+        - ↓ BP due to non-immune histamine release → vasodilation
+        - ↑ PVR
+    cns:
+        - Sedation
+        - Euphoria
+        - Nausea and vomiting due to CTZ stimulation
+        - Miosis (stimulation of Edinger-Westphal nucleus)
+        - ↓ MAC up to 90%
+    endo:
+    msk:
+        - Muscle rigidity
+        - Pruritus (especially with intrathecal administration)
+    met:
+        - ↓ ACTH, gonadotrophins, cortisol and testosterone; ↑ prolactin
+    ren:
+        - ↑ ADH
+        - ↑ Ureteric and bladder sphincter tone → urinary retention
+    gu:
+    git:
+        - ↓ Peristalsis and GIT secretions → constipation
+    haeme:
+considerations:
+    - ↑ Free drug in renal failure as uraemia displaces morphine from binding sites
+    - Morphine-3-glucuronide and morphine-6-glucuronide accumulate in renal impairment → neuroexcitation and prolonged opioid effect
+    - "Equianalgesic dose (IV reference): 10mg"
+references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 4 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Pfizer Australia Pty Ltd. DBL Morphine Sulfate Injection Australian Product Information. Version pfpmorpi10925. Revised 19 September 2025.
+    - WA Country Health Service. Critical Care Medication Administration for Adults Guideline. Version 2.0. 12 November 2025.
+    - Fresenius Kabi USA, LLC. Morphine Sulfate Injection, USP prescribing information. Revised March 2025.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Young P, Psirides A. Wellington ICU Drug Manual. 2nd Ed. Wellington Regional Hospital. 2013.
+    - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.
+    - Smith S, Scarth E, Sasada M. Drugs in Anaesthesia and Intensive Care. 4th Ed. Oxford University Press. 2011.
+    - Petkov V. Essential Pharmacology For The ANZCA Primary Examination. Vesselin Petkov. 2012.
+    - ANZCA July/September 2010
+    - "Schug SA, Palmer GM, Scott DA, Halliwell R, Trinca J. Acute Pain Management: Scientific Evidence. 4th Ed. 2015. ANZCA and Faculty of Pain Medicine."

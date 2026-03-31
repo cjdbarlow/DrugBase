@@ -1,0 +1,78 @@
+---
+aliases: OxyNorm
+class: Opioid
+chemistry: Semisynthetic phenanthrene opioid
+dose:
+    Analgesia (PO IR): 5-10mg every 4-6 hours
+    Analgesia (IV): Initially 1-5mg over 1-2min; increments every 5-10min to establish analgesia; maintenance ≥4h apart
+    PCA (IV): ≤0.03mg/kg; ≥5min lockout
+pharmaceutics:
+    presentation: 10mg/mL injection/infusion; 50mg/mL infusion only (opioid-tolerant palliative care)
+    compatibility: 0.9% NaCl, 5% glucose and water for injections; likely incompatible with alkaline formulations (precipitation); incompatible with prochlorperazine
+    solubility: "pKa 8.5; quite hydrophilic; less than 10% unionised at physiological pH"
+pharmacokinetics:
+    absorption: PO bioavailability 60-80%; SC Tmax 15-30 minutes; equivalent IV and SC availability; morphine-like lipid solubility but faster onset, possibly due to active CNS uptake
+    distribution:
+        pKa: 8.5
+        vd: 3 L/kg
+        protein binding: 45%
+    metabolism:
+        half-life: 3-5 hours
+        duration: ~4h (IV)
+        pathway: Hepatic CYP3A4 → noroxycodone (~80%); CYP2D6 → oxymorphone (~20%); metabolites make little contribution to effect
+        metabolites: Noroxycodone; oxymorphone (minor contribution to effect)
+    elimination:
+        renal: Renal elimination of parent drug and metabolites; accumulation in renal impairment
+mechanism:
+    target:
+        - μ-opioid receptor (MOP)
+        - κ-opioid receptor (KOP)
+        - δ-opioid receptor (DOP)
+    action: Gi/o activation → ↓ adenylyl cyclase and cAMP; ↑ postsynaptic K+ conductance and ↓ presynaptic Ca2+ influx → hyperpolarisation and ↓ neurotransmitter release
+contraindications:
+pregnancy:
+    code: C
+    justification: Neonatal respiratory depression; withdrawal with prolonged use
+pharmacodynamics:
+    resp:
+        - ↓ CNS sensitivity to CO2 → ↓ RR and ↓ VT (↓ RR > ↓ VT)
+        - ↑ Reliance on hypoxic drive
+        - Respiratory depression potentiated by high FiO2
+    cvs:
+        - ↓ HR
+        - ↓ BP due to histamine release/peripheral vasodilation
+        - ↑ PVR
+    cns:
+        - Sedation
+        - Euphoria
+        - Nausea and vomiting due to CTZ stimulation
+        - Miosis (stimulation of Edinger-Westphal nucleus)
+        - ↓ MAC up to 90%
+    endo:
+    msk:
+        - Muscle rigidity
+        - Pruritus (especially with intrathecal administration)
+    met:
+        - ↓ ACTH, gonadotrophins, cortisol and testosterone; ↑ prolactin
+    ren:
+        - ↑ ADH
+        - ↑ Ureteric and bladder sphincter tone → urinary retention
+    gu:
+    git:
+        - ↓ Peristalsis and GIT secretions → constipation
+    haeme:
+considerations:
+    - ↑ Oxycodone and noroxycodone in renal/hepatic impairment
+    - "Equianalgesic dose (PO): 10mg = 15mg PO morphine"
+    - "Equianalgesic dose (IV): 10mg = 10mg IV morphine"
+references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 4 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Juno Pharmaceuticals Pty Ltd. Oxycodone Juno Australian Product Information. Version 11.0. Revised 18 December 2025.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Young P, Psirides A. Wellington ICU Drug Manual. 2nd Ed. Wellington Regional Hospital. 2013.
+    - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.
+    - Smith S, Scarth E, Sasada M. Drugs in Anaesthesia and Intensive Care. 4th Ed. Oxford University Press. 2011.
+    - Petkov V. Essential Pharmacology For The ANZCA Primary Examination. Vesselin Petkov. 2012.
+    - ANZCA July/September 2010
+    - "Schug SA, Palmer GM, Scott DA, Halliwell R, Trinca J. Acute Pain Management: Scientific Evidence. 4th Ed. 2015. ANZCA and Faculty of Pain Medicine."

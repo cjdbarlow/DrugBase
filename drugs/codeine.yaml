@@ -1,0 +1,80 @@
+---
+aliases: Aspen Codeine
+class: Opioid
+chemistry: Natural phenanthrene
+dose:
+    Analgesia: 15-60mg PO Q4H; max 300mg/day
+pharmaceutics:
+    presentation: 30mg tablet
+    compatibility:
+    solubility: pKa 8.21; relatively hydrophilic
+pharmacokinetics:
+    absorption: 50% PO bioavailability; onset 15-30min
+    distribution:
+        pKa: 8.21
+        vd: 3-6L/kg
+        protein binding: 7-25%
+    metabolism:
+        half-life: 2-3h
+        duration: Analgesia 4-6h
+        pathway: Mainly hepatic glucuronidation; CYP2D6 O-demethylation; CYP3A4 N-demethylation
+        metabolites: Codeine-6-glucuronide; morphine (active); norcodeine
+    elimination:
+        renal: Metabolites; 5-15% unchanged
+mechanism:
+    target:
+        - μ-opioid receptor (MOP)
+    action: Weak MOP agonism; CYP2D6 → morphine drives analgesia; Gi → ↓ presynaptic Ca²⁺ influx/cAMP; ↑ postsynaptic K⁺ efflux → hyperpolarisation
+contraindications:
+    - Respiratory depression/severe or acute respiratory disease
+    - Acute alcoholism
+    - MAOI within 10 days
+    - CYP2D6 ultrarapid metaboliser
+    - Age <12 years
+    - Age 12-18 years with compromised respiratory function
+    - Breastfeeding
+    - Post-biliary surgery
+    - Pseudomembranous colitis/poisoning-related diarrhoea until cause cleared
+pregnancy:
+    code: A
+    justification: Prolonged high-dose pre-delivery use → neonatal withdrawal
+pharmacodynamics:
+    resp:
+        - ↓ CNS sensitivity to CO₂ → ↓ RR and ↓ VT (↓ RR > ↓ VT)
+        - ↑ Reliance on hypoxic drive
+        - Respiratory depression potentiated by high FiO₂
+    cvs:
+        - ↓ HR
+        - May ↓ MAP via histamine release
+        - ↑ PVR
+    cns:
+        - Sedation/euphoria
+        - Nausea/vomiting via CTZ
+        - Miosis via Edinger-Westphal nucleus
+        - ↓ MAC up to 90%
+    endo:
+    msk:
+        - Muscle rigidity
+        - Pruritus, especially intrathecal
+    met:
+        - ↓ ACTH/gonadotrophins; ↑ prolactin
+        - ↑ ADH
+    ren:
+        - ↑ ADH
+        - ↑ Ureteric/sphincter tone
+    gu:
+    git:
+        - ↓ Peristalsis/GIT secretions → constipation
+    haeme:
+considerations:
+    - Head injury/↑ ICP → caution
+    - CYP2D6 poor metabolisers → ↓ analgesia; ultrarapid metabolisers → morphine toxicity
+    - Renal impairment → active-metabolite accumulation
+    - Impaired chemotaxis, lymphocyte proliferation and antibody production
+references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 4 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Aspen Pharmacare Australia Pty Ltd. ASPEN CODEINE Australian Product Information. Revised 11 September 2025.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Young P, Psirides A. Wellington ICU Drug Manual. 2nd Ed. Wellington Regional Hospital. 2013.
+    - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.

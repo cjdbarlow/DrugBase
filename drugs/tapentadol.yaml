@@ -1,0 +1,77 @@
+---
+aliases: Palexia IR
+class: Opioid; noradrenaline reuptake inhibitor
+chemistry: Synthetic phenylpropylamine opioid
+dose:
+    Analgesia: 50-100mg PO Q4-6H; max 600mg/day (700mg day 1)
+    Hepatic (moderate): Initially 50mg PO ≥8-hourly; max 3 doses/day
+pharmaceutics:
+    presentation: 50mg, 75mg, 100mg immediate-release tablets
+    compatibility:
+    solubility: pKa 9.34; highly lipophilic
+pharmacokinetics:
+    absorption: 30% PO bioavailability
+    distribution:
+        pKa: 9.34
+        vd: 7L/kg
+        protein binding: 20%
+    metabolism:
+        half-life: 6h
+        duration:
+        pathway: Hepatic glucuronidation (UGT1A6/1A9/2B7); minor CYP2C9/2C19/2D6
+        metabolites: Tapentadol-O-glucuronide, tapentadol sulfate, N-desmethyl tapentadol (inactive)
+    elimination:
+        renal: 99% of dose renally, including 3% unchanged
+mechanism:
+    target:
+        - μ-opioid receptor (MOP)
+        - Noradrenaline transporter (NET)
+    action: MOP agonism → ↓ presynaptic Ca²⁺ influx/cAMP, ↑ postsynaptic K⁺ efflux; NET inhibition → ↑ noradrenaline
+contraindications:
+    - Respiratory depression/severe or acute respiratory disease
+    - Paralytic ileus
+    - Acute intoxication with CNS depressants
+    - MAOI within 14 days
+pregnancy:
+    code: C
+    justification: Neonatal respiratory depression; withdrawal with prolonged use
+pharmacodynamics:
+    resp:
+        - ↓ CNS sensitivity to CO₂ → ↓ RR and ↓ VT (↓ RR > ↓ VT)
+        - ↑ Reliance on hypoxic drive
+        - Respiratory depression potentiated by high FiO₂
+    cvs:
+        - ↓ HR
+        - May ↓ MAP via histamine release
+        - ↑ PVR
+    cns:
+        - Sedation/euphoria
+        - Nausea/vomiting via CTZ
+        - Miosis via Edinger-Westphal nucleus
+        - ↓ MAC up to 90%
+        - Seizures
+    endo:
+    msk:
+        - Muscle rigidity
+        - Pruritus, especially intrathecal
+    met:
+        - ↓ ACTH/gonadotrophins; ↑ prolactin
+        - ↑ ADH
+    ren:
+        - ↑ ADH
+        - ↑ Ureteric/sphincter tone
+    gu:
+    git:
+        - ↓ Peristalsis/GIT secretions → constipation
+    haeme:
+considerations:
+    - Serotonergic drugs → serotonin syndrome
+    - No active metabolites
+    - Severe renal/hepatic impairment → not recommended
+    - Impaired chemotaxis, lymphocyte proliferation and antibody production
+references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 4 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Seqirus Pty Ltd. PALEXIA IR Australian Product Information. Revised 31 October 2025.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.
