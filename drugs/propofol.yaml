@@ -1,0 +1,74 @@
+---
+aliases: 2,6-diisopropylphenol
+class: IV anaesthetic
+chemistry: Alkylphenol; phenolic derivative
+dose:
+    Induction: 1-2.5mg/kg IV
+    Maintenance: 4-12mg/kg/hr
+    Sedation: Lower infusion rates titrated to effect
+pharmaceutics:
+    presentation: "White oil-in-water emulsion at pH 7-8.5 containing: propofol 10-20mg/mL; 10% soybean oil; 1.2% purified egg phosphatide; 2.25% glycerol; bacteriostatic additives (Diprivan: disodium edetate; generics: sodium metabisulfite). Energy content 1.1 kcal/mL."
+    compatibility:
+    solubility: "pKa 11; almost entirely unionised at physiological pH; minimally water soluble"
+pharmacokinetics:
+    absorption: Minimal oral bioavailability due to very high first-pass metabolism and high hepatic extraction ratio
+    distribution:
+        pKa: 11
+        vd: 4 L/kg
+        protein binding: 98%
+    metabolism:
+        half-life: "t½β 2-12 hours; context-sensitive half-time peaks at 50 minutes following a 9-hour infusion"
+        duration:
+        pathway: Hepatic and extra-hepatic glucuronidation and sulfation to inactive metabolites; clearance 30-60 mL/kg/min; unaffected by renal and hepatic disease
+        metabolites:
+    elimination:
+        renal: Renal elimination of inactive glucuronide and sulfate metabolites; green urine
+mechanism:
+    target:
+        - GABAA receptor
+        - Glycine receptor
+        - Nicotinic ACh receptor
+        - D2 receptor
+    action: Binds to β-subunit of postsynaptic GABAA receptor → ↑ duration of Cl- channel opening → ↑ Cl- conductance → hyperpolarisation → ↓ neuronal depolarisation; also potentiates glycine, inhibits nicotinic ACh and D2 receptors
+contraindications:
+pharmacodynamics:
+    resp:
+        - Respiratory depression
+        - Apnoea
+        - Strong suppression of laryngeal reflexes
+        - ↓ Response to hypoxia and hypercapnia
+        - Bronchodilation
+    cvs:
+        - ↓ SVR (arterial and venous vasodilation via ↑ NO release)
+        - ↓ VR
+        - ↓ BP
+        - ↓ Inotropy (via ↓ SNS tone)
+        - ↓ MVO2
+        - Depresses baroreceptor reflex
+    cns:
+        - Hypnosis; rapid loss of consciousness within one arm-brain circulation time
+        - ↓ CMRO2
+        - ↓ CBF
+        - ↓ ICP
+        - Anticonvulsant
+        - ↓ IOP
+        - Paradoxical excitatory effects in approximately 10% (dystonic movements of subcortical origin)
+    endo:
+    msk:
+        - Pain on injection into small veins
+    met:
+        - Fat overload syndrome and lipaemia following prolonged infusion
+        - Inhibits mitochondrial function
+    ren:
+        - Green urine
+    gu:
+    git:
+        - Antiemetic
+        - ↓ Hepatic blood flow
+    haeme:
+considerations:
+    - Propofol infusion syndrome — acidosis, bradycardia, and MODS following prolonged infusion (over 24 hours), particularly at high doses (over 4mg/kg/hr), in children, and potentially in the presence of mitochondrial defects
+    - Risk of bacterial contamination — limits shelf life once opened
+references:
+    - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.
+    - CICM July/September 2007
