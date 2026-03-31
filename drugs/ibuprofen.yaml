@@ -1,0 +1,65 @@
+---
+aliases: Brufen
+class: Non-selective COX inhibitor
+chemistry: Aryl-propionic acid
+dose:
+    Analgesia (PO/PR): 400-800mg TDS
+    Paediatric (PO/PR): 10mg/kg
+pharmaceutics:
+    presentation: 400mg tablet
+    compatibility:
+    solubility: "pKa 4.9; quite lipid soluble and poorly water soluble"
+pharmacokinetics:
+    absorption: ~100% oral bioavailability; Tmax 45 minutes fasting
+    distribution:
+        pKa: 4.9
+        vd: 0.1-0.14 L/kg
+        protein binding: 99%
+    metabolism:
+        half-life: 1.9-2.2 hours
+        duration:
+        pathway: Hepatic oxidation → hydroxyibuprofen and carboxyibuprofen; inactive
+        metabolites: Hydroxyibuprofen; carboxyibuprofen (inactive)
+    elimination:
+        renal: 95% urine; ~1% unchanged
+mechanism:
+    target:
+        - COX-1
+        - COX-2
+    action: Reversible COX-1/2 inhibition → ↓ prostaglandin synthesis → ↓ inflammation and nociceptor sensitisation
+contraindications:
+    - NSAID-induced asthma, rhinitis or urticaria
+    - Active or recurrent GI ulcer/bleeding; inflammatory bowel disease
+    - Severe cardiac, renal or hepatic failure
+    - Active bleeding
+    - CABG peri-operative pain
+    - Third-trimester pregnancy
+pregnancy:
+    code: C
+    justification: Possible ↑ miscarriage; late use → duct closure, oligohydramnios, renal impairment, platelet inhibition and delayed labour
+pharmacodynamics:
+    resp:
+        - Bronchospasm (~20% of asthmatics; ↑ leukotrienes)
+    cvs:
+        - Low dose → minimal prothrombotic effect; 2.4g/day or prolonged use → ↑ arterial thrombosis
+        - ↑ BP; oedema; CCF exacerbation
+    cns:
+    endo:
+    msk:
+    met:
+    ren:
+        - ↓ GFR; AKI
+    gu:
+    git:
+        - GI ulceration; lowest risk among non-selective NSAIDs at <1.2g/day
+    haeme:
+        - Platelet dysfunction (COX-1 inhibition)
+        - ↑ Perioperative bleeding risk
+considerations:
+    - May impair aspirin antiplatelet effect
+references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 4 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Viatris Pty Ltd. Brufen Australian Product Information. Revised 8 April 2026.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.
