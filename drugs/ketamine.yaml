@@ -1,0 +1,71 @@
+---
+aliases:
+class: IV anaesthetic
+chemistry: Cyclohexylamine; phencyclidine derivative
+dose:
+    Induction (IV): 1-2mg/kg
+    Induction (IM): 5-10mg/kg
+    Sedation (IV): 0.2-0.5mg/kg
+pharmaceutics:
+    presentation: Clear colourless solution; acidic (pH 3.5-5.5)
+    compatibility:
+    solubility: "pKa 7.5; relatively poor water solubility"
+pharmacokinetics:
+    absorption: 17% oral bioavailability
+    distribution:
+        pKa: 7.5
+        vd: 1-3 L/kg
+        protein binding: 25%
+    metabolism:
+        half-life: "Redistribution t½α 10-15 minutes; elimination t½β 2-4 hours"
+        duration: 15-30 minutes useful anaesthesia/analgesia
+        pathway: Hepatic CYP450 to norketamine (mildly active) then to inactive metabolites
+        metabolites: Norketamine (mildly active)
+    elimination:
+        renal: Renal elimination of inactive metabolites; norketamine action prolonged in renal failure
+mechanism:
+    target:
+        - NMDA receptor
+        - Glutamate receptor
+        - Voltage-gated Na+ channel
+    action: Non-competitive antagonist at NMDA and glutamate receptors — lodges in the pore of the NMDA cation channel preventing glutamate-stimulated Na+ and Ca2+ influx and K+ efflux → ↓ excitatory neurotransmission; reduces presynaptic glutamate release; Na+ channel inhibition (local anaesthetic-like effect); potential monoaminergic, muscarinic, and nicotinic antagonism
+contraindications:
+pharmacodynamics:
+    resp:
+        - Bronchodilation
+        - Tachypnoea
+        - Relative preservation of laryngeal reflexes
+        - Apnoea with rapid injection
+        - Preserved central response to CO2
+    cvs:
+        - ↑ HR
+        - ↑ BP
+        - ↑ SVR
+        - ↑ MVO2
+        - Direct myocardial depressant effect (unmasked in catecholamine-depleted states)
+        - Depresses baroreceptor reflex
+    cns:
+        - Dissociative anaesthesia within 90 seconds
+        - Analgesia
+        - ↑ IOP
+        - Emergence phenomena (hallucinations, delirium) — reduced by concurrent benzodiazepine; risk ↑ with higher doses and rapid administration
+        - Purposeful movements unrelated to stimulus may occur during surgical anaesthesia
+    endo:
+    msk:
+        - ↑ Skeletal muscle tone
+    met:
+    ren:
+        - Cystitis with long-term high-dose use
+    gu:
+    git:
+        - Nausea
+        - Vomiting
+    haeme:
+considerations:
+    - Racemic mixture or single S(+) enantiomer (2-3x more potent than R(-), but less bronchodilatory)
+    - Onset within 15-30 seconds of induction dose
+references:
+    - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.
+    - Smith S, Scarth E, Sasada M. Drugs in Anaesthesia and Intensive Care. 4th Ed. Oxford University Press. 2011.
+    - CICM July/Sept 2007
+    - Lupton T, Pratt O. Intravenous drugs used for the induction of anaesthesia. www.frca.co.uk
