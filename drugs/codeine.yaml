@@ -1,0 +1,59 @@
+---
+aliases:
+class: Opioid
+chemistry: Natural phenanthrene
+dose:
+pharmaceutics:
+    presentation:
+    compatibility:
+    solubility: pKa 8.21; relatively hydrophilic
+pharmacokinetics:
+    absorption: 50% oral bioavailability
+    distribution:
+        pKa: 8.21
+        vd: 3-6 L/kg
+        protein binding: 7-25%
+    metabolism:
+        half-life: 2-3 hours
+        duration:
+        pathway: Hepatic metabolism; demethylation to morphine (active metabolite)
+        metabolites: Morphine (active)
+    elimination:
+        renal: Renal elimination of metabolites
+mechanism:
+    target:
+        - μ-opioid receptor (MOP)
+    action: Hyperpolarisation of presynaptic cell membrane by ↑ potassium conductance; ↓ production of cAMP and closure of voltage-gated calcium channels → ↓ neurotransmitter release from primary pain afferent fibres
+contraindications:
+pharmacodynamics:
+    resp:
+        - ↓ CNS sensitivity to CO2 → ↓ RR and ↓ VT (↓ RR > ↓ VT)
+        - ↑ Reliance on hypoxic drive
+        - Respiratory depression potentiated by high FiO2
+    cvs:
+        - ↓ HR
+        - May ↓ BP due to histamine release
+        - ↑ PVR
+    cns:
+        - Sedation
+        - Euphoria
+        - Nausea and vomiting due to CTZ stimulation
+        - Miosis (stimulation of Edinger-Westphal nucleus)
+        - ↓ MAC up to 90%
+    endo:
+    msk:
+        - Muscle rigidity
+        - Pruritus (especially with intrathecal administration)
+    met:
+        - ↓ ACTH, prolactin, and gonadotrophic hormone secretion
+        - ↑ ADH secretion
+    ren:
+        - ↑ ADH
+        - ↑ Ureteric and sphincter tone
+    gu:
+    git:
+        - ↓ Peristalsis and GIT secretions → constipation
+    haeme:
+considerations:
+    - Impaired chemotaxis, lymphocyte proliferation, and antibody production
+references:

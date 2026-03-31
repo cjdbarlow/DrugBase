@@ -1,0 +1,58 @@
+---
+aliases:
+class: Opioid antagonist
+chemistry: Synthetic phenanthrene
+dose:
+    Reversal: 0.1-0.4mg IV Q5 minutes
+    Infusion: 0.5mg/kg/hr
+pharmaceutics:
+    presentation: Clear colourless solution at 400 mcg/mL
+    compatibility:
+    solubility: "pKa 7.9; highly lipid soluble"
+pharmacokinetics:
+    absorption: Approximately 2% oral bioavailability due to extensive first-pass metabolism
+    distribution:
+        pKa: 7.9
+        vd: 2 L/kg
+        protein binding: 50%
+    metabolism:
+        half-life: 30-80 minutes
+        duration: Approximately 30-40 minutes
+        pathway: Rapid hepatic glucuronidation
+        metabolites: Naloxone-3-glucuronide (inactive)
+    elimination:
+        renal: Renal elimination of inactive metabolite
+mechanism:
+    target:
+        - μ-opioid receptor (MOP)
+    action: Competitive antagonist at MOP receptors, displacing opioids from their receptors and reversing their effects
+contraindications:
+pharmacodynamics:
+    resp:
+        - Reversal of opioid-induced respiratory depression (↑ RR, ↑ VT)
+    cvs:
+        - ↑ SVR
+        - ↑ BP
+        - Arrhythmia due to ↑ SNS tone
+    cns:
+        - ↓ Analgesia
+        - ↓ Sedation
+        - ↓ Miosis
+        - Antanalgesic in opioid-naive patients
+        - Precipitation of opioid withdrawal
+        - Hyperalgesia
+        - Seizures
+    endo:
+    msk:
+    met:
+    ren:
+    gu:
+    git:
+        - Vomiting
+        - Diarrhoea
+    haeme:
+considerations:
+    - Duration of action (~30-40 minutes) is shorter than many opioids — risk of re-narcosis requiring subsequent doses or infusion
+references:
+    - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.
+    - Smith S, Scarth E, Sasada M. Drugs in Anaesthesia and Intensive Care. 4th Ed. Oxford University Press. 2011.

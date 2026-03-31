@@ -1,0 +1,61 @@
+---
+aliases:
+class: Opioid
+chemistry: Synthetic piperidine opioid
+dose:
+pharmaceutics:
+    presentation:
+    compatibility:
+    solubility: "pKa 9.2; octanol-water partition coefficient ~117; 1% unionised at pH 7.4"
+pharmacokinetics:
+    absorption: 80% oral bioavailability; wide interindividual variation
+    distribution:
+        pKa: 9.2
+        vd: 1-8 L/kg
+        protein binding: 85-90%
+    metabolism:
+        half-life: 20-60 hours
+        duration:
+        pathway: Hepatic to EDDP (inactive metabolite)
+        metabolites: EDDP (inactive)
+    elimination:
+        renal: Renal clearance becomes an important route of elimination at high doses (greater than 55mg/day)
+mechanism:
+    target:
+        - μ-opioid receptor (MOP)
+    action: Hyperpolarisation of presynaptic cell membrane by increasing potassium conductance; reduced production of cAMP and closure of voltage-gated calcium channels → decreased neurotransmitter release from primary pain afferent fibres
+contraindications:
+pharmacodynamics:
+    resp:
+        - ↓ CNS sensitivity to CO2 → ↓ RR and ↓ VT (↓ RR > ↓ VT)
+        - ↑ Reliance on hypoxic drive
+        - Respiratory depression potentiated by high FiO2
+    cvs:
+        - ↓ HR
+        - May ↓ BP due to histamine release
+        - ↑ PVR
+    cns:
+        - Sedation
+        - Euphoria
+        - Nausea and vomiting due to CTZ stimulation
+        - Miosis (stimulation of Edinger-Westphal nucleus)
+        - ↓ MAC up to 90%
+    endo:
+    msk:
+        - Muscle rigidity
+        - Pruritus (especially with intrathecal administration)
+    met:
+        - ↓ ACTH, prolactin, and gonadotrophic hormone secretion
+        - ↑ ADH secretion
+    ren:
+        - ↑ ADH
+        - ↑ Ureteric and sphincter tone
+    gu:
+    git:
+        - ↓ Peristalsis and GIT secretions → constipation
+    haeme:
+considerations:
+    - Very long, variable, dose-dependent half-life (20-60 hours) — accumulation risk
+    - Renal clearance becomes important at high doses (greater than 55mg/day)
+    - Impaired chemotaxis, lymphocyte proliferation, and antibody production
+references:

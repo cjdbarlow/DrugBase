@@ -1,0 +1,59 @@
+---
+aliases:
+class: Partial opioid agonist
+chemistry: Semisynthetic phenanthrene
+dose:
+pharmaceutics:
+    presentation:
+    compatibility:
+    solubility: Highly lipophilic
+pharmacokinetics:
+    absorption: 15% oral bioavailability due to high first-pass metabolism
+    distribution:
+        pKa: 8.5
+        vd: 87-197 L/kg
+        protein binding: 96%
+    metabolism:
+        half-life: 40 hours
+        duration:
+        pathway: Hepatic to norbuprenorphine (active metabolite)
+        metabolites: Norbuprenorphine (active)
+    elimination:
+        renal: 70% biliary elimination; 30% renal
+mechanism:
+    target:
+        - μ-opioid receptor (MOP) — partial agonist
+        - κ-opioid receptor (KOP) — antagonist
+    action: Partial agonist at MOP receptors with high receptor binding affinity but lower intrinsic activity than full opioid agonists; hyperpolarises presynaptic cell membrane by increasing potassium conductance, reducing cAMP production, and closing voltage-gated calcium channels; antagonist at KOP receptors (antanalgesic effect)
+contraindications:
+pharmacodynamics:
+    resp:
+        - ↓ CNS sensitivity to CO2 → ↓ RR and ↓ VT
+        - ↑ Reliance on hypoxic drive
+    cvs:
+        - ↓ HR
+        - May ↓ BP
+        - ↑ PVR
+    cns:
+        - Sedation
+        - Nausea and vomiting due to CTZ stimulation
+        - Miosis (stimulation of Edinger-Westphal nucleus)
+    endo:
+    msk:
+        - Muscle rigidity
+        - Pruritus (especially with intrathecal administration)
+    met:
+        - ↓ ACTH, prolactin, and gonadotrophic hormone secretion
+        - ↑ ADH secretion
+    ren:
+        - ↑ ADH
+        - ↑ Ureteric and sphincter tone
+    gu:
+    git:
+        - ↓ Peristalsis and GIT secretions → constipation
+    haeme:
+considerations:
+references:
+    - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.
+    - Smith S, Scarth E, Sasada M. Drugs in Anaesthesia and Intensive Care. 4th Ed. Oxford University Press. 2011.
+    - Petkov V. Essential Pharmacology For The ANZCA Primary Examination. Vesselin Petkov. 2012.

@@ -1,0 +1,54 @@
+---
+aliases:
+class: Opioid
+chemistry: Cyclohexanol derivative; racemic mixture — (+)tramadol has greater MOP and 5-HT reuptake effects; (-)tramadol mediates NA reuptake inhibition
+dose:
+    Analgesia: 50-100mg PO/IV QID; potency approximately 1/5 that of morphine
+pharmaceutics:
+    presentation:
+        - IV solution clear at 50mg/mL
+    compatibility:
+    solubility: "pKa 9.41; highly lipophilic"
+pharmacokinetics:
+    absorption: 70% oral bioavailability; increases to 90-100% with sustained dosing due to hepatic enzyme saturation
+    distribution:
+        pKa: 9.41
+        vd: 4 L/kg
+        protein binding: 20%
+    metabolism:
+        half-life: 300 minutes
+        duration:
+        pathway: Hepatic to O-desmethyltramadol (active) and inactive metabolites
+        metabolites: O-desmethyltramadol (active)
+    elimination:
+        renal: Urinary elimination of predominantly inactive metabolites
+mechanism:
+    target:
+        - μ-opioid receptor (MOP)
+        - Serotonin reuptake transporter
+        - Noradrenaline reuptake transporter
+        - NMDA receptor
+    action: Weak agonist at opioid receptors (particularly MOP) → hyperpolarisation of presynaptic cell membrane by increasing potassium conductance, reduced cAMP production, and closure of voltage-gated calcium channels; also inhibits serotonin and noradrenaline reuptake → descending inhibitory analgesia; NMDA receptor antagonism
+contraindications:
+pharmacodynamics:
+    resp:
+        - Minimal respiratory depression
+    cvs:
+    cns:
+        - ↑ Seizure risk in patients with epilepsy or concurrent SSRI/SNRI/TCA use
+        - Minimal addiction potential
+    endo:
+    msk:
+    met:
+    ren:
+    gu:
+    git:
+        - Nausea
+        - Vomiting
+    haeme:
+considerations:
+    - Avoid concomitant MAO-I use due to noradrenaline reuptake inhibition
+    - Risk of serotonin syndrome with concurrent serotonergic drugs
+    - ↑ Seizure risk in epilepsy or with concurrent SSRI/SNRI/TCA use
+references:
+    - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.

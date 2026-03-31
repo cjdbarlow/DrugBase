@@ -1,0 +1,60 @@
+---
+aliases:
+class: Opioid
+chemistry: Semisynthetic phenanthrene
+dose:
+pharmaceutics:
+    presentation:
+    compatibility:
+    solubility: "pKa 8.6; octanol-water partition coefficient ~1.28"
+pharmacokinetics:
+    absorption: 50% oral bioavailability
+    distribution:
+        pKa: 8.6
+        vd: 4 L/kg
+        protein binding: 8-19%
+    metabolism:
+        half-life: 2-3 hours
+        duration:
+        pathway: Hepatic to inactive metabolites
+        metabolites:
+    elimination:
+        renal: Renal elimination of metabolites
+mechanism:
+    target:
+        - μ-opioid receptor (MOP)
+    action: Hyperpolarisation of presynaptic cell membrane by increasing potassium conductance; reduced production of cAMP and closure of voltage-gated calcium channels → decreased neurotransmitter release from primary pain afferent fibres
+contraindications:
+pharmacodynamics:
+    resp:
+        - ↓ CNS sensitivity to CO2 → ↓ RR and ↓ VT (↓ RR > ↓ VT)
+        - ↑ Reliance on hypoxic drive
+        - Respiratory depression potentiated by high FiO2
+    cvs:
+        - ↓ HR
+        - May ↓ BP due to histamine release
+        - ↑ PVR
+    cns:
+        - Sedation
+        - Euphoria
+        - Nausea and vomiting due to CTZ stimulation
+        - Miosis (stimulation of Edinger-Westphal nucleus)
+        - ↓ MAC up to 90%
+    endo:
+    msk:
+        - Muscle rigidity
+        - Pruritus (especially with intrathecal administration)
+    met:
+        - ↓ ACTH, prolactin, and gonadotrophic hormone secretion
+        - ↑ ADH secretion
+    ren:
+        - ↑ ADH
+        - ↑ Ureteric and sphincter tone
+    gu:
+    git:
+        - ↓ Peristalsis and GIT secretions → constipation
+    haeme:
+considerations:
+    - Impaired chemotaxis, lymphocyte proliferation, and antibody production
+references:
+    - Crow et al (2021)

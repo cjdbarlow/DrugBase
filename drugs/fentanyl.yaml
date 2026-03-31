@@ -1,0 +1,67 @@
+---
+aliases:
+class: Opioid
+chemistry: 4-anilinopiperidine derivative
+dose:
+pharmaceutics:
+    presentation: Clear colourless solution
+    compatibility:
+    solubility: "pKa 8.4; octanol-water partition coefficient 717; 600x more lipid soluble than morphine; 9% unionised at pH 7.4"
+pharmacokinetics:
+    absorption: Rapid IV onset (peak effect within 5 minutes); transdermal absorption is slow; oral bioavailability 33%; significant first-pass pulmonary endothelial uptake
+    distribution:
+        pKa: 8.4
+        vd: 4 L/kg
+        protein binding: 85%
+    metabolism:
+        half-life: 190 minutes
+        duration: Variable; with doses greater than 3 μg/kg tissues become saturated and duration is significantly prolonged
+        pathway: Hepatic CYP3A4 N-dealkylation → norfentanyl (inactive); also intestinal CYP3A4 metabolism
+        metabolites: Norfentanyl (inactive)
+    elimination:
+        renal: Renal elimination of inactive metabolites; 10% of dose excreted unchanged in urine
+mechanism:
+    target:
+        - μ-opioid receptor (MOP)
+    action: Hyperpolarisation of presynaptic cell membrane by increasing potassium conductance; reduced production of cAMP and closure of voltage-gated calcium channels → decreased neurotransmitter release from primary pain afferent fibres
+contraindications:
+pharmacodynamics:
+    resp:
+        - ↓ CNS sensitivity to CO2 → ↓ RR and ↓ VT (↓ RR > ↓ VT)
+        - ↑ Reliance on hypoxic drive
+        - Respiratory depression potentiated by high FiO2
+    cvs:
+        - Vagal bradycardia
+        - Blunted cardiovascular reflexes and ↓ sympathetic response to intubation
+        - ↑ PVR
+    cns:
+        - Sedation
+        - Euphoria
+        - Nausea and vomiting due to CTZ stimulation
+        - Miosis (stimulation of Edinger-Westphal nucleus)
+        - ↓ MAC up to 90%
+    endo:
+    msk:
+        - Chest wall rigidity
+        - Pruritus (especially with intrathecal administration)
+    met:
+        - ↓ ACTH, prolactin, and gonadotrophic hormone secretion
+        - ↑ ADH secretion
+    ren:
+        - ↑ ADH
+        - ↑ Ureteric and sphincter tone
+    gu:
+    git:
+        - ↓ Peristalsis and GIT secretions → constipation
+    haeme:
+considerations:
+    - With doses greater than 3 μg/kg, tissue saturation occurs and duration of action is significantly prolonged
+    - Offset of effect at lower doses due to redistribution into fat and muscle
+    - Impaired chemotaxis, lymphocyte proliferation, and antibody production
+    - Equianalgesic dose (IV): 150 mcg = 10mg IV morphine
+references:
+    - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.
+    - Smith S, Scarth E, Sasada M. Drugs in Anaesthesia and Intensive Care. 4th Ed. Oxford University Press. 2011.
+    - Petkov V. Essential Pharmacology For The ANZCA Primary Examination. Vesselin Petkov. 2012.
+    - ANZCA July/September 2010
+    - Schug SA, Palmer GM, Scott DA, Halliwell R, Trinca J. Acute Pain Management: Scientific Evidence. 4th Ed. 2015. ANZCA and Faculty of Pain Medicine.

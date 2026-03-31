@@ -1,0 +1,68 @@
+---
+aliases:
+class: Opioid
+chemistry: Natural phenanthrene
+dose:
+pharmaceutics:
+    presentation:
+    compatibility:
+    solubility: "pKa 8.0; octanol-water partition coefficient ~1.42; 23% unionised at pH 7.4"
+pharmacokinetics:
+    absorption: 30% oral bioavailability; low lipid solubility → slower onset and SC absorption
+    distribution:
+        pKa: 8.0
+        vd: 1-6 L/kg
+        protein binding: 35%
+    metabolism:
+        half-life: 160 minutes
+        duration: 3-4 hours
+        pathway: Hepatic glucuronidation to morphine-3-glucuronide (70%, inactive) and morphine-6-glucuronide (10%, active, 13x potency of morphine)
+        metabolites: Morphine-3-glucuronide (inactive); morphine-6-glucuronide (active)
+    elimination:
+        renal: Renal elimination of active metabolites; accumulation in renal failure
+mechanism:
+    target:
+        - μ-opioid receptor (MOP)
+        - κ-opioid receptor (KOP)
+    action: Hyperpolarisation of presynaptic cell membrane by increasing potassium conductance; reduced production of cAMP and closure of voltage-gated calcium channels → decreased neurotransmitter release from primary pain afferent fibres
+contraindications:
+pharmacodynamics:
+    resp:
+        - ↓ CNS sensitivity to CO2 → ↓ RR and ↓ VT (↓ RR > ↓ VT)
+        - ↑ Reliance on hypoxic drive
+        - Respiratory depression potentiated by high FiO2
+    cvs:
+        - ↓ HR
+        - ↓ BP due to non-immune histamine release → vasodilation
+        - ↑ PVR
+    cns:
+        - Sedation
+        - Euphoria
+        - Nausea and vomiting due to CTZ stimulation
+        - Miosis (stimulation of Edinger-Westphal nucleus)
+        - ↓ MAC up to 90%
+    endo:
+    msk:
+        - Muscle rigidity
+        - Pruritus (especially with intrathecal administration)
+    met:
+        - ↓ ACTH, prolactin, and gonadotrophic hormone secretion
+        - ↑ ADH secretion
+    ren:
+        - ↑ ADH
+        - ↑ Ureteric and sphincter tone
+    gu:
+    git:
+        - ↓ Peristalsis and GIT secretions → constipation
+    haeme:
+considerations:
+    - ↑ Free drug in renal failure as uraemia displaces morphine from binding sites
+    - Active metabolite morphine-6-glucuronide accumulates in renal failure
+    - Impaired chemotaxis, lymphocyte proliferation, and antibody production
+    - "Equianalgesic dose (IV reference): 10mg"
+references:
+    - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.
+    - Smith S, Scarth E, Sasada M. Drugs in Anaesthesia and Intensive Care. 4th Ed. Oxford University Press. 2011.
+    - Petkov V. Essential Pharmacology For The ANZCA Primary Examination. Vesselin Petkov. 2012.
+    - ANZCA July/September 2010
+    - Schug SA, Palmer GM, Scott DA, Halliwell R, Trinca J. Acute Pain Management: Scientific Evidence. 4th Ed. 2015. ANZCA and Faculty of Pain Medicine.

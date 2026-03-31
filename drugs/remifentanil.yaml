@@ -1,0 +1,68 @@
+---
+aliases:
+class: Opioid
+chemistry: Phenylpiperidine derivative of fentanyl
+dose:
+pharmaceutics:
+    presentation: Lyophilised powder with glycine buffer (unsuitable for intrathecal or epidural administration)
+    compatibility:
+    solubility: "pKa 7.3; octanol-water partition coefficient 17.9; 20x more lipid soluble than morphine; 58% unionised at pH 7.4"
+pharmacokinetics:
+    absorption: Negligible oral bioavailability; IV only; peak effect within 1-3 minutes
+    distribution:
+        pKa: 7.3
+        vd: 0.1 L/kg
+        protein binding: 70%
+    metabolism:
+        half-life: 10 minutes
+        duration: Offset 5-10 minutes from ceasing infusion; independent of infusion duration or dose
+        pathway: Rapid hydrolysis by plasma and tissue esterases; independent of renal or hepatic function
+        metabolites: Inactive metabolite (renally cleared)
+    elimination:
+        renal: Renal elimination of inactive metabolite; elimination independent of renal or hepatic function
+mechanism:
+    target:
+        - μ-opioid receptor (MOP)
+    action: Hyperpolarisation of presynaptic cell membrane by increasing potassium conductance; reduced production of cAMP and closure of voltage-gated calcium channels → decreased neurotransmitter release from primary pain afferent fibres
+contraindications:
+pharmacodynamics:
+    resp:
+        - ↓ CNS sensitivity to CO2 → ↓ RR and ↓ VT (↓ RR > ↓ VT)
+        - ↑ Reliance on hypoxic drive
+        - Respiratory depression potentiated by high FiO2
+    cvs:
+        - Vagal bradycardia
+        - Hypotension (MAP decreased by approximately 20%)
+        - ↑ PVR
+    cns:
+        - Sedation
+        - Euphoria
+        - Nausea and vomiting due to CTZ stimulation
+        - Miosis (stimulation of Edinger-Westphal nucleus)
+        - ↓ MAC up to 90%
+    endo:
+    msk:
+        - Chest wall rigidity
+        - Pruritus (especially with intrathecal administration)
+    met:
+        - ↓ ACTH, prolactin, and gonadotrophic hormone secretion
+        - ↑ ADH secretion
+    ren:
+        - ↑ ADH
+        - ↑ Ureteric and sphincter tone
+    gu:
+    git:
+        - ↓ Gastrointestinal motility
+    haeme:
+considerations:
+    - Contains glycine — must not be administered intrathecally or epidurally
+    - Context-sensitive half-time is constant regardless of infusion duration due to rapid ester hydrolysis
+    - Offset of effect is predictable and independent of infusion duration or dose
+    - Impaired chemotaxis, lymphocyte proliferation, and antibody production
+    - "Equianalgesic dose (IV): 50 mcg = 10mg IV morphine"
+references:
+    - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.
+    - Smith S, Scarth E, Sasada M. Drugs in Anaesthesia and Intensive Care. 4th Ed. Oxford University Press. 2011.
+    - Petkov V. Essential Pharmacology For The ANZCA Primary Examination. Vesselin Petkov. 2012.
+    - ANZCA July/September 2010
+    - Schug SA, Palmer GM, Scott DA, Halliwell R, Trinca J. Acute Pain Management: Scientific Evidence. 4th Ed. 2015. ANZCA and Faculty of Pain Medicine.

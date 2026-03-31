@@ -1,0 +1,68 @@
+---
+aliases:
+class: Opioid
+chemistry: Semisynthetic phenanthrene
+dose:
+pharmaceutics:
+    presentation:
+    compatibility:
+    solubility: "pKa 8.5; quite hydrophilic; less than 10% unionised at physiological pH"
+pharmacokinetics:
+    absorption: 60-80% oral bioavailability; as lipid soluble as morphine; more rapid onset than morphine despite higher pKa, potentially due to active CNS uptake
+    distribution:
+        pKa: 8.5
+        vd: 3 L/kg
+        protein binding: 45%
+    metabolism:
+        half-life: 200 minutes
+        duration: 4 hours
+        pathway: Hepatic demethylation to noroxycodone (80%, via CYP3A, weakly active) and oxymorphone (20%, via CYP2D6, more potent and active)
+        metabolites: Noroxycodone (weakly active); oxymorphone (active)
+    elimination:
+        renal: Renal elimination of active drug and metabolites
+mechanism:
+    target:
+        - μ-opioid receptor (MOP)
+        - κ-opioid receptor (KOP)
+        - δ-opioid receptor (DOP)
+    action: Hyperpolarisation of presynaptic cell membrane by increasing potassium conductance; reduced production of cAMP and closure of voltage-gated calcium channels → decreased neurotransmitter release from primary pain afferent fibres
+contraindications:
+pharmacodynamics:
+    resp:
+        - ↓ CNS sensitivity to CO2 → ↓ RR and ↓ VT (↓ RR > ↓ VT)
+        - ↑ Reliance on hypoxic drive
+        - Respiratory depression potentiated by high FiO2
+    cvs:
+        - ↓ HR
+        - May ↓ BP due to histamine release
+        - ↑ PVR
+    cns:
+        - Sedation
+        - Euphoria
+        - Nausea and vomiting due to CTZ stimulation
+        - Miosis (stimulation of Edinger-Westphal nucleus)
+        - ↓ MAC up to 90%
+    endo:
+    msk:
+        - Muscle rigidity
+        - Pruritus (especially with intrathecal administration)
+    met:
+        - ↓ ACTH, prolactin, and gonadotrophic hormone secretion
+        - ↑ ADH secretion
+    ren:
+        - ↑ ADH
+        - ↑ Ureteric and sphincter tone
+    gu:
+    git:
+        - ↓ Peristalsis and GIT secretions → constipation
+    haeme:
+considerations:
+    - 10mg PO oxycodone is approximately equianalgesic to 15mg PO morphine due to higher first-pass metabolism of morphine
+    - Impaired chemotaxis, lymphocyte proliferation, and antibody production
+    - "Equianalgesic dose (IV): 15mg = 10mg IV morphine"
+references:
+    - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.
+    - Smith S, Scarth E, Sasada M. Drugs in Anaesthesia and Intensive Care. 4th Ed. Oxford University Press. 2011.
+    - Petkov V. Essential Pharmacology For The ANZCA Primary Examination. Vesselin Petkov. 2012.
+    - ANZCA July/September 2010
+    - Schug SA, Palmer GM, Scott DA, Halliwell R, Trinca J. Acute Pain Management: Scientific Evidence. 4th Ed. 2015. ANZCA and Faculty of Pain Medicine.
