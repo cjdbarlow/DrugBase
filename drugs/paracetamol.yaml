@@ -1,0 +1,63 @@
+---
+aliases: Acetaminophen
+class: Analgesic and antipyretic
+chemistry: Acetanilide derivative
+dose:
+    Analgesia/antipyresis: 10-15mg/kg PO/PR/IV Q4H up to 90mg/kg/day
+pharmaceutics:
+    presentation:
+        - Tablets
+        - Capsules
+        - Syrup
+        - Clear colourless solution for IV administration
+    compatibility:
+    solubility: "pKa 9.5; moderately soluble in both water and lipid"
+pharmacokinetics:
+    absorption: "Up to 90% oral bioavailability; rapid absorption via small bowel (proportional to gastric emptying); IV onset 5 minutes (peak 40 min); PO/PR onset 40 minutes (peak 1 hour)"
+    distribution:
+        pKa: 9.5
+        vd: 0.5-1 L/kg
+        protein binding: 10%
+    metabolism:
+        half-life: 2 hours
+        duration:
+        pathway: Predominantly hepatic glucuronidation and sulfation; 10% metabolised to NAPQI by CYP2E1
+        metabolites: NAPQI (toxic); glucuronide and sulfate conjugates (inactive)
+    elimination:
+        renal: Active secretion into renal tubules; dose reduction considered in renal impairment
+mechanism:
+    target:
+        - COX-1
+        - COX-2
+        - COX-3
+        - Serotonergic pathways
+        - Endocannabinoid reuptake transporter
+    action: Non-selective COX inhibition including COX-3 (central isoform) → analgesia; inhibition of central prostaglandin E synthesis in anterior hypothalamus → antipyresis; serotonergic inhibition and endocannabinoid reuptake inhibition → additional analgesic action
+contraindications:
+pharmacodynamics:
+    resp:
+        - May exacerbate analgesic asthma due to glutathione depletion
+    cvs:
+        - Vasodilation when given IV
+    cns:
+        - Analgesia
+        - Synergistic with other analgesics → agent-sparing effect and reduced side effects
+    endo:
+    msk:
+    met:
+        - Antipyretic
+    ren:
+    gu:
+    git:
+    haeme:
+        - Cytopaenias (rare)
+considerations:
+    - NAPQI is normally rapidly conjugated with glutathione; in toxicity glutathione is exhausted and NAPQI covalently binds to hepatocyte proteins → centrilobular hepatic necrosis
+    - Toxic doses — single ingestion over 200mg/kg; repeated ingestion over 150mg/kg/day for two days; over 100mg/kg/day for three days
+    - Risk factors for toxicity — glutathione deficiency (extremes of age, malnutrition, hepatic dysfunction); enzyme inducers (carbamazepine, phenytoin, phenobarbitone, rifampicin, alcohol, OCP)
+    - Treatment of overdose — activated charcoal if within 1 hour of tablet ingestion; IV N-acetylcysteine (glutathione precursor) based on serum paracetamol nomogram
+references:
+    - Smith S, Scarth E, Sasada M. Drugs in Anaesthesia and Intensive Care. 4th Ed. Oxford University Press. 2011.
+    - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.
+    - Royal Children's Hospital. Paracetamol Poisoning. www.rch.org.au
+    - Hinson JA, Roberts DW, James LP. Mechanisms of Acetaminophen-Induced Liver Necrosis. Handbook of experimental pharmacology. 2010;(196):369-405.

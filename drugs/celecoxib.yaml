@@ -1,0 +1,48 @@
+---
+aliases:
+class: Selective COX-2 inhibitor
+chemistry: Diarylheterocyclic NSAID
+dose:
+    Analgesia: 100-200mg PO BD
+pharmaceutics:
+    presentation:
+    compatibility:
+    solubility: "pKa 11.1; practically insoluble in water"
+pharmacokinetics:
+    absorption: 60-80% oral bioavailability; rapidly absorbed
+    distribution:
+        pKa: 11.1
+        vd: 5-6 L/kg
+        protein binding: 97%
+    metabolism:
+        half-life: 8-12 hours
+        duration:
+        pathway: CYP2C9 to hydroxycelecoxib and carboxycelecoxib (both inactive)
+        metabolites: Hydroxycelecoxib (inactive); carboxycelecoxib (inactive)
+    elimination:
+        renal: Renal elimination of inactive metabolites
+mechanism:
+    target:
+        - COX-2
+    action: Selective COX-2 inhibition (30:1 selectivity in favour of COX-2) → ↓ prostaglandin synthesis at sites of inflammation; relative sparing of COX-1 → preservation of gastric mucosal protection and platelet thromboxane production
+contraindications:
+pharmacodynamics:
+    resp:
+    cvs:
+        - Unclear effect on CVA and MI risk — recommended to avoid use in IHD/CVD
+        - Prothrombotic effects due to selective inhibition of prostacyclin (PGI2) with relative preservation of thromboxane A2
+        - CCF exacerbation
+        - Hypertension
+    cns:
+    endo:
+    msk:
+    met:
+    ren:
+        - Acute kidney injury (microvascular renal dysfunction)
+    gu:
+    git:
+        - Lower risk of GI ulceration than non-selective NSAIDs
+    haeme:
+considerations:
+references:
+    - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.

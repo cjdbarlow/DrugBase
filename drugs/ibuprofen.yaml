@@ -1,0 +1,51 @@
+---
+aliases:
+class: Non-selective COX inhibitor
+chemistry: Aryl-propionic acid
+dose:
+    Analgesia: 400-800mg PO/PR TDS or 10mg/kg
+pharmaceutics:
+    presentation:
+    compatibility:
+    solubility: "pKa 4.9; quite lipid soluble and poorly water soluble"
+pharmacokinetics:
+    absorption: Close to 100% oral bioavailability; rapidly absorbed
+    distribution:
+        pKa: 4.9
+        vd: 0.1 L/kg
+        protein binding: 99%
+    metabolism:
+        half-life: 1.8-2 hours
+        duration:
+        pathway: Hepatic oxidation to water-soluble inactive metabolites
+        metabolites:
+    elimination:
+        renal: Renal elimination of inactive metabolites
+mechanism:
+    target:
+        - COX-1
+        - COX-2
+    action: Inhibition of COX-1 and COX-2 → ↓ prostaglandin synthesis → ↓ vascular response to inflammation and ↓ sensitivity of peripheral nociceptors; COX-1 inhibition → dysregulation of PGI2 antithrombotic effects and ↓ gastric bicarbonate and mucus secretion
+contraindications:
+pharmacodynamics:
+    resp:
+        - Bronchospasm in approximately 20% of asthmatics (↑ leukotriene synthesis due to diversion of arachidonic acid)
+    cvs:
+        - Lower doses not associated with prothrombotic events
+        - CCF exacerbation
+        - Hypertension
+    cns:
+    endo:
+    msk:
+    met:
+    ren:
+        - Acute kidney injury (microvascular renal dysfunction; uninhibited afferent arteriolar constriction)
+    gu:
+    git:
+        - GI ulceration (impaired mucosal secretion via COX-1 inhibition)
+    haeme:
+        - Platelet dysfunction (COX-1 inhibition)
+        - ↑ Perioperative bleeding risk
+considerations:
+references:
+    - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.

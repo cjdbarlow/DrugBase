@@ -1,0 +1,51 @@
+---
+aliases:
+class: Non-selective COX inhibitor
+chemistry:
+dose:
+    Analgesia: 15-30mg IM/IV Q6H
+pharmaceutics:
+    presentation:
+    compatibility:
+    solubility:
+pharmacokinetics:
+    absorption:
+    distribution:
+        pKa:
+        vd:
+        protein binding:
+    metabolism:
+        half-life:
+        duration:
+        pathway:
+        metabolites:
+    elimination:
+        renal:
+mechanism:
+    target:
+        - COX-1
+        - COX-2
+    action: Inhibition of COX-1 and COX-2 → ↓ prostaglandin synthesis → ↓ sensitivity of peripheral nociceptors
+contraindications:
+pharmacodynamics:
+    resp:
+        - Bronchospasm in approximately 20% of asthmatics
+    cvs:
+        - Local thrombus with IV injection
+    cns:
+    endo:
+    msk:
+    met:
+    ren:
+        - Acute kidney injury (microvascular renal dysfunction)
+    gu:
+    git:
+        - Highest risk of gastric erosion among commonly used NSAIDs
+    haeme:
+        - Platelet dysfunction
+        - ↑ Perioperative bleeding risk
+considerations:
+    - Off-label use in Australia
+    - Potent analgesic with minimal anti-inflammatory properties
+references:
+    - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.

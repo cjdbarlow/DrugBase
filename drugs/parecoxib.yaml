@@ -1,0 +1,46 @@
+---
+aliases:
+class: Selective COX-2 inhibitor
+chemistry:
+dose:
+    Analgesia: 20-40mg IV BD
+pharmaceutics:
+    presentation:
+    compatibility:
+    solubility:
+pharmacokinetics:
+    absorption:
+    distribution:
+        pKa:
+        vd:
+        protein binding:
+    metabolism:
+        half-life:
+        duration:
+        pathway: CYP2C9 to inactive metabolites
+        metabolites:
+    elimination:
+        renal:
+mechanism:
+    target:
+        - COX-2
+    action: Selective COX-2 inhibition (61:1 selectivity in favour of COX-2) → ↓ prostaglandin synthesis at sites of inflammation
+contraindications:
+pharmacodynamics:
+    resp:
+    cvs:
+        - Unclear effect on CVA and MI risk — recommended to avoid use in IHD/CVD
+        - Prothrombotic effects due to selective inhibition of prostacyclin (PGI2) with relative preservation of thromboxane A2
+    cns:
+    endo:
+    msk:
+    met:
+    ren:
+        - Acute kidney injury (microvascular renal dysfunction)
+    gu:
+    git:
+        - Lower risk of GI ulceration than non-selective NSAIDs
+    haeme:
+considerations:
+references:
+    - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.
