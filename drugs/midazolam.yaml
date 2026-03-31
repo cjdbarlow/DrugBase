@@ -1,0 +1,64 @@
+---
+aliases:
+class: Benzodiazepine
+chemistry: Benzodiazepine
+dose:
+    Sedation (IV): 0.01-0.1mg/kg titrated
+    Anxiolysis (PO): 0.5mg/kg
+pharmaceutics:
+    presentation:
+    compatibility:
+    solubility: "pKa 6.5; water soluble at pH <4 as hydrochloride salt; becomes lipid soluble at physiological pH"
+pharmacokinetics:
+    absorption: 50% oral bioavailability; well absorbed but significant first-pass metabolism
+    distribution:
+        pKa: 6.5
+        vd: 1.5 L/kg
+        protein binding: 95%
+    metabolism:
+        half-life: 2-4 hours; prolonged with cirrhosis, CHF, obesity, and in the elderly
+        duration:
+        pathway: Hepatic to α-hydroxymidazolam (active) then to inactive glucuronide; clearance ~7 mL/kg/min
+        metabolites: α-hydroxymidazolam (active); inactive glucuronide
+    elimination:
+        renal: Renal elimination of active and inactive metabolites; α-hydroxymidazolam accumulates in renal failure
+mechanism:
+    target:
+        - GABAA receptor
+    action: Positive allosteric modulator at the α/γ interface of the GABAA receptor → ↑ affinity of GABAA for GABA → ↑ frequency of Cl- channel opening → ↑ Cl- conductance → hyperpolarisation and ↓ neuronal transmission
+contraindications:
+pharmacodynamics:
+    resp:
+        - ↓ VT
+        - ↑ RR
+        - Apnoea
+        - Respiratory response to raised CO2 flattened
+    cvs:
+        - ↓ SVR
+        - ↓ SBP
+        - ↓ DBP
+        - ↑ HR
+        - Typically stable CO
+    cns:
+        - Hypnosis
+        - Sedation
+        - Anterograde amnesia
+        - Anticonvulsant
+        - ↓ CBF
+        - ↓ MAC
+    endo:
+        - ↓ Adrenergic stress response
+    msk:
+        - Skeletal muscle relaxation
+    met:
+    ren:
+    gu:
+    git:
+    haeme:
+considerations:
+    - α-hydroxymidazolam accumulates in renal failure
+references:
+    - Smith S, Scarth E, Sasada M. Drugs in Anaesthesia and Intensive Care. 4th Ed. Oxford University Press. 2011.
+    - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.
+    - Petkov V. Essential Pharmacology For The ANZCA Primary Examination. Vesselin Petkov. 2012.
+    - Rang HP, Dale MM, Ritter JM, Flower RJ. Rang and Dale's Pharmacology. 6th Ed. Churchill Livingstone.

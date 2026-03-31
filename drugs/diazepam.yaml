@@ -1,0 +1,62 @@
+---
+aliases:
+class: Benzodiazepine
+chemistry: Benzodiazepine
+dose:
+pharmaceutics:
+    presentation:
+    compatibility: 40% propylene glycol formulation
+    solubility: "pKa 3.4; practically insoluble in water"
+pharmacokinetics:
+    absorption: 94% oral bioavailability; rapidly and completely absorbed
+    distribution:
+        pKa: 3.4
+        vd: 0.8-1.0 L/kg
+        protein binding: 95%
+    metabolism:
+        half-life: "Diazepam: 30-50 hours; N-desmethyldiazepam: up to 100 hours"
+        duration:
+        pathway: Hepatic N-demethylation by CYP3A4 and CYP2C19 to active N-desmethyldiazepam; hydroxylation by CYP3A4 to active temazepam; further conjugation to inactive glucuronides
+        metabolites: N-desmethyldiazepam (active); temazepam (active); oxazepam (active); inactive glucuronides
+    elimination:
+        renal: Renal elimination of inactive glucuronide metabolites
+mechanism:
+    target:
+        - GABAA receptor
+    action: Positive allosteric modulator at the α/γ interface of the GABAA receptor → ↑ affinity of GABAA for GABA → ↑ frequency of Cl- channel opening → ↑ Cl- conductance → hyperpolarisation and ↓ neuronal transmission
+contraindications:
+pharmacodynamics:
+    resp:
+        - ↓ VT
+        - ↑ RR
+        - Apnoea
+        - Respiratory response to raised CO2 flattened
+    cvs:
+        - ↓ SVR
+        - ↓ SBP
+        - ↓ DBP
+        - ↑ HR
+        - Typically stable CO
+    cns:
+        - Hypnosis
+        - Sedation
+        - Anterograde amnesia
+        - Anticonvulsant
+        - ↓ CBF
+        - ↓ MAC
+    endo:
+        - ↓ Adrenergic stress response
+    msk:
+        - Skeletal muscle relaxation
+    met:
+    ren:
+    gu:
+    git:
+    haeme:
+considerations:
+    - Very long acting active metabolites (N-desmethyldiazepam t½ up to 100 hours) — accumulation risk
+references:
+    - Smith S, Scarth E, Sasada M. Drugs in Anaesthesia and Intensive Care. 4th Ed. Oxford University Press. 2011.
+    - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.
+    - Petkov V. Essential Pharmacology For The ANZCA Primary Examination. Vesselin Petkov. 2012.
+    - Rang HP, Dale MM, Ritter JM, Flower RJ. Rang and Dale's Pharmacology. 6th Ed. Churchill Livingstone.
