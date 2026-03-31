@@ -1,0 +1,77 @@
+---
+aliases: Ketalar
+class: IV anaesthetic
+chemistry: Arylcyclohexylamine; phencyclidine derivative
+dose:
+    Induction (IV): 1-4.5mg/kg (usual 1-2mg/kg) over 60 seconds
+    Induction (IM): 6.5-13mg/kg (usual 5-10mg/kg)
+    Sedation (IV): 0.2-0.5mg/kg
+pharmaceutics:
+    presentation: Clear colourless solution 100mg/mL; pH 3.5-5.5
+    compatibility: Dilute 100mg/mL 1:1 with water for injection, 0.9% sodium chloride or 5% glucose before IV use; incompatible with barbiturates and diazepam
+    solubility: "pKa 7.5; freely soluble in water"
+pharmacokinetics:
+    absorption: Up to 93% IM bioavailability
+    distribution:
+        pKa: 7.5
+        vd: 1-3 L/kg
+        protein binding: 20-50%
+    metabolism:
+        half-life: "t½α 10-15 minutes; t½β 2.5 hours"
+        duration: 5-10 minutes IV; 12-25 minutes IM
+        pathway: Hepatic N-dealkylation → norketamine (1/6 potency) → inactive metabolites
+        metabolites: Norketamine (active)
+    elimination:
+        renal: 90% urinary recovery, mostly metabolites (2-4% unchanged); 5% faecal
+mechanism:
+    target:
+        - NMDA receptor
+        - Voltage-gated Na+ channel
+    action: Non-competitive NMDA antagonism at phencyclidine site → ↓ excitatory transmission; ↓ presynaptic glutamate release; Na+ channel blockade
+contraindications:
+pregnancy:
+    code: B3
+    justification: Neonatal CNS/respiratory depression; greater concern if fetus compromised
+pharmacodynamics:
+    resp:
+        - Bronchodilation
+        - Tachypnoea
+        - Relative preservation of laryngeal reflexes
+        - Apnoea with rapid injection
+        - Preserved central response to CO2
+    cvs:
+        - ↑ HR
+        - ↑ BP
+        - ↑ SVR
+        - ↑ MVO2
+        - Direct myocardial depressant effect (unmasked in catecholamine-depleted states)
+        - Depresses baroreceptor reflex
+    cns:
+        - Dissociative anaesthesia within 90 seconds
+        - Analgesia
+        - ↑ IOP
+        - Emergence phenomena (hallucinations, delirium) — reduced by concurrent benzodiazepine; risk ↑ with higher doses and rapid administration
+        - Purposeful movements unrelated to stimulus may occur during surgical anaesthesia
+    endo:
+    msk:
+        - ↑ Skeletal muscle tone
+    met:
+    ren:
+        - Cystitis with long-term high-dose use
+    gu:
+    git:
+        - Nausea
+        - Vomiting
+    haeme:
+considerations:
+    - Racemic mixture or single S(+) enantiomer (2-3x more potent than R(-), but less bronchodilatory)
+references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 4 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Pfizer Australia Pty Ltd. Ketalar Australian Product Information. Version pfpketai10921. Revised 30 September 2021.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Young P, Psirides A. Wellington ICU Drug Manual. 2nd Ed. Wellington Regional Hospital. 2013.
+    - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.
+    - Smith S, Scarth E, Sasada M. Drugs in Anaesthesia and Intensive Care. 4th Ed. Oxford University Press. 2011.
+    - CICM July/Sept 2007
+    - Lupton T, Pratt O. Intravenous drugs used for the induction of anaesthesia. www.frca.co.uk
