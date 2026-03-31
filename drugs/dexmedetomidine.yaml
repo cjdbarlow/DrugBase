@@ -1,0 +1,57 @@
+---
+aliases:
+class: Alpha-2 adrenergic agonist
+chemistry: Imidazoline derivative
+dose:
+    Sedation (IV): 0.2-0.7 μg/kg/hr
+pharmaceutics:
+    presentation: Clear colourless solution at 10 μg/mL
+    compatibility:
+    solubility: "pKa 7.1; freely soluble in water; excellent fat solubility"
+pharmacokinetics:
+    absorption: 16% oral bioavailability; extensive first-pass metabolism
+    distribution:
+        pKa: 7.1
+        vd: 1.3-2.5 L/kg
+        protein binding: 95%
+    metabolism:
+        half-life: 2 hours (elimination half-life from steady-state infusion 2.2-3.7 hours in critically ill patients)
+        duration:
+        pathway: Mainly hepatic N-glucuronidation and CYP450 hydroxylation to inactive metabolites
+        metabolites:
+    elimination:
+        renal: Renal elimination of inactive metabolites
+mechanism:
+    target:
+        - α2 adrenoreceptor (presynaptic)
+        - Imidazoline receptor
+    action: "α2:α1 selectivity 1600:1; D-stereoisomer of medetomidine (L-stereoisomer inactive); presynaptic α2 activation hyperpolarises the presynaptic membrane, suppressing noradrenaline release → sedation and analgesia; imidazoline receptor effects contribute to haemodynamic and analgesic effects"
+contraindications:
+pharmacodynamics:
+    resp:
+        - No respiratory depression; no depression of respiratory drive even at high doses
+    cvs:
+        - Initial transient ↑ SVR and ↑ BP (α1 effect)
+        - Followed by ↓ MAP and ↓ HR
+        - Rebound ↑ BP on abrupt cessation
+        - ↓ Cardiac output (sympatholytic effect)
+    cns:
+        - Sedation resembling natural sleep
+        - Anxiolysis at low dose (anxiogenic at high dose)
+        - Amnesia
+        - ↓ MAC
+        - ↓ SNS outflow
+        - Minor analgesic effect (likely related to opioid potentiation and anxiolysis)
+    endo:
+    msk:
+    met:
+    ren:
+    gu:
+    git:
+    haeme:
+considerations:
+    - No effect on airway reflexes beyond that expected with natural sleep
+references:
+    - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.
+    - Smith S, Scarth E, Sasada M. Drugs in Anaesthesia and Intensive Care. 4th Ed. Oxford University Press. 2011.
+    - Petkov V. Essential Pharmacology For The ANZCA Primary Examination. Vesselin Petkov. 2012.
