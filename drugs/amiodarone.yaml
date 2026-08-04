@@ -1,57 +1,56 @@
 ---
-aliases:
+aliases: Cordarone
 class: Class III antiarrhythmic
 chemistry: Iodinated benzofuran
 dose:
-    cardiac arrest: 5mg/kg up to 300mg IV
-    arrhythmia: Load 5mg/kg up to 300mg over 30-60 minutes, then 15mg/kg over 24 hours
-    maintenance (PO): 200mg TDS for 1 week, then 200mg BD for 1 week, then 200mg OD
+    Cardiac arrest (IV): 5mg/kg up to 300mg IV
+    Arrhythmia (IV): 5mg/kg over 20 minutes-2 hours; then 15mg/kg over 24 hours
+    Maintenance (PO): 200mg TDS for 1 week; then 200mg BD for 1 week; then 200mg OD
 pharmaceutics:
-    presentation:
-        - 100mg and 200mg tablets
-        - 150mg ampoule for IV
-    compatibility:
+    presentation: 100mg or 200mg tablet; clear pale-yellow 150mg/3mL injection
+    compatibility: 5% glucose only; do not mix with other drugs
     solubility: Highly lipid-soluble; poorly water-soluble
 pharmacokinetics:
-    absorption: Oral bioavailability 20-80%; slow and erratic GI absorption; peak effect ~4.5 hours after oral dose
+    absorption: 20-80% oral bioavailability; slow and erratic; Tmax ~4.5 hours
     distribution:
         pKa: 6.56
-        vd: 66 L/kg (extensive accumulation in adipose tissue and muscle)
+        vd: 66 L/kg (adipose tissue and muscle accumulation)
         protein binding: 96%
     metabolism:
         half-life: 29 days (mean)
-        duration: Onset of action delayed due to redistribution; maximum effect (particularly Class I and IV effects) may take weeks to develop
-        pathway: Hepatic; CYP3A4
-        metabolites:
-            - Desethylamiodarone (active)
+        duration: Delayed by redistribution; maximum Class I/IV effects may take weeks
+        pathway: Hepatic CYP3A4 → desethylamiodarone
+        metabolites: Desethylamiodarone (active)
     elimination:
-        renal: Less than 5% renal elimination; predominantly biliary, skin, and lacrimal; not removed by dialysis
+        renal: <5% renal; predominantly biliary, skin and lacrimal; not dialysable
 mechanism:
     target:
-        - Potassium channel (IKr)
-        - Voltage-gated calcium channel
-        - β adrenoreceptor (non-competitive)
-        - α adrenoreceptor
-        - L-type calcium channel
-    action: Blocks repolarising K+ currents in Phase 3 → prolongs repolarisation → ↑ QT. Reduces velocity of Phase 0 (Class I Na+ channel effect). Non-competitive beta-blocker (Class II). Inhibits L-type Ca2+ channels (Class IV). α-blocker-like activity → ↓ SVR.
+        - IKr potassium channel
+        - Inactivated Na+ channel
+        - L-type Ca2+ channel
+        - β and α adrenoreceptors
+    action: IKr block → ↑ APD/QT; Na+ block → ↓ Phase 0; non-competitive β block + L-type Ca2+ block → ↓ SA/AV conduction; α-like activity → ↓ SVR
 contraindications:
     - Porphyria
+    - Sinus bradycardia or SA block
+    - Sick sinus or advanced AV block without pacemaker
+    - Thyroid dysfunction
+    - TdP-provoking drugs
+    - Severe ↓ BP or circulatory collapse (IV)
+    - Neonates (benzyl alcohol)
 pharmacodynamics:
     resp:
         - Pneumonitis (10% 3-year risk)
         - Pulmonary fibrosis
         - Pleuritis
     cvs:
-        - ↓ HR
-        - ↓ BP
-        - ↓ SVR
-        - ↑ QT (without ↑ risk of TdP)
-        - Irritant to peripheral veins
-        - Hypotension with rapid IV administration (due to polysorbate 80 excipient)
+        - ↓ HR/BP/SVR
+        - ↑ QT; TdP uncommon
+        - Peripheral venous irritation
+        - Rapid IV → ↓ BP (polysorbate 80)
     cns:
-        - Corneal microdeposits (blurring of vision)
-        - Sleep disturbance
-        - Vivid dreams
+        - Corneal microdeposits → blurred vision
+        - Sleep disturbance; vivid dreams
         - Peripheral neuropathy
     endo:
         - Hyperthyroidism (1%)
@@ -63,15 +62,16 @@ pharmacodynamics:
     ren:
     gu:
     git:
-        - Nausea
-        - Vomiting
-        - Hepatitis
-        - Cirrhosis
-        - Jaundice
+        - Nausea; vomiting
+        - Hepatitis; cirrhosis; jaundice
     haeme:
 considerations:
-    - CYP3A4 inhibitor and highly protein bound — extensive drug interactions including digoxin, statins, warfarin, phenytoin, and other antiarrhythmics
+    - CYP3A4/2C9/2D6 + P-gp inhibition → ↑ digoxin, statin, warfarin, phenytoin and antiarrhythmic exposure
     - Also exhibits Class I, II, and IV activity
 references:
+    - Juno Pharmaceuticals Pty Ltd. Amiodarone Juno Australian Product Information. Version 4.0. Revised 6 March 2025.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Young P, Psirides A. Wellington ICU Drug Manual. 2nd Ed. Wellington Regional Hospital. 2013.
     - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.
     - Rang HP, Dale MM, Ritter JM, Flower RJ. Rang and Dale's Pharmacology. 6th Ed. Churchill Livingstone.

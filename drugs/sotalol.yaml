@@ -1,18 +1,16 @@
 ---
-aliases:
+aliases: Sotacor
 class: Class II/III antiarrhythmic
 chemistry: Ethanolamine derivative
 dose:
-    tachyarrhythmia prophylaxis (PO): 40-160mg PO BD
-    tachyarrhythmia prophylaxis (IV): 50-100mg over 20 minutes
+    Arrhythmia (PO): 40-160mg BD
+    Arrhythmia (IV): 0.5-1.5mg/kg over 10 minutes; max 320mg/day
 pharmaceutics:
-    presentation:
-        - Solution 10mg/mL
-        - Tablets
-    compatibility:
+    presentation: 80mg or 160mg tablet; clear 10mg/mL injection
+    compatibility: 0.9% NaCl; 5% glucose
     solubility: Highly water-soluble
 pharmacokinetics:
-    absorption: 90-100% oral bioavailability
+    absorption: ~100% oral bioavailability; Tmax 2-3 hours; ↓ with food or milk
     distribution:
         pKa: 8.3
         vd: 1.6-2.4 L/kg
@@ -23,23 +21,26 @@ pharmacokinetics:
         pathway: Not metabolised
         metabolites:
     elimination:
-        renal: Excreted unchanged in urine
+        renal: 75% urine unchanged within 72 hours; <10% faeces
 mechanism:
     target:
         - β adrenoreceptor (non-selective; no intrinsic sympathomimetic activity)
         - Potassium channel (repolarising K+ current, Phase 3)
-    action: Racemic mixture; D-isomer is Class III (blocks K+ channels → prolongs repolarisation → ↑ QT interval); L-isomer has Class II activity (non-selective beta-blocker → ↓ AV nodal conduction). No membrane stabilising activity.
+    action: D/L isomers → K+ block → ↑ APD/QT; L-isomer → non-selective β block → ↓ AV conduction; no membrane-stabilising activity
 contraindications:
+    - Bronchospasm, asthma or COPD
+    - Sinus bradycardia or sick sinus
+    - Second/third-degree AV block without pacemaker
+    - Shock or uncontrolled CCF
+    - CrCl <10mL/min
+    - Long QT, TdP or hypomagnesaemia
 pharmacodynamics:
     resp:
         - Bronchospasm
     cvs:
-        - Bradycardia
-        - Hypotension
-        - AV nodal block
-        - Prolonged QT
-        - ↓ Inotropy
-        - Torsades de pointes (less than 2%; more common with high doses, pre-existing long QT, and electrolyte imbalances)
+        - ↓ HR/BP/inotropy; AV block
+        - ↑ QT
+        - TdP <2%; ↑ with high dose, long QT or electrolyte disturbance
     cns:
         - Masking of hypoglycaemia symptoms
     endo:
@@ -51,5 +52,12 @@ pharmacodynamics:
     git:
     haeme:
 considerations:
+    - Renal impairment → accumulation + ↑ TdP risk
+    - Avoid Class Ia/III antiarrhythmics
+    - Abrupt withdrawal → angina, arrhythmia or MI
 references:
+    - Arrotex Pharmaceuticals Pty Ltd. Sotacor Australian Product Information. Revised 26 March 2026.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Young P, Psirides A. Wellington ICU Drug Manual. 2nd Ed. Wellington Regional Hospital. 2013.
     - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.
