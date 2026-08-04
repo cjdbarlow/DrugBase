@@ -1,15 +1,15 @@
 ---
-aliases:
+aliases: Celebrex
 class: Selective COX-2 inhibitor
-chemistry: Diarylheterocyclic NSAID
+chemistry: Diarylheterocyclic sulfonamide
 dose:
-    Analgesia: 100-200mg PO BD
+    Analgesia (PO): 100-200mg PO BD ≤5 days
 pharmaceutics:
-    presentation:
+    presentation: 100mg or 200mg capsule
     compatibility:
     solubility: "pKa 11.1; practically insoluble in water"
 pharmacokinetics:
-    absorption: 60-80% oral bioavailability; rapidly absorbed
+    absorption: 60-80% oral bioavailability; Tmax 2-3 hours
     distribution:
         pKa: 11.1
         vd: 5-6 L/kg
@@ -17,32 +17,43 @@ pharmacokinetics:
     metabolism:
         half-life: 8-12 hours
         duration:
-        pathway: CYP2C9 to hydroxycelecoxib and carboxycelecoxib (both inactive)
-        metabolites: Hydroxycelecoxib (inactive); carboxycelecoxib (inactive)
+        pathway: CYP2C9 → hydroxycelecoxib → carboxycelecoxib and glucuronide; inactive
+        metabolites: Hydroxycelecoxib; carboxycelecoxib; glucuronide (inactive)
     elimination:
-        renal: Renal elimination of inactive metabolites
+        renal: 27% urine; 57% faeces; <1% unchanged
 mechanism:
     target:
         - COX-2
-    action: Selective COX-2 inhibition (30:1 selectivity in favour of COX-2) → ↓ prostaglandin synthesis at sites of inflammation; relative sparing of COX-1 → preservation of gastric mucosal protection and platelet thromboxane production
+    action: Selective COX-2 inhibition (30:1) → ↓ prostaglandin synthesis at sites of inflammation
 contraindications:
+    - NSAID-induced asthma or urticaria
+    - Sulfonamide reaction
+    - Active peptic ulcer or GI bleeding
+    - Unstable IHD; MI or CVA within 3 months
+    - NYHA II-IV heart failure
+    - CABG perioperative pain
+    - Severe renal or hepatic impairment
 pharmacodynamics:
     resp:
+        - Bronchospasm in NSAID-sensitive asthma
     cvs:
-        - Unclear effect on CVA and MI risk — recommended to avoid use in IHD/CVD
-        - Prothrombotic effects due to selective inhibition of prostacyclin (PGI2) with relative preservation of thromboxane A2
-        - CCF exacerbation
-        - Hypertension
+        - ↑ MI/CVA risk
+        - ↑ BP; oedema; CCF exacerbation
     cns:
     endo:
     msk:
     met:
     ren:
-        - Acute kidney injury (microvascular renal dysfunction)
+        - ↓ GFR; AKI
     gu:
     git:
-        - Lower risk of GI ulceration than non-selective NSAIDs
+        - ↓ GI ulceration vs non-selective NSAIDs
     haeme:
+        - No platelet inhibition at therapeutic concentrations
 considerations:
+    - CYP2C9 poor metabolisers → ↑ exposure
 references:
+    - Viatris Pty Ltd. Celebrex Australian Product Information. Revised 6 March 2025.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
     - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.

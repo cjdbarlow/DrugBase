@@ -1,46 +1,58 @@
 ---
-aliases:
+aliases: Dynastat
 class: Selective COX-2 inhibitor
-chemistry:
+chemistry: Water-soluble sulfonamide prodrug of valdecoxib
 dose:
-    Analgesia: 20-40mg IV BD
+    Analgesia (IV): 1mg/kg up to 40mg once
 pharmaceutics:
-    presentation:
-    compatibility:
-    solubility:
+    presentation: 40mg powder; reconstitute with 2mL
+    compatibility: "Reconstitute: 0.9% NaCl, 5% glucose, or 0.45% NaCl/5% glucose; Hartmann's line-compatible"
+    solubility: "pKa 6.7; highly water-soluble"
 pharmacokinetics:
-    absorption:
+    absorption: Rapid, near-complete conversion to valdecoxib; onset 7-14 minutes
     distribution:
-        pKa:
-        vd:
-        protein binding:
+        pKa: 6.7
+        vd: 0.8 L/kg (parecoxib); 55 L (valdecoxib)
+        protein binding: 98%
     metabolism:
-        half-life:
-        duration:
-        pathway: CYP2C9 to inactive metabolites
-        metabolites:
+        half-life: Parecoxib <1 hour; valdecoxib ~8 hours
+        duration: 6 to >24 hours
+        pathway: Hydrolysis → valdecoxib; CYP3A4/CYP2C9 and glucuronidation
+        metabolites: Valdecoxib (active); hydroxylated valdecoxib (minor active)
     elimination:
-        renal:
+        renal: 70% urine as inactive metabolites; <5% unchanged valdecoxib
 mechanism:
     target:
         - COX-2
-    action: Selective COX-2 inhibition (61:1 selectivity in favour of COX-2) → ↓ prostaglandin synthesis at sites of inflammation
+    action: Conversion to valdecoxib → selective COX-2 inhibition (61:1) → ↓ prostaglandin synthesis
 contraindications:
+    - CABG or major vascular surgery
+    - Significant IHD, PAD or cerebrovascular disease
+    - NSAID-induced asthma or urticaria
+    - Sulfonamide reaction
+    - Severe hepatic impairment
+    - Third-trimester pregnancy or breastfeeding
 pharmacodynamics:
     resp:
+        - Bronchospasm in NSAID-sensitive asthma
     cvs:
-        - Unclear effect on CVA and MI risk — recommended to avoid use in IHD/CVD
-        - Prothrombotic effects due to selective inhibition of prostacyclin (PGI2) with relative preservation of thromboxane A2
+        - ↑ MI/CVA risk
+        - ↑ BP; oedema; CCF exacerbation
     cns:
     endo:
     msk:
     met:
     ren:
-        - Acute kidney injury (microvascular renal dysfunction)
+        - ↓ GFR; AKI
     gu:
     git:
-        - Lower risk of GI ulceration than non-selective NSAIDs
+        - ↓ GI ulceration vs non-selective NSAIDs
     haeme:
+        - No platelet inhibition at therapeutic concentrations
 considerations:
+    - Current Australian PI permits a single peri-operative dose
 references:
+    - Juno Pharmaceuticals Pty Ltd. Parecoxib Juno Australian Product Information. Version 2.0. Revised 2 February 2024.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Young P, Psirides A. Wellington ICU Drug Manual. 2nd Ed. Wellington Regional Hospital. 2013.
     - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.

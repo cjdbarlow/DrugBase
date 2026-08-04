@@ -1,51 +1,63 @@
 ---
-aliases:
+aliases: Toradol
 class: Non-selective COX inhibitor
-chemistry:
+chemistry: Heteroaryl acetic acid
 dose:
-    Analgesia: 15-30mg IM/IV Q6H
+    Analgesia (IM): 10-30mg 4-6-hourly; max 90mg/day; ≤5 days
+    Analgesia (IV, off-label): 15-30mg 6-hourly; ≤5 days
 pharmaceutics:
-    presentation:
+    presentation: 30mg/mL injection
     compatibility:
-    solubility:
+    solubility: "pKa 3.54; water-soluble"
 pharmacokinetics:
-    absorption:
+    absorption: 100% IM bioavailability; Tmax ~50 minutes
     distribution:
-        pKa:
-        vd:
-        protein binding:
+        pKa: 3.54
+        vd: 13 L
+        protein binding: ">99%"
     metabolism:
-        half-life:
+        half-life: 5-6 hours
         duration:
-        pathway:
-        metabolites:
+        pathway: Hepatic glucuronidation; minor p-hydroxylation
+        metabolites: Ketorolac glucuronide; p-hydroxyketorolac (inactive)
     elimination:
-        renal:
+        renal: 91% urine; 6% faeces
 mechanism:
     target:
         - COX-1
         - COX-2
     action: Inhibition of COX-1 and COX-2 → ↓ prostaglandin synthesis → ↓ sensitivity of peripheral nociceptors
 contraindications:
+    - Moderate/severe renal impairment; dehydration or hypovolaemia
+    - Active/recurrent GI ulcer or bleeding
+    - Haemorrhagic diathesis; anticoagulation; high bleeding-risk surgery
+    - Prophylactic pre-operative or intra-operative use
+    - Neuraxial administration
+    - Concurrent aspirin, NSAIDs, oxpentifylline, probenecid or lithium
+    - Pregnancy, labour, delivery or lactation
 pharmacodynamics:
     resp:
         - Bronchospasm in approximately 20% of asthmatics
     cvs:
-        - Local thrombus with IV injection
+        - ↑ BP; oedema; CCF exacerbation
+        - ↑ MI/CVA risk
     cns:
     endo:
     msk:
     met:
     ren:
-        - Acute kidney injury (microvascular renal dysfunction)
+        - ↓ GFR; AKI
     gu:
     git:
-        - Highest risk of gastric erosion among commonly used NSAIDs
+        - Highest GI ulcer/bleeding risk among commonly used NSAIDs
     haeme:
         - Platelet dysfunction
-        - ↑ Perioperative bleeding risk
 considerations:
-    - Off-label use in Australia
-    - Potent analgesic with minimal anti-inflammatory properties
+    - "IV route: off-label in Australia"
+    - Potent analgesic; minimal anti-inflammatory effect
+    - No opioid receptor activity, sedation or respiratory depression
 references:
+    - Juno Pharmaceuticals Pty Ltd. Ketorolac Juno Australian Product Information. Version 6.1. Revised 28 March 2025.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
     - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.

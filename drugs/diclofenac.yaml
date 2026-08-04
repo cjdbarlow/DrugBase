@@ -1,54 +1,63 @@
 ---
-aliases:
+aliases: Voltaren
 class: Non-selective COX inhibitor
-chemistry: Hetero-aryl acetic acid
+chemistry: Heteroaryl acetic acid
 dose:
-    Analgesia: 50mg PO/PR BD/TDS
+    Analgesia (PO/PR): 50mg BD/TDS; max 150mg/day
 pharmaceutics:
-    presentation:
+    presentation: 25mg or 50mg EC tablet; 12.5-100mg suppository
     compatibility:
     solubility: "pKa 4.2; quite lipid soluble and minimally water soluble"
 pharmacokinetics:
-    absorption: Approximately 65% oral bioavailability; rapidly absorbed
+    absorption: Rapid; 50-65% oral bioavailability
     distribution:
         pKa: 4.2
         vd: 1.4 L/kg
         protein binding: 99%
     metabolism:
-        half-life: 1.2 hours
+        half-life: 1-2 hours
         duration:
-        pathway: Hepatic; 70% to water-soluble inactive metabolites; 30% biliary excretion → enterohepatic recirculation
-        metabolites:
+        pathway: CYP2C9 → 4-hydroxydiclofenac; glucuronidation and sulfation
+        metabolites: 4-hydroxydiclofenac
     elimination:
-        renal: 70% renal elimination of inactive metabolites; 30% biliary elimination (enterohepatic recirculation)
+        renal: 60-70% urine; 30-35% biliary/faecal; enterohepatic recirculation
 mechanism:
     target:
         - COX-1
         - COX-2
-    action: Inhibition of COX-1 and COX-2 → ↓ prostaglandin synthesis → ↓ vascular response to inflammation and ↓ sensitivity of peripheral nociceptors; COX-1 inhibition → dysregulation of PGI2 antithrombotic effects and ↓ gastric bicarbonate and mucus secretion
+    action: Reversible COX-1/2 inhibition → ↓ prostaglandin synthesis → ↓ inflammation and nociceptor sensitisation
 contraindications:
+    - NSAID-induced asthma, angioedema or urticaria
+    - Active GI ulcer, bleeding or perforation
+    - Severe cardiac, renal or hepatic failure
+    - CABG peri-operative pain
+    - Third-trimester pregnancy
+    - Proctitis (PR)
 pharmacodynamics:
     resp:
-        - Bronchospasm in approximately 20% of asthmatics
+        - Bronchospasm (~20% of asthmatics)
     cvs:
-        - Risk of MI similar to COX-2 inhibitors
-        - Local thrombus with IV injection
-        - CCF exacerbation
-        - Hypertension
+        - ↑ MI/CVA risk; similar to COX-2 inhibitors
+        - IV → local thrombosis
+        - ↑ BP; oedema; CCF exacerbation
     cns:
     endo:
     msk:
     met:
+        - Transaminitis
     ren:
-        - Acute kidney injury (microvascular renal dysfunction)
+        - ↓ GFR; AKI
     gu:
     git:
-        - GI ulceration
+        - GI ulceration/bleeding
     haeme:
         - Platelet dysfunction
         - ↑ Perioperative bleeding risk
-        - Transaminitis
 considerations:
+    - Synovial persistence → effect outlasts plasma t½
 references:
+    - Novartis Pharmaceuticals Australia Pty Limited. Voltaren Tablets and Suppositories Australian Product Information. Revised 17 November 2025.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Young P, Psirides A. Wellington ICU Drug Manual. 2nd Ed. Wellington Regional Hospital. 2013.
     - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.
-    - TGA PI document
