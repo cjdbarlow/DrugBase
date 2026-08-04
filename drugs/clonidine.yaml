@@ -13,13 +13,13 @@ pharmaceutics:
     compatibility: 0.9% NaCl
     solubility: Amphoteric; water- and lipid-soluble
 pharmacokinetics:
-    absorption: 70-80% oral bioavailability; minimal first-pass metabolism; rapid absorption
+    absorption: 70-100% oral bioavailability; minimal first-pass metabolism; rapid absorption
     distribution:
         pKa: 8.0
         vd: 2.1 L/kg
         protein binding: 20-40%
     metabolism:
-        half-life: 9-18 hours
+        half-life: 5-7 hours
         duration: ~6 hours
         pathway: 30-50% hepatic to inactive metabolites; remainder excreted unchanged
         metabolites:
