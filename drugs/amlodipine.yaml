@@ -1,39 +1,39 @@
 ---
-aliases:
+aliases: Norvasc
 class: Dihydropyridine calcium channel blocker
 chemistry: 1,4-dihydropyridine
 dose:
-    hypertension/angina: 2.5-10mg PO OD
+    HTN/angina (PO): 2.5-10mg OD
 pharmaceutics:
-    presentation: 5mg, 10mg tablets
+    presentation: 5mg or 10mg tablet
     compatibility:
     solubility: Excellent lipid solubility
 pharmacokinetics:
-    absorption: 64% oral bioavailability; Tmax 6-12 hours (very slow absorption)
+    absorption: 64% oral bioavailability; Tmax 6-12 hours
     distribution:
         pKa: 8.6
         vd: 21.4L/kg
         protein binding: 95.5%
     metabolism:
         half-life: 30-50 hours
-        duration: Slow onset and very long duration; Tmax 6-12 hours
+        duration: ≥24 hours
         pathway: Hepatic; CYP3A4
         metabolites:
             - Inactive metabolites
     elimination:
-        renal: Metabolites
+        renal: 10% unchanged; 60% as metabolites
 mechanism:
     target:
-        - α1c subunit of L-type voltage-gated calcium channel
-    action: Dihydropyridine; selective for the vascular smooth muscle isoform. Very slow on/off kinetics at the receptor explain the prolonged half-life and gradual onset. ↓ Ca2+ influx → ↓ vascular smooth muscle tone. Minimal cardiac effects at therapeutic doses.
+        - Vascular L-type Ca2+ channel
+    action: ↓ Ca2+ influx → arterial and coronary vasodilation
 contraindications:
 pharmacodynamics:
     resp:
     cvs:
         - ↓ SVR
+        - ↓ MAP
         - ↓ Afterload
-        - ↓ BP
-        - Minimal reflex tachycardia (slow onset attenuates baroreceptor reflex)
+        - Minimal ↑ HR
         - Coronary vasodilation
     cns:
         - Headache
@@ -47,4 +47,11 @@ pharmacodynamics:
     git:
         - Constipation
     haeme:
+considerations:
+    - Severe aortic stenosis (afterload reduction may be detrimental)
+    - Angina may worsen after initiation or dose increase
 references:
+    - Aspen Pharmacare Australia Pty Ltd. Norvasc Australian Product Information. Revised 26 August 2024.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Young P, Psirides A. Wellington ICU Drug Manual. 2nd Ed. Wellington Regional Hospital. 2013.

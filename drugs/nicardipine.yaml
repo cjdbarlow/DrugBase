@@ -1,40 +1,61 @@
 ---
-class: Dihydropyridine calcim-channel blocker
-chemistry:
+aliases:
+class: Dihydropyridine calcium channel blocker
+chemistry: 1,4-dihydropyridine
 dose:
-    hypertension:
-        - load: 2.5-5mg/hr
-        - maintenance: Adjust by 2.5mg/hr Q15 minutes, up to 15mg/hr
+    HTN (IV): 5mg/hr; ↑ by 2.5mg/hr Q15 minutes; max 15mg/hr
 pharmaceutics:
-    presentation:
-    compatibility: Incompatible with furosemide, bicarbonate.
+    presentation: 0.1mg/mL or 0.2mg/mL premixed IV solution
+    compatibility: Do not co-infuse; incompatible with bicarbonate and Hartmann's
+    solubility: Slightly water-soluble
 pharmacokinetics:
     absorption:
     distribution:
         pKa:
-        vd:
-        protein binding:
+        vd: 8.3L/kg
+        protein binding: ">95%"
     metabolism:
-        half-life:
-        pathway:
+        half-life: 3 minutes; 45 minutes; terminal 14 hours
+        duration: Onset within minutes; 50% offset ~30 minutes
+        pathway: Hepatic; CYP2C8, CYP2D6 and CYP3A4
         metabolites:
+            - Inactive metabolites
     elimination:
-        renal:
+        renal: 49% as metabolites; none unchanged
+        faecal: 43% as metabolites
 mechanism:
     target:
-        - L-type voltage-gated calcium channel
-    action: Selectively inhibits the influx of calcium ions into cardiac and smooth muscle, resulting in relaxation of coronary vascular smooth muscle and myocardium
+        - Vascular L-type Ca2+ channel
+    action: ↓ Ca2+ influx → arterial and coronary vasodilation
 contraindications:
-    - Aortic stenosis
-    - Acute myocardial infarction <7 days
+    - Advanced aortic stenosis
+    - Unstable angina; MI <8 days
 pharmacodynamics:
     resp:
     cvs:
+        - ↓ SVR
+        - ↓ MAP
+        - ↓ Afterload
+        - Reflex ↑ HR
+        - ↑ CO
+        - Coronary vasodilation
     cns:
+        - Headache
     endo:
     msk:
+        - Peripheral oedema
     met:
     ren:
     gu:
     git:
+        - Nausea
+        - Vomiting
     haeme:
+        - Thrombocytopenia
+considerations:
+    - Phlebitis
+references:
+    - Somerset Therapeutics, LLC. Nicardipine Hydrochloride in Sodium Chloride Injection US Prescribing Information. Revised April 2026.
+    - Laboratoire X.O. Vasonase 1mg/mL solución para perfusión Spanish Summary of Product Characteristics. Revised August 2025.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.

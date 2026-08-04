@@ -1,12 +1,13 @@
 ---
-aliases:
+aliases: Cleviprex
 class: Dihydropyridine calcium channel blocker
 chemistry: 1,4-dihydropyridine
 dose:
-    acute hypertension (IV): 1-2mg/hr; double dose Q90 seconds until BP target; maximum 32mg/hr
+    HTN (IV): 1-2mg/hr; double Q90 seconds until target reached; usual 4-6mg/hr; max 32mg/hr
 pharmaceutics:
-    presentation: 0.5mg/mL lipid emulsion for IV infusion
-    solubility: Excellent lipid solubility, very poor water solubility
+    presentation: 0.5mg/mL lipid emulsion
+    compatibility: Do not dilute or co-infuse
+    solubility: Excellent lipid solubility; very poor water solubility
 pharmacokinetics:
     absorption: 0% oral bioavailability
     distribution:
@@ -15,33 +16,46 @@ pharmacokinetics:
         protein binding: 99.5%
     metabolism:
         half-life: 1.8 minutes
-        duration: Rapid onset (seconds) and offset (minutes)
-        pathway: Rapidly hydrolysed by plasma and tissue esterases to an inactive carboxylic acid metabolite
+        duration: Onset 2-4 minutes; offset 5-15 minutes
+        pathway: Plasma and tissue esterases
         metabolites:
             - Inactive carboxylic acid metabolite
     elimination:
-        renal: Metabolites
+        renal: 63-74% as metabolites
+        faecal: 7-22% as metabolites
 mechanism:
     target:
-        - α1c subunit of L-type voltage-gated calcium channel
-    action: Dihydropyridine; selective for the vascular smooth muscle isoform. Ultra-short acting due to plasma esterase hydrolysis (esmolol-like profile). ↓ Ca2+ influx → ↓ arterial smooth muscle tone → ↓ afterload. Predominantly arterial dilator.
+        - Vascular L-type Ca2+ channel
+    action: ↓ Ca2+ influx → arterial vasodilation
 contraindications:
+    - Soy or egg allergy
+    - Defective lipid metabolism
+    - Severe aortic stenosis
 pharmacodynamics:
     resp:
     cvs:
         - ↓ SVR
-        - ↓ Afterload (predominantly arterial)
+        - ↓ MAP
+        - ↓ Afterload
         - Reflex ↑ HR
         - ↑ CO
     cns:
         - Headache
     endo:
     msk:
+        - Oedema
         - Flushing
     met:
+        - ↑ Triglycerides
     ren:
     gu:
     git:
+        - Nausea
     haeme:
+considerations:
+    - Max 1000mL/24 hours; include in daily lipid load
+    - Use within 12 hours of vial puncture
 references:
-
+    - Chiesi Australia Pty Ltd. Cleviprex Australian Product Information. Version 4. Revised 26 September 2025.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.

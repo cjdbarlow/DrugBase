@@ -1,41 +1,45 @@
 ---
-aliases:
+aliases: Nimotop
 class: Dihydropyridine calcium channel blocker
 chemistry: 1,4-dihydropyridine
 dose:
-    cerebral vasospasm (PO): 60mg PO/NG Q4h for 21 days
-    cerebral vasospasm (IV): 0.5mg/hr, titrate up to 2mg/hr
+    SAH (PO/NG): 60mg Q4H for 21 days
+    SAH (IV): 15mcg/kg/hr (1mg/hr) for 2 hours; then 30mcg/kg/hr (2mg/hr)
+    <70kg or labile MAP (IV): 0.5mg/hr; max 1mg/hr
 pharmaceutics:
-    presentation: 30mg tablets
-    compatibility: Incompatible with PVC; use polyethylene tubing
-    solubility: Excellent lipid solubility; highly CNS penetrant
+    presentation: 30mg tablet; 0.2mg/mL IV concentrate
+    compatibility: No PVC; use polyethylene or polypropylene; co-infuse 1:4
+    solubility: Excellent lipid solubility; high CNS penetration
 pharmacokinetics:
-    absorption: 11.6% oral bioavailability (extensive first-pass metabolism)
+    absorption: 11.6% oral bioavailability; Tmax 0.6-1.6 hours
     distribution:
         pKa: 5.4
         vd: 1.7L/kg
         protein binding: 98%
     metabolism:
-        half-life: 1-2 hours
-        duration: Clinical effects persist beyond predicted from half-life
+        half-life: 1.2-1.8 hours IV; 5-10 hours PO
+        duration: Exceeds plasma half-life
         pathway: Hepatic; CYP3A4
         metabolites:
-            - Inactive metabolites
+            - Inactive or substantially less active metabolites
     elimination:
-        renal: Metabolites
+        renal: 50% as metabolites
+        faecal: 30% as metabolites
 mechanism:
     target:
-        - α1c subunit of L-type voltage-gated calcium channel
-    action: Preferential affinity for cerebral vasculature due to lower resting membrane potential in cerebral smooth muscle → more channels in inactivated state → greater drug effect.
+        - Cerebral vascular L-type Ca2+ channel
+    action: Lower cerebral vascular smooth-muscle resting potential → preferential L-type Ca2+ channel block and vasodilation
 contraindications:
+    - Rifampicin (PO)
+    - Phenobarbital; phenytoin; carbamazepine (PO)
 pharmacodynamics:
     resp:
     cvs:
-        - ↓ BP (systemic; dose-limiting)
-        - Minimal HR or contractility effects
+        - ↓ MAP
+        - Tachycardia or bradycardia
     cns:
-        - ↓ Cerebral vasospasm
-        - Improved neurological outcomes post-SAH
+        - ↓ Cerebral vascular resistance
+        - Improved neurological outcomes after SAH
         - Headache
     endo:
     msk:
@@ -43,8 +47,16 @@ pharmacodynamics:
     ren:
     gu:
     git:
+        - Nausea
+        - Ileus
     haeme:
+        - Thrombocytopenia
 considerations:
-    - Risk of profound hypotension
-    - Can alter PO dose to 30mg Q2H to reduce haemodynamic instability
+    - Phlebitis
+    - Severe hepatic impairment → 50% dose
 references:
+    - Boucher & Muir Pty Ltd. Nimotop Australian Product Information. Revised 30 January 2026.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Young P, Psirides A. Wellington ICU Drug Manual. 2nd Ed. Wellington Regional Hospital. 2013.
+    - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.

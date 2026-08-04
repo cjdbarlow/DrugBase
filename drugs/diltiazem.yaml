@@ -1,43 +1,51 @@
 ---
-aliases:
-class: Calcium channel blocker
-chemistry: Benzothiazepine calcium channel blocker
+aliases: Cardizem; Dilzem
+class: Non-dihydropyridine calcium channel blocker
+chemistry: Benzothiazepine
 dose:
-    rate control (IV): 0.25mg/kg IV over 2 minutes; may repeat 0.35mg/kg after 15 minutes; infusion 5-15mg/hr
-    hypertension/angina (PO): 60-120mg PO TID
-    rate control (SR): 120-360mg PO OD
+    Rate control (IV): 0.25mg/kg over 2 minutes; repeat 0.35mg/kg after 15 minutes; infusion 5-15mg/hr
+    HTN/angina (PO): 30-120mg TDS; max 360mg/day
+    Rate control (SR): 120-360mg OD
 pharmaceutics:
-    presentation: 5mg/mL solution for IV; 60mg, 120mg, 180mg tablets; SR formulations
+    presentation: 5mg/mL injection; 30mg, 60mg, 120mg or 180mg tablet; SR formulations
     compatibility:
     solubility: Excellent lipid solubility
 pharmacokinetics:
-    absorption: 39% oral bioavailability (first-pass hepatic metabolism)
+    absorption: 39% oral bioavailability
     distribution:
         pKa: 7.5
         vd: 5.3L/kg
         protein binding: 80-86%
     metabolism:
         half-life: 2-5 hours
-        duration: Clinical effects persist beyond predicted from half-life
-        pathway: Hepatic; CYP3A4 (also a CYP3A4 inhibitor)
+        duration: Exceeds plasma half-life
+        pathway: Hepatic; CYP3A4 substrate and inhibitor
         metabolites:
-            - Desacetyldiltiazem (active; ~25-50% potency of parent)
+            - Desacetyldiltiazem (active; 25-50% potency)
     elimination:
         renal: Metabolites
 mechanism:
     target:
-        - α1c subunit of L-type voltage-gated calcium channel
-    action: Non-selective; binds both vascular smooth muscle and myocardial isoforms. Intermediate selectivity profile between dihydropyridines (vascular) and verapamil (cardiac). ↓ Ca2+ influx → vasodilation and modest ↓ inotropy/chronotropy. Enters from intracellular side; state-dependent block.
+        - Cardiac and vascular L-type Ca2+ channel
+    action: State-dependent block → ↓ AV conduction and arterial/coronary vasodilation
 contraindications:
+    - Sick sinus syndrome; 2nd or 3rd degree AV block without pacemaker
+    - Severe bradycardia
+    - Severe ↓ MAP or cardiogenic shock
+    - Severe heart failure
+    - Acute MI with pulmonary congestion
+    - AF/flutter with an accessory pathway
+    - Ventricular tachycardia
+    - IV beta blocker; IV dantrolene; ivabradine
 pharmacodynamics:
     resp:
     cvs:
         - ↓ SVR
+        - ↓ MAP
         - ↓ Afterload
-        - ↓ BP
         - ↓ HR
-        - ↓ AV conduction (rate control in AF/flutter)
-        - Mild ↓ inotropy
+        - ↓ AV conduction
+        - Mild ↓ Inotropy
         - Coronary vasodilation
     cns:
         - Headache
@@ -53,4 +61,12 @@ pharmacodynamics:
         - ↓ Lower oesophageal sphincter tone
     haeme:
 considerations:
+    - Beta blockers or digoxin → bradycardia/AV block
+    - Do not crush SR formulations
 references:
+    - Sanofi-Aventis Australia Pty Ltd. Cardizem Australian Product Information. Revised 9 June 2026.
+    - Eugia US LLC. Diltiazem Hydrochloride Injection US Prescribing Information. Revised November 2025.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Young P, Psirides A. Wellington ICU Drug Manual. 2nd Ed. Wellington Regional Hospital. 2013.
+    - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.

@@ -1,42 +1,49 @@
 ---
-aliases:
+aliases: Zanidip
 class: Dihydropyridine calcium channel blocker
 chemistry: 1,4-dihydropyridine
 dose:
-    hypertension: 10-20mg PO OD (taken 15 minutes before a meal)
+    HTN (PO): 10-20mg OD; ≥15 minutes before food
 pharmaceutics:
-    presentation: 10mg, 20mg tablets
+    presentation: 10mg or 20mg tablet
     compatibility:
-    solubility: Excellent lipid solubility; highly membrane-partitioned
+    solubility: Excellent lipid solubility; high membrane partitioning
 pharmacokinetics:
-    absorption: 10% oral bioavailability (extensive first-pass metabolism)
+    absorption: 10% oral bioavailability; Tmax 1.5-3 hours
     distribution:
         pKa: 9.3
         vd: 2.5L/kg
         protein binding: 98%
     metabolism:
-        half-life: 2-5 hours (plasma); prolonged effect due to high membrane partitioning
-        duration: Clinical duration 24 hours despite short plasma half-life; determined by membrane reservoir
+        half-life: 2-5 hours; terminal 5.8-7.7 hours
+        duration: 24 hours
         pathway: Hepatic; CYP3A4
         metabolites:
             - Inactive metabolites
     elimination:
-        renal: Metabolites
+        renal: ~50% as metabolites
 mechanism:
     target:
-        - α1c subunit of L-type voltage-gated calcium channel
-    action: Dihydropyridine; selective for the vascular smooth muscle isoform. Highly lipophilic → partitions extensively into the cell membrane, creating a slow-release reservoir which accounts for the prolonged clinical duration despite the short plasma half-life. ↓ Ca2+ influx → ↓ vascular smooth muscle tone.
+        - Vascular L-type Ca2+ channel
+    action: ↓ Ca2+ influx → arterial vasodilation
 contraindications:
+    - Left ventricular outflow obstruction
+    - Untreated heart failure
+    - Unstable angina; MI <1 month
+    - Severe hepatic impairment
+    - GFR <30mL/min or dialysis
+    - Strong CYP3A4 inhibitors; ciclosporin; grapefruit
 pharmacodynamics:
     resp:
     cvs:
         - ↓ SVR
+        - ↓ MAP
         - ↓ Afterload
-        - ↓ BP
-        - Minimal reflex tachycardia (gradual onset due to membrane partitioning)
-        - Coronary vasodilation
+        - Reflex ↑ HR
+        - Palpitations
     cns:
         - Headache
+        - Dizziness
     endo:
     msk:
         - Peripheral oedema
@@ -45,6 +52,9 @@ pharmacodynamics:
     ren:
     gu:
     git:
+        - Nausea
     haeme:
+considerations:
+    - High-fat meal → 4-fold ↑ bioavailability
 references:
-
+    - Viatris Pty Ltd. Zanidip Australian Product Information. Revised 21 February 2022.
