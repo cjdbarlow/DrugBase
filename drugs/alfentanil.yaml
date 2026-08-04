@@ -1,29 +1,32 @@
 ---
-aliases:
+aliases: Rapifen
 class: Opioid
-chemistry: Synthetic piperidine opioid
+chemistry: Synthetic phenylpiperidine opioid
 dose:
+    Analgesia (IV): Up to 7μg/kg; increments 2-3μg/kg every 10-15 minutes
+    Laryngoscopy (IV): 20-50μg/kg
+    Infusion (IV): 0.5-1μg/kg/min
 pharmaceutics:
-    presentation: Clear solution at 0.5mg/mL
-    compatibility:
+    presentation: Clear, colourless solution; 0.5mg/mL in 2 or 10mL ampoules
+    compatibility: Compatible with 0.9% NaCl, 5% glucose and compound sodium lactate
     solubility: "pKa 6.5; octanol-water partition coefficient 128; 90x more lipid soluble than morphine; 90% unionised at pH 7.4"
 pharmacokinetics:
-    absorption: IV only in practice; onset within 90 seconds due to low pKa with high proportion unionised at physiological pH
+    absorption: IV; maximal analgesia ~1 minute
     distribution:
         pKa: 6.5
-        vd: 0.6 L/kg
-        protein binding: 90%
+        vd: 0.4-1 L/kg
+        protein binding: 92%
     metabolism:
-        half-life: 100 minutes
+        half-life: 90-111 minutes
         duration: 5-10 minutes
-        pathway: Hepatic to inactive metabolites
-        metabolites:
+        pathway: Hepatic N- and O-dealkylation to inactive metabolites
+        metabolites: Inactive
     elimination:
         renal: Renal elimination of metabolites
 mechanism:
     target:
         - μ-opioid receptor (MOP)
-    action: Hyperpolarisation of presynaptic cell membrane by increasing potassium conductance; reduced production of cAMP and closure of voltage-gated calcium channels → decreased neurotransmitter release from primary pain afferent fibres
+    action: Gi/o activation → ↓ adenylyl cyclase and cAMP; ↑ postsynaptic K+ conductance and ↓ presynaptic Ca2+ influx → hyperpolarisation and ↓ neurotransmitter release
 contraindications:
 pharmacodynamics:
     resp:
@@ -42,24 +45,25 @@ pharmacodynamics:
     endo:
     msk:
         - Muscle rigidity
-        - Pruritus (especially with intrathecal administration)
+        - Pruritus
     met:
-        - ↓ ACTH, prolactin, and gonadotrophic hormone secretion
-        - ↑ ADH secretion
+        - ↓ ACTH, gonadotrophins, cortisol and testosterone; ↑ prolactin
     ren:
         - ↑ ADH
-        - ↑ Ureteric and sphincter tone
+        - ↑ Ureteric and bladder sphincter tone → urinary retention
     gu:
     git:
         - ↓ Peristalsis and GIT secretions → constipation
     haeme:
 considerations:
-    - Shorter elimination half-life than fentanyl despite lower clearance, due to smaller VD
-    - Effect prolonged with concurrent midazolam due to CYP3A3/4 competition
-    - Rapid onset due to low pKa — large unionised fraction at physiological pH (Bowman's Principle)
-    - Impaired chemotaxis, lymphocyte proliferation, and antibody production
+    - Shorter t½ than fentanyl despite lower clearance due to smaller Vd
+    - Midazolam prolongs effect via CYP3A3/4 competition
+    - Low pKa and larger dose → rapid onset despite lower lipid solubility than fentanyl (Bowman's Principle)
     - "Equianalgesic dose (IV): 1mg = 10mg IV morphine"
 references:
+    - Piramal Critical Care Pty Ltd. Rapifen Australian Product Information. Revised 26 September 2025.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
     - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.
     - Smith S, Scarth E, Sasada M. Drugs in Anaesthesia and Intensive Care. 4th Ed. Oxford University Press. 2011.
     - Petkov V. Essential Pharmacology For The ANZCA Primary Examination. Vesselin Petkov. 2012.

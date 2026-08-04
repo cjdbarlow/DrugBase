@@ -1,20 +1,22 @@
 ---
-aliases:
+aliases: Sublimaze
 class: Opioid
-chemistry: 4-anilinopiperidine derivative
+chemistry: Synthetic phenylpiperidine opioid
 dose:
+    Laryngoscopy (IV): 1-3μg/kg over 3-5 minutes
+    Paediatric (IV; 2-12 years): 2-3μg/kg
 pharmaceutics:
-    presentation: Clear colourless solution
-    compatibility:
+    presentation: Clear, colourless, preservative-free solution; 50μg/mL; pH 4.0-7.5
+    compatibility: Compatible with 0.9% NaCl and 5% glucose; incompatible with thiopental and methohexitone
     solubility: "pKa 8.4; octanol-water partition coefficient 717; 600x more lipid soluble than morphine; 9% unionised at pH 7.4"
 pharmacokinetics:
-    absorption: Rapid IV onset (peak effect within 5 minutes); transdermal absorption is slow; oral bioavailability 33%; significant first-pass pulmonary endothelial uptake
+    absorption: Rapid IV onset (peak ~5 minutes); slow transdermal absorption; PO bioavailability 33%; significant first-pass pulmonary uptake
     distribution:
         pKa: 8.4
         vd: 4 L/kg
         protein binding: 85%
     metabolism:
-        half-life: 190 minutes
+        half-life: ~3.5 hours
         duration: Variable; with doses greater than 3 μg/kg tissues become saturated and duration is significantly prolonged
         pathway: Hepatic CYP3A4 N-dealkylation → norfentanyl (inactive); also intestinal CYP3A4 metabolism
         metabolites: Norfentanyl (inactive)
@@ -23,7 +25,7 @@ pharmacokinetics:
 mechanism:
     target:
         - μ-opioid receptor (MOP)
-    action: Hyperpolarisation of presynaptic cell membrane by increasing potassium conductance; reduced production of cAMP and closure of voltage-gated calcium channels → decreased neurotransmitter release from primary pain afferent fibres
+    action: Gi/o activation → ↓ adenylyl cyclase and cAMP; ↑ postsynaptic K+ conductance and ↓ presynaptic Ca2+ influx → hyperpolarisation and ↓ neurotransmitter release
 contraindications:
 pharmacodynamics:
     resp:
@@ -45,21 +47,24 @@ pharmacodynamics:
         - Chest wall rigidity
         - Pruritus (especially with intrathecal administration)
     met:
-        - ↓ ACTH, prolactin, and gonadotrophic hormone secretion
-        - ↑ ADH secretion
+        - ↓ ACTH, gonadotrophins, cortisol and testosterone; ↑ prolactin
     ren:
         - ↑ ADH
-        - ↑ Ureteric and sphincter tone
+        - ↑ Ureteric and bladder sphincter tone → urinary retention
     gu:
     git:
         - ↓ Peristalsis and GIT secretions → constipation
     haeme:
 considerations:
-    - With doses greater than 3 μg/kg, tissue saturation occurs and duration of action is significantly prolonged
-    - Offset of effect at lower doses due to redistribution into fat and muscle
-    - Impaired chemotaxis, lymphocyte proliferation, and antibody production
-    - Equianalgesic dose (IV): 150 mcg = 10mg IV morphine
+    - Minimal histamine release
+    - Tissue saturation >3μg/kg → prolonged duration; low-dose offset reflects redistribution
+    - Equianalgesic dose (IV): 100μg = 10mg IV morphine
 references:
+    - Juno Pharmaceuticals Pty Ltd. Fentanyl Juno Australian Product Information. Version 6.0. Revised 25 September 2025.
+    - WA Country Health Service. Critical Care Medication Administration for Adults Guideline. Version 2.0. 12 November 2025.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Young P, Psirides A. Wellington ICU Drug Manual. 2nd Ed. Wellington Regional Hospital. 2013.
     - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.
     - Smith S, Scarth E, Sasada M. Drugs in Anaesthesia and Intensive Care. 4th Ed. Oxford University Press. 2011.
     - Petkov V. Essential Pharmacology For The ANZCA Primary Examination. Vesselin Petkov. 2012.
