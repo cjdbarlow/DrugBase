@@ -3,53 +3,63 @@ aliases:
 class: Class Ia antiarrhythmic
 chemistry: Aminobenzamide
 dose:
-    SVT/VT (IV): 100mg IV load; infusion 2-6mg/mL
+    Load (IV): Up to 12mg/kg at ≤0.3mg/kg/min; max 1g
+    Infusion (IV): 50mcg/kg/min
 pharmaceutics:
-    presentation:
-    compatibility:
+    presentation: Clear 100mg/mL injection
+    compatibility: 5% glucose
     solubility: Highly water-soluble
 pharmacokinetics:
-    absorption: 75-95% oral bioavailability
+    absorption: 75-95% oral bioavailability; Tmax 1.5-2 hours
     distribution:
-        pKa: 9.32
+        pKa: 9.23
         vd: 1.5-2.5 L/kg
         protein binding: 15-25%
     metabolism:
         half-life: 3-4 hours (parent drug)
         duration: 4-8 hours (including active metabolite)
-        pathway: Hepatic acetylation (variable fraction); slow acetylators at increased risk of side effects
+        pathway: Hepatic acetylation (16-33%)
         metabolites:
             - NAPA (N-acetylprocainamide; active)
     elimination:
-        renal: Significant proportion excreted unchanged renally
+        renal: 30-60% urine unchanged; NAPA renally eliminated
 mechanism:
     target:
         - Nav1.5 subunit of voltage-gated sodium channel
         - Potassium channel
-    action: Class Ia — reduces rate of rise of Phase 0, raises threshold potential, prolongs refractory period and action potential duration. Blocks both Na+ and K+ channels → ↑ QRS duration and ↑ QT interval. Also has Class III effects.
+    action: Open Na+ channel block → ↓ Phase 0/conduction + ↑ QRS; K+ channel block → ↑ APD/refractory period/QT
 contraindications:
+    - Second/complete AV block or hemiblock without pacemaker
+    - Systemic lupus erythematosus
+    - TdP
 pharmacodynamics:
     resp:
     cvs:
-        - ↓ HR
-        - ↓ SVR
-        - ↓ BP
-        - ↓ CO
-        - Heart block
-        - ↑ QT with risk of TdP
-        - May ↑ HR when used for SVT (via reflex or ↑ AV conduction)
+        - ↓ SVR/BP/CO
+        - ↑ PR/QRS/QT; AV block
+        - TdP; proarrhythmia
+        - AF/flutter → ↑ ventricular rate
     cns:
+        - Dizziness
     endo:
     msk:
     met:
     ren:
     gu:
     git:
+        - Nausea; diarrhoea
     haeme:
-        - Drug-induced lupus (lupoid syndrome) in 20-30% of patients
+        - Lupoid syndrome (20-30%; long-term)
+        - Agranulocytosis/bone marrow suppression (~0.5%)
 considerations:
-    - Slow acetylators have increased side effect risk; NAPA accumulates in renal impairment
+    - Slow acetylators → earlier lupoid syndrome
+    - Renal impairment → procainamide/NAPA accumulation
+    - ↑ Neuromuscular blockade
     - Reduces antimicrobial effect of sulfonamides
 references:
+    - Hospira, Inc. Procainamide Hydrochloride Injection, USP. United States Prescribing Information. Revised February 2026.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Young P, Psirides A. Wellington ICU Drug Manual. 2nd Ed. Wellington Regional Hospital. 2013.
     - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.
     - Smith S, Scarth E, Sasada M. Drugs in Anaesthesia and Intensive Care. 4th Ed. Oxford University Press. 2011.
