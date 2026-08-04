@@ -3,45 +3,43 @@ aliases: Acetaminophen
 class: Analgesic and antipyretic
 chemistry: Acetanilide derivative
 dose:
-    Analgesia/antipyresis: 10-15mg/kg PO/PR/IV Q4H up to 90mg/kg/day
+    Adult analgesia (PO/PR/IV): 1g Q4-6H; max 4g/day
+    Adult antipyresis (PO/P/IV): 1g Q4-6H; max 4g/day
+    Paediatric analgesia (PO/PR/IV): 10-15mg/kg Q4-6H; max 90mg/kg/day
+    Paediatric antipyresis (PO/PR/IV): 10-15mg/kg Q4-6H; max 90mg/kg/day
 pharmaceutics:
-    presentation:
-        - Tablets
-        - Capsules
-        - Syrup
-        - Clear colourless solution for IV administration
-    compatibility:
+    presentation: Tablet; capsule; syrup; clear 10mg/mL IV solution
+    compatibility: 0.9% NaCl; 5% glucose
     solubility: "pKa 9.5; moderately soluble in both water and lipid"
 pharmacokinetics:
-    absorption: "Up to 90% oral bioavailability; rapid absorption via small bowel (proportional to gastric emptying); IV onset 5 minutes (peak 40 min); PO/PR onset 40 minutes (peak 1 hour)"
+    absorption: "~80-90% oral bioavailability; PO/PR onset ~40 minutes; IV onset 5-10 minutes; peak ~1 hour"
     distribution:
         pKa: 9.5
         vd: 0.5-1 L/kg
-        protein binding: 10%
+        protein binding: 10-20%
     metabolism:
-        half-life: 2 hours
+        half-life: 2-3 hours
         duration:
-        pathway: Predominantly hepatic glucuronidation and sulfation; 10% metabolised to NAPQI by CYP2E1
+        pathway: Hepatic glucuronidation and sulfation; minor CYP oxidation → NAPQI
         metabolites: NAPQI (toxic); glucuronide and sulfate conjugates (inactive)
     elimination:
-        renal: Active secretion into renal tubules; dose reduction considered in renal impairment
+        renal: 90% urine as conjugates; <5% unchanged; active tubular secretion
 mechanism:
     target:
-        - COX-1
-        - COX-2
-        - COX-3
+        - Prostaglandin pathways
         - Serotonergic pathways
-        - Endocannabinoid reuptake transporter
-    action: Non-selective COX inhibition including COX-3 (central isoform) → analgesia; inhibition of central prostaglandin E synthesis in anterior hypothalamus → antipyresis; serotonergic inhibition and endocannabinoid reuptake inhibition → additional analgesic action
+        - Endocannabinoid pathways
+    action: Uncertain; central and peripheral actions → analgesia and antipyresis
 contraindications:
+    - Severe hepatocellular insufficiency or hepatic failure
 pharmacodynamics:
     resp:
         - May exacerbate analgesic asthma due to glutathione depletion
     cvs:
-        - Vasodilation when given IV
+        - Vasodilation (IV)
     cns:
         - Analgesia
-        - Synergistic with other analgesics → agent-sparing effect and reduced side effects
+        - Opioid-sparing
     endo:
     msk:
     met:
@@ -52,11 +50,16 @@ pharmacodynamics:
     haeme:
         - Cytopaenias (rare)
 considerations:
-    - NAPQI is normally rapidly conjugated with glutathione; in toxicity glutathione is exhausted and NAPQI covalently binds to hepatocyte proteins → centrilobular hepatic necrosis
+    - NAPQI + glutathione depletion → centrilobular hepatic necrosis
     - Toxic doses — single ingestion over 200mg/kg; repeated ingestion over 150mg/kg/day for two days; over 100mg/kg/day for three days
     - Risk factors for toxicity — glutathione deficiency (extremes of age, malnutrition, hepatic dysfunction); enzyme inducers (carbamazepine, phenytoin, phenobarbitone, rifampicin, alcohol, OCP)
-    - Treatment of overdose — activated charcoal if within 1 hour of tablet ingestion; IV N-acetylcysteine (glutathione precursor) based on serum paracetamol nomogram
+    - Overdose — activated charcoal ≤1 hour; IV N-acetylcysteine guided by paracetamol nomogram
+    - Flucloxacillin coadministration → ↑ high anion gap metabolic acidosis risk
 references:
+    - B. Braun Australia Pty Ltd. B. Braun Paracetamol Australian Product Information. Revised 30 January 2026.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Young P, Psirides A. Wellington ICU Drug Manual. 2nd Ed. Wellington Regional Hospital. 2013.
     - Smith S, Scarth E, Sasada M. Drugs in Anaesthesia and Intensive Care. 4th Ed. Oxford University Press. 2011.
     - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.
     - Royal Children's Hospital. Paracetamol Poisoning. www.rch.org.au
