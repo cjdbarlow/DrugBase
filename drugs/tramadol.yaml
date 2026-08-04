@@ -1,54 +1,62 @@
 ---
-aliases:
+aliases: Tramal
 class: Opioid
-chemistry: Cyclohexanol derivative; racemic mixture — (+)tramadol has greater MOP and 5-HT reuptake effects; (-)tramadol mediates NA reuptake inhibition
+chemistry: Aminocyclohexanol; racemate
 dose:
-    Analgesia: 50-100mg PO/IV QID; potency approximately 1/5 that of morphine
+    Analgesia (PO/IV/IM): 50-100mg Q4-6H; max 400mg/day
 pharmaceutics:
-    presentation:
-        - IV solution clear at 50mg/mL
-    compatibility:
+    presentation: 50mg capsule; 50-200mg SR tablet; 100mg/mL oral drops; clear 50mg/mL injection
+    compatibility: 0.9% NaCl; 5% glucose; sodium bicarbonate; Hartmann's
     solubility: "pKa 9.41; highly lipophilic"
 pharmacokinetics:
-    absorption: 70% oral bioavailability; increases to 90-100% with sustained dosing due to hepatic enzyme saturation
+    absorption: 68-72% oral bioavailability; >90% after repeated dosing due to first-pass saturation; IM ~100%
     distribution:
         pKa: 9.41
-        vd: 4 L/kg
+        vd: 2-3 L/kg
         protein binding: 20%
     metabolism:
-        half-life: 300 minutes
+        half-life: 5-7 hours
         duration:
-        pathway: Hepatic to O-desmethyltramadol (active) and inactive metabolites
+        pathway: Hepatic CYP2D6 O-demethylation and CYP3A4 N-demethylation; glucuronidation and sulfation
         metabolites: O-desmethyltramadol (active)
     elimination:
-        renal: Urinary elimination of predominantly inactive metabolites
+        renal: 95% urine; 15-19% unchanged
 mechanism:
     target:
         - μ-opioid receptor (MOP)
         - Serotonin reuptake transporter
         - Noradrenaline reuptake transporter
         - NMDA receptor
-    action: Weak agonist at opioid receptors (particularly MOP) → hyperpolarisation of presynaptic cell membrane by increasing potassium conductance, reduced cAMP production, and closure of voltage-gated calcium channels; also inhibits serotonin and noradrenaline reuptake → descending inhibitory analgesia; NMDA receptor antagonism
+    action: (+)-tramadol → weak MOP agonism + ↓ 5-HT reuptake; (-)-tramadol → ↓ NA reuptake; O-desmethyltramadol → stronger MOP agonism; NMDA antagonism
 contraindications:
+    - MAO-I use within 14 days
+    - Uncontrolled epilepsy
 pharmacodynamics:
     resp:
-        - Minimal respiratory depression
+        - ↓ RR (less than morphine)
     cvs:
+        - Postural ↓ BP; tachycardia
     cns:
-        - ↑ Seizure risk in patients with epilepsy or concurrent SSRI/SNRI/TCA use
-        - Minimal addiction potential
+        - ↑ Seizure risk (epilepsy; SSRI/SNRI/TCA)
+        - Dizziness; sedation
+        - Dependence; withdrawal
     endo:
+        - ↑ ADH → hyponatraemia
     msk:
     met:
     ren:
     gu:
+        - Urinary retention
     git:
-        - Nausea
-        - Vomiting
+        - Nausea; vomiting; constipation; dry mouth
     haeme:
 considerations:
-    - Avoid concomitant MAO-I use due to noradrenaline reuptake inhibition
-    - Risk of serotonin syndrome with concurrent serotonergic drugs
-    - ↑ Seizure risk in epilepsy or with concurrent SSRI/SNRI/TCA use
+    - Serotonergic drugs → serotonin syndrome
+    - CYP2D6 poor metaboliser → ↓ O-desmethyltramadol + ↓ analgesia
+    - ~1/5 morphine potency
 references:
+    - Seqirus Pty Ltd. Tramal Australian Product Information. Revised 9 July 2026.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Young P, Psirides A. Wellington ICU Drug Manual. 2nd Ed. Wellington Regional Hospital. 2013.
     - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.
