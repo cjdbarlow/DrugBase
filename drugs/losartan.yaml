@@ -1,30 +1,33 @@
 ---
-aliases:
+aliases: Cozaar
 class: Angiotensin receptor blocker
 chemistry: Imidazole analogue
 dose:
+    HTN/diabetic nephropathy (PO): 50mg OD; 25-100mg/day OD-BD
 pharmaceutics:
-    presentation:
-    compatibility:
+    presentation: 50mg tablet
+    compatibility: Tablet may be crushed for NG
     solubility:
 pharmacokinetics:
-    absorption: 33% oral bioavailability; effects maximal ~15 minutes after oral dose
+    absorption: 33% oral bioavailability; Tmax 1 hour (active metabolite 3-4 hours); food has no clinically significant effect
     distribution:
         pKa: 5.5
-        vd: 0.48 L/kg
-        protein binding:
+        vd: 34L
+        protein binding: Over 99%
     metabolism:
-        half-life:
+        half-life: 2 hours (active metabolite 6-9 hours)
         duration:
-        pathway: 70% hepatic
+        pathway: Substantial first-pass CYP2C9/CYP3A4 metabolism; 14% → active metabolite
         metabolites:
+            - E-3174 carboxylic acid (active)
     elimination:
-        renal: 30% excreted unchanged
+        renal: 4% unchanged; 35% of total dose in urine and 58% in faeces
 mechanism:
     target:
         - AT1 receptor
-    action: Competitive inhibition of AT1 receptor → blocks binding of angiotensin II → interrupts RAAS effects mediated via AT1 receptor.
+    action: Competitive AT1 antagonism → blocks Ang II-mediated RAAS effects
 contraindications:
+    - Pregnancy
 pregnancy:
     code: D
     justification: 2nd/3rd-trimester RAAS blockade → fetal injury/death; 1st-trimester safety uncertain
@@ -32,24 +35,32 @@ pharmacodynamics:
     resp:
     cvs:
         - ↓ SVR
-        - ↓ BP
-        - Unaffected HR and baroreceptor reflex
-        - ↑ Natriuresis
-        - Vascular and myocardial remodelling (beneficial in CCF)
+        - ↓ MAP
+        - No reflex ↑ HR
+        - ↓ Vascular and myocardial remodelling
     cns:
     endo:
     msk:
     met:
+        - ↑ Renin
+        - ↑ K+
     ren:
-        - ↓ GFR
+        - ↑ Natriuresis
+        - ↓ GFR/AKI if Ang II-dependent (e.g. renal artery stenosis)
     gu:
     git:
     haeme:
+        - ↓ Platelet aggregation (TXA2 antagonism)
 considerations:
-    - No bradykinin accumulation → no cough; better compliance than ACE inhibitors
-    - AT1 receptor in cardiac tissue may be more comprehensively blocked than with ACE inhibitors (may improve cardiac outcomes)
-    - AT2 receptor not blocked (may improve cardiac outcomes)
-    - Lower incidence of angioedema compared with ACE-inhibitors
+    - No bradykinin accumulation → ↓ cough/angioedema vs ACE inhibitors
+    - More complete AT1 blockade vs ACE inhibitors
+    - Unopposed AT2 activation
+    - K+-sparing diuretics/K+ → hyperkalaemia
+    - NSAIDs → ↓ effect and AKI
 references:
     - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 4 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Organon Pharma Pty Limited. Cozaar Australian Product Information. Revised 13 March 2025.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
     - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.
+    - Young P, Psirides A. Wellington ICU Drug Manual. 2nd Ed. Wellington Regional Hospital. 2013.

@@ -1,30 +1,37 @@
 ---
-aliases:
+aliases: Diovan
 class: Angiotensin receptor blocker
 chemistry: Imidazole analogue
 dose:
+    HTN (PO): 80mg OD; max 320mg/day
+    HF (PO): 40mg BD → 160mg BD
+    Post-MI (PO): 20mg BD → 160mg BD
 pharmaceutics:
-    presentation:
+    presentation: 40mg, 80mg, 160mg or 320mg tablet
     compatibility:
     solubility:
 pharmacokinetics:
-    absorption: 23% oral bioavailability; effects maximal ~1 hour after oral dose
+    absorption: 23% oral bioavailability; Tmax 2-4 hours; food ↓ AUC 48%
     distribution:
         pKa: 3.6
-        vd: 0.24 L/kg
-        protein binding:
+        vd: 17L
+        protein binding: 94-97%
     metabolism:
-        half-life:
+        half-life: 9.5 hours
         duration:
-        pathway: 80% hepatic
+        pathway: ~25% of absorbed dose metabolised
         metabolites:
+            - Valeryl 4-hydroxy valsartan (inactive)
     elimination:
-        renal: 20% excreted unchanged
+        renal: 83% in faeces; 13% in urine; mainly unchanged
 mechanism:
     target:
         - AT1 receptor
-    action: Competitive inhibition of AT1 receptor → blocks binding of angiotensin II → interrupts RAAS effects mediated via AT1 receptor.
+    action: Competitive AT1 antagonism → blocks Ang II-mediated RAAS effects
 contraindications:
+    - Pregnancy
+    - Severe hepatic impairment, biliary cirrhosis or cholestasis
+    - Aliskiren in type 2 diabetes
 pregnancy:
     code: D
     justification: 2nd/3rd-trimester RAAS blockade → fetal injury/death; 1st-trimester safety uncertain
@@ -32,24 +39,30 @@ pharmacodynamics:
     resp:
     cvs:
         - ↓ SVR
-        - ↓ BP
-        - Unaffected HR and baroreceptor reflex
-        - ↑ Natriuresis
-        - Vascular and myocardial remodelling (beneficial in CCF)
+        - ↓ MAP
+        - No reflex ↑ HR
+        - ↓ Vascular and myocardial remodelling
     cns:
     endo:
     msk:
     met:
+        - ↑ Renin
+        - ↑ K+
     ren:
-        - ↓ GFR
+        - ↑ Natriuresis
+        - ↓ GFR/AKI if Ang II-dependent (e.g. renal artery stenosis)
     gu:
     git:
     haeme:
 considerations:
-    - No bradykinin accumulation → no cough; better compliance than ACE inhibitors
-    - AT1 receptor in cardiac tissue may be more comprehensively blocked than with ACE inhibitors (may improve cardiac outcomes)
-    - AT2 receptor not blocked (may improve cardiac outcomes)
-    - Lower incidence of angioedema compared with ACE-inhibitors
+    - No bradykinin accumulation → ↓ cough/angioedema vs ACE inhibitors
+    - More complete AT1 blockade vs ACE inhibitors
+    - Unopposed AT2 activation
+    - K+-sparing diuretics/K+ → hyperkalaemia
+    - NSAIDs → ↓ effect and AKI
 references:
     - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 4 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Novartis Pharmaceuticals Australia Pty Limited. Diovan Australian Product Information. Revised 2 August 2024.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
     - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.

@@ -1,30 +1,37 @@
 ---
-aliases:
+aliases: Micardis
 class: Angiotensin receptor blocker
 chemistry: Imidazole analogue
 dose:
+    HTN (PO): 40mg OD; max 80mg/day
+    CV prevention (PO): 80mg OD
 pharmaceutics:
-    presentation:
+    presentation: 40mg or 80mg tablet
     compatibility:
     solubility:
 pharmacokinetics:
-    absorption: 43% oral bioavailability; effects maximal ~1 hour after oral dose
+    absorption: 40% oral bioavailability at 40mg; Tmax 0.5-2 hours; food has no clinically significant effect
     distribution:
         pKa: 4.45
-        vd: 7 L/kg
-        protein binding:
+        vd: 6.6L/kg
+        protein binding: Over 99.5%
     metabolism:
-        half-life:
+        half-life: 18.3-23 hours
         duration:
-        pathway: 100% hepatic
+        pathway: Hepatic acylglucuronidation; not CYP-mediated
         metabolites:
+            - Acylglucuronide (inactive)
     elimination:
-        renal: Minimal renal excretion
+        renal: Under 1% in urine; almost all in faeces, mainly unchanged
 mechanism:
     target:
         - AT1 receptor
-    action: Competitive inhibition of AT1 receptor → blocks binding of angiotensin II → interrupts RAAS effects mediated via AT1 receptor.
+    action: Competitive AT1 antagonism → blocks Ang II-mediated RAAS effects
 contraindications:
+    - Pregnancy
+    - Lactation
+    - Biliary obstruction or severe hepatic impairment
+    - Aliskiren in diabetes or GFR <60mL/min/1.73m2
 pregnancy:
     code: D
     justification: 2nd/3rd-trimester RAAS blockade → fetal injury/death; 1st-trimester safety uncertain
@@ -32,24 +39,31 @@ pharmacodynamics:
     resp:
     cvs:
         - ↓ SVR
-        - ↓ BP
-        - Unaffected HR and baroreceptor reflex
-        - ↑ Natriuresis
-        - Vascular and myocardial remodelling (beneficial in CCF)
+        - ↓ MAP
+        - No reflex ↑ HR
+        - ↓ Vascular and myocardial remodelling
     cns:
     endo:
     msk:
     met:
+        - ↑ Renin
+        - ↑ K+
     ren:
-        - ↓ GFR
+        - ↑ Natriuresis
+        - ↓ GFR/AKI if Ang II-dependent (e.g. renal artery stenosis)
     gu:
     git:
     haeme:
 considerations:
-    - No bradykinin accumulation → no cough; better compliance than ACE inhibitors
-    - AT1 receptor in cardiac tissue may be more comprehensively blocked than with ACE inhibitors (may improve cardiac outcomes)
-    - AT2 receptor not blocked (may improve cardiac outcomes)
-    - Lower incidence of angioedema compared with ACE-inhibitors
+    - No bradykinin accumulation → ↓ cough/angioedema vs ACE inhibitors
+    - More complete AT1 blockade vs ACE inhibitors
+    - Unopposed AT2 activation
+    - K+-sparing diuretics/K+ → hyperkalaemia
+    - NSAIDs → ↓ effect and AKI
+    - Not dialysable
 references:
     - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 4 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Boehringer Ingelheim Pty Limited. Micardis Australian Product Information. Version PI0072-22. Revised 14 October 2025.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
     - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.

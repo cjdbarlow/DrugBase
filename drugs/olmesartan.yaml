@@ -1,30 +1,36 @@
 ---
-aliases:
+aliases: Olmetec
 class: Angiotensin receptor blocker
-chemistry: Imidazole analogue
+chemistry: Imidazole analogue; olmesartan medoxomil ester prodrug
 dose:
+    HTN (PO): 20mg OD; max 40mg/day
 pharmaceutics:
-    presentation:
+    presentation: 10mg, 20mg or 40mg tablet
     compatibility:
     solubility:
 pharmacokinetics:
-    absorption: 26% oral bioavailability; effects maximal ~1 hour after oral dose
+    absorption: 25.6% oral bioavailability; Tmax 2 hours; food has minimal effect
     distribution:
         pKa:
-        vd: 0.24 L/kg
-        protein binding:
+        vd: 16-29L
+        protein binding: 99.7%
     metabolism:
-        half-life:
+        half-life: 10-15 hours
         duration:
-        pathway: 60% hepatic
+        pathway: Prodrug hydrolysed by gut/portal esterases; virtually no further metabolism
         metabolites:
+            - Olmesartan (active)
     elimination:
-        renal: 40% excreted unchanged
+        renal: 30-50% of absorbed drug in urine; remainder via bile/faeces
 mechanism:
     target:
         - AT1 receptor
-    action: Competitive inhibition of AT1 receptor → blocks binding of angiotensin II → interrupts RAAS effects mediated via AT1 receptor.
+    action: Competitive AT1 antagonism → blocks Ang II-mediated RAAS effects
 contraindications:
+    - Pregnancy
+    - Severe renal impairment (CrCl <30mL/min)
+    - Severe hepatic impairment or biliary obstruction
+    - Aliskiren in diabetes
 pregnancy:
     code: D
     justification: 2nd/3rd-trimester RAAS blockade → fetal injury/death; 1st-trimester safety uncertain
@@ -32,24 +38,31 @@ pharmacodynamics:
     resp:
     cvs:
         - ↓ SVR
-        - ↓ BP
-        - Unaffected HR and baroreceptor reflex
-        - ↑ Natriuresis
-        - Vascular and myocardial remodelling (beneficial in CCF)
+        - ↓ MAP
+        - No reflex ↑ HR
+        - ↓ Vascular and myocardial remodelling
     cns:
     endo:
     msk:
     met:
+        - ↑ Renin
+        - ↑ K+
     ren:
-        - ↓ GFR
+        - ↑ Natriuresis
+        - ↓ GFR/AKI if Ang II-dependent (e.g. renal artery stenosis)
     gu:
     git:
+        - Sprue-like enteropathy → chronic diarrhoea/weight loss
     haeme:
 considerations:
-    - No bradykinin accumulation → no cough; better compliance than ACE inhibitors
-    - AT1 receptor in cardiac tissue may be more comprehensively blocked than with ACE inhibitors (may improve cardiac outcomes)
-    - AT2 receptor not blocked (may improve cardiac outcomes)
-    - Lower incidence of angioedema compared with ACE-inhibitors
+    - No bradykinin accumulation → ↓ cough/angioedema vs ACE inhibitors
+    - More complete AT1 blockade vs ACE inhibitors
+    - Unopposed AT2 activation
+    - K+-sparing diuretics/K+ → hyperkalaemia
+    - NSAIDs → ↓ effect and AKI
 references:
     - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 4 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Organon Pharma Pty Ltd. Olmetec Australian Product Information. Version 16. Revised 9 January 2025.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
     - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.

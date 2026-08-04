@@ -1,30 +1,36 @@
 ---
-aliases:
+aliases: Avapro
 class: Angiotensin receptor blocker
 chemistry: Imidazole analogue
 dose:
+    HTN (PO): 150mg OD; max 300mg/day
+    Diabetic nephropathy (PO): 300mg OD
 pharmaceutics:
-    presentation:
+    presentation: 150mg or 300mg tablet
     compatibility:
     solubility:
 pharmacokinetics:
-    absorption: 60-80% oral bioavailability; effects maximal ~1 hour after oral dose
+    absorption: 60-80% oral bioavailability; Tmax 1.5-2 hours; unaffected by food
     distribution:
         pKa: 4.1
-        vd: 0.7 L/kg
-        protein binding:
+        vd: 53-93L
+        protein binding: 90%
     metabolism:
-        half-life:
+        half-life: 11-15 hours
         duration:
-        pathway: 75% hepatic
+        pathway: Hepatic glucuronidation and CYP2C9 oxidation
         metabolites:
+            - Irbesartan glucuronide
     elimination:
-        renal: 25% excreted unchanged
+        renal: Under 2% unchanged; 20% of total dose in urine, remainder in faeces
 mechanism:
     target:
         - AT1 receptor
-    action: Competitive inhibition of AT1 receptor → blocks binding of angiotensin II → interrupts RAAS effects mediated via AT1 receptor.
+    action: Competitive AT1 antagonism → blocks Ang II-mediated RAAS effects
 contraindications:
+    - Pregnancy
+    - Aliskiren in diabetes or moderate-severe renal impairment
+    - ACE inhibitor in diabetic nephropathy
 pregnancy:
     code: D
     justification: 2nd/3rd-trimester RAAS blockade → fetal injury/death; 1st-trimester safety uncertain
@@ -32,24 +38,30 @@ pharmacodynamics:
     resp:
     cvs:
         - ↓ SVR
-        - ↓ BP
-        - Unaffected HR and baroreceptor reflex
-        - ↑ Natriuresis
-        - Vascular and myocardial remodelling (beneficial in CCF)
+        - ↓ MAP
+        - No reflex ↑ HR
+        - ↓ Vascular and myocardial remodelling
     cns:
     endo:
     msk:
     met:
+        - ↑ Renin
+        - ↑ K+
     ren:
-        - ↓ GFR
+        - ↑ Natriuresis
+        - ↓ GFR/AKI if Ang II-dependent (e.g. renal artery stenosis)
     gu:
     git:
     haeme:
 considerations:
-    - No bradykinin accumulation → no cough; better compliance than ACE inhibitors
-    - AT1 receptor in cardiac tissue may be more comprehensively blocked than with ACE inhibitors (may improve cardiac outcomes)
-    - AT2 receptor not blocked (may improve cardiac outcomes)
-    - Lower incidence of angioedema compared with ACE-inhibitors
+    - No bradykinin accumulation → ↓ cough/angioedema vs ACE inhibitors
+    - More complete AT1 blockade vs ACE inhibitors
+    - Unopposed AT2 activation
+    - K+-sparing diuretics/K+ → hyperkalaemia
+    - NSAIDs → ↓ effect and AKI
 references:
     - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 4 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - sanofi-aventis australia pty ltd. Avapro Australian Product Information. Revised 8 April 2026.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
     - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.

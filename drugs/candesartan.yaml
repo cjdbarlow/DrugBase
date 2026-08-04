@@ -1,30 +1,37 @@
 ---
-aliases:
+aliases: Atacand
 class: Angiotensin receptor blocker
-chemistry: Imidazole analogue
+chemistry: Imidazole analogue; candesartan cilexetil ester prodrug
 dose:
+    HTN (PO): 8-16mg OD; max 32mg/day
+    HF (PO): 4mg OD; double at ≥2-week intervals → 32mg OD
 pharmaceutics:
-    presentation:
-    compatibility:
+    presentation: 4mg, 8mg, 16mg or 32mg tablet
+    compatibility: Tablet may be crushed for NG
     solubility:
 pharmacokinetics:
-    absorption: 42% oral bioavailability; effects maximal ~1 hour after oral dose
+    absorption: 14% oral tablet bioavailability; Tmax 3-4 hours; food has no clinically significant effect
     distribution:
         pKa: 6.0
-        vd: 0.14 L/kg
-        protein binding:
+        vd: 0.1L/kg
+        protein binding: Over 99%
     metabolism:
-        half-life:
+        half-life: 9 hours
         duration:
-        pathway: 40% hepatic
+        pathway: Prodrug hydrolysed during absorption; minor CYP2C9 metabolism
         metabolites:
+            - Candesartan (active)
     elimination:
-        renal: 60% excreted unchanged
+        renal: 30% in urine; 70% in faeces; mainly unchanged via urine/bile
 mechanism:
     target:
         - AT1 receptor
-    action: Competitive inhibition of AT1 receptor → blocks binding of angiotensin II → interrupts RAAS effects mediated via AT1 receptor.
+    action: Competitive AT1 antagonism → blocks Ang II-mediated RAAS effects
 contraindications:
+    - Pregnancy
+    - Lactation
+    - Severe hepatic impairment or cholestasis
+    - Aliskiren in diabetes or GFR <60mL/min/1.73m2
 pregnancy:
     code: D
     justification: 2nd/3rd-trimester RAAS blockade → fetal injury/death; 1st-trimester safety uncertain
@@ -32,25 +39,31 @@ pharmacodynamics:
     resp:
     cvs:
         - ↓ SVR
-        - ↓ BP
-        - Unaffected HR and baroreceptor reflex
-        - ↑ Natriuresis
-        - Vascular and myocardial remodelling (beneficial in CCF)
+        - ↓ MAP
+        - No reflex ↑ HR
+        - ↓ Vascular and myocardial remodelling
     cns:
     endo:
     msk:
     met:
+        - ↑ Renin
+        - ↑ K+
     ren:
-        - ↓ GFR
+        - ↑ Natriuresis
+        - ↓ GFR/AKI if Ang II-dependent (e.g. renal artery stenosis)
     gu:
     git:
     haeme:
 considerations:
-    - No bradykinin accumulation → no cough; better compliance than ACE inhibitors
-    - AT1 receptor in cardiac tissue may be more comprehensively blocked than with ACE inhibitors (may improve cardiac outcomes)
-    - AT2 receptor not blocked (may improve cardiac outcomes)
-    - Lower incidence of angioedema compared with ACE-inhibitors
+    - No bradykinin accumulation → ↓ cough/angioedema vs ACE inhibitors
+    - More complete AT1 blockade vs ACE inhibitors
+    - Unopposed AT2 activation
+    - K+-sparing diuretics/K+ → hyperkalaemia
+    - NSAIDs → ↓ effect and AKI
 references:
     - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 4 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Link Medical Products Pty Ltd. Atacand Australian Product Information. Revised 21 May 2025.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
     - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.
-    - Miura et al (2011)
+    - Young P, Psirides A. Wellington ICU Drug Manual. 2nd Ed. Wellington Regional Hospital. 2013.
