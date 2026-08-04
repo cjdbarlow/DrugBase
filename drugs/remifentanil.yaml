@@ -4,10 +4,9 @@ class: Opioid
 chemistry: Synthetic phenylpiperidine opioid
 dose:
     Induction (IV): 0.5-1μg/kg/min with or without 1μg/kg over 60 seconds
-    Infusion (IV): 0.05-2μg/kg/min
-    ICU (IV): 0.1-0.15μg/kg/min; increase by 0.025μg/kg/min; no bolus
+    Analgesia (IV Infusion): 0.05-2μg/kg/min
+    ICU Sedation (IV): 0.1-0.15μg/kg/min; increase by 0.025μg/kg/min; no bolus
     TCI (Minto): 3-8ng/mL; up to 15ng/mL for highly stimulating surgery
-    TCI >65 years (Minto): 1.5-4ng/mL
 pharmaceutics:
     presentation: White lyophilised powder containing glycine; 1, 2 or 5mg; clear and colourless after reconstitution
     solubility: "pKa 7.3; octanol-water partition coefficient 17.9; 20x more lipid soluble than morphine; 58% unionised at pH 7.4"

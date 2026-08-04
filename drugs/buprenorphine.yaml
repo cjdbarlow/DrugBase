@@ -1,39 +1,40 @@
 ---
-aliases:
+aliases: Temgesic
 class: Partial opioid agonist
-chemistry: Semisynthetic phenanthrene
+chemistry: Semisynthetic phenanthrene opioid
 dose:
+    Analgesia (IV/IM): 300-600μg every 6-8 hours
+    Analgesia (SL): 200-400μg every 6-8 hours
 pharmaceutics:
-    presentation:
+    presentation: Colourless 300μg/mL injection; 200μg sublingual tablet
     compatibility:
-    solubility: Highly lipophilic
+    solubility: Highly lipophilic; limited water solubility
 pharmacokinetics:
-    absorption: 15% oral bioavailability due to high first-pass metabolism
+    absorption: PO bioavailability 15% due to first-pass metabolism; SL bioavailability 35%, peak 2-4 hours; parenteral bioavailability ~100%
     distribution:
         pKa: 8.5
         vd: 87-197 L/kg
         protein binding: 96%
     metabolism:
-        half-life: 40 hours
-        duration:
-        pathway: Hepatic to norbuprenorphine (active metabolite)
-        metabolites: Norbuprenorphine (active)
+        half-life: 5 hours (analgesia); 34.6 hours (high-dose dependence treatment)
+        duration: 4-8 hours
+        pathway: Hepatic CYP3A4 N-dealkylation and glucuronidation → norbuprenorphine and glucuronides
+        metabolites: Norbuprenorphine (active); glucuronides
     elimination:
-        renal: 70% biliary elimination; 30% renal
+        renal: 70% biliary/faecal; 30% renal; enterohepatic cycling
 mechanism:
     target:
         - μ-opioid receptor (MOP) — partial agonist
         - κ-opioid receptor (KOP) — antagonist
-    action: Partial agonist at MOP receptors with high receptor binding affinity but lower intrinsic activity than full opioid agonists; hyperpolarises presynaptic cell membrane by increasing potassium conductance, reducing cAMP production, and closing voltage-gated calcium channels; antagonist at KOP receptors (antanalgesic effect)
+    action: High-affinity partial MOP agonism with slow dissociation; KOP antagonism; Gi/o → ↓ cAMP, ↑ K+ conductance and ↓ Ca2+ influx
 contraindications:
 pharmacodynamics:
     resp:
         - ↓ CNS sensitivity to CO2 → ↓ RR and ↓ VT
         - ↑ Reliance on hypoxic drive
+        - Respiratory depression peaks at 3-5 hours
     cvs:
-        - ↓ HR
-        - May ↓ BP
-        - ↑ PVR
+        - ↓ HR and BP (≤15%)
     cns:
         - Sedation
         - Nausea and vomiting due to CTZ stimulation
@@ -43,17 +44,23 @@ pharmacodynamics:
         - Muscle rigidity
         - Pruritus (especially with intrathecal administration)
     met:
-        - ↓ ACTH, prolactin, and gonadotrophic hormone secretion
-        - ↑ ADH secretion
+        - ↓ ACTH, gonadotrophins, cortisol and testosterone; ↑ prolactin
     ren:
         - ↑ ADH
-        - ↑ Ureteric and sphincter tone
+        - ↑ Ureteric and bladder sphincter tone → urinary retention
     gu:
     git:
         - ↓ Peristalsis and GIT secretions → constipation
     haeme:
 considerations:
+    - Slow MOP dissociation → prolonged effect and poor naloxone reversal
+    - May antagonise full MOP agonists and precipitate withdrawal
+    - Plasma concentration poorly correlates with clinical effect
+    - "Equianalgesic dose (IM): 0.4mg = 10mg morphine"
 references:
+    - Echo Therapeutics Pty Ltd. Temgesic Injection and Sublingual Tablets Australian Product Information. Version 4.00. Revised 10 September 2025.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
     - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.
     - Smith S, Scarth E, Sasada M. Drugs in Anaesthesia and Intensive Care. 4th Ed. Oxford University Press. 2011.
     - Petkov V. Essential Pharmacology For The ANZCA Primary Examination. Vesselin Petkov. 2012.

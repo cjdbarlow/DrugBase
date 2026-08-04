@@ -1,31 +1,34 @@
 ---
-aliases:
+aliases: OxyNorm
 class: Opioid
-chemistry: Semisynthetic phenanthrene
+chemistry: Semisynthetic phenanthrene opioid
 dose:
+    Analgesia (PO IR): 5-10mg every 4-6 hours
+    Analgesia (IV): 1-5mg over 1-2 minutes; increments every 5-10 minutes
+    PCA (IV): ≤0.03mg/kg; ≥5min lockout
 pharmaceutics:
-    presentation:
-    compatibility:
+    presentation: 10 or 50mg/mL solution for injection/infusion
+    compatibility: Compatible with 0.9% NaCl, 5% glucose and water; incompatible with alkaline solutions and prochlorperazine
     solubility: "pKa 8.5; quite hydrophilic; less than 10% unionised at physiological pH"
 pharmacokinetics:
-    absorption: 60-80% oral bioavailability; as lipid soluble as morphine; more rapid onset than morphine despite higher pKa, potentially due to active CNS uptake
+    absorption: PO bioavailability 60-80%; SC Tmax 15-30 minutes; equivalent IV and SC availability; morphine-like lipid solubility but faster onset, possibly due to active CNS uptake
     distribution:
         pKa: 8.5
         vd: 3 L/kg
         protein binding: 45%
     metabolism:
-        half-life: 200 minutes
+        half-life: 3-5 hours
         duration: 4 hours
-        pathway: Hepatic demethylation to noroxycodone (80%, via CYP3A, weakly active) and oxymorphone (20%, via CYP2D6, more potent and active)
-        metabolites: Noroxycodone (weakly active); oxymorphone (active)
+        pathway: Hepatic CYP3A4 → noroxycodone (~80%); CYP2D6 → oxymorphone (~20%); metabolites make little contribution to effect
+        metabolites: Noroxycodone; oxymorphone (minor contribution to effect)
     elimination:
-        renal: Renal elimination of active drug and metabolites
+        renal: Renal elimination of parent drug and metabolites; accumulation in renal impairment
 mechanism:
     target:
         - μ-opioid receptor (MOP)
         - κ-opioid receptor (KOP)
         - δ-opioid receptor (DOP)
-    action: Hyperpolarisation of presynaptic cell membrane by increasing potassium conductance; reduced production of cAMP and closure of voltage-gated calcium channels → decreased neurotransmitter release from primary pain afferent fibres
+    action: Gi/o activation → ↓ adenylyl cyclase and cAMP; ↑ postsynaptic K+ conductance and ↓ presynaptic Ca2+ influx → hyperpolarisation and ↓ neurotransmitter release
 contraindications:
 pharmacodynamics:
     resp:
@@ -34,7 +37,7 @@ pharmacodynamics:
         - Respiratory depression potentiated by high FiO2
     cvs:
         - ↓ HR
-        - May ↓ BP due to histamine release
+        - ↓ BP due to histamine release/peripheral vasodilation
         - ↑ PVR
     cns:
         - Sedation
@@ -47,20 +50,23 @@ pharmacodynamics:
         - Muscle rigidity
         - Pruritus (especially with intrathecal administration)
     met:
-        - ↓ ACTH, prolactin, and gonadotrophic hormone secretion
-        - ↑ ADH secretion
+        - ↓ ACTH, gonadotrophins, cortisol and testosterone; ↑ prolactin
     ren:
         - ↑ ADH
-        - ↑ Ureteric and sphincter tone
+        - ↑ Ureteric and bladder sphincter tone → urinary retention
     gu:
     git:
         - ↓ Peristalsis and GIT secretions → constipation
     haeme:
 considerations:
-    - 10mg PO oxycodone is approximately equianalgesic to 15mg PO morphine due to higher first-pass metabolism of morphine
-    - Impaired chemotaxis, lymphocyte proliferation, and antibody production
-    - "Equianalgesic dose (IV): 15mg = 10mg IV morphine"
+    - ↑ Oxycodone and noroxycodone in renal/hepatic impairment
+    - "Equianalgesic dose (PO): 10mg = 15mg PO morphine"
+    - "Equianalgesic dose (IV): 10mg = 10mg IV morphine"
 references:
+    - Juno Pharmaceuticals Pty Ltd. Oxycodone Juno Australian Product Information. Version 11.0. Revised 18 December 2025.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Young P, Psirides A. Wellington ICU Drug Manual. 2nd Ed. Wellington Regional Hospital. 2013.
     - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.
     - Smith S, Scarth E, Sasada M. Drugs in Anaesthesia and Intensive Care. 4th Ed. Oxford University Press. 2011.
     - Petkov V. Essential Pharmacology For The ANZCA Primary Examination. Vesselin Petkov. 2012.

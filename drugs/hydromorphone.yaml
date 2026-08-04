@@ -1,29 +1,33 @@
 ---
-aliases:
+aliases: Dilaudid
 class: Opioid
-chemistry: Semisynthetic phenanthrene
+chemistry: Semisynthetic phenanthrene opioid
 dose:
+    Analgesia (IV): 0.5-1mg over 2-3 minutes
+    Analgesia (IM/SC): 1-2mg every 4-6 hours
+    PCA (IV): 0.2mg; ≥5min lockout; background 0.1mg/hr; max 1.2mg/hr
+    Infusion (IV): ≤0.3mg/hr
 pharmaceutics:
-    presentation:
-    compatibility:
-    solubility: "pKa 8.6; octanol-water partition coefficient ~1.28"
+    presentation: Clear, colourless-pale yellow solution; 2, 10 or 50mg/mL
+    compatibility: Compatible with solutions pH ≤7; incompatible with soluble barbiturates
+    solubility: "pKa 8.6; octanol-water partition coefficient ~1.28; freely water soluble"
 pharmacokinetics:
-    absorption: 50% oral bioavailability
+    absorption: PO bioavailability 25%
     distribution:
         pKa: 8.6
-        vd: 4 L/kg
+        vd: 4 L/kg (301 L in PI)
         protein binding: 8-19%
     metabolism:
         half-life: 2-3 hours
-        duration:
-        pathway: Hepatic to inactive metabolites
-        metabolites:
+        duration: 3-4 hours
+        pathway: Hepatic glucuronidation → hydromorphone-3-glucuronide
+        metabolites: Hydromorphone-3-glucuronide (neuroexcitatory)
     elimination:
-        renal: Renal elimination of metabolites
+        renal: Renal elimination of hydromorphone-3-glucuronide and minor parent drug
 mechanism:
     target:
         - μ-opioid receptor (MOP)
-    action: Hyperpolarisation of presynaptic cell membrane by increasing potassium conductance; reduced production of cAMP and closure of voltage-gated calcium channels → decreased neurotransmitter release from primary pain afferent fibres
+    action: Gi/o activation → ↓ adenylyl cyclase and cAMP; ↑ postsynaptic K+ conductance and ↓ presynaptic Ca2+ influx → hyperpolarisation and ↓ neurotransmitter release
 contraindications:
 pharmacodynamics:
     resp:
@@ -32,7 +36,7 @@ pharmacodynamics:
         - Respiratory depression potentiated by high FiO2
     cvs:
         - ↓ HR
-        - May ↓ BP due to histamine release
+        - ↓ BP due to histamine release/peripheral vasodilation
         - ↑ PVR
     cns:
         - Sedation
@@ -45,16 +49,19 @@ pharmacodynamics:
         - Muscle rigidity
         - Pruritus (especially with intrathecal administration)
     met:
-        - ↓ ACTH, prolactin, and gonadotrophic hormone secretion
-        - ↑ ADH secretion
+        - ↓ ACTH, gonadotrophins, cortisol and testosterone; ↑ prolactin
     ren:
         - ↑ ADH
-        - ↑ Ureteric and sphincter tone
+        - ↑ Ureteric and bladder sphincter tone → urinary retention
     gu:
     git:
         - ↓ Peristalsis and GIT secretions → constipation
     haeme:
 considerations:
-    - Impaired chemotaxis, lymphocyte proliferation, and antibody production
+    - HP/XHP: opioid-tolerant patients only; concentration error → fatal overdose
+    - Hydromorphone-3-glucuronide accumulates in renal impairment → psychomimetic/dystonic reactions
+    - "Equianalgesic dose (IM/SC): 1.3-2mg = 10mg morphine"
 references:
-    - Crow et al (2021)
+    - Juno Pharmaceuticals Pty Ltd. Hydromorphone Juno, Juno-HP and Juno-XHP Australian Product Information. Version 7.0. Revised 30 October 2025.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.

@@ -3,8 +3,8 @@ aliases:
 class: Opioid
 chemistry: Natural phenanthrene opioid
 dose:
-    Bolus (IV): 0.1-0.2mg/kg every 4 hours PRN; administer slowly
-    Infusion (IV): 0.02-0.04mg/kg/hr
+    Analgesia (IV): 0.1-0.2mg/kg every 4 hours PRN; administer slowly
+    Analgesia (IV Infusion): 0.02-0.04mg/kg/hr
 pharmaceutics:
     presentation: Clear, slightly yellow to yellow, preservative-free solution; 5, 10, 15 or 30mg/mL; pH 3.2-4.0
     compatibility: Compatible with 0.9% NaCl, 5% glucose and Hartmann's; incompatible with alkaline solutions, aminophylline, barbiturates and phenytoin
