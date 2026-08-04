@@ -1,0 +1,56 @@
+---
+aliases: Orgaran
+class: Parenteral anticoagulant; low molecular weight heparinoid
+chemistry: Mixture of heparan sulfate, dermatan sulfate and chondroitin sulfate
+dose:
+    VTE prophylaxis (SC): 750 anti-Xa units twice daily for 7-10 days
+    Preoperative dose (SC): 750 anti-Xa units 1-4 hours before surgery
+pharmaceutics:
+    presentation: "Clear, colourless to slightly yellow solution; 750 anti-Xa units/0.6mL (~55mg); pH 7"
+    compatibility:
+    solubility:
+pharmacokinetics:
+    absorption: "~100% SC bioavailability; Tmax 4-5 hours"
+    distribution:
+        pKa:
+        vd:
+        protein binding:
+    metabolism:
+        half-life: "Anti-Xa activity: ~25 hours; thrombin-generation inhibition: ~7 hours"
+        duration:
+        pathway: No hepatic metabolism (animal data)
+        metabolites:
+    elimination:
+        renal: Mainly renal; t½ prolonged in severe renal impairment
+mechanism:
+    target:
+        - Antithrombin III
+        - Heparin cofactor II
+    action: ATIII-mediated factor Xa inhibition; minor anti-IIa activity via ATIII and heparin cofactor II → ↓ thrombin generation and thrombus formation (anti-Xa:anti-IIa ~20:1)
+contraindications:
+    - Active bleeding or severe haemorrhagic diathesis
+    - Acute haemorrhagic stroke
+    - Severe renal or hepatic impairment
+    - Positive in vitro platelet aggregation with danaparoid after HIT
+pharmacodynamics:
+    resp:
+    cvs:
+    cns:
+    endo:
+    msk:
+    met:
+    ren:
+    gu:
+    git:
+    haeme:
+        - Anticoagulation
+        - Bleeding
+        - Thrombocytopenia (possible)
+considerations:
+    - Low in vitro cross-reactivity with HIT antibodies (~9%); exclude cross-reactivity before use
+    - PT/APTT unsuitable for monitoring; use danaparoid-calibrated anti-Xa activity if required
+    - Protamine provides incomplete neutralisation
+    - Neuraxial haematoma risk
+references:
+    - Aspen Pharmacare Australia Pty Ltd. Orgaran Australian Product Information. Revised 18 July 2024.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
