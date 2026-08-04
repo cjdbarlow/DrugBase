@@ -1,0 +1,49 @@
+---
+aliases: ReoPro
+class: Glycoprotein IIb/IIIa inhibitor
+chemistry: Fab fragment of a chimeric murine-human monoclonal antibody
+dose:
+    PCI (IV): 0.25mg/kg bolus, then 0.125μg/kg/min for 12 hours
+pharmaceutics:
+    presentation: 10mg/5mL vial (historical Australian product)
+    compatibility:
+    solubility:
+pharmacokinetics:
+    absorption: IV only
+    distribution:
+        pKa:
+        vd:
+        protein binding:
+    metabolism:
+        half-life: "Free drug: ~30 minutes"
+        duration: Platelet inhibition persists for 18-24 hours after infusion
+        pathway:
+        metabolites:
+    elimination:
+        renal:
+mechanism:
+    target:
+        - Glycoprotein IIb/IIIa receptor
+        - Vitronectin receptor
+    action: Prevents fibrinogen, von Willebrand factor and other adhesive ligands binding to activated platelets → ↓ platelet aggregation
+contraindications:
+pharmacodynamics:
+    resp:
+    cvs:
+    cns:
+    endo:
+    msk:
+    met:
+    ren:
+    gu:
+    git:
+    haeme:
+        - Bleeding
+        - Thrombocytopenia (~2%; may be profound)
+considerations:
+    - Platelet transfusion reverses persistent platelet inhibition
+    - Former Australian product; ARTG registration cancelled 9 July 2019
+references:
+    - Therapeutic Goods Administration. REOPRO abciximab 10mg/5mL injection vial. ARTG 48864; cancelled 9 July 2019.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
