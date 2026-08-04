@@ -1,34 +1,33 @@
 ---
-aliases:
+aliases: Ketalar
 class: IV anaesthetic
-chemistry: Cyclohexylamine; phencyclidine derivative
+chemistry: Arylcyclohexylamine; phencyclidine derivative
 dose:
-    Induction (IV): 1-2mg/kg
-    Induction (IM): 5-10mg/kg
+    Induction (IV): 1-4.5mg/kg (usual 1-2mg/kg)
+    Induction (IM): 6.5-13mg/kg (usual 5-10mg/kg)
     Sedation (IV): 0.2-0.5mg/kg
 pharmaceutics:
-    presentation: Clear colourless solution; acidic (pH 3.5-5.5)
-    compatibility:
-    solubility: "pKa 7.5; relatively poor water solubility"
+    presentation: Clear colourless solution 100mg/mL; pH 3.5-5.5
+    compatibility: Incompatible with barbiturates and diazepam
+    solubility: "pKa 7.5; freely soluble in water"
 pharmacokinetics:
-    absorption: 17% oral bioavailability
+    absorption: Up to 93% IM bioavailability
     distribution:
         pKa: 7.5
         vd: 1-3 L/kg
-        protein binding: 25%
+        protein binding: 20-50%
     metabolism:
-        half-life: "Redistribution t½α 10-15 minutes; elimination t½β 2-4 hours"
-        duration: 15-30 minutes useful anaesthesia/analgesia
-        pathway: Hepatic CYP450 to norketamine (mildly active) then to inactive metabolites
-        metabolites: Norketamine (mildly active)
+        half-life: "t½α 10-15 minutes; t½β 2.5 hours"
+        duration: 5-10 minutes IV; 12-25 minutes IM
+        pathway: Hepatic N-dealkylation → norketamine (1/6 potency) → inactive metabolites
+        metabolites: Norketamine (active)
     elimination:
-        renal: Renal elimination of inactive metabolites; norketamine action prolonged in renal failure
+        renal: 90% renal (metabolites); 2-4% unchanged; 5% faecal
 mechanism:
     target:
         - NMDA receptor
-        - Glutamate receptor
         - Voltage-gated Na+ channel
-    action: Non-competitive antagonist at NMDA and glutamate receptors — lodges in the pore of the NMDA cation channel preventing glutamate-stimulated Na+ and Ca2+ influx and K+ efflux → ↓ excitatory neurotransmission; reduces presynaptic glutamate release; Na+ channel inhibition (local anaesthetic-like effect); potential monoaminergic, muscarinic, and nicotinic antagonism
+    action: Non-competitive NMDA antagonism at phencyclidine site → ↓ excitatory transmission; ↓ presynaptic glutamate release; Na+ channel blockade
 contraindications:
 pharmacodynamics:
     resp:
@@ -63,8 +62,11 @@ pharmacodynamics:
     haeme:
 considerations:
     - Racemic mixture or single S(+) enantiomer (2-3x more potent than R(-), but less bronchodilatory)
-    - Onset within 15-30 seconds of induction dose
 references:
+    - Pfizer Australia Pty Ltd. Ketalar Australian Product Information. Version pfpketai10921. Revised 30 September 2021.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Young P, Psirides A. Wellington ICU Drug Manual. 2nd Ed. Wellington Regional Hospital. 2013.
     - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.
     - Smith S, Scarth E, Sasada M. Drugs in Anaesthesia and Intensive Care. 4th Ed. Oxford University Press. 2011.
     - CICM July/Sept 2007

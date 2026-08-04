@@ -1,25 +1,27 @@
 ---
-aliases:
+aliases: Valium; Propam; Stesolid
 class: Benzodiazepine
 chemistry: Benzodiazepine
 dose:
+    Usual (IV/IM): 2-10mg every 3-4 hours
+    Status epilepticus (IV): 5-10mg; repeat every 10-15 minutes (max 30mg)
 pharmaceutics:
-    presentation:
-    compatibility: 40% propylene glycol formulation
+    presentation: Clear colourless-pale yellow solution 5mg/mL; 53% propylene glycol; 31% ethanol
+    compatibility: Avoid dilution — precipitates and adsorbs to plastic
     solubility: "pKa 3.4; practically insoluble in water"
 pharmacokinetics:
-    absorption: 94% oral bioavailability; rapidly and completely absorbed
+    absorption: 94% oral bioavailability; IM absorption slow and erratic
     distribution:
         pKa: 3.4
         vd: 0.8-1.0 L/kg
-        protein binding: 95%
+        protein binding: 98%
     metabolism:
-        half-life: "Diazepam: 30-50 hours; N-desmethyldiazepam: up to 100 hours"
+        half-life: "t½β 20-48 hours; nordiazepam ~96 hours"
         duration:
-        pathway: Hepatic N-demethylation by CYP3A4 and CYP2C19 to active N-desmethyldiazepam; hydroxylation by CYP3A4 to active temazepam; further conjugation to inactive glucuronides
-        metabolites: N-desmethyldiazepam (active); temazepam (active); oxazepam (active); inactive glucuronides
+        pathway: Hepatic CYP3A4/2C19 → nordiazepam, temazepam and oxazepam (active)
+        metabolites: Nordiazepam, temazepam and oxazepam (active)
     elimination:
-        renal: Renal elimination of inactive glucuronide metabolites
+        renal: 70% renal (metabolites)
 mechanism:
     target:
         - GABAA receptor
@@ -54,8 +56,12 @@ pharmacodynamics:
     git:
     haeme:
 considerations:
-    - Very long acting active metabolites (N-desmethyldiazepam t½ up to 100 hours) — accumulation risk
+    - Long-acting active metabolites — accumulation risk
 references:
+    - Pfizer Australia Pty Ltd. DBL Diazepam Australian Product Information. Version pfpdiapi10922. Revised 29 September 2022.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Young P, Psirides A. Wellington ICU Drug Manual. 2nd Ed. Wellington Regional Hospital. 2013.
     - Smith S, Scarth E, Sasada M. Drugs in Anaesthesia and Intensive Care. 4th Ed. Oxford University Press. 2011.
     - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.
     - Petkov V. Essential Pharmacology For The ANZCA Primary Examination. Vesselin Petkov. 2012.

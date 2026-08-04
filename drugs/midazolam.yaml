@@ -1,24 +1,26 @@
 ---
-aliases:
+aliases: Hypnovel
 class: Benzodiazepine
 chemistry: Benzodiazepine
 dose:
     Sedation (IV): 0.01-0.1mg/kg titrated
-    Anxiolysis (PO): 0.5mg/kg
+    Induction (IV): 0.15-0.2mg/kg
+    ICU sedation (IV): 0.03-0.2mg/kg/hr
+    Paediatric premedication (PO): 0.5mg/kg (max 20mg)
 pharmaceutics:
-    presentation:
+    presentation: Clear solution 1 or 5mg/mL; pH 3.3
     compatibility:
     solubility: "pKa 6.5; water soluble at pH <4 as hydrochloride salt; becomes lipid soluble at physiological pH"
 pharmacokinetics:
-    absorption: 50% oral bioavailability; well absorbed but significant first-pass metabolism
+    absorption: 50% oral bioavailability; >90% IM bioavailability
     distribution:
         pKa: 6.5
-        vd: 1.5 L/kg
-        protein binding: 95%
+        vd: 0.6-1.9 L/kg
+        protein binding: 97%
     metabolism:
-        half-life: 2-4 hours; prolonged with cirrhosis, CHF, obesity, and in the elderly
+        half-life: "t½β 1.4-2.4 hours; prolonged in elderly, critical illness, cirrhosis, CHF and obesity"
         duration:
-        pathway: Hepatic to α-hydroxymidazolam (active) then to inactive glucuronide; clearance ~7 mL/kg/min
+        pathway: Hepatic CYP3A4/3A5 → α-hydroxymidazolam (active) → inactive glucuronide
         metabolites: α-hydroxymidazolam (active); inactive glucuronide
     elimination:
         renal: Renal elimination of active and inactive metabolites; α-hydroxymidazolam accumulates in renal failure
@@ -58,6 +60,10 @@ pharmacodynamics:
 considerations:
     - α-hydroxymidazolam accumulates in renal failure
 references:
+    - Baxter Healthcare Pty Ltd. Midazolam-Baxter Australian Product Information. Version 3.0. Revised 17 October 2025.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Young P, Psirides A. Wellington ICU Drug Manual. 2nd Ed. Wellington Regional Hospital. 2013.
     - Smith S, Scarth E, Sasada M. Drugs in Anaesthesia and Intensive Care. 4th Ed. Oxford University Press. 2011.
     - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.
     - Petkov V. Essential Pharmacology For The ANZCA Primary Examination. Vesselin Petkov. 2012.

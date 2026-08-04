@@ -3,24 +3,24 @@ aliases: 2,6-diisopropylphenol
 class: IV anaesthetic
 chemistry: Alkylphenol; phenolic derivative
 dose:
-    Induction: 1-2.5mg/kg IV
-    Maintenance: 4-12mg/kg/hr
-    Sedation: Lower infusion rates titrated to effect
+    Induction: 1.5-2.5mg/kg
+    Maintenance (IV): 4-12mg/kg/hr
+    ICU sedation (IV): 0.3-4mg/kg/hr
+    Procedural sedation (IV): 0.5-1mg/kg then 1.5-4.5mg/kg/hr
 pharmaceutics:
-    presentation: "White oil-in-water emulsion at pH 7-8.5 containing: propofol 10-20mg/mL; 10% soybean oil; 1.2% purified egg phosphatide; 2.25% glycerol; bacteriostatic additives (Diprivan: disodium edetate; generics: sodium metabisulfite). Energy content 1.1 kcal/mL."
-    compatibility:
+    presentation: White oil-in-water emulsion at pH 7-8.5 and 10 or 20mg/mL; contains soya oil, MCT and egg lecithin; 1.02kcal/mL; no antimicrobial preservative
     solubility: "pKa 11; almost entirely unionised at physiological pH; minimally water soluble"
 pharmacokinetics:
-    absorption: Minimal oral bioavailability due to very high first-pass metabolism and high hepatic extraction ratio
+    absorption: Onset ~30 seconds (IV)
     distribution:
         pKa: 11
         vd: 4 L/kg
         protein binding: 98%
     metabolism:
-        half-life: "t½β 2-12 hours; context-sensitive half-time peaks at 50 minutes following a 9-hour infusion"
-        duration:
-        pathway: Hepatic and extra-hepatic glucuronidation and sulfation to inactive metabolites; clearance 30-60 mL/kg/min; unaffected by renal and hepatic disease
-        metabolites:
+        half-life: "t½α 2-4 minutes; rapid elimination t½ 30-60 minutes; terminal t½ 4-23 hours"
+        duration: 5-10 minutes after induction dose
+        pathway: Hepatic and extra-hepatic glucuronidation; clearance 21-29mL/kg/min
+        metabolites: Inactive glucuronide and quinol conjugates
     elimination:
         renal: Renal elimination of inactive glucuronide and sulfate metabolites; green urine
 mechanism:
@@ -67,8 +67,12 @@ pharmacodynamics:
         - ↓ Hepatic blood flow
     haeme:
 considerations:
-    - Propofol infusion syndrome — acidosis, bradycardia, and MODS following prolonged infusion (over 24 hours), particularly at high doses (over 4mg/kg/hr), in children, and potentially in the presence of mitochondrial defects
-    - Risk of bacterial contamination — limits shelf life once opened
+    - "Propofol infusion syndrome (typically >48 hours and >5mg/kg/hr): lactic acidosis, arrhythmia, cardiac failure, rhabdomyolysis, hyperkalaemia, lipaemia, hepatomegaly and renal failure"
+    - No antimicrobial preservative — use immediately; replace infusion system ≤12 hours
 references:
+    - B. Braun Australia Pty Ltd. Propofol-Lipuro 1% and 2% Australian Product Information. Version 5.0. Revised 13 May 2026.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Young P, Psirides A. Wellington ICU Drug Manual. 2nd Ed. Wellington Regional Hospital. 2013.
     - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.
     - CICM July/September 2007
