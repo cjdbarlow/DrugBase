@@ -1,0 +1,56 @@
+---
+aliases: Rasilez; Enviage
+class: Direct renin inhibitor
+chemistry: Non-peptide; hemifumarate salt
+dose:
+    Hypertension (oral): 150-300mg once daily
+pharmaceutics:
+    presentation: 150mg and 300mg film-coated tablets (historical Australian products)
+    compatibility:
+    solubility: Freely soluble in water over a wide pH range
+pharmacokinetics:
+    absorption: "~2.6% oral bioavailability; Tmax 1-3 hours; high-fat meal ↓ AUC ~60%"
+    distribution:
+        pKa:
+        vd: 135 L
+        protein binding: 47-51%
+    metabolism:
+        half-life: "~40 hours"
+        duration: 24 hours
+        pathway: Minimal CYP3A4 metabolism (~1.4%)
+        metabolites:
+    elimination:
+        renal: 91% faecal (unchanged); 0.6% renal
+mechanism:
+    target:
+        - Renin
+    action: Direct competitive inhibition of renin catalytic activity → blocks angiotensinogen conversion to angiotensin I → ↓ angiotensin I, angiotensin II and aldosterone
+contraindications:
+    - Pregnancy
+    - Previous aliskiren-associated angioedema
+    - Concomitant potent P-glycoprotein inhibitors
+pharmacodynamics:
+    resp:
+    cvs:
+        - ↓ MAP
+        - No reflex tachycardia
+    cns:
+    endo:
+        - ↓ Aldosterone
+    msk:
+    met:
+        - ↑ K+
+    ren:
+        - ↑ Na+ and H2O excretion
+        - Renal impairment
+    gu:
+    git:
+        - Diarrhoea
+    haeme:
+considerations:
+    - Angioedema (rare)
+    - Caution in volume depletion or renal artery stenosis
+references:
+    - Novartis Pharmaceuticals Australia Pty Ltd. Rasilez HCT/Enviage HCT Australian Product Information. Approved 4 February 2010. Historical PI; Australian registrations subsequently cancelled.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
