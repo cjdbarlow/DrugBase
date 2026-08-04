@@ -1,19 +1,19 @@
 ---
-aliases:
+aliases: Proglycem; Hyperstat
 class: Potassium channel activator
 chemistry: Benzothiadiazine
 dose:
-    hypertensive emergency (IV): 1-3mg/kg IV (max 150mg per dose); repeat Q5-15 min PRN
-    hypoglycaemia (PO): 3-8mg/kg/day PO divided Q8-12h
+    Hypertensive Crisis (IV): 1-3mg/kg; max 150mg; repeat q5-15min PRN
+    Hypoglycaemia (PO): 3-8mg/kg/day divided q8-12h
 pharmaceutics:
-    presentation: 15mg/mL solution for IV injection; 50mg capsules
+    presentation: 15mg/mL injection; 50mg capsule; 50mg/mL oral suspension (US)
     compatibility:
     solubility: Insoluble in water
 pharmacokinetics:
     absorption: Rapidly and well absorbed orally
     distribution:
         pKa: 10.43
-        vd: 0.33L/kg
+        vd: 0.33 L/kg
         protein binding: 90-95%
     metabolism:
         half-life: ~26 hours
@@ -27,6 +27,7 @@ mechanism:
         - ATP-sensitive K+ channel
     action: Activates ATP-sensitive K+ channels in vascular smooth muscle → membrane hyperpolarisation → ↓ voltage-dependent Ca2+ channel opening → ↓ intracellular Ca2+ → vasodilation. Also activates ATP-sensitive K+ channels in pancreatic beta cells → membrane hyperpolarisation → ↓ Ca2+-triggered insulin exocytosis → ↓ insulin release → hyperglycaemia.
 contraindications:
+    - Functional hypoglycaemia
 pregnancy:
     code: C
     justification: Fetal bradycardia; neonatal hyperglycaemia; ↓ uterine contraction
@@ -35,7 +36,7 @@ pharmacodynamics:
     cvs:
         - ↓ SVR
         - ↓ Afterload
-        - ↓ BP
+        - ↓ MAP
         - Reflex ↑ HR
         - ↑ CO
         - ↑ Renin release (RAAS activation)
@@ -53,8 +54,13 @@ pharmacodynamics:
         - Nausea
     haeme:
 considerations:
-    - Primarily arterial dilator; no significant venodilator effect
-    - Clinically significant hyperglycaemia
-    - Duration shorter than half-life due to extensive protein binding
+    - Primarily arteriolar; no significant venodilation
+    - No current IV PI; legacy formulation/dose
+    - Neonate/infant → pulmonary HTN
+    - Renal impairment → ↓ dose
+    - Duration < half-life (protein binding)
 references:
     - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 4 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - e5 Pharma, LLC. United States Prescribing Information. Diazoxide Oral Suspension, USP. Revised July 2025.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.

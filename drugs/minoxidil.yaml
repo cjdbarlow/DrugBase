@@ -1,11 +1,11 @@
 ---
-aliases:
+aliases: Loniten
 class: Potassium channel activator
 chemistry: Pyrimidine N-oxide
 dose:
-    hypertension (PO): 5-40mg PO OD-BD
+    HTN (PO): 5-40mg OD-BD
 pharmaceutics:
-    presentation: 2.5mg, 5mg, 10mg tablets; topical solution/foam
+    presentation: 2.5mg, 5mg or 10mg tablet; 2% or 5% topical
     compatibility:
     solubility: Slightly water-soluble
 pharmacokinetics:
@@ -19,14 +19,17 @@ pharmacokinetics:
         duration: Up to 72 hours (greatly exceeds half-life due to extensive tissue distribution)
         pathway: Hepatic (90%); glucuronide conjugation
         metabolites:
-            - Inactive metabolites
+            - Minoxidil sulfate (active)
+            - Minoxidil glucuronide (inactive)
     elimination:
         renal: 10% unchanged; remainder as inactive metabolites
 mechanism:
     target:
         - ATP-sensitive K+ channel
-    action: Activates ATP-sensitive K+ channels → membrane hyperpolarisation → ↓ voltage-dependent Ca2+ channel opening → ↓ intracellular Ca2+ → vascular smooth muscle relaxation.
+    action: Minoxidil sulfate opens KATP channels → hyperpolarisation → ↓ Ca2+ entry → arteriolar relaxation
 contraindications:
+    - Phaeochromocytoma
+    - Pulmonary HTN secondary to mitral stenosis
 pregnancy:
     code: C
     justification: In utero exposure → neonatal hypertrichosis
@@ -35,7 +38,7 @@ pharmacodynamics:
     cvs:
         - ↓ SVR
         - ↓ Afterload
-        - ↓ BP
+        - ↓ MAP
         - Reflex ↑ HR
         - ↑ CO
         - ↑ Renin release (RAAS activation)
@@ -43,16 +46,20 @@ pharmacodynamics:
     endo:
     msk:
         - Hypertrichosis (dose-dependent; exploited topically for androgenetic alopecia)
-        - Peripheral oedema
     met:
     ren:
+        - ↑ Na+/H2O retention
+        - Peripheral oedema
     gu:
     git:
     haeme:
 considerations:
-    - Extremely high VD (200 L/kg) reflects massive tissue sequestration
-    - Duration of action up to 72h greatly exceeds plasma half-life
-    - Does not act as a venodilator
-    - Topical formulation used for androgenetic alopecia (utilises hypertrichosis effect)
+    - β blocker + loop diuretic required
+    - Pericardial effusion/tamponade
+    - Arteriolar only; no venodilation
+    - Topical use: androgenetic alopecia
 references:
     - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 4 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Pfizer Australia Pty Ltd. Loniten Australian Product Information. Version pfplonit11119. Revised 7 November 2019.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.

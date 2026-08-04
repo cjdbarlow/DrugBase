@@ -1,18 +1,19 @@
 ---
-aliases:
-class: Direct vasodilator
+aliases: Apresoline
+class: Potassium channel activator
 chemistry: Phthalazine derivative
 dose:
-    hypertensive emergency (IV): 5-20mg IV
+    Crisis (IV): 5-20mg
+    Infusion (IV): 200-300μg/min → 50-150μg/min
 pharmaceutics:
-    presentation: 20mg ampoule
-    compatibility: Do not reconstitute with dextrose
+    presentation: 20mg powder for injection
+    compatibility: Reconstitute with 1mL water; dilute in 0.9% NaCl; no glucose
     solubility: Moderate water solubility
 pharmacokinetics:
     absorption: 22-66% oral bioavailability (extensive first-pass hepatic metabolism); well absorbed from GIT
     distribution:
         pKa: 7.3
-        vd: 1.34L/kg
+        vd: 1.34 L/kg
         protein binding: 87%
     metabolism:
         half-life: ~1 hour
@@ -24,8 +25,14 @@ pharmacokinetics:
         renal: Inactive metabolites
 mechanism:
     target:
-    action:
+        - KATP channel (proposed)
+    action: K+ channel opening/↓ intracellular Ca2+ → direct arteriolar relaxation; mechanism uncertain
 contraindications:
+    - SLE
+    - Severe tachycardia or high-output HF
+    - Mechanical cardiac obstruction
+    - Aortic dissection
+    - Porphyria
 pregnancy:
     code: C
     justification: IV use in 3rd trimester → fetal distress/arrhythmia
@@ -34,7 +41,7 @@ pharmacodynamics:
     cvs:
         - ↓ SVR
         - ↓ Afterload
-        - ↓ BP
+        - ↓ MAP
         - Reflex ↑ HR
         - ↑ CO
         - ↑ Renin release (RAAS activation)
@@ -53,9 +60,16 @@ pharmacodynamics:
         - Anorexia
     haeme:
 considerations:
-    - IV onset delayed 5-30 minutes despite IV route
-    - Slow acetylators have prolonged effect and require lower doses
-    - Pure arterial dilator
-    - Chronic use associated with drug-induced SLE (particularly in slow acetylators)
+    - IV onset 5-30 minutes
+    - Slow acetylator → ↑ exposure/SLE risk
+    - Arteriolar only; no venodilation
+    - CAD → reflex tachycardia/myocardial ischaemia
+    - Chronic use → drug-induced SLE
 references:
     - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 4 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Amdipharm Mercury (Australia) Pty Ltd. Apresoline Australian Product Information. Revised 28 January 2020.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Young P, Psirides A. Wellington ICU Drug Manual. 2nd Ed. Wellington Regional Hospital. 2013.
+    - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.
+    - Smith S, Scarth E, Sasada M. Drugs in Anaesthesia and Intensive Care. 4th Ed. Oxford University Press. 2011.

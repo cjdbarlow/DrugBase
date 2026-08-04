@@ -1,11 +1,13 @@
 ---
-aliases:
-class: Dopamine receptor agonist
+aliases: Corlopam
+class: Peripheral D1 agonist
 chemistry: Benzazepine
 dose:
+    Adult (IV): 0.01-0.3μg/kg/min; ↑0.05-0.1μg/kg/min q15min; max 1.6μg/kg/min
+    Paediatric (IV): 0.2μg/kg/min; ↑0.3-0.5μg/kg/min q20-30min; max 0.8μg/kg/min
 pharmaceutics:
-    presentation:
-    compatibility:
+    presentation: 10mg/mL IV concentrate (US)
+    compatibility: 0.9% NaCl or 5% glucose
     solubility: Slightly soluble in water; highly soluble in organic solvents; pKa 8.12
 pharmacokinetics:
     absorption: Oral bioavailability 5.7% due to extensive first-pass metabolism
@@ -16,31 +18,43 @@ pharmacokinetics:
     metabolism:
         half-life: 10 minutes
         duration: Similar to half-life
-        pathway: 99% hepatic into a variety of metabolites
+        pathway: 99% hepatic conjugation
         metabolites:
+            - Methyl, glucuronide and sulfate conjugates (inactive)
     elimination:
-        renal:
+        renal: 90% in urine (4% unchanged); 10% in faeces
 mechanism:
     target:
-        - DA1 receptor
-        - α2 adrenoceptor
-    action: Afferent renal vascular vasodilation (↑ GFR) and natriuresis via Na+/K+ ATPase inhibition in the proximal tubule and thick ascending limb, decreasing sodium reabsorption
+        - D1-like dopamine receptor
+        - α2 adrenoceptor (affinity only)
+    action: D1 agonism → systemic/renal arteriolar dilation + ↓ tubular Na+/K+ ATPase → natriuresis
 contraindications:
+pregnancy:
+    code:
+    justification:
 pharmacodynamics:
     resp:
     cvs:
-        - Hypotension
-        - Tachycardia
+        - ↓ SVR/MAP
+        - Reflex ↑ HR
         - Flushing
-        - Vasodilation
     cns:
     endo:
     msk:
     met:
-        - Hypokalemia
+        - ↓ K+
     ren:
+        - ↑ RBF/GFR
+        - Natriuresis/diuresis
     gu:
     git:
     haeme:
 considerations:
+    - Maximum 48-hour adult infusion
+    - β blocker → avoid
+    - Glaucoma/ocular HTN → ↑ IOP
+    - Asthma → sulfite reaction
 references:
+    - Hospira, Inc. United States Prescribing Information. Corlopam. Revised May 2024.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.

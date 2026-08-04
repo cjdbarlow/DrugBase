@@ -1,19 +1,19 @@
 ---
 aliases:
     - SNP
-class: Vasodilator
+class: Nitrate vasodilator
 chemistry: Inorganic ferrocyanide complex
 dose:
-    hypertension: 0.25-10µg/kg/min IV
+    Infusion (IV): 0.25-10μg/kg/min
 pharmaceutics:
-    presentation: 50mg powder for reconstitution
-    compatibility: Light-sensitive (opaque bags/tubing); incompatible with alkaline solutions
+    presentation: 50mg/2mL concentrate
+    compatibility: 5% glucose only; protect bag from light
     solubility: Highly water-soluble; minimally fat-soluble
 pharmacokinetics:
     absorption: 0% oral bioavailability
     distribution:
         pKa: -3.3
-        vd: 0.25L/kg
+        vd: 0.25 L/kg
         protein binding: None
     metabolism:
         half-life: ~2 minutes
@@ -32,16 +32,21 @@ mechanism:
         - Soluble guanylate cyclase
     action: Spontaneous NO donor → activates sGC → ↑ cGMP → ↑ K+ conductance → membrane hyperpolarisation and ↓ intracellular Ca2+ → vascular smooth muscle relaxation. Balanced arterial and venous dilation (unlike GTN which preferentially dilates veins). Risk of coronary steal in coronary artery disease.
 contraindications:
+    - Compensatory HTN or high-output HF
+    - Severe renal disease
+    - Vitamin B12 deficiency
+    - Leber optic atrophy or tobacco amblyopia
 pregnancy:
     code: C
     justification: Short hypertensive-crisis use may be safe with maternal pH/cyanide monitoring
 pharmacodynamics:
     resp:
+        - ↑ Shunt (↓ HPV)
     cvs:
         - ↓ Preload (venodilatation)
         - ↓ Afterload (arterial dilation)
         - Reflex ↑ HR
-        - ↓ BP
+        - ↓ MAP
         - Coronary steal risk in CAD
     cns:
         - ↑ ICP (caution in neurological injury)
@@ -57,6 +62,17 @@ pharmacodynamics:
     haeme:
         - Methaemoglobinaemia
 considerations:
-  - Typically more efficacious than GTN
+    - More potent than GTN
+    - Infusion >2μg/kg/min → ↑ CN accumulation
+    - SCN half-life ~3 days; prolonged in renal failure
+    - Haemodialysis removes SCN, not CN
+    - Sustained infusion → tachyphylaxis
+    - Aortic dissection → β block first
 references:
     - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 4 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Emcure Pharmaceuticals Pty Ltd. Nitroprusside-EMC Australian Product Information. Approved 14 October 2020.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Young P, Psirides A. Wellington ICU Drug Manual. 2nd Ed. Wellington Regional Hospital. 2013.
+    - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.
+    - Smith S, Scarth E, Sasada M. Drugs in Anaesthesia and Intensive Care. 4th Ed. Oxford University Press. 2011.

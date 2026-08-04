@@ -2,17 +2,17 @@
 aliases:
     - GTN
     - Nitroglycerin
-class: Vasodilator
+class: Nitrate vasodilator
 chemistry: Organic nitrate
 dose:
-    angina: 300-600µg SL PRN; may repeat Q5 min x3
-    hypertension: 5-200µg/min IV
+    Angina (SL): 300-600μg; repeat q5min ×3
+    Infusion (IV): 5-200μg/min
 pharmaceutics:
     presentation:
-      - 5mg/mL solution for IV
-      - 400µg/dose sublingual spray
-      - Transdermal patches
-    compatibility:
+      - 5mg/mL IV concentrate
+      - 400μg/dose SL spray
+      - Transdermal patch
+    compatibility: 5% glucose or 0.9% NaCl; non-PVC tubing
     solubility: Poorly water-soluble; highly fat-soluble
 pharmacokinetics:
     absorption:
@@ -21,10 +21,10 @@ pharmacokinetics:
         - Transdermal absorption variable
     distribution:
         pKa: -5.6
-        vd: 3.3L/kg
+        vd: 3.3 L/kg
         protein binding: 60%
     metabolism:
-        half-life:
+        half-life: ~30 minutes
         duration:
           - Sublingual ~35-45 minutes
           - IV offset within minutes
@@ -39,6 +39,10 @@ mechanism:
         - Soluble guanylate cyclase
     action: NO donor → activates sGC → ↑ cGMP → ↑ K+ conductance → membrane hyperpolarisation and ↓ intracellular Ca2+ → vascular smooth muscle relaxation. 
 contraindications:
+    - PDE5 inhibitor or sGC stimulator
+    - ↑ ICP
+    - Severe ↓ MAP or uncorrected hypovolaemia
+    - Pericardial tamponade or constrictive pericarditis
 pregnancy:
     code: B2
     justification:
@@ -49,7 +53,7 @@ pharmacodynamics:
         - ↓ Afterload
         - Coronary arterial vasodilation
         - Reflex ↑ HR
-        - ↓ BP
+        - ↓ MAP
     cns:
         - ↑ ICP (caution in neurological injury)
         - Headache (common)
@@ -62,7 +66,14 @@ pharmacodynamics:
     haeme:
         - Methaemoglobinaemia (rare)
 considerations:
-  - Tachyphylaxis develops with continuous use
-  - Venodilation > arteriodilation at low doses, balanced at high doses
+    - Continuous use → tachyphylaxis; use nitrate-free interval
+    - Venodilation > arteriolar dilation at low doses
+    - Remove patch before DC cardioversion
 references:
     - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 4 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Pfizer Australia Pty Ltd. DBL Glyceryl Trinitrate Concentrate Injection Australian Product Information. Version pfpglyci10122. Revised 25 January 2022.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Young P, Psirides A. Wellington ICU Drug Manual. 2nd Ed. Wellington Regional Hospital. 2013.
+    - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.
+    - Smith S, Scarth E, Sasada M. Drugs in Anaesthesia and Intensive Care. 4th Ed. Oxford University Press. 2011.
