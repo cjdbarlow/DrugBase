@@ -1,57 +1,69 @@
 ---
-aliases:
+aliases: Accupril
 class: ACE inhibitor
-chemistry: L-proline derivative
+chemistry: L-proline derivative; dicarboxylate (-COOH)
 dose:
+    HTN (PO): 10-20mg OD; usual 20-80mg/day OD-BD
+    HF (PO): 5mg BD → 10-20mg BD
 pharmaceutics:
-    presentation:
+    presentation: 5mg, 10mg, 20mg or 40mg tablet
     compatibility:
-    solubility:
+    solubility: Freely water-soluble
 pharmacokinetics:
-    absorption: 37% oral bioavailability; effects maximal ~1 hour after oral dose
+    absorption: 37% oral bioavailability; effect maximal ~1 hour; food ↓ absorption
     distribution:
         pKa: 3.7
-        vd: 3.6-7.8 L/kg
-        protein binding:
+        vd: 3.6-7.8L/kg
+        protein binding: 97%
     metabolism:
-        half-life:
+        half-life: Quinaprilat 2 hours; terminal 25 hours
         duration:
-        pathway: Almost totally hepatic (~99.9% metabolised)
+        pathway: ~99.9% hepatic; prodrug → quinaprilat
         metabolites:
+            - Quinaprilat (active)
+            - Minor inactive metabolites
     elimination:
-        renal: Minimal (~0.1% excreted unchanged)
+        renal: 0.1% excreted unchanged; quinaprilat predominantly renal
 mechanism:
     target:
         - Angiotensin-converting enzyme (ACE)
-    action: Limits conversion of angiotensin I to angiotensin II via interruption of zinc moiety on ACE → ↓ RAAS effects mediated by angiotensin II via AT1 receptor.
+    action: ACE zinc-site inhibition → ↓ Ang II and aldosterone; ↑ bradykinin
 contraindications:
+    - Pregnancy
+    - Previous ACE inhibitor-associated angioedema
+    - Sacubitril/valsartan within 36 hours
+    - Aliskiren in diabetes
 pharmacodynamics:
     resp:
-        - Dry cough (bradykinin-mediated)
+        - Dry cough
     cvs:
         - ↓ SVR
-        - ↓ BP
-        - Unaffected HR and baroreceptor reflex
-        - ↑ Natriuresis (normal renal perfusion pressure)
-        - Vascular and myocardial remodelling (beneficial in CCF)
+        - ↓ MAP
+        - No reflex ↑ HR
+        - ↓ Vascular and myocardial remodelling
     cns:
     endo:
-        - Hypoglycaemia in diabetics
+        - Hypoglycaemia (diabetes)
     msk:
     met:
-        - ↑ Renin release
+        - ↑ Renin
+        - ↑ K+
     ren:
-        - Pre-renal failure with reduced renal perfusion pressure (e.g. renal artery stenosis)
-        - ↓ GFR
+        - ↑ Natriuresis if renal perfusion maintained
+        - ↓ GFR/AKI if Ang II-dependent (e.g. renal artery stenosis)
     gu:
     git:
     haeme:
         - Agranulocytosis
         - Thrombocytopenia
 considerations:
-    - Angioedema (immune mediated; unpredictable)
-    - ↓ Aldosterone release → ↑ efficacy of spironolactone; risk of hyperkalaemia
-    - Pharmacodynamic interaction with NSAIDs → risk of AKI
-    - Less effective for hypertension in the black population
+    - Angioedema (bradykinin-mediated)
+    - K+-sparing diuretics/K+ → hyperkalaemia
+    - NSAIDs → ↓ effect and AKI
+    - ↓ Antihypertensive effect in Black patients
 references:
+    - Solco Healthcare US, LLC. Quinapril Tablets USP US Prescribing Information. Revised August 2020.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Young P, Psirides A. Wellington ICU Drug Manual. 2nd Ed. Wellington Regional Hospital. 2013.
     - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.

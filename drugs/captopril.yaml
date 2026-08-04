@@ -1,20 +1,24 @@
 ---
-aliases:
+aliases: Zedace
 class: ACE inhibitor
-chemistry: L-proline derivative
+chemistry: L-proline derivative; sulfhydryl (-SH)
 dose:
+    HTN (PO): 12.5mg initially; then 25-50mg BD; max 75mg BD
+    HF (PO): 6.25mg TDS; usual 25-75mg BD; max 150mg/day
+    Post-MI (PO): 6.25mg; then 25mg TDS → 50mg TDS
+    Diabetic nephropathy (PO): 25mg TDS or 50mg BD
 pharmaceutics:
-    presentation:
+    presentation: 25mg or 50mg tablet
     compatibility:
     solubility:
 pharmacokinetics:
-    absorption: 75% oral bioavailability; effects maximal ~15 minutes after oral dose
+    absorption: 75% oral bioavailability; effect maximal ~15 minutes; food ↓ absorption
     distribution:
         pKa: 9.8
-        vd: 2 L/kg
-        protein binding:
+        vd: 2L/kg
+        protein binding: 30%
     metabolism:
-        half-life:
+        half-life: 1-2 hours
         duration: ~6 hours
         pathway: 60% hepatic; active drug with active metabolites
         metabolites:
@@ -24,35 +28,42 @@ pharmacokinetics:
 mechanism:
     target:
         - Angiotensin-converting enzyme (ACE)
-    action: Limits conversion of angiotensin I to angiotensin II via interruption of zinc moiety on ACE → ↓ RAAS effects mediated by angiotensin II via AT1 receptor.
+    action: ACE zinc-site inhibition → ↓ Ang II and aldosterone; ↑ bradykinin
 contraindications:
+    - Pregnancy
+    - Previous ACE inhibitor-associated, hereditary or idiopathic angioedema
+    - Sacubitril/valsartan within 36 hours
 pharmacodynamics:
     resp:
-        - Dry cough (bradykinin-mediated)
+        - Dry cough
     cvs:
         - ↓ SVR
-        - ↓ BP
-        - Unaffected HR and baroreceptor reflex
-        - ↑ Natriuresis (normal renal perfusion pressure)
-        - Vascular and myocardial remodelling (beneficial in CCF)
+        - ↓ MAP
+        - No reflex ↑ HR
+        - ↓ Vascular and myocardial remodelling
     cns:
     endo:
-        - Hypoglycaemia in diabetics
+        - Hypoglycaemia (diabetes)
     msk:
     met:
-        - ↑ Renin release
+        - ↑ Renin
+        - ↑ K+
     ren:
-        - Pre-renal failure with reduced renal perfusion pressure (e.g. renal artery stenosis)
-        - ↓ GFR
+        - ↑ Natriuresis if renal perfusion maintained
+        - ↓ GFR/AKI if Ang II-dependent (e.g. renal artery stenosis)
     gu:
     git:
     haeme:
         - Agranulocytosis
         - Thrombocytopenia
 considerations:
-    - Angioedema (immune mediated; unpredictable)
-    - ↓ Aldosterone release → ↑ efficacy of spironolactone; risk of hyperkalaemia
-    - Pharmacodynamic interaction with NSAIDs → risk of AKI
-    - Less effective for hypertension in the black population
+    - Angioedema (bradykinin-mediated)
+    - K+-sparing diuretics/K+ → hyperkalaemia
+    - NSAIDs → ↓ effect and AKI
+    - ↓ Antihypertensive effect in Black patients
 references:
+    - Alphapharm Pty Ltd trading as Viatris. Zedace Australian Product Information. Revised 20 October 2025.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Young P, Psirides A. Wellington ICU Drug Manual. 2nd Ed. Wellington Regional Hospital. 2013.
     - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.

@@ -1,57 +1,70 @@
 ---
-aliases:
+aliases: Coversyl
 class: ACE inhibitor
-chemistry: L-proline derivative
+chemistry: L-proline derivative; dicarboxylate (-COOH)
 dose:
+    HTN (PO): 5mg OD; max 10mg/day
+    HF (PO): 2.5mg OD → 5mg OD
+    Stable CAD (PO): 5mg OD for 2 weeks → 10mg OD
 pharmaceutics:
-    presentation:
+    presentation: 2.5mg, 5mg or 10mg tablet
     compatibility:
     solubility:
 pharmacokinetics:
-    absorption: 66% oral bioavailability; effects maximal ~1 hour after oral dose
+    absorption: 66% oral bioavailability; effect maximal ~1 hour; food ↓ conversion to perindoprilat
     distribution:
         pKa: 3.8
-        vd: 0.2 L/kg
-        protein binding:
+        vd: 0.2L/kg
+        protein binding: Perindoprilat 20%
     metabolism:
-        half-life:
+        half-life: Perindopril 1 hour; free perindoprilat 17 hours
         duration: 24 hours
-        pathway: 88% hepatic
+        pathway: 88% hepatic; prodrug → perindoprilat
         metabolites:
+            - Perindoprilat (active)
+            - Five inactive metabolites
     elimination:
-        renal: 12% excreted unchanged
+        renal: 12% excreted unchanged; free perindoprilat renal
 mechanism:
     target:
         - Angiotensin-converting enzyme (ACE)
-    action: Limits conversion of angiotensin I to angiotensin II via interruption of zinc moiety on ACE → ↓ RAAS effects mediated by angiotensin II via AT1 receptor.
+    action: ACE zinc-site inhibition → ↓ Ang II and aldosterone; ↑ bradykinin
 contraindications:
+    - Pregnancy
+    - Previous ACE inhibitor-associated, hereditary or idiopathic angioedema
+    - Renal artery stenosis
+    - Sacubitril/valsartan within 36 hours
+    - Aliskiren in diabetes or GFR <60mL/min/1.73m2
 pharmacodynamics:
     resp:
-        - Dry cough (bradykinin-mediated)
+        - Dry cough
     cvs:
         - ↓ SVR
-        - ↓ BP
-        - Unaffected HR and baroreceptor reflex
-        - ↑ Natriuresis (normal renal perfusion pressure)
-        - Vascular and myocardial remodelling (beneficial in CCF)
+        - ↓ MAP
+        - No reflex ↑ HR
+        - ↓ Vascular and myocardial remodelling
     cns:
     endo:
-        - Hypoglycaemia in diabetics
+        - Hypoglycaemia (diabetes)
     msk:
     met:
-        - ↑ Renin release
+        - ↑ Renin
+        - ↑ K+
     ren:
-        - Pre-renal failure with reduced renal perfusion pressure (e.g. renal artery stenosis)
-        - ↓ GFR
+        - ↑ Natriuresis if renal perfusion maintained
+        - ↓ GFR/AKI if Ang II-dependent (e.g. renal artery stenosis)
     gu:
     git:
     haeme:
         - Agranulocytosis
         - Thrombocytopenia
 considerations:
-    - Angioedema (immune mediated; unpredictable)
-    - ↓ Aldosterone release → ↑ efficacy of spironolactone; risk of hyperkalaemia
-    - Pharmacodynamic interaction with NSAIDs → risk of AKI
-    - Less effective for hypertension in the black population
+    - Angioedema (bradykinin-mediated)
+    - K+-sparing diuretics/K+ → hyperkalaemia
+    - NSAIDs → ↓ effect and AKI
+    - ↓ Antihypertensive effect in Black patients
 references:
+    - Servier Laboratories (Aust.) Pty. Ltd. Coversyl Australian Product Information. Version 26. Revised 11 May 2026.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
     - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.
