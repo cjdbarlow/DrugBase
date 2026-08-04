@@ -1,14 +1,15 @@
 ---
-aliases:
-class: Beta blocker
+aliases: Bicor
+class: Highly β1-selective blocker
 chemistry: Aryloxypropanolamine
 dose:
+    HF (PO): 1.25mg OD; stepwise increase every 1-4 weeks → 10mg OD
 pharmaceutics:
-    presentation:
+    presentation: 1.25mg, 2.5mg, 3.75mg, 5mg, 7.5mg or 10mg tablet
     compatibility:
-    solubility:
+    solubility: Good lipid solubility
 pharmacokinetics:
-    absorption: 90% oral bioavailability
+    absorption: 85-90% oral bioavailability; Tmax 2-3 hours; food has no effect
     distribution:
         pKa: 9.5
         vd: 3.5 L/kg
@@ -16,15 +17,23 @@ pharmacokinetics:
     metabolism:
         half-life: 9-12 hours
         duration:
-        pathway: 50% hepatic
+        pathway: CYP3A4 → inactive metabolites
         metabolites:
+            - Inactive metabolites
     elimination:
-        renal: 50% renal excretion
+        renal: 50% unchanged in urine
 mechanism:
     target:
         - β1 adrenoreceptor
-    action: Competitive highly selective β1 antagonist → blocks β1 receptor-mediated cAMP synthesis.
+    action: Competitive β1 antagonism → ↓ Gs-mediated cAMP
 contraindications:
+    - Acute/decompensated CCF
+    - Cardiogenic shock
+    - Sinus bradycardia, sick sinus or SA block
+    - Second/third-degree AV block without pacemaker
+    - Severe asthma/COPD
+    - Severe PVD or Raynaud disease
+    - Metabolic acidosis
 pregnancy:
     code: C
     justification: Fetal/neonatal bradycardia
@@ -34,19 +43,28 @@ pharmacodynamics:
         - ↓ HR
         - ↓ Inotropy
         - ↓ MVO2
-        - ↓ BP
+        - ↓ MAP
     cns:
-        - CNS effects (good lipid solubility)
+        - Tiredness/nightmares/sleep disturbance
     endo:
     msk:
     met:
+        - ↓ Insulin release
+        - Masked hypoglycaemia
     ren:
+        - ↓ Renin
     gu:
     git:
     haeme:
 considerations:
+    - β1 selectivity ↓ above 10mg
+    - Verapamil/diltiazem → severe bradycardia/AV block/↓ inotropy
+    - Abrupt withdrawal → angina, arrhythmia or MI
 references:
     - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 4 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Alphapharm Pty Ltd trading as Viatris. Bicor Australian Product Information. Revised 4 July 2024.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
     - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.
     - Leslie RA, Johnson EK, Goodwin APL. Dr Podcast Scripts for the Primary FRCA. Cambridge University Press. 2011.
     - Smith S, Scarth E, Sasada M. Drugs in Anaesthesia and Intensive Care. 4th Ed. Oxford University Press. 2011.

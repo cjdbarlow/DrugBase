@@ -1,12 +1,14 @@
 ---
-aliases:
-class: Beta blocker
-chemistry: Aryloxypropanolamine
+aliases: Dilatrend
+class: Non-selective β blocker; α1 blocker
+chemistry: Aryloxypropanolamine; racemate
 dose:
+    HTN (PO): 12.5mg OD for 2 days → 25mg OD; max 50mg/day
+    HF (PO): 3.125mg BD; double every ≥2 weeks; max 25mg BD (50mg BD if >85kg with mild/moderate HF)
 pharmaceutics:
-    presentation:
+    presentation: 6.25mg, 12.5mg or 25mg tablet
     compatibility:
-    solubility:
+    solubility: Good lipid solubility
 pharmacokinetics:
     absorption: 25-35% oral bioavailability
     distribution:
@@ -16,17 +18,24 @@ pharmacokinetics:
     metabolism:
         half-life: 7-10 hours
         duration:
-        pathway: Mainly hepatic
+        pathway: Hepatic oxidation/glucuronidation; CYP2D6/CYP2C9
         metabolites:
+            - Three active metabolites
     elimination:
-        renal:
+        renal: Mainly biliary/faecal; minor renal elimination
 mechanism:
     target:
         - β1 adrenoreceptor
         - β2 adrenoreceptor
         - α1 adrenoreceptor
-    action: Competitive non-selective β and α1 antagonist with membrane stabilising activity → blocks β and α1 receptor-mediated effects.
+    action: Competitive β/α1 antagonism → ↓ cAMP + vasodilation; membrane-stabilising activity
 contraindications:
+    - Bronchospasm, asthma or COPD
+    - Severe sinus bradycardia or sick sinus
+    - Second/third-degree AV block
+    - Shock or decompensated CCF requiring IV inotrope
+    - SBP <85mmHg
+    - Hepatic impairment
 pregnancy:
     code: C
     justification: Fetal/neonatal bradycardia
@@ -37,20 +46,30 @@ pharmacodynamics:
         - ↓ HR
         - ↓ Inotropy
         - ↓ MVO2
-        - ↓ BP
-        - ↓ SVR and vasodilation (α1 effect → afterload reduction)
+        - ↓ MAP
+        - ↓ SVR
     cns:
-        - CNS effects (good lipid solubility)
+        - Tiredness/nightmares/sleep disturbance
     endo:
     msk:
     met:
+        - ↓ Insulin release
+        - Masked hypoglycaemia
     ren:
+        - ↓ Renin
     gu:
     git:
     haeme:
 considerations:
+    - Give with food → ↓ orthostasis
+    - Verapamil/diltiazem → severe bradycardia/AV block/↓ inotropy
+    - Abrupt withdrawal → angina, arrhythmia or MI
 references:
     - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 4 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Pharmaco (Australia) Ltd. Dilatrend Australian Product Information. Version 2024-07 v3.2. Revised 9 July 2024.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Young P, Psirides A. Wellington ICU Drug Manual. 2nd Ed. Wellington Regional Hospital. 2013.
     - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.
     - Leslie RA, Johnson EK, Goodwin APL. Dr Podcast Scripts for the Primary FRCA. Cambridge University Press. 2011.
     - Smith S, Scarth E, Sasada M. Drugs in Anaesthesia and Intensive Care. 4th Ed. Oxford University Press. 2011.

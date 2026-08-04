@@ -1,30 +1,41 @@
 ---
-aliases:
-class: Beta blocker
-chemistry: Aryloxypropanolamine
+aliases: Nebilet
+class: Highly β1-selective blocker; NO-mediated vasodilator
+chemistry: Aryloxypropanolamine; racemate
 dose:
+    HTN (PO): 5mg OD; renal impairment/age >65 years 2.5mg OD → 5mg OD
+    HF (PO): 1.25mg OD; double every 1-2 weeks; max 10mg OD
 pharmaceutics:
-    presentation:
+    presentation: 1.25mg, 5mg or 10mg tablet
     compatibility:
-    solubility:
+    solubility: Good lipid solubility
 pharmacokinetics:
     absorption: 12-96% oral bioavailability (varies with metaboliser status)
     distribution:
         pKa: 8.13
         vd: 11.2 L/kg
-        protein binding:
+        protein binding: ~98%
     metabolism:
         half-life: 10-30 hours
         duration:
-        pathway: Mainly hepatic
+        pathway: Hepatic CYP2D6 hydroxylation, N-dealkylation and glucuronidation
         metabolites:
+            - Active hydroxy-metabolites and glucuronides
     elimination:
-        renal:
+        renal: 38% urine; 48% faeces; <0.5% unchanged in urine
 mechanism:
     target:
         - β1 adrenoreceptor
-    action: Competitive highly selective β1 antagonist → blocks β1 receptor-mediated cAMP synthesis.
+        - Endothelial L-arginine/NO pathway
+    action: d-nebivolol → β1 antagonism; l-nebivolol → NO-mediated vasodilation
 contraindications:
+    - Hepatic impairment
+    - Acute/decompensated CCF or cardiogenic shock
+    - Sinus bradycardia, sick sinus or SA block
+    - Second/third-degree AV block without pacemaker
+    - Asthma or bronchospasm
+    - Untreated phaeochromocytoma
+    - Metabolic acidosis
 pregnancy:
     code: C
     justification: Fetal/neonatal bradycardia
@@ -34,19 +45,31 @@ pharmacodynamics:
         - ↓ HR
         - ↓ Inotropy
         - ↓ MVO2
-        - ↓ BP
+        - ↓ MAP
+        - ↓ SVR
+        - ↑ NO-mediated vasodilation
     cns:
-        - CNS effects (good lipid solubility)
+        - Tiredness/nightmares/sleep disturbance
     endo:
     msk:
     met:
+        - ↓ Insulin release
+        - Masked hypoglycaemia
     ren:
+        - ↓ Renin
     gu:
     git:
     haeme:
 considerations:
+    - CYP2D6 poor metabolism → ↑ nebivolol + prolonged half-life
+    - β1 selectivity ↓ above 10mg
+    - Verapamil/diltiazem → severe bradycardia/AV block/↓ inotropy
+    - Abrupt withdrawal → worsening CCF, angina or arrhythmia
 references:
     - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 4 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - A. Menarini Australia Pty Ltd. Nebilet Australian Product Information. Version A11-0. Revised 5 August 2025.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
     - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.
     - Leslie RA, Johnson EK, Goodwin APL. Dr Podcast Scripts for the Primary FRCA. Cambridge University Press. 2011.
     - Smith S, Scarth E, Sasada M. Drugs in Anaesthesia and Intensive Care. 4th Ed. Oxford University Press. 2011.

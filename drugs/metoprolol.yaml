@@ -1,14 +1,14 @@
 ---
-aliases:
-class: Beta blocker
+aliases: Metoprolol IV Viatris
+class: β1-selective blocker
 chemistry: Aryloxypropanolamine
 dose:
-    arrhythmia/hypertension (IV): 1mg IV boluses
-    arrhythmia/hypertension (PO): 12.5-100mg PO BD
+    Arrhythmia (IV): 1-5mg at 1-2mg/min; repeat q5min; usual total 10-15mg
+    Arrhythmia/HTN (PO): 12.5-100mg BD
 pharmaceutics:
-    presentation:
-    compatibility:
-    solubility:
+    presentation: 50mg or 100mg IR tablet; 23.75mg, 47.5mg, 95mg or 190mg CR tablet; clear 5mg/5mL injection
+    compatibility: 0.9% NaCl; 5% or 10% glucose; glucose/saline
+    solubility: Poor lipid solubility
 pharmacokinetics:
     absorption: 50% oral bioavailability
     distribution:
@@ -18,15 +18,23 @@ pharmacokinetics:
     metabolism:
         half-life: 3-4 hours
         duration:
-        pathway: Mainly hepatic; genetic variability in half-life of active metabolites
+        pathway: Hepatic CYP2D6 metabolism
         metabolites:
+            - 2-hydroxymetoprolol (active; minor contribution)
     elimination:
-        renal:
+        renal: ~3% unchanged; remainder as metabolites in urine
 mechanism:
     target:
         - β1 adrenoreceptor
-    action: Competitive selective β1 antagonist → blocks β1 receptor-mediated cAMP synthesis.
+    action: Competitive β1 antagonism → ↓ Gs-mediated cAMP
 contraindications:
+    - Bronchospasm
+    - Sinus bradycardia or sick sinus
+    - Second/third-degree AV block
+    - Shock or uncontrolled CCF
+    - Hypotension
+    - Severe PVD
+    - Untreated phaeochromocytoma
 pregnancy:
     code: C
     justification: Fetal/neonatal bradycardia
@@ -36,18 +44,29 @@ pharmacodynamics:
         - ↓ HR
         - ↓ Inotropy
         - ↓ MVO2
-        - ↓ BP
+        - ↓ MAP
     cns:
     endo:
     msk:
     met:
+        - ↓ Insulin release
+        - Masked hypoglycaemia
     ren:
+        - ↓ Renin
     gu:
     git:
     haeme:
 considerations:
+    - CYP2D6 polymorphism → variable half-life
+    - β1 selectivity ↓ at higher doses
+    - Verapamil/diltiazem → severe bradycardia/AV block/↓ inotropy
+    - Abrupt withdrawal → angina, arrhythmia or MI
 references:
     - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 4 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Alphapharm Pty Ltd trading as Viatris. Metoprolol IV Viatris Australian Product Information. Revised 5 May 2022.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Young P, Psirides A. Wellington ICU Drug Manual. 2nd Ed. Wellington Regional Hospital. 2013.
     - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.
     - Leslie RA, Johnson EK, Goodwin APL. Dr Podcast Scripts for the Primary FRCA. Cambridge University Press. 2011.
     - Smith S, Scarth E, Sasada M. Drugs in Anaesthesia and Intensive Care. 4th Ed. Oxford University Press. 2011.

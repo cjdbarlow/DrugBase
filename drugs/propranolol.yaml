@@ -1,37 +1,45 @@
 ---
-aliases:
-class: Beta blocker
-chemistry:
+aliases: Inderal; Cardinol
+class: Non-selective β blocker
+chemistry: Aryloxypropanolamine; racemate
 dose:
-    hypertension (PO): 10-100mg PO BD/TDS
-    arrhythmia (IV): 1mg IV boluses titrated to response
+    HTN (PO): 40mg BD; usual 120-320mg/day
+    Arrhythmia/thyrotoxicosis (PO): 10-40mg TDS-QID
+    Arrhythmia (IV): 1mg boluses; usual total 1-3mg
+    Paediatric arrhythmia (PO): 0.25-0.5mg/kg TDS-QID
 pharmaceutics:
-    presentation:
-        - Tablets
-        - Solution 1mg/mL
+    presentation: 10mg or 40mg tablet; 160mg LA capsule; clear 1mg/mL injection
     compatibility:
-    solubility:
+    solubility: Highly lipid-soluble
 pharmacokinetics:
     absorption: 30% oral bioavailability
     distribution:
-        pKa:
-        vd:
+        pKa: 9.45
+        vd: 4 L/kg
         protein binding: 95%
     metabolism:
-        half-life:
+        half-life: 3-6 hours
         duration:
-        pathway: Hepatic to active and inactive metabolites
+        pathway: Extensive first-pass hepatic metabolism
         metabolites:
-            - Active metabolites
+            - 4-hydroxypropranolol (active; oral only)
             - Inactive metabolites
     elimination:
-        renal: Renal elimination of metabolites
+        renal: 95-100% as metabolites/conjugates in urine
 mechanism:
     target:
         - β1 adrenoreceptor
         - β2 adrenoreceptor
-    action: Competitive non-selective β antagonist → blocks β1 and β2 receptor-mediated cAMP synthesis.
+    action: Competitive β1/β2 antagonism → ↓ Gs-mediated cAMP; membrane-stabilising activity
 contraindications:
+    - Asthma, bronchospasm or airway obstruction
+    - Sinus bradycardia or sick sinus
+    - Second/third-degree AV block
+    - Shock or CCF
+    - Hypotension
+    - Severe PVD
+    - Prolonged fasting/hypoglycaemia
+    - Untreated phaeochromocytoma
 pregnancy:
     code: C
     justification: Fetal/neonatal bradycardia
@@ -42,14 +50,15 @@ pharmacodynamics:
         - ↓ HR
         - ↓ Inotropy
         - ↓ MVO2
-        - ↓ BP
+        - ↓ MAP
         - ↑ SVR (β2 effect)
-        - May worsen arrhythmia
+        - Bradycardia/AV block
     cns:
         - Tiredness
         - Nightmares
         - Sleep disturbance
     endo:
+        - ↓ T4 → T3 conversion
     msk:
     met:
         - ↓ Insulin release
@@ -59,9 +68,14 @@ pharmacodynamics:
     git:
     haeme:
 considerations:
-    - Contraindicated with cardioselective Ca2+ channel blockers (extreme ↓ HR and ↓ inotropy)
+    - Verapamil/diltiazem → severe bradycardia/AV block/↓ inotropy
+    - Abrupt withdrawal → angina, arrhythmia or MI
 references:
     - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 4 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Atnahs Pharma Australia Pty Ltd. Inderal Australian Product Information. Revised 29 July 2025.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Young P, Psirides A. Wellington ICU Drug Manual. 2nd Ed. Wellington Regional Hospital. 2013.
     - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.
     - Leslie RA, Johnson EK, Goodwin APL. Dr Podcast Scripts for the Primary FRCA. Cambridge University Press. 2011.
     - Smith S, Scarth E, Sasada M. Drugs in Anaesthesia and Intensive Care. 4th Ed. Oxford University Press. 2011.

@@ -1,12 +1,12 @@
 ---
-aliases:
-class: Beta blocker
+aliases: Esmolol Noridem
+class: Ultra-short β1-selective blocker
 chemistry: Aryloxypropanolamine
 dose:
-    arrhythmia/hypertension (IV): 50-200 μg/kg/min infusion
+    SVT (IV): 500μg/kg over 1 minute → 50-200μg/kg/min
 pharmaceutics:
-    presentation:
-    compatibility:
+    presentation: Clear 100mg/10mL injection (10mg/mL)
+    compatibility: 0.45% or 0.9% NaCl; 5% glucose; Hartmann's
     solubility: Minimal lipid solubility
 pharmacokinetics:
     absorption: IV only
@@ -17,17 +17,24 @@ pharmacokinetics:
     metabolism:
         half-life: 9 minutes
         duration:
-        pathway: Hydrolysis of methyl ester by red blood cell esterases → inactive metabolite and methyl alcohol
+        pathway: Red-cell esterase hydrolysis → inactive acid metabolite + methanol
         metabolites:
             - Inactive acid metabolite
             - Methyl alcohol
     elimination:
-        renal:
+        renal: <2% unchanged; 73-88% as acid metabolite in urine
 mechanism:
     target:
         - β1 adrenoreceptor
-    action: Competitive highly selective β1 antagonist → blocks β1 receptor-mediated cAMP synthesis.
+    action: Competitive β1 antagonism → ↓ Gs-mediated cAMP
 contraindications:
+    - Severe bradycardia or sick sinus
+    - Second/third-degree AV block
+    - Cardiogenic shock or overt CCF
+    - Severe hypotension
+    - Acute asthma
+    - Untreated phaeochromocytoma
+    - Inotrope/vasopressor dependence
 pregnancy:
     code: C
     justification: Fetal/neonatal bradycardia
@@ -37,19 +44,30 @@ pharmacodynamics:
         - ↓ HR
         - ↓ Inotropy
         - ↓ MVO2
-        - ↓ BP
+        - ↓ MAP
     cns:
     endo:
     msk:
     met:
+        - ↓ Insulin release
+        - Masked hypoglycaemia
     ren:
+        - ↓ Renin
     gu:
     git:
     haeme:
 considerations:
     - Venous irritant
+    - Effects resolve within ~30 minutes of cessation
+    - IV verapamil → cardiac arrest
+    - Incompatible with NaHCO3, furosemide, diazepam or thiopental
+    - β1 selectivity ↓ at higher doses
 references:
     - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 4 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - InterPharma Pty Ltd. Esmolol Noridem Australian Product Information. Version 1.5. First approved 2 November 2022.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Young P, Psirides A. Wellington ICU Drug Manual. 2nd Ed. Wellington Regional Hospital. 2013.
     - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.
     - Leslie RA, Johnson EK, Goodwin APL. Dr Podcast Scripts for the Primary FRCA. Cambridge University Press. 2011.
     - Smith S, Scarth E, Sasada M. Drugs in Anaesthesia and Intensive Care. 4th Ed. Oxford University Press. 2011.
