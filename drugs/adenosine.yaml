@@ -1,13 +1,13 @@
 ---
-aliases:
-class: Naturally occurring purine nucleoside
-chemistry:
-dose: 3mg/6mg/12mg IV in increasing doses
+aliases: Adenocor
+class: Antiarrhythmic
+chemistry: Endogenous purine nucleoside
+dose:
+    SVT (IV): 3mg, then 6mg, then 12mg; rapid bolus
 pharmaceutics:
-    presentation:
-        - Colourless solution at 3mg/mL
+    presentation: Clear colourless 3mg/mL solution
     compatibility:
-    solubility:
+    solubility: Slightly water-soluble
 pharmacokinetics:
     absorption:
     distribution:
@@ -15,27 +15,34 @@ pharmacokinetics:
         vd:
         protein binding:
     metabolism:
-        half-life: Less than 10 seconds
+        half-life: <10 seconds
         duration:
-        pathway: Rapidly deaminated in plasma
+        pathway: Cellular uptake → inosine and AMP
         metabolites:
+            - Inosine
+            - AMP
     elimination:
         renal:
 mechanism:
     target:
         - A1 adenosine receptor
-    action: Stimulation of A1 adenosine receptors in the SA and AV nodes opens K+ channels causing hyperpolarisation and reduces Ca2+ current, with subsequent blockade of AV nodal conduction
+    action: A1 activation → ↑ K+ efflux + ↓ Ca2+ current → SA/AV hyperpolarisation and transient AV block
 contraindications:
     - Sick sinus syndrome
-    - 2nd and 3rd degree AV block
+    - 2nd/3rd-degree AV block without pacemaker
+    - Asthma or COPD
+    - Long QT syndrome
+    - Severe ↓ MAP or decompensated CCF
 pharmacodynamics:
     resp:
         - Bronchospasm
-        - ↑ RR and ↑ VT
+        - Dyspnoea; ↑ RR/VT
     cvs:
-        - ↓↓ AV nodal conduction
-        - May cause AF or flutter
+        - Transient AV block/asystole
+        - AF/flutter; ventricular ectopy
+        - ↓ MAP
     cns:
+        - Headache; dizziness
     endo:
     msk:
     met:
@@ -44,7 +51,12 @@ pharmacodynamics:
     git:
     haeme:
 considerations:
-    - Dipyridamole increases effect
-    - Methylxanthines (aminophylline, caffeine) decrease effect
+    - Dipyridamole → ↑ effect
+    - Methylxanthines → ↓ effect
+    - Carbamazepine → ↑ AV block
 references:
+    - Sanofi-Aventis Australia Pty Ltd. Adenocor Australian Product Information. Revised 27 July 2026.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Young P, Psirides A. Wellington ICU Drug Manual. 2nd Ed. Wellington Regional Hospital. 2013.
     - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.

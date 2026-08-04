@@ -1,14 +1,16 @@
 ---
 aliases:
     - Lidocaine
+    - Xylocard
 class: Class Ib antiarrhythmic; aminoamide local anaesthetic
 chemistry: Aminoamide
 dose:
-    VT (IV): Load 1mg/kg IV; infusion 1-3mg/min
+    VT (IV): 1-2mg/kg over 1-2 minutes; max 100mg
+    Infusion (IV): 2-4mg/min
 pharmaceutics:
-    presentation: Clear solution 10-20mg/mL (1-2%)
-    compatibility:
-    solubility:
+    presentation: Clear 20mg/mL injection; 100mg/mL infusion concentrate
+    compatibility: 5.5% glucose; 0.9% NaCl; Ringer's; sodium bicarbonate; dextran
+    solubility: Water-soluble
 pharmacokinetics:
     absorption: Oral bioavailability 35%; IV only for arrhythmia
     distribution:
@@ -16,31 +18,31 @@ pharmacokinetics:
         vd: 0.9 L/kg
         protein binding: 70%
     metabolism:
-        half-life: 10-20 minutes (IV bolus); 45-90 minutes (subcutaneous)
+        half-life: 10-20 minutes (IV bolus); 45-90 minutes (subcutaneous); 90-120 minutes (terminal)
         duration:
-        pathway: Hepatic amidases (90-95%); inactive metabolites
+        pathway: Hepatic CYP1A2/3A4 (90-95%); active metabolites
         metabolites:
-            - Inactive metabolites
+            - Monoethylglycinexylidide (active)
+            - Glycinexylidide (active)
     elimination:
-        renal: Minimal renal excretion
+        renal: <10% excreted unchanged
 mechanism:
     target:
         - Nav1.5 subunit of voltage-gated sodium channel
-    action: Class Ib — binds open Na+ channels with fast association and dissociation within the course of a normal beat. Tachyarrhythmias are prevented because dissociation occurs too slowly to permit a further action potential. Preferential binding to refractory channels (e.g. in ischaemia). Reduces rate of rise of Phase 0; shortens repolarisation phase. Little effect on normal cardiac tissue → little effect on ECG. Does not prolong QRS; actually shortens QT.
+    action: Open/inactivated Na+ channel block with rapid dissociation → ↓ Phase 0, automaticity and APD in depolarised/ischaemic ventricular tissue; minimal effect on normal tissue or QRS; ↓ QT
 contraindications:
+    - Severe SA, AV or intraventricular block
+    - Stokes-Adams syndrome
+    - Supraventricular arrhythmias
 pharmacodynamics:
     resp:
     cvs:
         - AV block
-        - Myocardial depression → ↓ BP (may be unresponsive)
+        - ↓ Inotropy/HR/MAP; cardiovascular collapse
     cns:
-        - Circumoral tingling
-        - Dizziness
-        - Paraesthesia
-        - Visual disturbances
-        - Confusion
-        - Seizures
-        - Coma
+        - Circumoral tingling; paraesthesia
+        - Dizziness; visual disturbance; confusion
+        - Seizures; coma
     endo:
     msk:
     met:
@@ -49,6 +51,11 @@ pharmacodynamics:
     git:
     haeme:
 considerations:
+    - Shock, CCF, hepatic disease or prolonged infusion → ↓ clearance
+    - Propranolol, metoprolol or cimetidine → ↓ clearance
 references:
+    - Aspen Pharmacare Australia Pty Ltd. Xylocard Australian Product Information. Revised 26 August 2024.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
     - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.
     - Smith S, Scarth E, Sasada M. Drugs in Anaesthesia and Intensive Care. 4th Ed. Oxford University Press. 2011.

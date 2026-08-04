@@ -1,19 +1,17 @@
 ---
-aliases:
+aliases: Lanoxin
 class: Cardiac glycoside
 chemistry: Cardiac glycoside
 dose:
-    Rate control: 62.5-250µg PO OD
-    Rate control: 250-500µg IV load
+    Maintenance (PO): 62.5-250mcg OD
+    Load (PO): 10-20mcg/kg
+    Load (IV): 0.5-1mg in divided doses; each over ≥5 minutes
 pharmaceutics:
-    presentation:
-        - Tablets
-        - Elixir
-        - Clear colourless solution for IV
-    compatibility:
+    presentation: 62.5mcg or 250mcg tablet; 50mcg/mL elixir; clear 250mcg/mL injection
+    compatibility: 5% glucose; 0.9% NaCl; 4% glucose/0.18% NaCl
     solubility: Essentially insoluble in water
 pharmacokinetics:
-    absorption: 70-80% oral bioavailability; some drug is secreted back into the gut lumen by P-glycoprotein (enterocyte efflux pump); onset delayed 2-3 hours after oral loading
+    absorption: 70-80% oral bioavailability; P-glycoprotein efflux; onset 2-3 hours
     distribution:
         pKa: 7.15
         vd: 5-11 L/kg (dependent on lean body mass)
@@ -23,29 +21,30 @@ pharmacokinetics:
         duration:
         pathway: Minimal hepatic (~16% of clearance)
         metabolites:
+            - Dihydrodigoxin
+            - Digoxygenin
     elimination:
-        renal: Predominantly renal elimination as unchanged drug; half-life prolonged in renal failure
+        renal: 50-70% excreted unchanged; half-life prolonged in renal failure
 mechanism:
     target:
         - Na+/K+ ATPase
-    action: Inhibits cardiac Na+/K+ ATPase → ↑ intracellular Na+ → ↓ activity of Na+/Ca2+ exchanger → ↑ intracellular Ca2+ → ↑ inotropy. Indirect vagotonic effect via sensitisation of baroreceptors and ↑ vagal output from nucleus tractus solitarius → ↓ AV nodal conduction → ↓ ventricular response. Prolongs refractory period of AV node and bundle of His. ↑ slope of Phase 4 (promoting automaticity, overall suppressed by vagotonic effects).
+    action: Na+/K+ ATPase inhibition → ↑ intracellular Na+ → ↓ Na+/Ca2+ exchange → ↑ Ca2+ and inotropy; ↑ vagal tone → ↓ AV conduction; ↑ Phase 4 slope and automaticity
 contraindications:
+    - 2nd/3rd-degree AV block
+    - VT/VF
+    - Digoxin-induced arrhythmia
+    - AF with accessory pathway
+    - Hypertrophic obstructive cardiomyopathy
 pharmacodynamics:
     resp:
     cvs:
-        - ↓ HR
-        - ↑ Inotropy
-        - Prolonged PR interval
-        - Shortened QT interval
-        - Arrhythmias (bigeminy, PVCs, 1st/2nd/3rd degree AV block, SVT, VT)
+        - ↓ HR; ↑ inotropy/CO/coronary flow
+        - ↑ PR; ↓ QT
+        - Bigeminy; PVCs; AV block; SVT; VT
         - Arterial vasoconstriction
-        - ↑ Coronary blood flow (via ↓ HR → ↑ diastolic filling time)
-        - ↑ CO (via ↓ ventricular response and improved filling)
     cns:
-        - Deranged red-green colour perception
-        - Visual disturbances
-        - Headache
-        - Depressed level of consciousness (toxicity)
+        - Red-green dyschromatopsia; visual disturbance
+        - Headache; ↓ LOC
     endo:
     msk:
     met:
@@ -59,11 +58,15 @@ pharmacodynamics:
         - Eosinophilia
         - Rash
 considerations:
-    - Narrow therapeutic index, requires monitoring in ICU setting
-    - Severe arrhythmia risk with DC cardioversion
-    - Toxicity exacerbated by hypokalaemia
-    - Multiple drug interactions
-    - "Drugs that ↑ digoxin levels: amiodarone, captopril, erythromycin, verapamil
-    - "Drugs that ↓ digoxin levels: antacids, cholestyramine, phenytoin, metoclopramide""
+    - Narrow therapeutic index
+    - Renal impairment → ↓ elimination
+    - Hypokalaemia/hypomagnesaemia/hypercalcaemia → ↑ toxicity
+    - Toxicity + DC cardioversion → ↑ VF risk
+    - "↑ Levels: amiodarone, captopril, erythromycin, verapamil"
+    - "↓ Levels: antacids, cholestyramine, phenytoin, metoclopramide"
 references:
+    - Aspen Pharmacare Australia Pty Ltd. Lanoxin Australian Product Information. Revised 1 October 2025.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Young P, Psirides A. Wellington ICU Drug Manual. 2nd Ed. Wellington Regional Hospital. 2013.
     - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.

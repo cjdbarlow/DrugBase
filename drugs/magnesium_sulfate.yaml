@@ -3,14 +3,13 @@ aliases:
 class: Electrolyte replacement
 chemistry: Divalent cation salt
 dose:
-  hypomagnesaemia: 10-20mmol IV over 10-20 minutes
+    Hypomagnesaemia (IV): 10-20mmol over 10-20 minutes
 pharmaceutics:
-    presentation:
-        - 2mmol/mL; made up into 10mmol in 100mL for peripheral administration
-    compatibility:
-    solubility: Good water solubility
+    presentation: Clear 2mmol/mL solution; dilute 10mmol in 100mL for peripheral IV
+    compatibility: 0.9% NaCl; Hartmann's; 5% glucose; glucose/NaCl
+    solubility: Water-soluble
 pharmacokinetics:
-    absorption: 30% oral bioavailability; more absorbed in states of systemic magnesium depletion
+    absorption: 30% oral bioavailability; ↑ with magnesium depletion
     distribution:
         pKa: -3.0
         vd:
@@ -21,19 +20,22 @@ pharmacokinetics:
         pathway: Not metabolised; cofactor in numerous metabolic processes
         metabolites:
     elimination:
-        renal: Renally excreted; reabsorption mainly by thick ascending limb and distal convoluted tubule; supraphysiological plasma concentrations result in decreased reabsorption
+        renal: Renal; reabsorption mainly in TAL/DCT; ↑ plasma Mg2+ → ↓ reabsorption
 mechanism:
     target:
         - NMDA receptor
         - L-type calcium channel
-    action: Smooth muscle relaxation by increasing uptake of intracellular calcium into the sarcoplasmic reticulum; skeletal muscle relaxation via inhibition of acetylcholine release at the NMJ; CNS depression via inhibition of NMDA receptors; ↓ AV node conduction via calcium channel blockade; cofactor in electrolyte homeostasis including Na+/K+ ATPase function
+    action: ↑ Sarcoplasmic Ca2+ uptake → smooth muscle relaxation; ↓ acetylcholine release at NMJ; NMDA + L-type Ca2+ channel inhibition → CNS depression and ↓ AV conduction; Na+/K+ ATPase cofactor
 contraindications:
+    - Heart block
+    - Severe renal failure
 pharmacodynamics:
     resp:
         - Bronchodilation
+        - Respiratory depression
     cvs:
         - ↓ SVR
-        - Hypotension
+        - ↓ MAP
         - ↓ HR
     cns:
         - CNS depression
@@ -49,6 +51,12 @@ pharmacodynamics:
     git:
     haeme:
 considerations:
+    - Potentiates neuromuscular blockers and CNS depressants
+    - Nifedipine → exaggerated ↓ MAP
 references:
+    - AFT Pharmaceuticals Pty Ltd. Magnesium Sulfate-AFT Australian Product Information. First approved 14 April 2025.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Young P, Psirides A. Wellington ICU Drug Manual. 2nd Ed. Wellington Regional Hospital. 2013.
     - Smith S, Scarth E, Sasada M. Drugs in Anaesthesia and Intensive Care. 4th Ed. Oxford University Press. 2011.
     - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.
