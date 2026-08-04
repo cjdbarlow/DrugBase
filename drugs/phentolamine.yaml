@@ -1,18 +1,22 @@
 ---
-aliases:
-class: Alpha antagonist
+aliases: Regitine
+class: Reversible non-selective α antagonist
 chemistry: Imidazoline derivative
 dose:
-    hypertensive crisis/phaeochromocytoma (IV): 2-5mg IV bolus; repeat Q5 min PRN
+    Hypertensive crisis (IV): 2-5mg; repeat q5min PRN
+    Phaeochromocytoma pre-op (IV/IM): 5mg 1-2 hours pre-op
+    Phaeochromocytoma intra-op (IV): 5mg
+    Extravasation (infiltration): 5-10mg in 10mL 0.9% NaCl within 12 hours
+    Paediatric phaeochromocytoma (IV/IM): 1mg
 pharmaceutics:
-    presentation: 10mg powder for reconstitution
-    compatibility:
-    solubility: Highly lipid-soluble
+    presentation: 5mg vial (US)
+    compatibility: Reconstitute with 1mL water for injection; use immediately
+    solubility: Highly lipid-soluble; mesylate freely water-soluble
 pharmacokinetics:
-    absorption: IV only; oral bioavailability variably reported (30-100%)
+    absorption: IV/IM; oral bioavailability 30-100%
     distribution:
         pKa: 9.78
-        vd: ~6L/kg
+        vd: ~6 L/kg
         protein binding: 54%
     metabolism:
         half-life: 19 minutes
@@ -26,9 +30,9 @@ mechanism:
     target:
         - α1 adrenoreceptor
         - α2 adrenoreceptor
-        - β adrenoreceptor
-    action: Competitive (reversible) non-selective alpha blocker → ↓ vascular smooth muscle tone → vasodilation. Direct β agonist activity → further ↑ HR and ↑ CO.
+    action: Competitive α1/α2 antagonism → vasodilation + ↑ NA release/reflex sympathetic activity
 contraindications:
+    - MI, coronary insufficiency or angina
 pregnancy:
     code: B1
     justification:
@@ -36,7 +40,7 @@ pharmacodynamics:
     resp:
     cvs:
         - ↓ SVR
-        - ↓ BP
+        - ↓ MAP
         - Reflex ↑ HR
         - ↑ CO
     cns:
@@ -46,11 +50,16 @@ pharmacodynamics:
     ren:
     gu:
     git:
-        - Nausea
-        - Vomiting
+        - Nausea/vomiting/diarrhoea
+        - ↑ GI motility/acid secretion
     haeme:
 considerations:
-    - Short half-life (19 min) makes it suitable for acute hypertensive crises and phaeochromocytoma management
-    - Drug of choice for catecholamine-excess states (phaeochromocytoma, MAOI crisis, cocaine toxicity)
+    - Rapid IV administration → severe ↓ MAP
+    - Adrenaline → paradoxical ↓ MAP
+    - Peptic ulcer → ↑ GI symptoms
+    - No current Australian PI; Regitine cancelled in 2014
 references:
     - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 4 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Hikma Pharmaceuticals USA Inc. United States Prescribing Information: Phentolamine Mesylate for Injection, USP. Revised May 2022.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.

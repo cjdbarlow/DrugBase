@@ -1,13 +1,13 @@
 ---
-aliases:
-class: Alpha antagonist
+aliases: Dibenzyline
+class: Irreversible non-selective α antagonist
 chemistry: Haloalkylamine
 dose:
-    phaeochromocytoma pre-op (PO): 10mg PO BD; titrate up to effect (typically 20-80mg/day)
+    Phaeochromocytoma (PO): 10mg BD → 1-2mg/kg/day in 2 doses; usual 20-60mg/day
 pharmaceutics:
-    presentation: 10mg capsules
+    presentation: 10mg capsule
     compatibility:
-    solubility: Highly lipid-soluble
+    solubility: Highly lipid-soluble; poorly water-soluble
 pharmacokinetics:
     absorption: 20-30% oral bioavailability (incomplete and variable gut absorption)
     distribution:
@@ -15,7 +15,8 @@ pharmacokinetics:
         vd: Very large
         protein binding: High
     metabolism:
-        half-life: ~24 hours
+        half-life: ~24 hours (IV; PO unknown)
+        onset: 1-2 hours
         duration: 3-4 days (limited by rate of receptor synthesis)
         pathway: Hepatic; slow due to minimal free drug in circulation
         metabolites:
@@ -26,25 +27,26 @@ mechanism:
     target:
         - α1 adrenoreceptor
         - α2 adrenoreceptor
-    action: Irreversible alpha blocker. Covalently alkylates the alpha receptor via an aziridinium intermediate → permanent receptor inactivation until new receptor is synthesised.
+        - H1, muscarinic and 5-HT receptors
+    action: Aziridinium intermediate → covalent α1/α2 alkylation until receptor resynthesis
 contraindications:
+    - CVA or acute-MI recovery
 pregnancy:
     code: B2
     justification: Mutagenic/carcinogenic in rodents
 pharmacodynamics:
     resp:
+        - Nasal congestion
     cvs:
         - ↓ SVR
-        - ↓ BP
-        - Postural hypotension
+        - ↓ MAP
+        - Postural ↓ MAP
         - Reflex ↑ HR
         - Arrhythmias
     cns:
         - Drowsiness
         - Fatigue
-        - Nausea
-        - Vomiting
-
+        - Excitation/seizures
     endo:
     msk:
     met:
@@ -52,9 +54,15 @@ pharmacodynamics:
     gu:
         - Inhibition of ejaculation
     git:
+        - Nausea/vomiting
     haeme:
 considerations:
-    - Risk of refractory hypotension
-    - CNS penetration causes sedation, occasionally excitatory effects
+    - β blockade only after adequate α blockade
+    - Prolonged/refractory ↓ MAP
+    - Adrenaline → paradoxical ↓ MAP + tachycardia
+    - Mutagenic/carcinogenic in animals; avoid long-term use
 references:
     - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 4 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Amdipharm Mercury (Australia) Pty Ltd. Dibenzyline Australian Product Information. Revised 29 July 2025.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.

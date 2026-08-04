@@ -1,20 +1,22 @@
 ---
-aliases:
-class: Alpha-2 agonist
+aliases: Catapres; Dixarit
+class: Central α2/I1 agonist
 chemistry: Imidazoline derivative
 dose:
-    hypertension (PO): 50-200µg PO QID
-    sedation/analgesia (IV): 10-200µg IV
-    neuraxial adjunct: 1-2µg/kg added to spinal or epidural (↓ opioid requirement)
+    HTN (PO): 75μg BD-TDS; maintenance 150-300μg TDS; max 900μg/day
+    Crisis (IV/IM): 150-300μg; IV over 5 minutes; repeat q3-6h
+    Sedation/analgesia (IV): 10-200μg
+    Neuraxial adjunct: 1-2μg/kg
+    Paediatric (PO/IV): 1-5μg/kg q8h
 pharmaceutics:
-    presentation: Clear colourless solution at 150µg/mL
-    compatibility:
-    solubility: Reasonably amphoteric; dissolves in both water and lipid
+    presentation: 150μg tablet; clear 150μg/mL injection
+    compatibility: 0.9% NaCl
+    solubility: Amphoteric; water- and lipid-soluble
 pharmacokinetics:
     absorption: 70-80% oral bioavailability; minimal first-pass metabolism; rapid absorption
     distribution:
         pKa: 8.0
-        vd: 2.1L/kg
+        vd: 2.1 L/kg
         protein binding: 20-40%
     metabolism:
         half-life: 9-18 hours
@@ -28,36 +30,44 @@ mechanism:
     target:
         - α2 adrenoreceptor
         - Imidazoline receptor (I1)
-    action: Central α2 agonist → presynaptic ↓ noradrenaline release from peripheral nerve terminals → ↓ sympathetic outflow → ↓ BP, ↓ HR. Sympatholytic effects via imidazoline I1 receptors in the rostral ventrolateral medulla. Peripheral α1 stimulation causes a transient initial ↑ BP with IV bolus administration.
+    action: Central α2/I1 agonism → ↓ SNS outflow/NA release; peripheral α2 agonism → transient ↑ MAP after IV bolus
 contraindications:
+    - Severe bradyarrhythmia, sick sinus or second/third-degree AV block
 pregnancy:
     code: B3
     justification:
 pharmacodynamics:
     resp:
     cvs:
-        - Transient ↑ BP with IV bolus (peripheral α1 stimulation)
-        - Prolonged ↓ BP
+        - Transient ↑ MAP with IV bolus
+        - Prolonged ↓ MAP
         - ↓ HR
         - ↓ AV conduction
         - ↑ Baroreceptor sensitivity
-        - Rebound hypertension on abrupt cessation
     cns:
         - Sedation
-        - Analgesia (↓ noradrenaline release → ↓ opioid requirement)
+        - Analgesia/↓ opioid requirement
         - Anxiolysis
     endo:
     msk:
     met:
+        - ↓ Stress response
     ren:
+        - ↓ ADH → diuresis
     gu:
     git:
     haeme:
 considerations:
-    - Risk of rebound hypertension; taper gradually
-    - Useful for opioid-sparing analgesia and management of opioid withdrawal
-    - Initial hypertensive phase with IV bolus due to peripheral α1 activity — give slowly
+    - Abrupt withdrawal → severe rebound HTN; taper over >7 days
+    - Concurrent β blocker → cease β blocker first
+    - TCAs → ↓ effect; alcohol/sedatives → ↑ CNS depression
+    - Opioid withdrawal → ↓ autonomic symptoms
+    - Renal/hepatic impairment → consider dose reduction
 references:
     - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 4 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Clinect Pty Ltd. Catapres Australian Product Information. Revised 9 August 2023.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Young P, Psirides A. Wellington ICU Drug Manual. 2nd Ed. Wellington Regional Hospital. 2013.
     - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.
     - Smith S, Scarth E, Sasada M. Drugs in Anaesthesia and Intensive Care. 4th Ed. Oxford University Press. 2011.
