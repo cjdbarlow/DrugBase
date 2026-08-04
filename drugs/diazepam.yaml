@@ -27,6 +27,9 @@ mechanism:
         - GABAA receptor
     action: Positive allosteric modulator at the α/γ interface of the GABAA receptor → ↑ affinity of GABAA for GABA → ↑ frequency of Cl- channel opening → ↑ Cl- conductance → hyperpolarisation and ↓ neuronal transmission
 contraindications:
+pregnancy:
+    code: C
+    justification: High-dose labour use → neonatal hypotonia, respiratory depression and hypothermia; prolonged use → withdrawal
 pharmacodynamics:
     resp:
         - ↓ VT
@@ -58,6 +61,7 @@ pharmacodynamics:
 considerations:
     - Long-acting active metabolites — accumulation risk
 references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 4 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
     - Pfizer Australia Pty Ltd. DBL Diazepam Australian Product Information. Version pfpdiapi10922. Revised 29 September 2022.
     - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
     - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.

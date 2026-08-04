@@ -27,6 +27,9 @@ mechanism:
         - Vascular L-type Ca2+ channel
     action: ↓ Ca2+ influx → arterial and coronary vasodilation
 contraindications:
+pregnancy:
+    code: C
+    justification: Maternal ↓ MAP → fetal hypoxia
 pharmacodynamics:
     resp:
     cvs:
@@ -51,6 +54,7 @@ considerations:
     - Severe aortic stenosis (afterload reduction may be detrimental)
     - Angina may worsen after initiation or dose increase
 references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 4 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
     - Aspen Pharmacare Australia Pty Ltd. Norvasc Australian Product Information. Revised 26 August 2024.
     - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
     - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.

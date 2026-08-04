@@ -36,6 +36,9 @@ contraindications:
     - AF/flutter with an accessory pathway
     - Ventricular tachycardia
     - Concurrent IV beta blocker outside ICU
+pregnancy:
+    code: C
+    justification: Maternal ↓ MAP → fetal hypoxia
 pharmacodynamics:
     resp:
     cvs:
@@ -64,6 +67,7 @@ considerations:
     - ↑ Digoxin concentration
     - Prolonged neuromuscular blockade
 references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 4 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
     - Viatris Pty Ltd. Isoptin Injection Australian Product Information. Revised 17 June 2025.
     - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
     - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.

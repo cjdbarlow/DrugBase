@@ -25,6 +25,9 @@ mechanism:
         - Factor Xa
     action: Inhibits free factor Xa, prothrombinase-bound factor Xa, and clot-associated factor Xa, preventing thrombin generation
 contraindications:
+pregnancy:
+    code: C
+    justification: Placental haemorrhage → prematurity/fetal loss
 pharmacodynamics:
     resp:
     cvs:
@@ -41,3 +44,4 @@ pharmacodynamics:
         - Bleeding
 considerations:
 references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 4 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database

@@ -30,6 +30,9 @@ mechanism:
         - V2 receptor (Gs-coupled)
     action: V1 → ↑ IP3 → ↑ intracellular Ca2+ → vasoconstriction. V2 → ↑ cAMP → aquaporin-2 insertion in collecting duct → water reabsorption. Vasopressor affinity maintained at low pH, unlike catecholamines.
 contraindications:
+pregnancy:
+    code: B2
+    justification:
 pharmacodynamics:
     resp:
     cvs:
@@ -53,4 +56,4 @@ pharmacodynamics:
         - ↑ Platelet aggregation (V1)
         - ↑ Factor VIII and vWF (V2)
 references:
-
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 4 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database

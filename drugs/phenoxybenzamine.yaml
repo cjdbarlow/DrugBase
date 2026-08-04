@@ -28,6 +28,9 @@ mechanism:
         - α2 adrenoreceptor
     action: Irreversible alpha blocker. Covalently alkylates the alpha receptor via an aziridinium intermediate → permanent receptor inactivation until new receptor is synthesised.
 contraindications:
+pregnancy:
+    code: B2
+    justification: Mutagenic/carcinogenic in rodents
 pharmacodynamics:
     resp:
     cvs:
@@ -54,3 +57,4 @@ considerations:
     - Risk of refractory hypotension
     - CNS penetration causes sedation, occasionally excitatory effects
 references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 4 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database

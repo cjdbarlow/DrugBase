@@ -30,6 +30,9 @@ mechanism:
 contraindications:
     - Advanced aortic stenosis
     - Unstable angina; MI <8 days
+pregnancy:
+    code: C
+    justification: Maternal ↓ MAP → fetal hypoxia
 pharmacodynamics:
     resp:
     cvs:
@@ -55,6 +58,7 @@ pharmacodynamics:
 considerations:
     - Phlebitis
 references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 4 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
     - Somerset Therapeutics, LLC. Nicardipine Hydrochloride in Sodium Chloride Injection US Prescribing Information. Revised April 2026.
     - Laboratoire X.O. Vasonase 1mg/mL solución para perfusión Spanish Summary of Product Characteristics. Revised August 2025.
     - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.

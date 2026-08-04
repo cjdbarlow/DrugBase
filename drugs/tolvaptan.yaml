@@ -25,6 +25,9 @@ mechanism:
         - V2 vasopressin receptor
     action: Inhibits insertion of aquaporins into the apical membrane of collecting duct cells, preventing reabsorption of water; distal site of action means only water is excreted without electrolyte depletion
 contraindications:
+pregnancy:
+    code: D
+    justification: Animal studies → embryofetal death/malformations with maternal toxicity
 pharmacodynamics:
     resp:
     cvs:
@@ -42,3 +45,4 @@ pharmacodynamics:
     haeme:
 considerations:
 references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 4 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database

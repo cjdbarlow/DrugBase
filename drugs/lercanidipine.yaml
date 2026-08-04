@@ -33,6 +33,9 @@ contraindications:
     - Severe hepatic impairment
     - GFR <30mL/min or dialysis
     - Strong CYP3A4 inhibitors; ciclosporin; grapefruit
+pregnancy:
+    code: C
+    justification: Maternal ↓ MAP → fetal hypoxia
 pharmacodynamics:
     resp:
     cvs:
@@ -57,4 +60,5 @@ pharmacodynamics:
 considerations:
     - High-fat meal → 4-fold ↑ bioavailability
 references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 4 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
     - Viatris Pty Ltd. Zanidip Australian Product Information. Revised 21 February 2022.

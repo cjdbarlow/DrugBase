@@ -25,6 +25,9 @@ mechanism:
         - Antithrombin III (ATIII)
     action: Binds antithrombin III causing a conformational change → ↑ affinity for factor Xa but not thrombin (4:1 anti-Xa to anti-IIa ratio); more predictable effect on Xa than UFH
 contraindications:
+pregnancy:
+    code: C
+    justification: Placental haemorrhage → prematurity/fetal loss
 pharmacodynamics:
     resp:
     cvs:
@@ -43,6 +46,7 @@ considerations:
     - Incomplete reversal with protamine — only the anti-IIa effect is inhibited
     - Caution in renal failure — approximately 40% renally excreted
 references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 4 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
     - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.
     - Smith S, Scarth E, Sasada M. Drugs in Anaesthesia and Intensive Care. 4th Ed. Oxford University Press. 2011.
     - ANZCA August/September 2011

@@ -35,6 +35,9 @@ contraindications:
     - Neuraxial administration
     - Concurrent aspirin, NSAIDs, oxpentifylline, probenecid or lithium
     - Pregnancy, labour, delivery or lactation
+pregnancy:
+    code: C
+    justification: Possible ↑ miscarriage; late use → duct closure, oligohydramnios, renal impairment, platelet inhibition and delayed labour
 pharmacodynamics:
     resp:
         - Bronchospasm in approximately 20% of asthmatics
@@ -57,6 +60,7 @@ considerations:
     - Potent analgesic; minimal anti-inflammatory effect
     - No opioid receptor activity, sedation or respiratory depression
 references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 4 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
     - Juno Pharmaceuticals Pty Ltd. Ketorolac Juno Australian Product Information. Version 6.1. Revised 28 March 2025.
     - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
     - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.

@@ -27,6 +27,9 @@ mechanism:
         - μ-opioid receptor (MOP)
     action: Gi/o activation → ↓ adenylyl cyclase and cAMP; ↑ postsynaptic K+ conductance and ↓ presynaptic Ca2+ influx → hyperpolarisation and ↓ neurotransmitter release
 contraindications:
+pregnancy:
+    code: C
+    justification: Neonatal respiratory depression; withdrawal with prolonged use
 pharmacodynamics:
     resp:
         - ↓ CNS sensitivity to CO2 → ↓ RR and ↓ VT (↓ RR > ↓ VT)
@@ -60,6 +63,7 @@ considerations:
     - Tissue saturation >3μg/kg → prolonged duration; low-dose offset reflects redistribution
     - Equianalgesic dose (IV): 100μg = 10mg IV morphine
 references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 4 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
     - Juno Pharmaceuticals Pty Ltd. Fentanyl Juno Australian Product Information. Version 6.0. Revised 25 September 2025.
     - WA Country Health Service. Critical Care Medication Administration for Adults Guideline. Version 2.0. 12 November 2025.
     - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.

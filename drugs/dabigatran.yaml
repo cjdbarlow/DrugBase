@@ -29,6 +29,9 @@ mechanism:
         - Thrombin
     action: Reversible competitive inhibitor of thrombin (including fibrin-bound thrombin); prevents cleavage of fibrinogen to fibrin and inhibits other thrombin-driven haemostasis
 contraindications:
+pregnancy:
+    code: C
+    justification: Placental haemorrhage → prematurity/fetal loss
 pharmacodynamics:
     resp:
     cvs:
@@ -50,5 +53,6 @@ considerations:
     - Significant interactions with amiodarone, quinidine, St John's Wort, and other anticoagulant and antiplatelet agents
     - Allergy reported
 references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 4 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
     - Smith S, Scarth E, Sasada M. Drugs in Anaesthesia and Intensive Care. 4th Ed. Oxford University Press. 2011.
     - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.

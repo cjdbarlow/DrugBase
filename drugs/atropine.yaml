@@ -26,6 +26,9 @@ mechanism:
         - Muscarinic receptor (M1-M5)
     action: Competitive antagonism of acetylcholine at muscarinic receptors (M1-M5), which are mainly Gq-coupled, decreasing intracellular ionised calcium and cAMP concentration
 contraindications:
+pregnancy:
+    code: A
+    justification:
 pharmacodynamics:
     resp:
         - Bronchodilation
@@ -59,5 +62,6 @@ pharmacodynamics:
 considerations:
     - Crosses the blood-brain barrier
 references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 4 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
     - Smith S, Scarth E, Sasada M. Drugs in Anaesthesia and Intensive Care. 4th Ed. Oxford University Press. 2011.
     - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.

@@ -25,6 +25,9 @@ mechanism:
         - Antithrombin III (ATIII)
     action: Binds antithrombin III causing a conformational change → ↑ affinity for factor Xa but not thrombin
 contraindications:
+pregnancy:
+    code: C
+    justification: Placental haemorrhage → prematurity/fetal loss
 pharmacodynamics:
     resp:
     cvs:
@@ -42,3 +45,4 @@ considerations:
     - Monitoring by anti-Xa activity
     - 70% renally eliminated — caution in renal failure
 references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 4 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database

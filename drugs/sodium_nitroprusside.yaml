@@ -32,6 +32,9 @@ mechanism:
         - Soluble guanylate cyclase
     action: Spontaneous NO donor → activates sGC → ↑ cGMP → ↑ K+ conductance → membrane hyperpolarisation and ↓ intracellular Ca2+ → vascular smooth muscle relaxation. Balanced arterial and venous dilation (unlike GTN which preferentially dilates veins). Risk of coronary steal in coronary artery disease.
 contraindications:
+pregnancy:
+    code: C
+    justification: Short hypertensive-crisis use may be safe with maternal pH/cyanide monitoring
 pharmacodynamics:
     resp:
     cvs:
@@ -56,3 +59,4 @@ pharmacodynamics:
 considerations:
   - Typically more efficacious than GTN
 references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 4 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database

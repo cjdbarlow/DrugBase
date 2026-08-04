@@ -25,6 +25,9 @@ mechanism:
         - Antithrombin III (ATIII)
     action: Binds antithrombin III causing a conformational change of the active site, increasing its affinity for factor Xa and thrombin (1:1 anti-IIa and anti-Xa effect); at higher concentrations also inhibits IXa, XIa, XIIa and platelet aggregation
 contraindications:
+pregnancy:
+    code: C
+    justification: Placental haemorrhage → prematurity/fetal loss
 pharmacodynamics:
     resp:
     cvs:
@@ -50,6 +53,7 @@ considerations:
     - Large interpatient variability due to variable levels of ATIII and heparin binding proteins
     - Reversal — protamine 1mg per 100 units of heparin
 references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 4 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
     - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.
     - Smith S, Scarth E, Sasada M. Drugs in Anaesthesia and Intensive Care. 4th Ed. Oxford University Press. 2011.
     - ANZCA August/September 2011

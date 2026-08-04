@@ -26,6 +26,9 @@ contraindications:
     - "SBP <100mmHg"
     - "Severe hepatic impairment"
     - "eGFR <15"
+pregnancy:
+    code: D
+    justification: Animal studies → abortion/resorption and possible cardiac/great-vessel malformations; placental transfer
 pharmacodynamics:
     resp:
     cvs:
@@ -40,3 +43,5 @@ pharmacodynamics:
     gu:
     git:
     haeme:
+references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 4 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database

@@ -30,6 +30,9 @@ mechanism:
     action: Selective PDE5 inhibitor → prevents hydrolysis of cGMP → ↑ cGMP in vascular smooth muscle → ↓ intracellular Ca2+ → vasodilation. Same class mechanism as sildenafil; inactive metabolite (vs sildenafil's active metabolite).
 contraindications:
     - Concurrent nitrates or nitric oxide (synergistic cGMP elevation → severe hypotension)
+pregnancy:
+    code: B1
+    justification:
 pharmacodynamics:
     resp:
     cvs:
@@ -51,3 +54,4 @@ pharmacodynamics:
 considerations:
     - Much longer half-life than sildenafil (17.5h vs 4h) → once-daily dosing
 references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 4 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database

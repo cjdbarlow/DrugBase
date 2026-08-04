@@ -27,6 +27,9 @@ mechanism:
         - ATP-sensitive K+ channel
     action: Dual mechanism. Activates ATP-sensitive K+ channels → membrane hyperpolarisation → inhibits voltage-dependent Ca2+ channel opening → arterial vasodilation. Additionally has nitrate-like NO-donor properties → ↑ cGMP → venodilation. Unique among class members in acting on both arterial and venous vessels.
 contraindications:
+pregnancy:
+    code: B3
+    justification:
 pharmacodynamics:
     resp:
     cvs:
@@ -50,4 +53,5 @@ considerations:
     - Reduces both preload and afterload due to NO donor effect
     - Headache common on initiation; tends to improve
 references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 4 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
     - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.

@@ -29,6 +29,9 @@ contraindications:
     - Pregnancy
     - Previous aliskiren-associated angioedema
     - Concomitant potent P-glycoprotein inhibitors
+pregnancy:
+    code: D
+    justification: 2nd/3rd-trimester RAAS blockade → fetal injury/death; 1st-trimester safety uncertain
 pharmacodynamics:
     resp:
     cvs:
@@ -51,6 +54,7 @@ considerations:
     - Angioedema (rare)
     - Caution in volume depletion or renal artery stenosis
 references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 4 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
     - Novartis Pharmaceuticals Australia Pty Ltd. Rasilez HCT/Enviage HCT Australian Product Information. Approved 4 February 2010. Historical PI; Australian registrations subsequently cancelled.
     - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
     - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.

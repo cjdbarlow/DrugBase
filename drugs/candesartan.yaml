@@ -25,6 +25,9 @@ mechanism:
         - AT1 receptor
     action: Competitive inhibition of AT1 receptor → blocks binding of angiotensin II → interrupts RAAS effects mediated via AT1 receptor.
 contraindications:
+pregnancy:
+    code: D
+    justification: 2nd/3rd-trimester RAAS blockade → fetal injury/death; 1st-trimester safety uncertain
 pharmacodynamics:
     resp:
     cvs:
@@ -48,5 +51,6 @@ considerations:
     - AT2 receptor not blocked (may improve cardiac outcomes)
     - Lower incidence of angioedema compared with ACE-inhibitors
 references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 4 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
     - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.
     - Miura et al (2011)

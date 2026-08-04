@@ -25,6 +25,9 @@ mechanism:
         - μ-opioid receptor (MOP)
     action: Hyperpolarisation of presynaptic cell membrane by increasing potassium conductance; reduced production of cAMP and closure of voltage-gated calcium channels → decreased neurotransmitter release from primary pain afferent fibres
 contraindications:
+pregnancy:
+    code: C
+    justification: Neonatal respiratory depression; withdrawal with prolonged use
 pharmacodynamics:
     resp:
         - ↓ CNS sensitivity to CO2 → ↓ RR and ↓ VT (↓ RR > ↓ VT)
@@ -57,3 +60,4 @@ pharmacodynamics:
 considerations:
     - Impaired chemotaxis, lymphocyte proliferation, and antibody production
 references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 4 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database

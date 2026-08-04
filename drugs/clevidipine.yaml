@@ -31,6 +31,9 @@ contraindications:
     - Soy or egg allergy
     - Defective lipid metabolism
     - Severe aortic stenosis
+pregnancy:
+    code: C
+    justification: Animal studies → ↑ maternal/fetal mortality and gestation
 pharmacodynamics:
     resp:
     cvs:
@@ -56,6 +59,7 @@ considerations:
     - Max 1000mL/24 hours; include in daily lipid load
     - Use within 12 hours of vial puncture
 references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 4 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
     - Chiesi Australia Pty Ltd. Cleviprex Australian Product Information. Version 4. Revised 26 September 2025.
     - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
     - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.

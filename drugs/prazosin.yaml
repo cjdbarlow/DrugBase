@@ -27,6 +27,9 @@ mechanism:
         - α1 adrenoreceptor
     action: Competitive selective α1 blocker. Preferential blockade of postsynaptic α1 receptors → ↓ vascular smooth muscle tone → vasodilation. Presynaptic α2 autoreceptors relatively unaffected → noradrenaline feedback inhibition intact → minimal reflex tachycardia compared to non-selective alpha blockers.
 contraindications:
+pregnancy:
+    code: B2
+    justification:
 pharmacodynamics:
     resp:
     cvs:
@@ -49,3 +52,4 @@ considerations:
     - First-dose effect — significant postural hypotension after initial dose; start low doses nocte
     - Minimal tachycardia due to preserved presynaptic α2 autoreceptor function
 references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 4 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database

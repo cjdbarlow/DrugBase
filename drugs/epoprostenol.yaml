@@ -34,6 +34,9 @@ mechanism:
     action: Activates Gs-coupled IP receptors on vascular smooth muscle and platelets → ↑ adenylyl cyclase → ↑ cAMP → PKA activation → phosphorylation and inhibition of myosin light-chain kinase → smooth muscle relaxation and vasodilation. In platelets: ↑ cAMP → ↓ activation and aggregation.
 contraindications:
     - Pulmonary veno-occlusive disease (↑ blood flow to congested postcapillary vessels → pulmonary oedema)
+pregnancy:
+    code: B1
+    justification:
 pharmacodynamics:
     resp:
         - Pulmonary vasodilation
@@ -58,5 +61,6 @@ considerations:
     - Nebulised route provides more selective pulmonary vasodilation than IV (less systemic hypotension)
     - Reconstituted solution must be used within 8 hours; pH-sensitive — use only supplied glycine buffer
 references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 4 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
     - Flolan PI (GlaxoSmithKline)
     - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.

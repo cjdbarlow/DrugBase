@@ -28,6 +28,9 @@ mechanism:
         - COX-2
     action: Irreversible inhibition of COX-1 isoenzyme → ↓ thromboxane A2 synthesis → ↓ platelet activation and aggregation; also prevents PGI2 production. In platelets, COX inhibition persists for the platelet lifespan; endothelial cells regenerate COX within hours
 contraindications:
+pregnancy:
+    code: C
+    justification: Late use → duct closure, delayed labour and maternal/neonatal bleeding; 100mg/day does not ↑ bleeding time
 pharmacodynamics:
     resp:
         - Uncouples oxidative phosphorylation → ↑ O2 consumption and CO2 production
@@ -55,4 +58,5 @@ considerations:
     - Zero-order elimination kinetics possible in overdose
     - Urinary alkalinisation increases elimination
 references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 4 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
     - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.

@@ -29,6 +29,9 @@ mechanism:
 contraindications:
     - Pulmonary veno-occlusive disease
     - Severe left ventricular dysfunction
+pregnancy:
+    code: B3
+    justification:
 pharmacodynamics:
     resp:
         - Pulmonary vasodilation (selective during inhalation)
@@ -49,5 +52,6 @@ pharmacodynamics:
 considerations:
     - Longer half-life than epoprostenol (~20-30 min vs ~6 min) → less frequent dosing, but still requires 6-9 inhalations/day
 references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 4 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
     - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.
     - Smith S, Scarth E, Sasada M. Drugs in Anaesthesia and Intensive Care. 4th Ed. Oxford University Press. 2011.

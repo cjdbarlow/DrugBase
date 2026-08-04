@@ -29,6 +29,9 @@ mechanism:
         - Voltage-gated Na+ channel
     action: Non-competitive NMDA antagonism at phencyclidine site → ↓ excitatory transmission; ↓ presynaptic glutamate release; Na+ channel blockade
 contraindications:
+pregnancy:
+    code: B3
+    justification: Neonatal CNS/respiratory depression; greater concern if fetus compromised
 pharmacodynamics:
     resp:
         - Bronchodilation
@@ -63,6 +66,7 @@ pharmacodynamics:
 considerations:
     - Racemic mixture or single S(+) enantiomer (2-3x more potent than R(-), but less bronchodilatory)
 references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 4 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
     - Pfizer Australia Pty Ltd. Ketalar Australian Product Information. Version pfpketai10921. Revised 30 September 2021.
     - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
     - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.

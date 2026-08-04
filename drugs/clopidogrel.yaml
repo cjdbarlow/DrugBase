@@ -27,6 +27,9 @@ mechanism:
         - P2Y12 ADP receptor
     action: Irreversibly inhibits ADP binding to P2Y12 receptor on platelets, preventing platelet activation and the subsequent ADP-mediated activation of the GPIIb/IIIa complex
 contraindications:
+pregnancy:
+    code: B1
+    justification: Placental haemorrhage → prematurity/fetal loss
 pharmacodynamics:
     resp:
     cvs:
@@ -46,5 +49,6 @@ pharmacodynamics:
 considerations:
     - Many pharmacokinetic interactions including genetic variability in CYP450 metabolism
 references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 4 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
     - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.
     - Rang HP, Dale MM, Ritter JM, Flower RJ. Rang and Dale's Pharmacology. 6th Ed. Churchill Livingstone.

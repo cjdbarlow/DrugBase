@@ -34,6 +34,9 @@ contraindications:
     - Concurrent PDE5 inhibitors (synergistic cGMP elevation → severe hypotension)
     - Pulmonary veno-occlusive disease (may precipitate pulmonary oedema)
     - Methaemoglobinaemia
+pregnancy:
+    code: B2
+    justification:
 pharmacodynamics:
     resp:
         - Inhibits HPV in ventilated alveoli → ↑ perfusion to ventilated units → ↑ V/Q matching
@@ -61,6 +64,7 @@ considerations:
     - Monitor MetHb regularly; methylene blue for treatment if severe
     - Selective pulmonary vasodilation advantage over IV prostanoids (no systemic hypotension)
 references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 4 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
     - TGA (AusPAR) product information
     - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.
     - Smith S, Scarth E, Sasada M. Drugs in Anaesthesia and Intensive Care. 4th Ed. Oxford University Press. 2011.

@@ -31,6 +31,9 @@ mechanism:
         - Also has direct agonist activity at α1 and β1 receptors.
         - Indirect sympathomimetic. Displaces noradrenaline from noradrenergic storage vesicles, ↑ noradrenaline release. 
 contraindications:
+pregnancy:
+    code: C
+    justification: Uterine vasoconstriction → ↓ placental perfusion and fetal hypoxia
 pharmacodynamics:
     resp:
         - Mild bronchodilation (β2)
@@ -52,3 +55,4 @@ pharmacodynamics:
         - ↓ Splanchnic blood flow
     haeme:
 references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 4 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database

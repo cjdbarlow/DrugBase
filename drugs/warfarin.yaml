@@ -25,6 +25,9 @@ mechanism:
         - Vitamin K epoxide reductase complex 1 (VKORC1)
     action: Interferes with the cyclic interconversion of vitamin K and its 2,3-epoxide, preventing γ-carboxylation of Gla residues on the N-terminal regions of vitamin K-dependent coagulation factors II, VII, IX, and X, as well as anticoagulant proteins C and S, resulting in hepatic synthesis of functionally inactive factors
 contraindications:
+pregnancy:
+    code: D
+    justification: 6-9 weeks → embryopathy; later exposure → fetal bleeding/CNS damage; ↑ miscarriage/perinatal bleeding
 pharmacodynamics:
     resp:
     cvs:
@@ -53,6 +56,7 @@ considerations:
     - Reversal agents — vitamin K, FFP, Prothrombinex
     - Teratogenic
 references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 4 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
     - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.
     - Smith S, Scarth E, Sasada M. Drugs in Anaesthesia and Intensive Care. 4th Ed. Oxford University Press. 2011.
     - ANZCA August/September 2011

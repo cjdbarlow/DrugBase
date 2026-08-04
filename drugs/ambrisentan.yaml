@@ -28,6 +28,9 @@ mechanism:
         - Endothelin-B receptor (ETB)
     action: Competitive endothelin receptor antagonist, whick blocks ET-1-mediated vasoconstriction and smooth muscle proliferation. Greater selectivity for ETA (compared to bosentan) theoretically preserves NO/prostacyclin release.
 contraindications:
+pregnancy:
+    code: X
+    justification: Class teratogenicity → multiple fetal abnormalities/major birth defects
 pharmacodynamics:
     resp:
         - ↓ PVR
@@ -53,3 +56,4 @@ considerations:
     - Teratogenic
     - Does not significantly auto-induce CYP enzymes (fewer drug interactions than bosentan)
 references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 4 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database

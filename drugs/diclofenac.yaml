@@ -33,6 +33,9 @@ contraindications:
     - CABG peri-operative pain
     - Third-trimester pregnancy
     - Proctitis (PR)
+pregnancy:
+    code: C
+    justification: Possible ↑ miscarriage; late use → duct closure, oligohydramnios, renal impairment, platelet inhibition and delayed labour
 pharmacodynamics:
     resp:
         - Bronchospasm (~20% of asthmatics)
@@ -56,6 +59,7 @@ pharmacodynamics:
 considerations:
     - Synovial persistence → effect outlasts plasma t½
 references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 4 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
     - Novartis Pharmaceuticals Australia Pty Limited. Voltaren Tablets and Suppositories Australian Product Information. Revised 17 November 2025.
     - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
     - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.

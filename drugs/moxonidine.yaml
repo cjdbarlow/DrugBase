@@ -28,6 +28,9 @@ mechanism:
         - α2 adrenoreceptor
     action: Iimidazoline I1 receptor agonist (40:1 imidazoline:α2 selectivity) → ↓ sympathetic outflow → ↓ BP. Lower α2 affinity than clonidine → less bradycardia and sedation.
 contraindications:
+pregnancy:
+    code: B3
+    justification:
 pharmacodynamics:
     resp:
     cvs:
@@ -46,3 +49,4 @@ pharmacodynamics:
 considerations:
     - Oral only — no IV formulation
 references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 4 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database

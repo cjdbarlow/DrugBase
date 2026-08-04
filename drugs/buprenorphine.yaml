@@ -28,6 +28,9 @@ mechanism:
         - κ-opioid receptor (KOP) — antagonist
     action: High-affinity partial MOP agonism with slow dissociation; KOP antagonism; Gi/o → ↓ cAMP, ↑ K+ conductance and ↓ Ca2+ influx
 contraindications:
+pregnancy:
+    code: C
+    justification: Neonatal respiratory depression; withdrawal with prolonged use
 pharmacodynamics:
     resp:
         - ↓ CNS sensitivity to CO2 → ↓ RR and ↓ VT
@@ -58,6 +61,7 @@ considerations:
     - Plasma concentration poorly correlates with clinical effect
     - "Equianalgesic dose (IM): 0.4mg = 10mg morphine"
 references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 4 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
     - Echo Therapeutics Pty Ltd. Temgesic Injection and Sublingual Tablets Australian Product Information. Version 4.00. Revised 10 September 2025.
     - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
     - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.

@@ -33,6 +33,9 @@ contraindications:
     - Asthma or COPD
     - Long QT syndrome
     - Severe ↓ MAP or decompensated CCF
+pregnancy:
+    code: B2
+    justification:
 pharmacodynamics:
     resp:
         - Bronchospasm
@@ -55,6 +58,7 @@ considerations:
     - Methylxanthines → ↓ effect
     - Carbamazepine → ↑ AV block
 references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 4 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
     - Sanofi-Aventis Australia Pty Ltd. Adenocor Australian Product Information. Revised 27 July 2026.
     - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
     - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.

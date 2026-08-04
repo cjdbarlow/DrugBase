@@ -24,6 +24,9 @@ mechanism:
     target:
     action:
 contraindications:
+pregnancy:
+    code:
+    justification:
 pharmacodynamics:
     resp:
     cvs:

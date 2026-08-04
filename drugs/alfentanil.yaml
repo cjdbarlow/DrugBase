@@ -28,6 +28,9 @@ mechanism:
         - μ-opioid receptor (MOP)
     action: Gi/o activation → ↓ adenylyl cyclase and cAMP; ↑ postsynaptic K+ conductance and ↓ presynaptic Ca2+ influx → hyperpolarisation and ↓ neurotransmitter release
 contraindications:
+pregnancy:
+    code: C
+    justification: Neonatal respiratory depression; withdrawal with prolonged use
 pharmacodynamics:
     resp:
         - ↓ CNS sensitivity to CO2 → ↓ RR and ↓ VT (↓ RR > ↓ VT)
@@ -61,6 +64,7 @@ considerations:
     - Low pKa and larger dose → rapid onset despite lower lipid solubility than fentanyl (Bowman's Principle)
     - "Equianalgesic dose (IV): 1mg = 10mg IV morphine"
 references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 4 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
     - Piramal Critical Care Pty Ltd. Rapifen Australian Product Information. Revised 26 September 2025.
     - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
     - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.

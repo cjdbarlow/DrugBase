@@ -38,6 +38,9 @@ contraindications:
     - TdP-provoking drugs
     - Severe ↓ BP or circulatory collapse (IV)
     - Neonates (benzyl alcohol)
+pregnancy:
+    code: C
+    justification: Long t½; fetal thyroid dysfunction/bradycardia; check neonatal TFTs after exposure
 pharmacodynamics:
     resp:
         - Pneumonitis (10% 3-year risk)
@@ -69,6 +72,7 @@ considerations:
     - CYP3A4/2C9/2D6 + P-gp inhibition → ↑ digoxin, statin, warfarin, phenytoin and antiarrhythmic exposure
     - Also exhibits Class I, II, and IV activity
 references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 4 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
     - Juno Pharmaceuticals Pty Ltd. Amiodarone Juno Australian Product Information. Version 4.0. Revised 6 March 2025.
     - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
     - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.

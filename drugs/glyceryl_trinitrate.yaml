@@ -39,6 +39,9 @@ mechanism:
         - Soluble guanylate cyclase
     action: NO donor → activates sGC → ↑ cGMP → ↑ K+ conductance → membrane hyperpolarisation and ↓ intracellular Ca2+ → vascular smooth muscle relaxation. 
 contraindications:
+pregnancy:
+    code: B2
+    justification:
 pharmacodynamics:
     resp:
     cvs:
@@ -62,3 +65,4 @@ considerations:
   - Tachyphylaxis develops with continuous use
   - Venodilation > arteriodilation at low doses, balanced at high doses
 references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 4 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database

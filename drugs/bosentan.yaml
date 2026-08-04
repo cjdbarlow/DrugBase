@@ -33,6 +33,9 @@ contraindications:
     - Hepatic impairment (Child-Pugh B or C)
     - Concurrent ciclosporin
     - Concurrent glyburide (hepatotoxicity risk)
+pregnancy:
+    code: X
+    justification: Class teratogenicity → multiple fetal abnormalities/major birth defects
 pharmacodynamics:
     resp:
         - ↓ PVR
@@ -58,4 +61,5 @@ considerations:
     - Pulmonary veno-occlusive disease: avoid (increased pulmonary blood flow can precipitate pulmonary oedema)
     - Auto-induces CYP enzymes — drug interactions common; reduces efficacy of hormonal contraceptives
 references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 4 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
     - FDA information (Tracleer/bosentan)

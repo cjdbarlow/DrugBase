@@ -32,6 +32,9 @@ contraindications:
     - Sulfonamide reaction
     - Severe hepatic impairment
     - Third-trimester pregnancy or breastfeeding
+pregnancy:
+    code: C
+    justification: Possible ↑ miscarriage; late use → duct closure, oligohydramnios, renal impairment, platelet inhibition and delayed labour
 pharmacodynamics:
     resp:
         - Bronchospasm in NSAID-sensitive asthma
@@ -52,6 +55,7 @@ pharmacodynamics:
 considerations:
     - Current Australian PI permits a single peri-operative dose
 references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 4 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
     - Juno Pharmaceuticals Pty Ltd. Parecoxib Juno Australian Product Information. Version 2.0. Revised 2 February 2024.
     - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
     - Young P, Psirides A. Wellington ICU Drug Manual. 2nd Ed. Wellington Regional Hospital. 2013.

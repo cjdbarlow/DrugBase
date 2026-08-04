@@ -34,6 +34,9 @@ contraindications:
     - Severe SA, AV or intraventricular block
     - Stokes-Adams syndrome
     - Supraventricular arrhythmias
+pregnancy:
+    code: A
+    justification:
 pharmacodynamics:
     resp:
     cvs:
@@ -54,6 +57,7 @@ considerations:
     - Shock, CCF, hepatic disease or prolonged infusion → ↓ clearance
     - Propranolol, metoprolol or cimetidine → ↓ clearance
 references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 4 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
     - Aspen Pharmacare Australia Pty Ltd. Xylocard Australian Product Information. Revised 26 August 2024.
     - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
     - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.

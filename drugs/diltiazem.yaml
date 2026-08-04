@@ -37,6 +37,9 @@ contraindications:
     - AF/flutter with an accessory pathway
     - Ventricular tachycardia
     - IV beta blocker; IV dantrolene; ivabradine
+pregnancy:
+    code: C
+    justification: Maternal ↓ MAP → fetal hypoxia
 pharmacodynamics:
     resp:
     cvs:
@@ -64,6 +67,7 @@ considerations:
     - Beta blockers or digoxin → bradycardia/AV block
     - Do not crush SR formulations
 references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 4 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
     - Sanofi-Aventis Australia Pty Ltd. Cardizem Australian Product Information. Revised 9 June 2026.
     - Eugia US LLC. Diltiazem Hydrochloride Injection US Prescribing Information. Revised November 2025.
     - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.

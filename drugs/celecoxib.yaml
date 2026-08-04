@@ -33,6 +33,9 @@ contraindications:
     - NYHA II-IV heart failure
     - CABG perioperative pain
     - Severe renal or hepatic impairment
+pregnancy:
+    code: B3
+    justification: Possible ↑ miscarriage; late use → duct closure, oligohydramnios, renal impairment, platelet inhibition and delayed labour
 pharmacodynamics:
     resp:
         - Bronchospasm in NSAID-sensitive asthma
@@ -53,6 +56,7 @@ pharmacodynamics:
 considerations:
     - CYP2C9 poor metabolisers → ↑ exposure
 references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 4 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
     - Viatris Pty Ltd. Celebrex Australian Product Information. Revised 6 March 2025.
     - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
     - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.

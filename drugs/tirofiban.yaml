@@ -27,6 +27,9 @@ mechanism:
         - GP IIb/IIIa receptor
     action: Reversible antagonism of the GPIIb/IIIa receptor, preventing binding of fibrinogen, fibrin, and von Willebrand factor, thus preventing platelet crosslinking and aggregation
 contraindications:
+pregnancy:
+    code: B1
+    justification:
 pharmacodynamics:
     resp:
     cvs:
@@ -43,5 +46,6 @@ pharmacodynamics:
 considerations:
     - Onset within 10 minutes of IV administration
 references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 4 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
     - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.
     - Rang HP, Dale MM, Ritter JM, Flower RJ. Rang and Dale's Pharmacology. 6th Ed. Churchill Livingstone.

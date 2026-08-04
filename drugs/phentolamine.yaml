@@ -29,6 +29,9 @@ mechanism:
         - β adrenoreceptor
     action: Competitive (reversible) non-selective alpha blocker → ↓ vascular smooth muscle tone → vasodilation. Direct β agonist activity → further ↑ HR and ↑ CO.
 contraindications:
+pregnancy:
+    code: B1
+    justification:
 pharmacodynamics:
     resp:
     cvs:
@@ -50,3 +53,4 @@ considerations:
     - Short half-life (19 min) makes it suitable for acute hypertensive crises and phaeochromocytoma management
     - Drug of choice for catecholamine-excess states (phaeochromocytoma, MAOI crisis, cocaine toxicity)
 references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 4 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database

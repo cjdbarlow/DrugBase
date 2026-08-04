@@ -28,6 +28,9 @@ mechanism:
         - κ-opioid receptor (KOP)
     action: Gi/o activation → ↓ adenylyl cyclase and cAMP; ↑ postsynaptic K+ conductance and ↓ presynaptic Ca2+ influx → hyperpolarisation and ↓ neurotransmitter release
 contraindications:
+pregnancy:
+    code: C
+    justification: Neonatal respiratory depression; withdrawal with prolonged use
 pharmacodynamics:
     resp:
         - ↓ CNS sensitivity to CO2 → ↓ RR and ↓ VT (↓ RR > ↓ VT)
@@ -61,6 +64,7 @@ considerations:
     - Morphine-3-glucuronide and morphine-6-glucuronide accumulate in renal impairment → neuroexcitation and prolonged opioid effect
     - "Equianalgesic dose (IV reference): 10mg"
 references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 4 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
     - Pfizer Australia Pty Ltd. DBL Morphine Sulfate Injection Australian Product Information. Version pfpmorpi10925. Revised 19 September 2025.
     - WA Country Health Service. Critical Care Medication Administration for Adults Guideline. Version 2.0. 12 November 2025.
     - Fresenius Kabi USA, LLC. Morphine Sulfate Injection, USP prescribing information. Revised March 2025.

@@ -33,6 +33,9 @@ contraindications:
     - Previous ACE inhibitor-associated angioedema
     - Sacubitril/valsartan within 36 hours
     - Aliskiren in diabetes
+pregnancy:
+    code: D
+    justification: 2nd/3rd trimester → fetal renal dysfunction, oligohydramnios/death; 1st-trimester safety uncertain
 pharmacodynamics:
     resp:
         - Dry cough
@@ -62,6 +65,7 @@ considerations:
     - NSAIDs → ↓ effect and AKI
     - ↓ Antihypertensive effect in Black patients
 references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 4 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
     - Solco Healthcare US, LLC. Quinapril Tablets USP US Prescribing Information. Revised August 2020.
     - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
     - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.

@@ -27,6 +27,9 @@ mechanism:
         - μ-opioid receptor (MOP)
     action: Competitive antagonist at MOP receptors, displacing opioids from their receptors and reversing their effects
 contraindications:
+pregnancy:
+    code: B1
+    justification:
 pharmacodynamics:
     resp:
         - Reversal of opioid-induced respiratory depression (↑ RR, ↑ VT)
@@ -54,5 +57,6 @@ pharmacodynamics:
 considerations:
     - Duration of action (~30-40 minutes) is shorter than many opioids — risk of re-narcosis requiring subsequent doses or infusion
 references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 4 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
     - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.
     - Smith S, Scarth E, Sasada M. Drugs in Anaesthesia and Intensive Care. 4th Ed. Oxford University Press. 2011.

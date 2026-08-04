@@ -25,6 +25,9 @@ mechanism:
         - β1 adrenoreceptor
         - α1 adrenoreceptor
     action: D1 dominates at ≤5µg/kg/min. β1 dominate at 2-10µg/kg/min. α dominates >10µg/kg/min.
+pregnancy:
+    code: B3
+    justification:
 pharmacodynamics:
     resp:
     cvs:
@@ -48,3 +51,5 @@ pharmacodynamics:
     git:
         - Mesenteric vasodilation
     haeme:
+references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 4 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database

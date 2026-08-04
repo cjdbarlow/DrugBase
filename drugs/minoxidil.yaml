@@ -27,6 +27,9 @@ mechanism:
         - ATP-sensitive K+ channel
     action: Activates ATP-sensitive K+ channels → membrane hyperpolarisation → ↓ voltage-dependent Ca2+ channel opening → ↓ intracellular Ca2+ → vascular smooth muscle relaxation.
 contraindications:
+pregnancy:
+    code: C
+    justification: In utero exposure → neonatal hypertrichosis
 pharmacodynamics:
     resp:
     cvs:
@@ -52,3 +55,4 @@ considerations:
     - Does not act as a venodilator
     - Topical formulation used for androgenetic alopecia (utilises hypertrichosis effect)
 references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 4 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
