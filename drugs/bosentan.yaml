@@ -4,35 +4,35 @@ aliases:
 class: Pulmonary vasodilator
 chemistry: Pyrimidine derivative
 dose:
-    pulmonary hypertension (PO): 62.5mg PO BD for 4 weeks, then 125mg PO BD
+    PAH: 62.5mg PO BD ×4 weeks; then 125mg BD
 pharmaceutics:
-    presentation: 62.5mg, 125mg film-coated tablets
+    presentation: 62.5mg or 125mg film-coated tablets
     compatibility:
-    solubility: Moderately lipophilic
+    solubility: pH-dependent; practically insoluble at low pH
 pharmacokinetics:
-    absorption: 50% oral bioavailability; peak plasma concentration ~1 hour
+    absorption: 50% PO bioavailability; Tmax ~3.7 hours; food does not alter extent
     distribution:
         pKa: 5.8
         vd: 28L/kg
         protein binding: 98%
     metabolism:
         half-life: ~5 hours
-        duration: Prolonged effect despite short half-life (tissue distribution)
+        duration: Effect maximal ~1 hour post-dose
         pathway: Hepatic; CYP2C9 and CYP3A4; auto-induces its own metabolism
         metabolites:
             - Ro 48-5033 (active; contributes ~10-20% of total effect)
     elimination:
-        renal: Only 3% recovered in urine; predominantly biliary
+        renal: Biliary; 94% faeces (30% unchanged); <3% urine
 mechanism:
     target:
         - Endothelin-A receptor (ETA)
         - Endothelin-B receptor (ETB)
-    action: Competitive non-selective endothelin receptor antagonist. Blocks ETA on vascular smooth muscle → prevents ET-1-mediated vasoconstriction and smooth muscle proliferation. ETB blockade on endothelium reduces ET-1 clearance (detrimental) and inhibits ET-1-stimulated NO/prostacyclin release (also detrimental). Net effect: vasodilation and ↓ vascular remodelling.
+    action: Competitive ETA/ETB antagonist → ↓ ET-1-mediated vasoconstriction and proliferation; ETB blockade also ↓ NO/PGI2 release and ET-1 clearance
 contraindications:
-    - Pregnancy (Category X; teratogenic)
-    - Hepatic impairment (Child-Pugh B or C)
+    - Pregnancy
+    - Child-Pugh B/C or baseline AST/ALT >3× ULN
     - Concurrent ciclosporin
-    - Concurrent glyburide (hepatotoxicity risk)
+    - Concurrent glibenclamide
 pregnancy:
     code: X
     justification: Class teratogenicity → multiple fetal abnormalities/major birth defects
@@ -45,10 +45,11 @@ pharmacodynamics:
         - ↓ SVR
         - ↓ BP
     cns:
+        - Headache
     endo:
-        - Fluid retention (ETB blockade in kidney)
     msk:
     met:
+        - ↑ LFTs
     ren:
         - Fluid retention
     gu:
@@ -56,10 +57,14 @@ pharmacodynamics:
     haeme:
         - Anaemia
 considerations:
-    - Monthly LFT monitoring mandatory (dose-dependent hepatotoxicity in ~10%)
-    - Teratogenic — highly effective contraception required; pregnancy test before and monthly during treatment
-    - Pulmonary veno-occlusive disease: avoid (increased pulmonary blood flow can precipitate pulmonary oedema)
-    - Auto-induces CYP enzymes — drug interactions common; reduces efficacy of hormonal contraceptives
+    - LFTs baseline and monthly
+    - Hb at 1 and 3 months, then Q3-monthly
+    - PVOD → pulmonary oedema
+    - Auto-induces CYP2C9/3A4; ↓ hormonal contraceptive efficacy
+    - Teratogenic; monthly pregnancy tests; contraception for 3 months after cessation
 references:
     - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 4 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
-    - FDA information (Tracleer/bosentan)
+    - Janssen-Cilag Pty Ltd. TRACLEER Australian Product Information. Version 3.0. Revised 3 February 2026.
+    - Actelion Pharmaceuticals US, Inc. TRACLEER United States Prescribing Information. Revised November 2025.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.

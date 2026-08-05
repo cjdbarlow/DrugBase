@@ -1,25 +1,27 @@
 ---
 aliases:
     - Cialis
+    - Adcirca
 class: Pulmonary vasodilator
 chemistry: Pyrazinopyridoindole
 dose:
-    pulmonary hypertension: 40mg PO OD
-    erectile dysfunction: 5-20mg PO PRN or 5mg PO OD
+    PAH: 40mg PO OD
+    ED (PRN): 10-20mg PO PRN; max OD
+    ED (regular): 2.5-5mg PO OD
 pharmaceutics:
-    presentation: 5mg, 10mg, 20mg, 40mg tablets
+    presentation: 2.5mg, 5mg, 10mg or 20mg tablets
     compatibility:
-    solubility: Acidic; moderately lipophilic
+    solubility: Practically insoluble in water; very slightly soluble in ethanol
 pharmacokinetics:
-    absorption: High oral bioavailability; peak plasma concentration ~2 hours; unaffected by food
+    absorption: High PO bioavailability; Tmax 2-4 hours; food unaffected
     distribution:
         pKa: 3.5
         vd: ~0.9L/kg
         protein binding: 94%
     metabolism:
         half-life: 17.5 hours
-        duration: Effects maximal ~2 hours post-dose; long duration supports OD dosing
-        pathway: Hepatic; CYP3A4
+        duration: Effect maximal ~2 hours post-dose
+        pathway: Hepatic; CYP3A4 (>80%)
         metabolites:
             - Methylcatechol glucuronide (inactive)
     elimination:
@@ -27,9 +29,13 @@ pharmacokinetics:
 mechanism:
     target:
         - Phosphodiesterase 5 (PDE5)
-    action: Selective PDE5 inhibitor → prevents hydrolysis of cGMP → ↑ cGMP in vascular smooth muscle → ↓ intracellular Ca2+ → vasodilation. Same class mechanism as sildenafil; inactive metabolite (vs sildenafil's active metabolite).
+    action: Inhibits PDE5-mediated cGMP hydrolysis → ↑ cGMP → pulmonary > systemic vasodilation
 contraindications:
-    - Concurrent nitrates or nitric oxide (synergistic cGMP elevation → severe hypotension)
+    - Nitrates or NO donors
+    - Riociguat
+    - Previous NAION
+    - MI <90 days or stroke <6 months
+    - Unstable angina, BP <90/50mmHg or uncontrolled arrhythmia/hypertension
 pregnancy:
     code: B1
     justification:
@@ -40,6 +46,7 @@ pharmacodynamics:
         - ↓ SVR
         - ↓ BP
         - Reflex ↑ HR
+        - Flushing
     cns:
         - Headache
     endo:
@@ -52,6 +59,12 @@ pharmacodynamics:
     git:
     haeme:
 considerations:
-    - Much longer half-life than sildenafil (17.5h vs 4h) → once-daily dosing
+    - Longer t½ than sildenafil (17.5h vs 4h) → OD dosing
+    - Bosentan ↓ tadalafil AUC 42% and Cmax 27%
+    - Avoid nitrates for ≥48h after last dose (4-5 days in elderly)
 references:
     - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 4 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Eli Lilly Australia Pty Ltd. ADCIRCA Australian Product Information. Version A6. Revised 14 July 2023.
+    - Eli Lilly Australia Pty Ltd. CIALIS Australian Product Information. Version A17. Revised 8 October 2024.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.

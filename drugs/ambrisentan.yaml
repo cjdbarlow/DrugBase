@@ -1,33 +1,36 @@
 ---
 aliases:
+    - Volibris
 class: Pulmonary vasodilator
-chemistry: Propionic acid derivative
+chemistry: Propanoic acid derivative
 dose:
-    pulmonary hypertension (PO): 5-10mg PO OD-BD
+    PAH: 5mg PO OD; may ↑ 10mg OD
 pharmaceutics:
     presentation: 5mg or 10mg film-coated tablets
     compatibility:
-    solubility: Moderately lipophilic
+    solubility: Practically insoluble in water
 pharmacokinetics:
-    absorption: 90% oral bioavailability; peak plasma concentration ~1.5 hours
+    absorption: 90% PO bioavailability; Tmax ~1.5 hours; food does not alter AUC
     distribution:
         pKa: 4.0
         vd: 40L/kg
         protein binding: 99%
     metabolism:
         half-life: ~15 hours
-        duration: Once-daily dosing supported by half-life
-        pathway: Glucuronidation (UGT) and CYP3A4 oxidation; 45.6% excreted unchanged
+        duration:
+        pathway: UGT1A9, UGT2B7 and UGT1A3 glucuronidation; CYP3A4 > CYP3A5/CYP2C19 oxidation
         metabolites:
-            - 4-hydroxymethyl ambrisentan (minor; largely inactive)
+            - 4-hydroxymethyl ambrisentan (minor; clinically inactive)
     elimination:
-        renal: Minor; predominantly biliary
+        renal: 45.6% unchanged; 66% faeces (41% unchanged); 22% urine (3.3% unchanged)
 mechanism:
     target:
         - Endothelin-A receptor (ETA)
-        - Endothelin-B receptor (ETB)
-    action: Competitive endothelin receptor antagonist, whick blocks ET-1-mediated vasoconstriction and smooth muscle proliferation. Greater selectivity for ETA (compared to bosentan) theoretically preserves NO/prostacyclin release.
+    action: Selective ETA antagonist → ↓ ET-1-mediated vasoconstriction and proliferation; preserves ETB-mediated NO/PGI2 release and ET-1 clearance
 contraindications:
+    - Pregnancy or unreliable contraception
+    - Severe hepatic impairment or baseline AST/ALT >3× ULN
+    - Idiopathic pulmonary fibrosis ± pulmonary hypertension
 pregnancy:
     code: X
     justification: Class teratogenicity → multiple fetal abnormalities/major birth defects
@@ -43,17 +46,22 @@ pharmacodynamics:
     endo:
     msk:
     met:
+        - ↑ LFTs
     ren:
         - Fluid retention
     gu:
     git:
     haeme:
         - Anaemia
-        - ↑ LFTs (transaminitis; less common than bosentan)
 considerations:
-    - Once-daily dosing; longer half-life than bosentan (5h)
-    - Greater ETA selectivity than bosentan may reduce incidence of hepatotoxicity; though LFT monitoring still recommended
-    - Teratogenic
-    - Does not significantly auto-induce CYP enzymes (fewer drug interactions than bosentan)
+    - Longer t½ than bosentan (~15h vs ~5h)
+    - LFTs baseline, monthly ×6 months, then as indicated
+    - Hb baseline, 1 month, then periodically
+    - PVOD → pulmonary oedema
+    - No CYP auto-induction
+    - Teratogenic; recommend monthly pregnancy tests; contraception for 3 months after cessation
 references:
     - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 4 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - GlaxoSmithKline Australia Pty Ltd. VOLIBRIS Australian Product Information. Version 18.0. Revised 25 July 2025.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
