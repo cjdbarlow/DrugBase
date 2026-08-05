@@ -1,35 +1,42 @@
 ---
 aliases:
     - Viagra
+    - Revatio
 class: Pulmonary vasodilator
 chemistry: Pyrazolopyrimidine
 dose:
-    pulmonary hypertension: 20mg PO TID
-    erectile dysfunction: 25-100mg PO PRN (1 hour before)
+    PAH: 20mg PO TID
+    PAH (unable PO): 10mg IV TID
+    perioperative RVF: 25-50mg PO/NG 3-4 times/day
+    erectile dysfunction: 25-100mg PO PRN 1h before; max OD
 pharmaceutics:
-    presentation: 20mg, 25mg, 50mg, 100mg tablets; 10mg/mL IV solution
+    presentation: 20mg, 25mg, 50mg or 100mg tablets; 0.8mg/mL IV solution; pharmacopoeia also describes buccal spray
     compatibility:
-    solubility: Basic; moderately lipophilic
+    solubility: Sildenafil citrate 2.6mg/mL in water at 25°C
 pharmacokinetics:
-    absorption: 41% oral bioavailability; reduced by high-fat meal; peak plasma concentration 1-2 hours
+    absorption: 41% PO bioavailability; peak 30-120 minutes; high-fat meal delays peak 60 minutes and ↓ Cmax 29%
     distribution:
         pKa: 8.7
-        vd: ~1.5L/kg
+        vd: 105L (~1.5L/kg)
         protein binding: 96%
     metabolism:
-        half-life: ~4 hours (parent and active metabolite combined)
+        half-life: 3-5 hours; active metabolite ~4 hours
         duration: Vasodilation maximal ~1-2 hours post-dose
         pathway: Hepatic; CYP3A4 (primary) and CYP2C9
         metabolites:
             - N-desmethyl sildenafil (active; ~50% potency of parent)
     elimination:
-        renal: ~13% in urine; predominantly faecal
+        renal: Metabolites; ~80% faeces and ~13% urine
 mechanism:
     target:
         - Phosphodiesterase 5 (PDE5)
-    action: Selective smooth muscle PDE5 inhibitor → prevents hydrolysis of cGMP → ↑ cGMP in vascular smooth muscle → ↓ intracellular Ca2+ → vasodilation. Effect is NO-dependent — requires active NO-cGMP signalling.
+    action: Inhibits PDE5-mediated cGMP hydrolysis → ↑ cGMP → pulmonary > systemic vasodilation
 contraindications:
-    - Concurrent nitrates or nitric oxide (synergistic cGMP elevation → severe hypotension)
+    - Nitrates or NO donors
+    - Riociguat
+    - Potent CYP3A4 inhibitors (REVATIO)
+    - Severe hepatic impairment or BP <90/50mmHg
+    - Recent stroke/MI or hereditary retinal disease
 pregnancy:
     code: B1
     justification:
@@ -52,6 +59,13 @@ pharmacodynamics:
     git:
     haeme:
 considerations:
+    - Inhaled NO → additive pulmonary vasodilation; use with caution
 references:
     - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 4 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Viatris Pty Ltd. REVATIO Australian Product Information. Revised 25 October 2024.
+    - Viatris Pty Ltd. VIAGRA Australian Product Information. Revised 11 October 2024.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Young P, Psirides A. Wellington ICU Drug Manual. 2nd Ed. Wellington Regional Hospital. 2013.
     - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.
+    - Smith S, Scarth E, Sasada M. Drugs in Anaesthesia and Intensive Care. 4th Ed. Oxford University Press. 2011.

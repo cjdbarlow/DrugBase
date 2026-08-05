@@ -1,45 +1,51 @@
 ---
 aliases:
+    - Ventavis
 class: Pulmonary vasodilator
 chemistry: Synthetic prostacyclin analogue (eicosanoid)
 dose:
-    pulmonary hypertension: 2.5-5µg 6-9 times daily
+    PAH: 2.5-5µg neb 6-9 times/day
+    RV failure: 20µg neb Q2h for ≤48h; then Q6h on days 3-4
 pharmaceutics:
-    presentation: Solution for nebulisation
-    compatibility:
-    solubility: Synthetic analogue; more chemically stable than epoprostenol at physiological pH
+    presentation: 10µg/mL nebuliser solution; 20µg/2mL ampoule
+    compatibility: Wellington Aeroneb protocol adds 3mL 0.9% NaCl; do not mix with other nebulised medicines
+    solubility:
 pharmacokinetics:
-    absorption: Absorbed via alveolar epithelium; selectively deposited in lung
+    absorption: Rapid pulmonary absorption; undetectable 30-60 minutes after inhalation
     distribution:
         pKa:
-        vd:
+        vd: 0.6-0.8L/kg (IV)
         protein binding: ~60%
     metabolism:
-        half-life: 20-30 minutes (longer than epoprostenol; more chemically stable)
-        duration: 45-60 minutes per inhalation
-        pathway: Hepatic β-oxidation of the carboxyl side chain
+        half-life: 5-25 minutes (inhaled)
+        duration: 1-2 hours
+        pathway: Extensive β-oxidation of the carboxyl side chain
         metabolites:
             - Tetranor-iloprost (inactive)
     elimination:
-        renal: Predominantly renal
+        renal: Metabolites; 68% urine and 12% faeces after IV dose
 mechanism:
     target:
-        - Prostacyclin receptor
-    action: Activates Gs-coupled IP receptors → ↑ cAMP → PKA activation → inhibition of myosin light-chain kinase → smooth muscle relaxation. Inhaled route provides selective pulmonary vasodilation during active inhalation.
+        - Prostacyclin receptor (IP receptor)
+    action: IP receptor agonist → ↑ cAMP → pulmonary vasodilation and ↓ platelet aggregation
 contraindications:
+    - High haemorrhage risk
+    - Severe CAD, unstable angina or recent MI
+    - Decompensated HF or severe arrhythmia
     - Pulmonary veno-occlusive disease
-    - Severe left ventricular dysfunction
+    - Significant valvular disease with myocardial dysfunction
 pregnancy:
     code: B3
     justification:
 pharmacodynamics:
     resp:
-        - Pulmonary vasodilation (selective during inhalation)
-        - Bronchodilation
+        - Pulmonary vasodilation
+        - Bronchospasm and cough
     cvs:
         - ↓ PVR
         - ↓ PAP
-        - Systemic vasodilation and ↓ BP (less than IV prostanoids)
+        - ↑ CO and SvO2
+        - Minor ↓ SVR and MAP
     cns:
     endo:
     msk:
@@ -50,8 +56,14 @@ pharmacodynamics:
     haeme:
         - Inhibition of platelet aggregation
 considerations:
-    - Longer half-life than epoprostenol (~20-30 min vs ~6 min) → less frequent dosing, but still requires 6-9 inhalations/day
+    - Short effect → 6-9 inhalations/day
+    - Pulmonary oedema → consider PVOD and stop
+    - Hepatic/severe renal impairment: initially Q3-4h
 references:
     - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 4 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Bayer Australia Ltd. VENTAVIS Australian Product Information. Version VX1.0. Revised 3 March 2020.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Young P, Psirides A. Wellington ICU Drug Manual. 2nd Ed. Wellington Regional Hospital. 2013.
     - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.
     - Smith S, Scarth E, Sasada M. Drugs in Anaesthesia and Intensive Care. 4th Ed. Oxford University Press. 2011.

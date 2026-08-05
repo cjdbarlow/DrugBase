@@ -3,37 +3,39 @@ aliases:
     - Prostacyclin
     - PGI2
     - Flolan
+    - Veletri
 class: Pulmonary vasodilator
 chemistry: Synthetic analogue of prostacyclin (prostaglandin I2)
 dose:
-    pulmonary hypertension (IV): 2-12 ng/kg/min continuous IV infusion; titrate
-    pulmonary hypertension (nebulised): 20-50 ng/kg/min via continuous ultrasonic nebuliser
+    PAH (acute): 2ng/kg/min IV; ↑ 2ng/kg/min ≥Q15min up to 12ng/kg/min
+    PAH (maintenance): Start 4ng/kg/min below maximum tolerated rate; ↑ 1-2ng/kg/min ≥Q15min
 pharmaceutics:
-    presentation: Lyophilised powder for reconstitution; must be reconstituted with specific glycine/NaOH buffer (pH ~12) to prevent spontaneous hydrolysis
-    compatibility: Incompatible with standard diluents (saline, dextrose); use only supplied buffer
-    solubility: Spontaneously hydrolyses in aqueous solution at physiological pH; pKa 4.4
+    presentation: 0.5mg or 1.5mg lyophilised IV powder
+    compatibility: Reconstitute/dilute with water for injection or 0.9% NaCl; use 0.22µm in-line filter
+    solubility: Hydrolyses as pH falls; reconstituted pH 10.8-12; pKa 4.4
 pharmacokinetics:
-    absorption: Rapidly absorbed into pulmonary circulation via alveolar epithelium (nebulised route)
+    absorption: IV; rapid pulmonary absorption when nebulised
     distribution:
         pKa: 4.4
         vd: 0.357L/kg
-        protein binding: High
+        protein binding:
     metabolism:
-        half-life: ~6 minutes
+        half-life: ≤6 minutes
         duration:
             - Vasodilation: comparable to half-life (minutes)
             - Platelet inhibition: up to 2 hours
         pathway: Spontaneous hydrolysis and enzymatic degradation; ~16 major and minor metabolites
         metabolites:
-            - Multiple minor metabolites (largely inactive)
+            - 6-oxo-prostaglandin F1α
     elimination:
-        renal: Rapid; renal and biliary
+        renal: Metabolites; 82% urine and 4% faeces after radiolabelled dose
 mechanism:
     target:
         - Prostacyclin receptor (IP receptor)
-    action: Activates Gs-coupled IP receptors on vascular smooth muscle and platelets → ↑ adenylyl cyclase → ↑ cAMP → PKA activation → phosphorylation and inhibition of myosin light-chain kinase → smooth muscle relaxation and vasodilation. In platelets: ↑ cAMP → ↓ activation and aggregation.
+    action: IP receptor agonist → ↑ cAMP → ↓ MLCK and platelet activation → vasodilation and ↓ aggregation
 contraindications:
-    - Pulmonary veno-occlusive disease (↑ blood flow to congested postcapillary vessels → pulmonary oedema)
+    - CHF due to severe LV dysfunction
+    - Pulmonary oedema during dose-ranging (chronic use)
 pregnancy:
     code: B1
     justification:
@@ -54,6 +56,7 @@ pharmacodynamics:
     ren:
     gu:
     git:
+        - ↓ Gastric acid secretion and emptying
     haeme:
         - Inhibition of platelet aggregation
 considerations:
@@ -62,5 +65,6 @@ considerations:
     - Reconstituted solution must be used within 8 hours; pH-sensitive — use only supplied glycine buffer
 references:
     - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 4 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
-    - Flolan PI (GlaxoSmithKline)
-    - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.
+    - Janssen-Cilag Pty Ltd. VELETRI Australian Product Information. Version 2.0. Revised 27 January 2026.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.

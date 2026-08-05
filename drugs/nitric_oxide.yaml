@@ -3,23 +3,25 @@ aliases:
     - NO
     - iNO
 class: Pulmonary vasodilator
-chemistry: Free radical inorganic gas (NO)
+chemistry: Free-radical inorganic gas (NO)
 dose:
-    inhaled: 1-40 ppm via inspiratory limb of ventilator; titrate to response
+    PPHN: 20ppm inhaled; ↓ to 5ppm within 4-24h; max 20ppm
+    cardiac surgery: 10-20ppm inhaled; ↓ to 5ppm
+    ARDS/RVF/PHTN: 1-40ppm inhaled
 pharmaceutics:
-    presentation: Aluminium cylinders containing 100 or 800 ppm NO in N2 (INOMax system); requires proprietary delivery device
-    compatibility: Oxidises to NO2 on contact with O2 — minimise dwell time in circuit
-    solubility: Reacts with water to form nitric acid (HNO3)
+    presentation: Aluminium cylinders; 800 or 4,880ppm NO in N2 (INOmax); 100ppm also described in QMD/textbook
+    compatibility: O2 → NO2; monitor NO2 <0.5ppm
+    solubility: Water → HNO3 (pKa -1.3)
 pharmacokinetics:
-    absorption: Rapidly absorbed into pulmonary circulation via alveolar epithelium
+    absorption: Rapid pulmonary and systemic absorption after inhalation
     distribution:
-        pKa: -1.3
-        vd: Unmeasurable; reacts immediately with haemoglobin on entering circulation
-        protein binding: Avidly bound to haemoglobin (as nitrosyl-Hb or methaemoglobin)
+        pKa: -1.3 (HNO3)
+        vd: Unmeasurable
+        protein binding: Avid haemoglobin binding
     metabolism:
         half-life: <5 seconds
-        duration: Seconds (vasodilation ceases immediately on discontinuation)
-        pathway: Reacts with oxyHb → methaemoglobin + nitrate; or with lung water → nitrite → metHb; with deoxyHb → nitrosyl-Hb → metHb on oxygenation
+        duration: Seconds
+        pathway: OxyHb → methaemoglobin + nitrate; lung water → nitrite → methaemoglobin; deoxyHb → nitrosyl-Hb
         metabolites:
             - Methaemoglobin
             - Nitrite
@@ -29,7 +31,7 @@ pharmacokinetics:
 mechanism:
     target:
         - Soluble guanylate cyclase (sGC)
-    action: Endogenous gaseous signalling molecule. Diffuses directly into vascular smooth muscle → activates sGC → ↑ cGMP → ↓ intracellular Ca2+ → smooth muscle relaxation and vasodilation. Inhaled route confines effect to ventilated alveoli — preferential ↓ PVR in perfused, ventilated lung units → improves V/Q matching without systemic vasodilation (rapidly inactivated by Hb before reaching systemic circulation).
+    action: Activates sGC → ↑ cGMP → ↓ intracellular Ca2+ → vasodilation; inhalation targets ventilated alveoli and Hb limits systemic effect
 contraindications:
     - Concurrent PDE5 inhibitors (synergistic cGMP elevation → severe hypotension)
     - Pulmonary veno-occlusive disease (may precipitate pulmonary oedema)
@@ -55,16 +57,19 @@ pharmacodynamics:
     gu:
     git:
     haeme:
-        - Methaemoglobinaemia (monitor levels; toxic above ~3-5%)
+        - Methaemoglobinaemia; neonatal MetHb >2.5% → ↓ dose
         - Inhibition of platelet aggregation
         - Thrombocytopenia (~10% of patients)
 considerations:
-    - Rebound pulmonary hypertension on abrupt cessation — wean gradually
-    - NO2 formation in circuit increases with ↑ FiO2 and ↑ NO dose — pulmonary toxicity risk; minimise both
-    - Monitor MetHb regularly; methylene blue for treatment if severe
-    - Selective pulmonary vasodilation advantage over IV prostanoids (no systemic hypotension)
+    - Abrupt cessation → rebound PHTN/hypoxaemia; wean stepwise
+    - Monitor inspired NO/NO2, FiO2 and MetHb
+    - Sildenafil/other cGMP vasodilators → additive effect; caution
+    - Pulmonary oedema → consider PVOD/LV dysfunction
 references:
     - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 4 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
-    - TGA (AusPAR) product information
+    - Ikaria Australia Pty Ltd. INOmax Australian Product Information. Version 1.12. Revised 15 April 2026.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Young P, Psirides A. Wellington ICU Drug Manual. 2nd Ed. Wellington Regional Hospital. 2013.
     - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.
     - Smith S, Scarth E, Sasada M. Drugs in Anaesthesia and Intensive Care. 4th Ed. Oxford University Press. 2011.
