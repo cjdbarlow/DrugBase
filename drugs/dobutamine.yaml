@@ -1,14 +1,15 @@
 ---
 aliases:
-class: Inotrope
+class: Inodilator
 chemistry: Synthetic catecholamine
 dose:
     shock: 2.5-20µg/kg/min IV
 pharmaceutics:
-    presentation: 12.5mg/mL solution
-    compatibility:
+    presentation: Clear 12.5mg/mL concentrate; sodium metabisulfite
+    compatibility: D5W or 0.9% NaCl; avoid alkaline solutions
+    solubility: Sparingly water-soluble
 pharmacokinetics:
-    absorption: No PO bioavailability
+    absorption: No PO bioavailability due to gut COMT and MAO
     distribution:
         pKa: 10.14
         vd: 0.2L/kg
@@ -18,14 +19,17 @@ pharmacokinetics:
         duration: Very short; rapid onset
         pathway: Metabolised by COMT and MAO
         metabolites:
+            - 3-O-methyldobutamine (inactive)
     elimination:
         renal: Metabolites
 mechanism:
     target:
-        - β1 adrenoreceptor (+)-enantiomer  is full agonist
-        - β2 adrenoreceptor
-        - α1 adrenoreceptor (-)-enantiomer is half agonist
-    action: ↑ cAMP → ↑ intracellular Ca2+ → ↑ contractility
+        - β1 adrenoreceptor (full agonist)
+        - β2 adrenoreceptor (weak agonist)
+        - α1 adrenoreceptor (net partial agonist)
+    action: β1 → ↑ cAMP → ↑ intracellular Ca2+ → ↑ inotropy
+contraindications:
+    - Dynamic LVOT obstruction
 pregnancy:
     code: B2
     justification:
@@ -46,8 +50,20 @@ pharmacodynamics:
     met:
     ren:
         - ↑ RBF (secondary to ↑ CO)
+        - ↑ UO; no renal benefit
     gu:
     git:
     haeme:
+considerations:
+    - Correct hypovolaemia
+    - AF → ↑ AV conduction
+    - ↑ HR/MAP and ventricular ectopy
+    - ↑ Myocardial O2 demand
+    - β-blockade → unopposed α effects
 references:
     - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 4 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - AFT Pharmaceuticals Pty Ltd. Dobutamine-AFT Australian Product Information. Revised 25 May 2026.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Young P, Psirides A. Wellington ICU Drug Manual. 2nd Ed. Wellington Regional Hospital. 2013.
+    - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.

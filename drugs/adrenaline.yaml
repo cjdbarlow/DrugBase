@@ -4,7 +4,7 @@ aliases:
 class: Inotrope
 chemistry: Endogenous catecholamine
 dose:
-    arrest: 1mg IV
+    arrest: 1mg IV Q3-5 min
     shock: 0.05-2µg/kg/min IV
     anaphylaxis:
         - "No IV access: 500μg IM Q5 min"
@@ -13,7 +13,8 @@ dose:
     airway oedema: 5mg neb
     push dose: 5-10µg
 pharmaceutics:
-    presentation: Clear, colourless solution typically at 0.1-1mg/ml in a brown glass ampoule
+    presentation: Clear colourless 1mg/mL or 0.1mg/mL solution; light-sensitive; sodium metabisulfite
+    solubility: Minimal water solubility
 pharmacokinetics:
     absorption:
         - No PO bioavailability due to destruction by COMT and MAO in the gut brush border
@@ -25,7 +26,7 @@ pharmacokinetics:
     metabolism:
         half-life: 2 minutes
         duration: Very short; rapid onset
-        pathway: Metabolised rapidly and completely by mitochondrial MAO and COMT within liver, kidney, and blood
+        pathway: Rapid COMT and MAO metabolism in liver, tissues and sympathetic nerves
         metabolites:
             - VMA
             - Metadrenaline
@@ -37,7 +38,7 @@ mechanism:
         - α2 adrenoreceptor
         - β1 adrenoreceptor
         - β2 adrenoreceptor
-    action: β > α at lower doses. α1 effects dominate at high doses.
+    action: β > α at low doses; α1 dominates at high doses
 pregnancy:
     code: A
     justification:
@@ -45,10 +46,10 @@ pharmacodynamics:
     resp:
         - ↑ MV
         - Bronchodilation
-    cvs: 
+    cvs:
         - ↑ Inotropy
         - ↑ HR
-        - ↑ SVR and PVR
+       - ↑ SVR and PVR
         - ↑ BP
         - ↑ CO
         - ↑ Myocardial O2 consumption
@@ -68,9 +69,18 @@ pharmacodynamics:
         - Initially ↑ insulin secretion (β), then ↓ (α)
     ren:
         - ↓ RBF
-        - ↑ In sphincter tone
     gu:
+        - ↑ Sphincter tone
     git:
     haeme:
+considerations:
+    - Correct hypovolaemia, hypoxia, hypercapnia and acidosis
+    - TCA/MAOI → ↑ effect
+    - May worsen dynamic LVOT obstruction
 references:
     - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 4 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Aspen Pharmacare Australia Pty Ltd. Aspen Adrenaline Injection Australian Product Information. Revised 20 November 2019.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Young P, Psirides A. Wellington ICU Drug Manual. 2nd Ed. Wellington Regional Hospital. 2013.
+    - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.

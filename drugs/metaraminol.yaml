@@ -7,9 +7,9 @@ dose:
     bolus: 0.5-2mg IV
     infusion: 0.5-5mg/hr IV
 pharmaceutics:
-    presentation: 10mg/mL solution
-    compatibility:
-    solubility: Excellent water solubility
+    presentation: Clear colourless/slightly yellow 10mg/mL solution; sodium metabisulfite
+    compatibility: 0.9% NaCl, D5W, Hartmann's
+    solubility: Freely water-soluble
 pharmacokinetics:
     absorption: Oral absorption feasible but not used clinically. Good IM and SC absorption.
     distribution:
@@ -28,17 +28,18 @@ mechanism:
         - α1 adrenoreceptor
         - β1 adrenoreceptor
     action:
-        - Also has direct agonist activity at α1 and β1 receptors.
-        - Indirect sympathomimetic. Displaces noradrenaline from noradrenergic storage vesicles, ↑ noradrenaline release. 
+        - Direct α1/β1 agonist
+        - False transmitter; displaces stored noradrenaline → ↑ release
 contraindications:
+    - Cyclopropane or halothane anaesthesia
 pregnancy:
     code: C
     justification: Uterine vasoconstriction → ↓ placental perfusion and fetal hypoxia
 pharmacodynamics:
     resp:
-        - Mild bronchodilation (β2)
     cvs:
         - ↑ SVR
+        - ↑ PVR
         - ↑ BP
         - Reflex ↓ HR
         - ↓ CO
@@ -54,5 +55,15 @@ pharmacodynamics:
     git:
         - ↓ Splanchnic blood flow
     haeme:
+considerations:
+    - Acidosis → ↓ effect
+    - MAOI/TCA → ↑ effect
+    - Digitalis → arrhythmias
+    - Repeated dosing → cumulative effect
 references:
     - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 4 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Phebra 2 Pty Ltd. Aramine Injection Australian Product Information. Version 03. Revised 19 October 2020.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Young P, Psirides A. Wellington ICU Drug Manual. 2nd Ed. Wellington Regional Hospital. 2013.
+    - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.

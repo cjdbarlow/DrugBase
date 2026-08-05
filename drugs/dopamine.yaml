@@ -2,29 +2,38 @@
 class: Inotrope
 chemistry: Endogenous catecholamine
 dose:
-    shock: 1-50µg/kg/min
+    shock: 2-50µg/kg/min IV
 pharmaceutics:
-    presentation: Clear, colourless solution with 200mg or 800mg in water
+    presentation: Clear colourless/pale-yellow 40mg/mL concentrate; light-sensitive; potassium metabisulfite
+    solubility: Freely water-soluble
 pharmacokinetics:
-    absorption:
+    absorption: No PO bioavailability
     distribution:
         pKa:
         vd:
-        protein binding:
+        protein binding: Unknown
     metabolism:
-        half-life: 3 minutes
+        half-life: 2 minutes
+        duration: Onset 5 minutes; duration <10 minutes
         pathway:
             - 25% of dose converted to noradrenaline
             - Remainder metabolised by MAO and COMT
         metabolites:
     elimination:
-        renal: Metabolites
+        renal: 97% as metabolites
 mechanism:
     target:
         - D1 receptor
         - β1 adrenoreceptor
         - α1 adrenoreceptor
-    action: D1 dominates at ≤5µg/kg/min. β1 dominate at 2-10µg/kg/min. α dominates >10µg/kg/min.
+    action: D1 at 0.5-2µg/kg/min; β1 at 2-10µg/kg/min; α at >10µg/kg/min
+contraindications:
+    - Phaeochromocytoma
+    - Atrial/ventricular tachyarrhythmia or VF
+    - Dynamic LVOT obstruction
+    - Hyperthyroidism
+    - Cyclopropane or halogenated anaesthesia
+    - Ergotamine
 pregnancy:
     code: B3
     justification:
@@ -51,5 +60,15 @@ pharmacodynamics:
     git:
         - Mesenteric vasodilation
     haeme:
+considerations:
+    - Correct hypovolaemia, hypoxia, hypercapnia and acidosis
+    - MAOI → start ≤1/10 usual dose
+    - Extravasation → phentolamine infiltration
+    - IV phenytoin → ↓ MAP/bradycardia
 references:
     - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 4 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Juno Pharmaceuticals Pty Ltd. Dopamine Juno Australian Product Information. Version 3.0. Revised 10 January 2025.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Young P, Psirides A. Wellington ICU Drug Manual. 2nd Ed. Wellington Regional Hospital. 2013.
+    - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.

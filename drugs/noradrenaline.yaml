@@ -1,12 +1,13 @@
 ---
 aliases:
     - Norepinephrine
-class: Vasopressor
+class: Adrenergic vasopressor
 chemistry: Endogenous catecholamine
 dose:
-    shock: 0.05-1.5µg/kg/min
+    shock: 0.05-1.5µg/kg/min IV
 pharmaceutics:
-    presentation: Clear, colourless, light-sensitive solution. Sodium metabisulfite as excipient.
+    presentation: Clear colourless/yellow 1mg/mL concentrate; light-sensitive
+    compatibility: Dilute in a glucose-containing solution; not saline alone
     solubility: Water-soluble
 pharmacokinetics:
     absorption: No PO bioavailability due to destruction by COMT and MAO in the gut brush border
@@ -17,7 +18,7 @@ pharmacokinetics:
     metabolism:
         half-life: 2 minutes
         duration: Very short; rapid onset
-        pathway: Metabolised rapidly and completely by mitochondrial MAO and COMT within liver, kidney, and blood
+        pathway: Rapid COMT and MAO metabolism in liver, tissues and sympathetic nerves
         metabolites:
             - VMA
             - Normetadrenaline
@@ -27,29 +28,43 @@ pharmacokinetics:
 mechanism:
     target:
         - α1 adrenoreceptor
+        - α2 adrenoreceptor
         - β1 adrenoreceptor
-    action: Predominantly α1 agonist. Minor β1 activity.
+    action: α1/α2 >> β1; negligible β2 activity
+contraindications:
+    - Uncorrected hypovolaemia
+    - Mesenteric or peripheral vascular thrombosis
 pharmacodynamics:
     resp:
-        - ↑ Minute ventilation
-        - Bronchodilation
-    cvs: 
+    cvs:
         - ↑ SVR
-        - Venoconstriction and ↑ preload
-        - ↑ Myocardial oxygen consumption
+        - ↑ Preload
+        - ↑ MAP
+        - ↑ Myocardial O2 consumption
         - ↑ Coronary flow
-        - Reflex ↓ HR secondary to ↑ SVR
+        - Reflex ↓ HR
+        - CO ↔/↓
     cns:
     endo:
     msk:
         - Necrosis with extravasation
     met:
-        - ↓ Receptor affinity ↓ in acidosis, causing ↓ clinical effect
+        - Acidosis → ↓ effect
     ren:
-        - ↓ Renal blood flow
+        - ↓ RBF
     gu:
-        - ↓ Uterine blood flow and foetal bradycardia
+        - ↓ Uterine blood flow
+        - Foetal bradycardia
     git:
+        - ↓ Splanchnic blood flow
     haeme:
+considerations:
+    - MAOI/TCA → severe prolonged hypertension
+    - Extravasation → phentolamine infiltration
+    - Avoid leg veins in elderly/PVD
 references:
-
+    - Fresenius Kabi Australia Pty Limited. Noradrenaline Kabi Australian Product Information. Approved 18 December 2024.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Young P, Psirides A. Wellington ICU Drug Manual. 2nd Ed. Wellington Regional Hospital. 2013.
+    - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.
