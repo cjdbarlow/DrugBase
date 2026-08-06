@@ -1,14 +1,15 @@
 ---
 aliases:
     - ADH
+    - Argipressin
     - Arginine vasopressin
 class: Non-adrenergic vasopressor
 chemistry: Cyclic nonapeptide
 dose:
-    vasoplegia: 0.5-4 units/min IV
+    shock: 0.01-0.08 units/min IV
 pharmaceutics:
     presentation: 20 units/mL solution
-    compatibility:
+    compatibility: NS or D5W
     solubility: Water-soluble
 pharmacokinetics:
     absorption: No PO bioavailability; destroyed by intestinal peptidases
@@ -18,7 +19,7 @@ pharmacokinetics:
         protein binding: 30%
     metabolism:
         half-life: 17-35 minutes
-        duration: Rapid onset; sustained effect
+        duration: Peak pressor effect ~15 minutes; offset ~20 minutes
         pathway: 35% metabolised by endothelial peptidases in the liver
         metabolites:
             - Inactive peptide fragments
@@ -28,8 +29,9 @@ mechanism:
     target:
         - V1 receptor (Gq-coupled)
         - V2 receptor (Gs-coupled)
-    action: V1 → ↑ IP3 → ↑ intracellular Ca2+ → vasoconstriction. V2 → ↑ cAMP → aquaporin-2 insertion in collecting duct → water reabsorption. Vasopressor affinity maintained at low pH, unlike catecholamines.
+    action: V1 → ↑ IP3/Ca2+ → vasoconstriction. V2 → ↑ cAMP → aquaporin-2 insertion → ↑ water reabsorption. Vasopressor affinity persists at low pH.
 contraindications:
+    - Chronic nephritis with nitrogen retention
 pregnancy:
     code: B2
     justification:
@@ -37,23 +39,36 @@ pharmacodynamics:
     resp:
     cvs:
         - ↑ SVR and PVR
-        - ↑ BP
+        - ↑ MAP
         - Reflex ↓ HR
+        - ↓ CO
         - Coronary vasoconstriction at high doses
     cns:
     endo:
-        - ↑ ACTH release (V3 receptor)
+        - ↑ ACTH (V3)
     msk:
     met:
     ren:
-        - ↓ Urine output (V2-mediated aquaporin insertion)
+        - ↑ Water reabsorption (V2)
     gu:
         - ↑ Uterine contractility (V1)
     git:
         - ↓ Mesenteric blood flow
-        - ↓ Portal venous pressure
+        - ↓ Portal pressure
     haeme:
         - ↑ Platelet aggregation (V1)
         - ↑ Factor VIII and vWF (V2)
+considerations:
+    - Noradrenaline-sparing
+    - Coronary, mesenteric, skin and digital ischaemia
+    - Hyponatraemia/water intoxication
+    - DI after cessation
 references:
     - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 4 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Link Medical Products Pty Ltd. PITRESSIN Australian Product Information. Revised 26 March 2024.
+    - Par Health USA, LLC. VASOSTRICT United States Prescribing Information. Revised November 2021.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Young P, Psirides A. Wellington ICU Drug Manual. 2nd Ed. Wellington Regional Hospital. 2013.
+    - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.
+    - Smith S, Scarth E, Sasada M. Drugs in Anaesthesia and Intensive Care. 4th Ed. Oxford University Press. 2011.

@@ -1,36 +1,38 @@
 ---
 aliases:
-class: Vasopressor
-chemistry: Cyclic peptide
+    - Glypressin
+class: Vasopressin analogue
+chemistry: Synthetic dodecapeptide
 dose:
-    variceal bleeding: 1-2mg IV Q4-6h
-    hepatorenal syndrome: 0.5-1mg IV Q4-6h, titrated up to 2mg Q4-6h
+    Variceal bleeding: 1.7mg IV Q4H; ↓ to 0.85mg Q4H once controlled; max 48h
+    Hepatorenal syndrome (bolus): 0.85mg IV Q6H; ↑ to 1.7mg Q6H if SCr ↓ <30% at 48h; 7-14 days
+    Hepatorenal syndrome (infusion): 1.7-10.2mg/24h IV
 pharmaceutics:
-    presentation: Lyophilised powder for reconstitution
-    compatibility:
-    solubility: Water-soluble
+    presentation: 0.85mg/8.5mL ampoule
+    compatibility: NS or D5W; PVC/PE lines (not polyurethane)
+    solubility: Freely water-soluble
 pharmacokinetics:
-    absorption: 1% oral bioavailability; destroyed by gastric acid and enzymes
+    absorption: 1% PO bioavailability; destroyed by gastric acid and enzymes
     distribution:
         pKa: 10
         vd: 0.6-0.9L/kg
         protein binding: Minimal
     metabolism:
-        half-life: ~50 minutes (terlipressin); active metabolite extends duration to ~6 hours
-        duration: ~6 hours (due to active metabolite)
-        pathway: Metabolised by endothelial peptidases to lysine vasopressin (active)
+        half-life: ~50 minutes; active metabolite effect ~6 hours
+        duration: ~6 hours
+        pathway: Metabolised by endothelial peptidases → lysine vasopressin
         metabolites:
             - Lysine vasopressin (active)
     elimination:
-        renal: Lysine vasopressin excreted by renal and hepatic clearance
+        renal: ~1% terlipressin excreted unchanged; lysine vasopressin undergoes renal and hepatic clearance
 mechanism:
     target:
         - V1 receptor (Gq-coupled)
         - V2 receptor
-    action: Prodrug converted to lysine vasopressin; V1 selective. V1 → ↑ IP3 → ↑ intracellular Ca2+ → vasoconstriction with predominantly splanchnic effect. Moderate V2 antidiuretic activity.
+    action: Prodrug → lysine vasopressin; V1 > V2 activity. V1 → ↑ IP3/Ca2+ → predominantly splanchnic vasoconstriction.
 contraindications:
     - Pregnancy
-    - Sepsis without circulatory failure
+    - Septic shock with low CO
 pregnancy:
     code: D
     justification:
@@ -40,19 +42,28 @@ pharmacodynamics:
         - ↑ SVR
         - ↓ Portal venous pressure
         - Reflex ↓ HR
-        - Risk of coronary vasoconstriction
+        - Coronary vasoconstriction
         - May worsen diastolic dysfunction
     cns:
     endo:
     msk:
     met:
     ren:
-        - Mild antidiuretic effect (V2)
+        - ↑ Water reabsorption (V2)
     gu:
         - ↑ Uterine contractility (V1)
     git:
         - ↓ Mesenteric blood flow
-        - ↓ Portal pressure → ↓ variceal bleeding
+        - ↓ Variceal bleeding
     haeme:
+considerations:
+    - Avoid unstable angina/recent MI
+    - HRS + albumin → pulmonary oedema/respiratory failure
+    - QT prolongation/TdP
+    - Coronary, mesenteric and skin ischaemia
 references:
     - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 4 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Ferring Pharmaceuticals Pty Ltd. GLYPRESSIN Solution Australian Product Information. Version 13.0. Revised 7 May 2026.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Young P, Psirides A. Wellington ICU Drug Manual. 2nd Ed. Wellington Regional Hospital. 2013.
