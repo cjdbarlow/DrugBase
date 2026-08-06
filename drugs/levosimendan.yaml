@@ -4,45 +4,65 @@ aliases:
 class: Inodilator
 chemistry: Pyridazinone-dinitrile derivative
 dose:
-    heart failure: 0.05-0.2µg/kg/min IV for 24 hours
+    heart failure: 0.05-0.2µg/kg/min IV for 24h
 pharmaceutics:
-    presentation: 2.5mg/mL concentrate for infusion
-    compatibility:
+    presentation: 2.5mg/mL concentrate
+    compatibility: D5W; compatible with furosemide, digoxin and GTN
     solubility: Minimally water-soluble
 pharmacokinetics:
-    absorption: 85% oral bioavailability; given IV in practice
+    absorption: 85% PO bioavailability; IV-only clinical formulation
     distribution:
         pKa: 6.3
         vd: 0.3L/kg
         protein binding: 99%
     metabolism:
-        half-life: ~1 hour (levosimendan); >80 hours (active metabolite OR-1896)
-        duration: Clinical effect develops over ~3 days and persists for 2-3 weeks due to OR-1896
-        pathway: 95% → inactive metabolites; 5% → OR-1896 (active, long-acting)
+        half-life: ~1 hour; OR-1896 >80 hours
+        duration: Develops over ~3 days; persists 2-3 weeks
+        pathway: 95% → inactive metabolites; 5% → OR-1855/OR-1896
         metabolites:
-            - OR-1896 (active; potent)
+            - OR-1855 (active)
+            - OR-1896 (active)
     elimination:
-        renal: OR-1896 excreted renally; caution in renal impairment
+        renal: 54% urine; 44% faeces; <0.05% unchanged
 mechanism:
-    target: Troponin C
-    action: Binds Ca2+-saturated troponin C → stabilises open state during systole → ↑ contractility without increasing Ca2+ demand. Activates ATP-sensitive K+ channels in vascular smooth muscle → vasodilation. At high doses, also inhibits PDE3.
+    target:
+        - Troponin C
+        - Vascular ATP-sensitive K+ channels
+    action: Stabilises Ca2+-bound troponin C → ↑ contractility without ↑ intracellular Ca2+. Opens vascular KATP channels → vasodilation. PDE3 inhibition at high concentrations.
 contraindications:
+    - Severe hypotension/tachycardia
+    - Ventricular filling/outflow obstruction
+    - CrCl <30mL/min
+    - Severe hepatic impairment
+    - Previous TdP
+pregnancy:
+    code:
+    justification:
 pharmacodynamics:
     resp:
     cvs:
-        - ↑ Inotropy
-        - ↑ Lusitropy
-        - ↑ HR
+        - ↑ Inotropy and lusitropy
         - ↑ CO
-        - ↓ SVR
-        - ↓ PVR
-        - Arrhythmogenic
+        - ↑ HR
+        - ↓ SVR and PVR
+        - ↓ MAP
+        - Dysrhythmias/QT prolongation
     cns:
     endo:
     msk:
     met:
+        - ↓ K+
     ren:
     gu:
     git:
     haeme:
+considerations:
+    - Active metabolites peak ~48h after infusion
+    - Prolonged effect in renal/hepatic impairment
+    - Not dialysable
 references:
+    - Orion Corporation. SIMDAX Finnish Summary of Product Characteristics. Revised 18 August 2025.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Young P, Psirides A. Wellington ICU Drug Manual. 2nd Ed. Wellington Regional Hospital. 2013.
+    - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.
+    - Smith S, Scarth E, Sasada M. Drugs in Anaesthesia and Intensive Care. 4th Ed. Oxford University Press. 2011.

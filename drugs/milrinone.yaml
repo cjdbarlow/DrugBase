@@ -2,57 +2,68 @@
 aliases:
     - Primacor
 class: Inodilator
-chemistry: Biperidine derivative
+chemistry: Bipyridine derivative
 dose:
-    heart failure: 0.1-0.75µg/kg/min IV"
+    heart failure (load): 50µg/kg IV over 10min
+    heart failure (infusion): 0.1-0.75µg/kg/min
 pharmaceutics:
-    presentation: 1mg/mL solution
-    compatibility:
-    solubility:
+    presentation: 1mg/mL concentrate
+    compatibility: NS, 0.45% NaCl or D5W; incompatible with bicarbonate/loop diuretics
+    solubility: Soluble at physiological pH
 pharmacokinetics:
-    absorption: 92% oral bioavailability
+    absorption: 92% PO bioavailability; IV-only clinical formulation
     distribution:
-        pKa: 4.6
+        pKa: 4.6 and 8.5
         vd: 0.38L/kg
         protein binding: 70%
     metabolism:
-        half-life: 2.3 hours (prolonged in renal impairment)
+        half-life: 2.3 hours; prolonged in renal impairment
         duration: Onset 5-15 minutes
-        pathway: Primarily renal elimination; minor hepatic metabolism
+        pathway: Predominantly renal; minor hepatic glucuronidation
         metabolites:
             - O-glucuronide (inactive)
     elimination:
-        renal: Predominantly excreted unchanged; dose reduction required in renal impairment
+        renal: 83% unchanged; 12% O-glucuronide
 mechanism:
     target:
         - Phosphodiesterase 3 (PDE3)
-    action: Inhibits PDE3 → ↑ cAMP in cardiac and vascular smooth muscle. Selective for cardiac and vascular smooth muscle over airway. ↑ cAMP → ↑ inotropy in myocardium and vasodilation in vascular smooth muscle.
+    action: PDE3 inhibition → ↑ cAMP → ↑ myocardial inotropy/lusitropy and vascular smooth-muscle relaxation; cardiac/vascular > airway smooth muscle
 contraindications:
     - Severe aortic stenosis
     - Severe pulmonary stenosis
-    - Severe hypertrophic obstructive cardiomyopathy
+    - Hypertrophic obstructive cardiomyopathy
 pregnancy:
     code: B3
     justification:
 pharmacodynamics:
     resp:
     cvs:
-        - ↑ Inotropy
-        - ↑ Lusitropy
-        - ↑ HR
+        - ↑ Inotropy and lusitropy
         - ↑ CO
-        - ↓ SVR
-        - ↓ PVR
-        - Arrhythmogenic
+        - ↓ SVR and PVR
+        - ↓ MAP
+        - Dysrhythmias
     cns:
+        - Headache
     endo:
     msk:
     met:
+        - ↓ K+
     ren:
         - ↑ RBF secondary to ↑ CO
-        - Reduced clearance in renal failure → drug accumulation
     gu:
     git:
     haeme:
+        - Thrombocytopaenia
+considerations:
+    - Loading dose often omitted if hypotensive
+    - ↓ Infusion in renal impairment
+    - Oral chronic use → ↑ mortality
 references:
     - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 4 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Generic Health Pty Ltd. MILRINONE GH Australian Product Information. Version 6. Revised 13 July 2021.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Young P, Psirides A. Wellington ICU Drug Manual. 2nd Ed. Wellington Regional Hospital. 2013.
+    - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.
+    - Smith S, Scarth E, Sasada M. Drugs in Anaesthesia and Intensive Care. 4th Ed. Oxford University Press. 2011.
