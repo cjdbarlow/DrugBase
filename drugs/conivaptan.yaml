@@ -1,31 +1,40 @@
 ---
 aliases:
+    - Vaprisol
 class: Vasopressin receptor antagonist
 chemistry: Benzazepine
 dose:
+    hyponatraemia: 20mg IV over 30min; then 20mg/24h for 2-4 days; max 40mg/24h
 pharmaceutics:
-    presentation:
-    compatibility:
-    solubility: Slightly soluble in water; pKa 11.4
+    presentation: 20mg/100mL premixed D5W
+    compatibility: NS via Y-site; incompatible with Hartmann's/furosemide
+    solubility: Slightly water-soluble; pKa 11.4
 pharmacokinetics:
-    absorption: Oral bioavailability 40%
+    absorption: 40% PO bioavailability; IV-only clinical formulation
     distribution:
         pKa: 11.4
-        vd: 0.5 L/kg
+        vd: 0.5L/kg
         protein binding: 99%
     metabolism:
         half-life: 5 hours
-        duration: Approximately 12 hours
-        pathway: 99% hepatic (CYP3A)
+        duration: ~12 hours
+        pathway: Hepatic; CYP3A
         metabolites:
+            - Four receptor-active metabolites; minimal clinical contribution
     elimination:
-        renal:
+        renal: 83% faeces; 12% urine; ~1% unchanged in urine
 mechanism:
     target:
-        - V2 vasopressin receptor
-        - V1A vasopressin receptor
-    action: Inhibits insertion of aquaporins into the apical membrane of collecting duct cells, preventing reabsorption of water; distal site of action means only water is excreted without electrolyte depletion
+        - V2 receptor
+        - V1A receptor
+    action: V2 antagonism → ↓ aquaporin-2 insertion → ↑ electrolyte-free water excretion. V1A antagonism → vasodilation.
 contraindications:
+    - Hypovolaemic hyponatraemia
+    - Anuria
+    - Strong CYP3A inhibitors
+pregnancy:
+    code:
+    justification:
 pharmacodynamics:
     resp:
     cvs:
@@ -33,12 +42,21 @@ pharmacodynamics:
     endo:
     msk:
     met:
-        - Hypernatremia
-        - Hyperkalemia
+        - ↑ Na+
+        - ↑ K+
+        - Thirst
     ren:
-        - Diuresis
+        - ↑ Free water excretion
+        - ↓ Urine osmolality
     gu:
     git:
     haeme:
 considerations:
+    - Na+ correction >12mmol/L/24h → osmotic demyelination
+    - Large vein; change site Q24H
+    - Potent CYP3A substrate/inhibitor → multiple interactions
+    - Infusion-site reactions
 references:
+    - Cumberland Pharmaceuticals Inc. VAPRISOL United States Prescribing Information. Revised October 2016. Historical; US product discontinued in 2024.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
