@@ -1,32 +1,38 @@
 ---
 aliases:
+    - Ikotab
 class: Potassium channel activator
-chemistry: Pyrimidinecarboxamide
+chemistry: Pyrimidinecarboxamide; amphoteric
 dose:
-    angina/hypertension (PO): 10-30mg PO BD
+    angina: 10-20mg PO BD; start 5mg BD if headache-prone
 pharmaceutics:
     presentation: 10mg, 20mg tablets
     compatibility:
-    solubility: Reasonably amphoteric
+    solubility: Sparingly water-soluble
 pharmacokinetics:
-    absorption: '>75% oral bioavailability'
+    absorption: '>75% PO bioavailability; peak 30-60 minutes'
     distribution:
         pKa: 3.18
         vd: 1.0-1.4L/kg
         protein binding: ~24%
     metabolism:
         half-life: ~2 hours
-        duration: ~12 hours (long-acting)
-        pathway: Hepatic denitration → entry into nicotinamide metabolism
+        duration: ~12 hours
+        pathway: Hepatic denitration → nicotinamide pathway
         metabolites:
             - Inactive metabolites
     elimination:
-        renal: Inactive metabolites
+        renal: '>60% urine in 24h; ~1% unchanged'
 mechanism:
     target:
-        - ATP-sensitive K+ channel
-    action: Dual mechanism. Activates ATP-sensitive K+ channels → membrane hyperpolarisation → inhibits voltage-dependent Ca2+ channel opening → arterial vasodilation. Additionally has nitrate-like NO-donor properties → ↑ cGMP → venodilation. Unique among class members in acting on both arterial and venous vessels.
+        - ATP-sensitive K+ channels
+    action: Opens vascular KATP channels → hyperpolarisation → arterial vasodilation; nitrate moiety → ↑ cGMP → venodilation
 contraindications:
+    - Cardiogenic shock
+    - Hypotension or hypovolaemia
+    - Acute MI with LV failure and low filling pressures
+    - PDE5 inhibitors
+    - sGC stimulators
 pregnancy:
     code: B3
     justification:
@@ -35,23 +41,29 @@ pharmacodynamics:
     cvs:
         - ↓ SVR
         - ↓ Afterload
-        - ↓ BP
-        - ↓ Preload (venodilation; unlike other class members)
+        - ↓ MAP
+        - ↓ Preload
         - ↑ Coronary flow
         - Reflex ↑ HR
     cns:
-        - Headache (common; improves with ongoing use)
+        - Headache
+        - Dizziness
     endo:
     msk:
     met:
+        - ↑ K+
     ren:
     gu:
     git:
+        - Ulceration → haemorrhage/perforation/fistula
     haeme:
         - Inhibition of platelet aggregation
+        - Thrombocytopaenia
 considerations:
-    - Reduces both preload and afterload due to NO donor effect
-    - Headache common on initiation; tends to improve
+    - Persistent ulceration → cease
+    - Headache often improves with continued use
 references:
     - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 4 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Viatris Pty Ltd. IKOTAB Australian Product Information. Revised 11 May 2022.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
     - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.

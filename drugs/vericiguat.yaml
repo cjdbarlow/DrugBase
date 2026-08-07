@@ -1,47 +1,58 @@
 ---
+aliases:
+    - Verquvo
 class: Soluble guanylate cyclase stimulator
-chemistry: 
+chemistry: Pyrazolopyridine-pyrimidine carbamate
 dose:
-    heart failure: 2.5mg, 5mg, 10mg
+    HFrEF: 2.5mg PO OD; double every 2 weeks to 10mg OD
 pharmaceutics:
-    presentation:
+    presentation: 2.5mg, 5mg, 10mg tablets
     compatibility:
+    solubility: Practically insoluble in water
 pharmacokinetics:
-    absorption:
+    absorption: 93% PO bioavailability with food; peak 1h fasted or 4h fed
     distribution:
         pKa:
-        vd:
-        protein binding:
+        vd: 44L
+        protein binding: 98%
     metabolism:
-        half-life:
-        pathway:
+        half-life: 20 hours (healthy); 30 hours (heart failure)
+        pathway: UGT1A9 > UGT1A1 glucuronidation; <5% CYP metabolism
         metabolites:
+            - N-glucuronide (inactive)
     elimination:
-        renal:
+        renal: 53% urine (mainly N-glucuronide); 45% faeces (mainly unchanged)
 mechanism:
     target:
         - Soluble guanylate cyclase (sGC)
-    action: Stimulates sGC, which interacts with NO to produce cGMP.
+    action: Stimulates sGC independently of and synergistically with NO → ↑ cGMP → smooth-muscle relaxation and vasodilation
 contraindications:
-    - "SBP <100mmHg"
-    - "Severe hepatic impairment"
-    - "eGFR <15"
+    - Other sGC stimulators
 pregnancy:
     code: D
-    justification: Animal studies → abortion/resorption and possible cardiac/great-vessel malformations; placental transfer
+    justification: Placental transfer; animal data → abortion/resorption and possible cardiac/great-vessel malformations
 pharmacodynamics:
     resp:
     cvs:
-        - ↑ Lusitropy
-        - ↓ Myocardial fibrosis
-        - ↓ Myocardial inflammation
+        - ↓ MAP
     cns:
+        - Dizziness
+        - Headache
     endo:
     msk:
     met:
     ren:
     gu:
     git:
+        - Nausea/vomiting
+        - Dyspepsia/GORD
     haeme:
+        - Anaemia
+considerations:
+    - Take with food
+    - SBP <100mmHg → do not initiate
+    - eGFR <15mL/min/1.73m², dialysis or severe hepatic impairment → not recommended
+    - PDE5 inhibitors → not recommended
 references:
     - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 4 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Bayer Australia Ltd. VERQUVO Australian Product Information. Revised 12 July 2022.
