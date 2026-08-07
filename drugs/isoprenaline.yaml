@@ -1,0 +1,73 @@
+---
+aliases:
+    - Isoproterenol
+    - Isoprel
+class: Non-selective β agonist
+chemistry: Synthetic catecholamine
+dose:
+    Bradycardia (IV): 0.5-20µg/min
+pharmaceutics:
+    presentation: Clear colourless/slightly yellow 0.2mg/mL solution
+    compatibility: NS, D5W, Hartmann's
+    solubility:
+pharmacokinetics:
+    absorption: Rapid parenteral absorption
+    distribution:
+        pKa: 8.6
+        vd:
+        protein binding:
+    metabolism:
+        half-life: Few minutes IV; up to 2 hours SC
+        duration: Brief
+        pathway: Hepatic COMT; poor MAO substrate
+        metabolites:
+            - 3-O-methylisoprenaline (weak β antagonist)
+    elimination:
+        renal: 50% unchanged + metabolites
+mechanism:
+    target:
+        - β1 adrenoreceptor
+        - β2 adrenoreceptor
+    action: β1 = β2 >> α; Gs → ↑ cAMP
+contraindications:
+    - Tachyarrhythmia
+    - Digitalis-induced tachycardia/heart block
+    - Ventricular dysrhythmia requiring inotropy
+    - Recent MI or angina
+pregnancy:
+    code: A
+    justification:
+pharmacodynamics:
+    resp:
+        - Bronchodilation
+    cvs:
+        - ↑ HR
+        - ↑ Inotropy
+        - ↑ CO
+        - ↓ SVR
+        - ↓↓ MAP
+        - Dysrhythmias
+        - ↑ Myocardial O2 consumption
+    cns:
+        - Headache/dizziness
+    endo:
+    msk:
+        - Tremor
+    met:
+    ren:
+    gu:
+    git:
+        - ↓ Smooth-muscle tone
+    haeme:
+considerations:
+    - May precipitate hypotension
+    - HR >130 → ventricular dysrhythmias
+    - Myocardial ischaemia/necrosis
+    - Adrenaline/digitalis/halothane → dysrhythmias
+    - MAOI → ↑ effect
+references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 7 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Medsurge Pharma Pty Ltd. ISOPRENALINE HYDROCHLORIDE MEDSURGE Australian Product Information. Revised 2 July 2025.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Young P, Psirides A. Wellington ICU Drug Manual. 2nd Ed. Wellington Regional Hospital. 2013.

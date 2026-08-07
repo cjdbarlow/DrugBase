@@ -1,0 +1,68 @@
+---
+aliases:
+    - Neo-Synephrine
+class: Direct α1 agonist
+chemistry: Non-catecholamine sympathomimetic
+dose:
+    Bolus (IV): 50-100µg
+    Infusion (IV): 40-60µg/min maintenance
+pharmaceutics:
+    presentation: Clear colourless 10mg/mL solution; sodium metabisulfite
+    compatibility: NS or D5W
+    solubility:
+pharmacokinetics:
+    absorption:
+    distribution:
+        pKa: 9.8
+        vd:
+        protein binding:
+    metabolism:
+        half-life:
+        duration: 20 minutes IV; up to 50 minutes SC
+        pathway: Hepatic MAO; not COMT
+        metabolites:
+    elimination:
+        renal:
+mechanism:
+    target:
+        - α1 adrenoreceptor
+    action: Direct α1 agonism → Gq/IP3/Ca2+ → vasoconstriction
+contraindications:
+    - Severe hypertension
+    - Ventricular tachycardia
+pregnancy:
+    code: B2
+    justification:
+pharmacodynamics:
+    resp:
+    cvs:
+        - ↑ SVR and PVR
+        - ↑ MAP
+        - Reflex ↓ HR
+        - ↓ CO
+        - ↑ Coronary flow
+        - Dysrhythmias rare
+    cns:
+        - Headache
+    endo:
+    msk:
+    met:
+    ren:
+        - ↓ RBF and UO
+    gu:
+        - ↓ Uterine blood flow
+    git:
+        - ↓ Splanchnic blood flow
+    haeme:
+considerations:
+    - Not a catecholamine
+    - Low CO state → may further ↓ CO
+    - MAOI/TCA/oxytocics → ↑ pressor effect
+    - Sodium metabisulfite → bronchospasm in susceptible patients
+    - Repeated doses retain effect
+references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 7 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Baxter Healthcare Pty Ltd. PHENYLEPHRINE BAXTER Australian Product Information. Version 3.0. Revised 12 July 2023.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Young P, Psirides A. Wellington ICU Drug Manual. 2nd Ed. Wellington Regional Hospital. 2013.
