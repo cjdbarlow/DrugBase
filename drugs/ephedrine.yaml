@@ -1,0 +1,75 @@
+---
+aliases:
+class: Direct and indirect sympathomimetic
+chemistry: Non-catechol phenylisopropylamine
+dose:
+    Hypotension (IV): 3-6mg Q3-4min up to 30mg total
+pharmaceutics:
+    presentation: Clear colourless 3mg/mL solution
+    compatibility: 0.9% NaCl, Hartmann's
+    solubility:
+pharmacokinetics:
+    absorption: Complete IV bioavailability; onset 3-5 minutes
+    distribution:
+        pKa: 9.6
+        vd:
+        protein binding:
+    metabolism:
+        half-life: 3-7 hours; urine pH-dependent
+        duration: 10-15 minutes IV
+        pathway: Not metabolised by MAO/COMT; partial N-demethylation
+        metabolites:
+            - Norephedrine (active)
+    elimination:
+        renal: ~90% in 24h; mainly unchanged; ↑ with acidic urine
+mechanism:
+    target:
+        - α adrenoreceptors
+        - β adrenoreceptors
+    action: Direct α/β agonism + ↑ noradrenaline release; repeated dosing → noradrenaline depletion/tachyphylaxis
+contraindications:
+    - Closed-angle glaucoma
+    - Phaeochromocytoma
+    - HOCM
+    - MAOI within 14 days or linezolid
+    - Tachyarrhythmia, coronary thrombosis or VF
+    - Halothane/cyclopropane anaesthesia
+pregnancy:
+    code: A
+    justification:
+pharmacodynamics:
+    resp:
+        - Bronchodilation
+    cvs:
+        - ↑ HR
+        - ↑ CO
+        - ↑ MAP
+        - Dysrhythmias
+    cns:
+        - CNS stimulation
+        - ↑ MAC
+        - Mydriasis
+    endo:
+    msk:
+        - Extravasation → necrosis
+    met:
+        - ↓ K+
+    ren:
+        - ↓ RBF
+    gu:
+        - Urinary retention
+        - ↓ Uterine activity
+    git:
+        - ↓ Tone and motility
+    haeme:
+considerations:
+    - Correct hypovolaemia, hypoxia, hypercapnia and acidosis
+    - TCA/clonidine → ↑ pressor effect
+    - Urinary alkalinisation → ↑ t½
+    - β-blockers → ↓ cardiac/bronchodilator effect
+references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 7 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Juno Pharmaceuticals Pty Ltd. EPHEDRINE HYDROCHLORIDE JUNO Australian Product Information. Version 4.0. Revised 25 March 2026.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Young P, Psirides A. Wellington ICU Drug Manual. 2nd Ed. Wellington Regional Hospital. 2013.
