@@ -1,0 +1,77 @@
+---
+aliases:
+    - Diamorphine
+    - Heroin
+class: Strong μ-opioid agonist
+chemistry: Semisynthetic phenanthrene; diacetylated morphine
+dose:
+    Acute pain (SC/IM): 5mg Q4H
+    Acute pain (IV): ¼-½ IM dose
+    MI (IV): 5mg at 1mg/min; repeat 2.5-5mg
+    Pulmonary oedema (IV): 2.5-5mg at 1mg/min
+pharmaceutics:
+    presentation: White to off-white 10mg freeze-dried powder
+    compatibility: D5W, NS
+    solubility: Hydrophilic; pKa 7.95
+pharmacokinetics:
+    absorption: PO bioavailability 40-65%; rapid CNS penetration
+    distribution:
+        pKa: 7.95
+        vd: 5L/kg
+        protein binding: 40%
+    metabolism:
+        half-life: 5 minutes
+        duration: 3-4 hours
+        pathway: Rapid tissue-esterase hydrolysis, then glucuronidation
+        metabolites:
+            - 6-monoacetylmorphine (active)
+            - Morphine (active)
+            - Morphine glucuronides
+    elimination:
+        renal: Minimal unchanged; predominantly metabolites; 7-10% biliary
+mechanism:
+    target:
+        - μ-opioid receptor
+    action: Conversion to 6-monoacetylmorphine and morphine → Gi agonism → ↓ presynaptic Ca2+ influx and ↑ postsynaptic K+ efflux
+contraindications:
+    - Acute respiratory depression
+    - Coma, head injury or raised ICP
+    - Acute alcoholism
+    - Phaeochromocytoma
+    - Biliary colic
+    - Paralytic ileus
+pregnancy:
+    code:
+    justification:
+pharmacodynamics:
+    resp:
+        - Dose-dependent respiratory depression
+        - ↓ Cough reflex
+    cvs:
+        - ↓ MAP
+        - Bradycardia
+    cns:
+        - Analgesia
+        - Sedation
+        - Euphoria or dysphoria
+        - Miosis
+    endo:
+        - ↑ ADH
+    msk:
+    met:
+    ren:
+    gu:
+        - Urinary retention
+    git:
+        - N/V
+        - Constipation
+        - Biliary spasm
+    haeme:
+considerations:
+    - More rapid onset than morphine
+    - Tolerance, dependence and withdrawal
+    - Naloxone reverses respiratory depression
+references:
+    - Wockhardt UK Ltd. Diamorphine Hydrochloride 10mg for Injection Summary of Product Characteristics. Revised 5 November 2025.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
