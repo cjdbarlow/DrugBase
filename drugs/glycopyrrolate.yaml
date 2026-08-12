@@ -1,0 +1,65 @@
+---
+aliases:
+    - Glycopyrronium
+    - Robinul
+class: Muscarinic antagonist
+chemistry: Quaternary ammonium compound
+dose:
+    Premedication (IV/IM): 4-5µg/kg (max 400µg)
+    Bradycardia (IV): 4-5µg/kg (max 400µg)
+    Reversal (IV): 200µg per 1mg neostigmine
+pharmaceutics:
+    presentation: Clear colourless 200µg/mL solution
+    compatibility: NS, D5W, Hartmann's; incompatible with diazepam and thiopentone
+    solubility: Water- and alcohol-soluble
+pharmacokinetics:
+    absorption: Onset within 1 minute IV; peak effect 30-45 minutes IM
+    distribution:
+        pKa:
+        vd: 0.16L/kg
+        protein binding:
+    metabolism:
+        half-life: 1.7 hours
+        duration: Vagal blockade 2-3 hours; antisialagogue effect up to 7 hours
+        pathway: Minimal hepatic hydrolysis
+        metabolites:
+    elimination:
+        renal: 85% within 48 hours; >80% unchanged
+mechanism:
+    target:
+        - Muscarinic receptors
+    action: Competitive antagonism of acetylcholine at peripheral muscarinic receptors
+contraindications:
+pregnancy:
+    code: B2
+    justification:
+pharmacodynamics:
+    resp:
+        - Bronchodilation
+        - ↓ Secretions
+    cvs:
+        - Reverses vagal ↓ HR
+        - ↑ HR at doses >200µg
+    cns:
+    endo:
+    msk:
+        - ↓ Sweating
+    met:
+    ren:
+    gu:
+        - Urinary retention
+    git:
+        - ↓ Oral and gastric secretions
+        - ↓ Motility
+        - Constipation
+    haeme:
+considerations:
+    - Does not cross the blood-brain barrier
+    - Renal impairment → prolonged effect
+    - Large doses may block the neuromuscular junction
+references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 8 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Aspen Pharmacare Australia Pty Ltd. ROBINUL Australian Product Information. Revised 6 December 2024.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Young P, Psirides A. Wellington ICU Drug Manual. 2nd Ed. Wellington Regional Hospital. 2013.

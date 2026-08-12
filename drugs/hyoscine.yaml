@@ -1,0 +1,75 @@
+---
+aliases:
+    - Scopolamine
+class: Anticholinergic
+chemistry: Tropane alkaloid
+dose:
+    Motion sickness (IM/SC): 200µg
+    Premedication (IM/SC): 200-600µg
+    Secretions (IV/IM/SC): 300-600µg Q6-8H
+pharmaceutics:
+    presentation: Clear colourless 600µg/mL solution
+    compatibility:
+    solubility: Highly water-soluble
+pharmacokinetics:
+    absorption: 10-50% oral bioavailability
+    distribution:
+        pKa: 7.55
+        vd: 2L/kg
+        protein binding: 30%
+    metabolism:
+        half-life: 9 hours
+        duration: Vestibular effects may persist for days
+        pathway: Extensive hepatic metabolism to inactive metabolites
+        metabolites:
+    elimination:
+        renal: 2% unchanged; remainder as metabolites
+mechanism:
+    target:
+        - Muscarinic receptors (M1-M5)
+    action: Competitive antagonism of acetylcholine at muscarinic receptors → ↓ intracellular Ca2+ and cAMP
+contraindications:
+    - Myasthenia gravis
+    - Megacolon
+    - Angle-closure glaucoma
+    - Tachycardia
+    - Prostatic enlargement with urinary retention
+    - GI obstruction, stenosis or paralytic ileus
+    - Anticoagulation (IM route)
+pregnancy:
+    code: B2
+    justification:
+pharmacodynamics:
+    resp:
+        - Bronchodilation
+        - ↓ Secretions
+    cvs:
+        - ↑ HR
+    cns:
+        - Central anticholinergic syndrome
+        - Delirium
+        - Hallucinations
+        - Mydriasis
+        - Amnesia
+    endo:
+    msk:
+        - ↓ Sweating
+    met:
+    ren:
+    gu:
+        - Urinary retention
+    git:
+        - ↓ Gastric acid secretion
+        - ↓ Intestinal motility
+        - Constipation
+        - Antiemetic effect
+    haeme:
+considerations:
+    - Crosses the blood-brain barrier and placenta
+    - Avoid in elderly patients
+references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 8 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Health Products Regulatory Authority. Hyoscine Hydrobromide Martindale Pharma 600 micrograms/ml Solution for Injection Summary of Product Characteristics. Revised June 2019.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Young P, Psirides A. Wellington ICU Drug Manual. 2nd Ed. Wellington Regional Hospital. 2013.
