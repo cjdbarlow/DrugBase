@@ -1,0 +1,82 @@
+---
+aliases:
+    - Meperidine
+class: Strong μ-opioid agonist
+chemistry: Synthetic phenylpiperidine
+dose:
+    Analgesia (IV): 25-50mg Q3-4H
+    Analgesia (SC/IM): 25-100mg Q3-4H
+    Paediatric analgesia (IM): 0.5-2mg/kg Q3-4H; max 100mg
+    Paediatric analgesia (IV): 0.5-1mg/kg Q4H
+pharmaceutics:
+    presentation: Clear colourless 50mg/mL solution in 2mL ampoule
+    compatibility: NS, Hartmann's, D5W, D10W
+    solubility:
+pharmacokinetics:
+    absorption: Oral first-pass metabolism; erratic IM absorption; IM peak ~24 minutes
+    distribution:
+        pKa:
+        vd: 4L/kg
+        protein binding: ~70%
+    metabolism:
+        half-life: 3.2 ± 0.8 hours
+        duration: 2-4 hours
+        pathway: Hepatic hydrolysis, glucuronidation and N-demethylation
+        metabolites:
+            - Pethidinic acid
+            - Norpethidine (active, neurotoxic)
+    elimination:
+        renal: ~5% unchanged; norpethidine renally cleared
+mechanism:
+    target:
+        - μ-opioid receptor
+        - α2 adrenoreceptor
+    action: μ-receptor Gi agonism → ↓ presynaptic Ca2+ influx and ↑ postsynaptic K+ efflux; α2 action → ↓ shivering
+contraindications:
+    - MAOI use within 14 days
+    - Severe respiratory disease or respiratory depression
+    - Convulsive states
+    - Pre-eclampsia or eclampsia
+    - Supraventricular tachyarrhythmia or cor pulmonale
+    - Severe hepatic disease
+    - GI obstruction or paralytic ileus
+    - Head injury, brain tumour or raised ICP
+pregnancy:
+    code: C
+    justification: May cause neonatal respiratory depression; prolonged use may cause neonatal withdrawal.
+pharmacodynamics:
+    resp:
+        - Dose-dependent respiratory depression
+        - ↓ Cough reflex
+    cvs:
+        - ↑ HR
+        - ↓ MAP
+    cns:
+        - Analgesia
+        - Sedation
+        - ↓ Shivering
+        - Norpethidine → tremor, hallucinations and seizures
+        - Miosis; overdose may cause mydriasis
+    endo:
+        - ↑ ADH
+    msk:
+    met:
+    ren:
+    gu:
+        - Urinary retention
+    git:
+        - N/V
+        - ↓ Motility
+        - Less constipation than morphine
+    haeme:
+considerations:
+    - Limit use to 24-36 hours
+    - Renal impairment → norpethidine accumulation
+    - Risk of serotonin syndrome
+    - Antimuscarinic activity
+references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 8 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Juno Pharmaceuticals Pty Ltd. PETHIDINE JUNO Australian Product Information. Version 5.0. Revised 26 August 2025.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Young P, Psirides A. Wellington ICU Drug Manual. 2nd Ed. Wellington Regional Hospital. 2013.
