@@ -1,0 +1,78 @@
+---
+aliases:
+    - α-methyldopa
+    - Aldomet
+class: Central α2 agonist
+chemistry: Phenylalanine derivative
+dose:
+    Hypertension (PO): 250mg BD/TDS; max 3g/day
+pharmaceutics:
+    presentation: Yellow 250mg film-coated tablet
+    compatibility:
+    solubility: Slightly water-soluble; pKa 9.85
+pharmacokinetics:
+    absorption: 25% oral bioavailability (8-62%); peak 2-3 hours
+    distribution:
+        pKa: 9.85
+        vd: 0.6L/kg
+        protein binding: <15%
+    metabolism:
+        half-life: 1-2 hours
+        duration: ~10 hours
+        pathway: Intestinal, hepatic and neuronal metabolism
+        metabolites:
+            - α-methyldopamine
+            - α-methylnoradrenaline (active)
+    elimination:
+        renal: Up to 50% unchanged
+mechanism:
+    target:
+        - Central presynaptic α2 adrenoreceptors
+    action: Active metabolites replace noradrenaline and stimulate central α2 receptors → ↓ sympathetic outflow
+contraindications:
+    - Active hepatic disease
+    - Previous methyldopa-associated hepatic disorder
+    - MAOI therapy
+    - Catecholamine-secreting tumour
+    - Porphyria
+pregnancy:
+    code: A
+    justification:
+pharmacodynamics:
+    resp:
+    cvs:
+        - ↓ SVR and MAP
+        - HR and CO usually maintained
+        - Bradycardia
+        - Postural ↓ MAP
+    cns:
+        - Sedation
+        - Depression
+        - Nightmares
+        - ↓ MAC
+    endo:
+        - ↑ Prolactin
+    msk:
+    met:
+    ren:
+        - Renal blood flow maintained
+    gu:
+        - Impotence
+        - ↓ Libido
+    git:
+        - Dry mouth
+        - N/V
+    haeme:
+        - Positive Coombs test
+        - Haemolytic anaemia
+        - Drug-induced lupus
+considerations:
+    - Preferred centrally acting antihypertensive in pregnancy
+    - Delayed peak effect despite short plasma half-life
+    - Renal impairment → prolonged effect and lower dose
+    - Hepatotoxicity
+references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 8 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Aspen Pharmacare Australia Pty Ltd. ALDOMET Australian Product Information. Revised 22 May 2020.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.

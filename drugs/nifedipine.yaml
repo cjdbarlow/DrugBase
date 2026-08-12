@@ -1,0 +1,74 @@
+---
+aliases:
+    - Adalat
+class: Dihydropyridine calcium channel blocker
+chemistry: 1,4-dihydropyridine
+dose:
+    Hypertension (PO): 30mg daily; max 120mg/day
+    Stable angina (PO): 30mg daily; max 90mg/day
+pharmaceutics:
+    presentation: Pale red 30mg and 60mg controlled-release tablets
+    compatibility:
+    solubility: Practically water-insoluble; light-sensitive; pKa 3.93
+pharmacokinetics:
+    absorption: 45% oral bioavailability; XR plateau ~6 hours
+    distribution:
+        pKa: 3.93
+        vd: 13L/kg
+        protein binding: 96-98%
+    metabolism:
+        half-life: ~2 hours
+        duration: Exceeds plasma half-life
+        pathway: Intestinal and hepatic CYP3A4
+        metabolites:
+            - Inactive metabolites
+    elimination:
+        renal: 60-80% as metabolites; 5-15% biliary; <0.1% unchanged
+mechanism:
+    target:
+        - α1 subunit of L-type Ca2+ channels
+    action: Preferential vascular smooth-muscle L-type Ca2+ channel blockade → arterial vasodilation
+contraindications:
+    - Cardiogenic shock
+    - Severe ↓ MAP
+    - Unstable angina
+    - Clinically significant aortic stenosis
+    - MI within 1 month
+    - GI obstruction or severe luminal narrowing
+    - Rifampicin therapy
+    - Pregnancy or lactation
+pregnancy:
+    code: C
+    justification: Maternal ↓ MAP → fetal hypoxia; tocolysis → acute pulmonary oedema, especially IR nifedipine, multiple pregnancy, IV use or concurrent β2 agonists.
+pharmacodynamics:
+    resp:
+    cvs:
+        - ↓ SVR, MAP and afterload
+        - ↑ Coronary blood flow
+        - Reflex ↑ HR and inotropy
+        - Peripheral oedema
+        - Flushing
+    cns:
+        - Headache
+        - Dizziness
+    endo:
+    msk:
+    met:
+        - Hyperglycaemia
+    ren:
+    gu:
+        - Uterine relaxation
+    git:
+        - Constipation
+    haeme:
+considerations:
+    - Swallow XR tablets whole
+    - Avoid grapefruit juice
+    - XR formulation is unsuitable for acute angina
+    - Nifedipine formulations are not bioequivalent
+    - CYP3A4 interactions
+references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 8 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Arrotex Pharmaceuticals Pty Ltd. APO-NIFEDIPINE XR Australian Product Information. Revised 2 December 2025.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
