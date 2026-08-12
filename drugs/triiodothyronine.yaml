@@ -1,0 +1,71 @@
+---
+aliases:
+    - Liothyronine
+    - T3
+class: Thyroid hormone
+chemistry: Iodinated tyrosine derivative
+dose:
+    Myxoedema coma (IV): 25-50µg initial; subsequent doses Q4-12H; ≥65µg/day initially
+pharmaceutics:
+    presentation: 10µg/mL solution in 1mL amber vial
+    compatibility:
+    solubility: pKa 8.4; reluctantly water-soluble
+pharmacokinetics:
+    absorption: 97% oral bioavailability; IV metabolic response within 2-4 hours
+    distribution:
+        pKa: 8.4
+        vd: 1.8L/kg
+        protein binding: Lower affinity than T4
+    metabolism:
+        half-life: 6-10 hours
+        duration: Maximum IV response within 2 days
+        pathway: Tissue deiodination; hepatic metabolism with enterohepatic recirculation in overdose
+        metabolites:
+            - Inactive iodinated compounds
+    elimination:
+        renal: Substantially excreted
+mechanism:
+    target:
+        - Nuclear thyroid hormone receptors
+        - Cytoplasmic and transmembrane thyroid hormone receptors
+    action: Receptor binding → altered gene transcription and protein synthesis; non-genomic acute effects
+contraindications:
+    - Uncorrected adrenal cortical insufficiency
+    - Untreated thyrotoxicosis
+    - Artificial rewarming in myxoedema coma
+pregnancy:
+    code: A
+    justification:
+pharmacodynamics:
+    resp:
+        - ↑ Rate and depth of respiration
+    cvs:
+        - ↑ HR
+        - ↑ Inotropy
+        - ↑ CO
+        - ↓ SVR
+    cns:
+        - ↑ Cerebration
+    endo:
+    msk:
+        - ↑ Protein synthesis, blood flow and O2 consumption
+    met:
+        - ↑ BMR and O2 consumption
+        - ↑ Thermogenesis
+    ren:
+        - ↑ RBF and clearance
+    gu:
+    git:
+        - ↑ Motility
+        - ↑ Appetite
+    haeme:
+considerations:
+    - Give with glucocorticoids for myxoedema coma
+    - Cardiac disease → initial 10-20µg IV
+    - ↑ Catecholamine and anticoagulant effects
+    - Monitor T3 and TSH
+references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 8 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - XGen Pharmaceuticals DJB Inc. Liothyronine Sodium Injection (T3) United States Prescribing Information. Revised May 2023.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.

@@ -1,0 +1,69 @@
+---
+aliases:
+    - GlucaGen
+class: Pancreatic hormone analogue
+chemistry: 29-amino-acid peptide
+dose:
+    BB/CCB overdose (IV): 5mg; repeat once after 5min, then 2-5mg/hour if responsive
+    Hypoglycaemia (IV/IM/SC): 1mg
+pharmaceutics:
+    presentation: White 1mg powder; reconstitutes to clear colourless 1mg/mL solution
+    compatibility: D5W, water for injection
+    solubility: pKa 7.1; poorly water-soluble at high concentrations
+pharmacokinetics:
+    absorption: No oral bioavailability; SC effect within ~20 minutes
+    distribution:
+        pKa: 7.1
+        vd: 0.25L/kg
+        protein binding: Minimal
+    metabolism:
+        half-life: 20-30 minutes
+        duration:
+        pathway: ~30% hepatic, ~30% renal; remainder degraded by the reticuloendothelial system
+        metabolites:
+    elimination:
+        renal: Minimal unchanged drug
+mechanism:
+    target:
+        - Glucagon receptor
+    action: Gs/Gq agonism → ↑ cAMP → glycogenolysis, gluconeogenesis and β-receptor-independent cardiac stimulation
+contraindications:
+    - Phaeochromocytoma
+    - Insulinoma
+    - Glucagonoma
+pregnancy:
+    code: B3
+    justification:
+pharmacodynamics:
+    resp:
+    cvs:
+        - ↑ HR
+        - ↑ Inotropy
+        - ↑ CO
+        - ↑ Myocardial O2 consumption
+    cns:
+    endo:
+        - ↑ Blood glucose
+        - ↑ Insulin release
+    msk:
+    met:
+        - ↑ Glycogenolysis and gluconeogenesis
+        - ↑ β-oxidation and ketosis
+        - ↓ K+ at high doses
+    ren:
+    gu:
+    git:
+        - ↓ Tone and motility
+        - N/V
+    haeme:
+considerations:
+    - Hepatic glycogen required for hypoglycaemic effect
+    - BB/CCB overdose use is second-line with limited clinical evidence
+    - No overdose response after 10mg → abandon treatment
+    - Use immediately after reconstitution
+references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 8 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Novo Nordisk Pharmaceuticals Pty Ltd. GlucaGen HypoKit Australian Product Information. Revised 21 September 2021.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Young P, Psirides A. Wellington ICU Drug Manual. 2nd Ed. Wellington Regional Hospital. 2013.
