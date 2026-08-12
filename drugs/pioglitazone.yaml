@@ -1,0 +1,67 @@
+---
+aliases:
+    - Actos
+class: Thiazolidinedione
+chemistry: Thiazolidinedione
+dose:
+    T2DM (PO): 15-30mg daily; increase after 4 weeks; max 45mg/day
+pharmaceutics:
+    presentation: White to off-white 15mg, 30mg and 45mg tablets
+    compatibility:
+    solubility: Practically water-insoluble
+pharmacokinetics:
+    absorption: 83% oral bioavailability; peak ~2 hours
+    distribution:
+        pKa:
+        vd: 0.25L/kg
+        protein binding: ">99%"
+    metabolism:
+        half-life: 5-6 hours; active metabolites 16-23 hours
+        duration: Slow onset; maximal effect 1-3 months
+        pathway: Hepatic CYP2C8 and CYP3A4
+        metabolites:
+            - M-IV (active; major)
+            - Other active and inactive metabolites
+    elimination:
+        renal: 45% in urine; 55% in faeces
+mechanism:
+    target:
+        - PPARγ nuclear receptor
+    action: PPARγ agonism → altered transcription of insulin-responsive genes → ↑ insulin-dependent glucose disposal and ↓ hepatic glucose output
+contraindications:
+    - NYHA class II-IV HF
+pregnancy:
+    code: B3
+    justification:
+pharmacodynamics:
+    resp:
+    cvs:
+        - Fluid retention/oedema
+        - HF exacerbation
+    cns:
+    endo:
+        - ↑ Insulin sensitivity
+        - ↓ BGL and HbA1c
+        - May restore ovulation
+    msk:
+        - ↑ Fractures in women
+    met:
+        - Weight gain
+    ren:
+    gu:
+        - Possible ↑ bladder cancer risk
+    git:
+    haeme:
+        - ↓ Hb and Hct from haemodilution
+considerations:
+    - Depends on endogenous insulin; not for type 1 DM or DKA
+    - Women, HF or insulin use → start 15mg
+    - Do not use with current or previous bladder cancer
+    - Monitor fluid retention and HF after initiation or dose increase
+    - ALT >2.5× ULN → do not initiate
+    - Visual change → assess for macular oedema
+references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 8 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Generic Health Pty Ltd. ACTOS Australian Product Information. Version 11. Revised 1 December 2025.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.

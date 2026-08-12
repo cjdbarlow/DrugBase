@@ -1,0 +1,72 @@
+---
+aliases:
+    - Diamicron
+class: Sulfonylurea
+chemistry: Second-generation sulfonylurea
+dose:
+    T2DM (PO): 30mg daily; titrate by 30mg; max 120mg/day
+pharmaceutics:
+    presentation: White scored 60mg modified-release tablet
+    compatibility:
+    solubility: Practically water-insoluble; pKa 5.8
+pharmacokinetics:
+    absorption: Completely absorbed; 97% oral bioavailability; MR plateau 6-12 hours
+    distribution:
+        pKa: 5.8
+        vd: 0.2-0.4L/kg
+        protein binding: 85-97%
+    metabolism:
+        half-life: 11 hours
+        duration: 24 hours
+        pathway: Extensive hepatic metabolism
+        metabolites:
+            - Inactive metabolites
+    elimination:
+        renal: 4% renally eliminated; metabolites extensively excreted in urine
+mechanism:
+    target:
+        - SUR1/SUR2 subunits of β-cell KATP channels
+    action: KATP channel closure → ↓ K+ efflux → β-cell depolarisation → Ca2+ influx → insulin release
+contraindications:
+    - Type 1 DM, DKA, diabetic precoma or coma
+    - Severe renal or hepatic impairment
+    - Miconazole
+    - Pregnancy or lactation
+pregnancy:
+    code: C
+    justification: May enter fetal circulation and cause neonatal hypoglycaemia.
+pharmacodynamics:
+    resp:
+    cvs:
+    cns:
+    endo:
+        - ↑ Insulin secretion
+        - ↑ Insulin sensitivity
+        - Hypoglycaemia
+        - Secondary treatment failure
+    msk:
+        - Photosensitivity
+        - Erythema multiforme or exfoliative dermatitis
+    met:
+        - Hypokalaemia
+        - ↑ Appetite and weight
+    ren:
+    gu:
+    git:
+        - N/V
+        - Abdominal pain
+        - Diarrhoea or constipation
+        - Cholestasis
+    haeme:
+        - Rare cytopenias
+considerations:
+    - Take MR dose with breakfast; do not crush or chew
+    - Fasting or missed meals → ↑ hypoglycaemia
+    - G6PD deficiency → haemolytic anaemia
+    - Alcohol → hypoglycaemia and disulfiram-like reaction
+    - Non-ionic albumin binding → little drug displacement
+references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 8 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Servier Laboratories (Aust.) Pty Ltd. DIAMICRON 60mg MR Australian Product Information. Version 7a. Revised 27 July 2022.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.

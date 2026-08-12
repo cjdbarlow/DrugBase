@@ -1,0 +1,74 @@
+---
+aliases:
+    - Diabex
+class: Biguanide
+chemistry: Biguanide
+dose:
+    T2DM (PO): 500mg daily or BD; titrate to max 1g TDS
+pharmaceutics:
+    presentation: White 500mg, 850mg and 1g film-coated tablets
+    compatibility:
+    solubility: Water-soluble; pKa 12.4
+pharmacokinetics:
+    absorption: Saturable and incomplete; 40-60% oral bioavailability
+    distribution:
+        pKa: 12.4
+        vd: 1-4L/kg
+        protein binding: Minimal
+    metabolism:
+        half-life: 6 hours
+        duration:
+        pathway: Minimal metabolism
+        metabolites:
+    elimination:
+        renal: 90% cleared renally; unchanged drug
+mechanism:
+    target:
+        - Mitochondrial complex I
+        - AMPK
+    action: ↓ Hepatocyte ATP → AMPK activation → ↓ gluconeogenesis and glycogenolysis; ↑ peripheral insulin sensitivity and ↓ intestinal glucose absorption
+contraindications:
+    - Metabolic acidosis, DKA or diabetic precoma
+    - CrCl <60mL/min
+    - Acute renal impairment, dehydration, sepsis or shock
+    - Tissue hypoxia
+    - Severe hepatic impairment
+    - Alcohol intoxication or alcoholism
+    - Elective major surgery
+    - Lactation
+pregnancy:
+    code: C
+    justification: Strict normoglycaemia is important during pregnancy.
+pharmacodynamics:
+    resp:
+    cvs:
+    cns:
+    endo:
+        - ↓ Hepatic glucose output
+        - ↑ Insulin sensitivity
+        - No hypoglycaemia alone
+    msk:
+    met:
+        - Lactic acidosis
+    ren:
+    gu:
+    git:
+        - N/V
+        - Diarrhoea
+        - Abdominal discomfort
+        - Anorexia
+        - Taste disturbance
+    haeme:
+        - ↓ Vitamin B12
+considerations:
+    - Take in divided doses with meals
+    - Renal impairment → accumulation and lactic acidosis
+    - Iodinated contrast → cease 48h before if renal impairment, otherwise at procedure; restart after 48h if renal function normal
+    - Major surgery → cease 48h before; restart after 48h if renal function normal
+    - Illness with ↓ renal function → temporarily cease
+references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 8 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Alphapharm Pty Ltd trading as Viatris. DIABEX Australian Product Information. Revised 16 October 2025.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Young P, Psirides A. Wellington ICU Drug Manual. 2nd Ed. Wellington Regional Hospital. 2013.
