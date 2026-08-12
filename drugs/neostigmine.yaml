@@ -1,0 +1,79 @@
+---
+aliases:
+    - Prostigmin
+class: Acetylcholinesterase inhibitor
+chemistry: Quaternary ammonium compound
+dose:
+    Reversal (IV): 0.05mg/kg (max 5mg)
+    Ileus (IV): 2.5mg over ≥5 hours
+    Myasthenia gravis (PO): 15-30mg Q2-4H
+pharmaceutics:
+    presentation: Clear colourless 2.5mg/mL solution
+    compatibility: NS, D5W; may be mixed with glycopyrrolate
+    solubility: Water-soluble; minimally lipid-soluble
+pharmacokinetics:
+    absorption: <5% oral bioavailability
+    distribution:
+        pKa: 12.0
+        vd: 0.12L/kg
+        protein binding: 15-25%
+    metabolism:
+        half-life: 70 minutes
+        duration: 20-30 minutes
+        pathway: Acetylcholinesterase and plasma esterase hydrolysis; hepatic microsomal metabolism
+        metabolites:
+            - Quaternary alcohol
+    elimination:
+        renal: 70% unchanged
+mechanism:
+    target:
+        - Acetylcholinesterase
+    action: Competing substrate → carbamylated enzyme → ↓ acetylcholine hydrolysis
+contraindications:
+    - Mechanical GI or urinary obstruction
+    - Doubtful bowel viability
+    - Peritonitis (for peristalsis)
+    - Bronchial asthma
+    - Depolarising neuromuscular blockade
+pregnancy:
+    code: B2
+    justification:
+pharmacodynamics:
+    resp:
+        - Bronchospasm
+        - ↑ Secretions
+    cvs:
+        - ↓ HR
+        - ↓ CO
+        - ↓ MAP
+    cns:
+        - Intrathecal analgesia and N/V
+        - Cerebral vasoconstriction
+    endo:
+    msk:
+        - Reverses non-depolarising neuromuscular blockade
+        - Fasciculations
+        - High doses → depolarising block and paralysis
+        - ↑ Sweating
+    met:
+    ren:
+    gu:
+        - ↑ Urination
+    git:
+        - ↑ Peristalsis
+        - ↑ LoS tone
+        - N/V
+        - Diarrhoea
+    haeme:
+considerations:
+    - Does not cross the blood-brain barrier at usual systemic doses
+    - Give with atropine or glycopyrrolate
+    - Muscarinic effects at lower doses; nicotinic effects at higher doses
+    - Renal impairment → prolonged effect
+references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 8 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Juno Pharmaceuticals Pty Ltd. NEOSTIGMINE JUNO Australian Product Information. Version 3.0. Revised 1 December 2025.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Young P, Psirides A. Wellington ICU Drug Manual. 2nd Ed. Wellington Regional Hospital. 2013.
+    - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.
