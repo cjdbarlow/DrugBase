@@ -1,0 +1,66 @@
+---
+aliases:
+    - Humalog
+class: Rapid-acting insulin analogue
+chemistry: Human insulin analogue; LysB28 and ProB29 reversed
+dose:
+    T1DM (SC): ~0.55units/kg/day total; ~50% as prandial insulin
+pharmaceutics:
+    presentation: Clear colourless 100units/mL solution in 10mL vial, 3mL cartridge or pen
+    compatibility: Humulin NPH immediately before SC injection
+    solubility: Highly soluble; reduced self-association
+pharmacokinetics:
+    absorption: SC onset 15-30 minutes; peak 0.5-2.5 hours
+    distribution:
+        pKa:
+        vd: 0.44L/kg
+        protein binding: Minimal
+    metabolism:
+        half-life:
+        duration: 3-6.5 hours
+        pathway: Hepatic, renal and peripheral proteolysis; receptor-mediated endocytosis
+        metabolites:
+            - Inactive peptides
+    elimination:
+        renal: ~1% unchanged
+mechanism:
+    target:
+        - Insulin receptor tyrosine kinase
+    action: Reduced self-association accelerates SC absorption; receptor activation → IRS/PI3K/Akt signalling → GLUT4 translocation and altered enzyme activity
+contraindications:
+    - Hypoglycaemia
+pregnancy:
+    code: A
+    justification:
+pharmacodynamics:
+    resp:
+    cvs:
+        - Positive inotropy
+    cns:
+        - Severe hypoglycaemia → seizures or coma
+    endo:
+        - ↓ BGL
+        - ↓ Glucagon release
+        - Hypoglycaemia
+    msk:
+        - ↑ Glucose and amino-acid uptake
+        - ↑ Glycogen and protein synthesis
+    met:
+        - ↓ K+
+        - ↓ Lipolysis and proteolysis
+        - ↑ Lipogenesis
+    ren:
+    gu:
+    git:
+    haeme:
+considerations:
+    - Give within 15 minutes before or 20 minutes after starting a meal
+    - IV use requires medical supervision
+    - U100 solution may be used in compatible SC pumps
+    - Rotate injection sites
+    - Renal or hepatic impairment → ↓ insulin requirement
+references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 8 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Eli Lilly Australia Pty Ltd. HUMALOG Australian Product Information. Version 13.0. Revised 21 September 2023.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.

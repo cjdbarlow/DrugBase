@@ -1,0 +1,68 @@
+---
+aliases:
+    - NPH insulin
+    - Protaphane
+class: Intermediate-acting human insulin
+chemistry: Recombinant human insulin complexed with protamine and zinc
+dose:
+    T1DM (SC): 0.5-1units/kg/day total
+    T2DM (SC): 0.3-0.6units/kg/day initially
+pharmaceutics:
+    presentation: Cloudy white 100units/mL suspension in 10mL vial, 3mL cartridge or pen
+    compatibility: May mix with soluble insulin immediately before injection
+    solubility: Protamine-zinc suspension
+pharmacokinetics:
+    absorption: SC onset 1.5-4 hours; peak 6-14 hours
+    distribution:
+        pKa:
+        vd: 0.44L/kg
+        protein binding: Minimal
+    metabolism:
+        half-life:
+        duration: 16-24 hours
+        pathway: Protamine degradation; hepatic, renal and peripheral proteolysis; receptor-mediated endocytosis
+        metabolites:
+            - Inactive peptides
+    elimination:
+        renal: ~1% unchanged; inactive metabolites
+mechanism:
+    target:
+        - Insulin receptor tyrosine kinase
+    action: Tissue proteases degrade protamine → delayed insulin absorption; receptor activation → IRS/PI3K/Akt signalling → GLUT4 translocation and altered enzyme activity
+contraindications:
+    - Hypoglycaemia
+pregnancy:
+    code:
+    justification:
+pharmacodynamics:
+    resp:
+    cvs:
+        - Positive inotropy
+    cns:
+        - Severe hypoglycaemia → seizures or coma
+    endo:
+        - ↓ BGL
+        - ↓ Glucagon release
+        - Hypoglycaemia
+    msk:
+        - ↑ Glucose and amino-acid uptake
+        - ↑ Glycogen and protein synthesis
+    met:
+        - ↓ K+
+        - ↓ Lipolysis and proteolysis
+        - ↑ Lipogenesis
+    ren:
+    gu:
+    git:
+    haeme:
+considerations:
+    - Resuspend before use
+    - Once or twice daily
+    - Protamine is fish-derived
+    - Variable absorption and pronounced peak
+    - Rotate injection sites
+    - Renal or hepatic impairment → ↓ insulin requirement
+references:
+    - Novo Nordisk Pharmaceuticals Pty Ltd. Actrapid, Protaphane, Mixtard 30/70 and Mixtard 50/50 Australian Product Information. Revised 18 July 2023.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
