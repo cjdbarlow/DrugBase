@@ -1,0 +1,84 @@
+---
+aliases:
+    - Largactil
+class: Low-potency phenothiazine dopamine antagonist
+chemistry: Aliphatic phenothiazine; pKa 9.3
+dose:
+    Nausea (PO): 10mg Q8H
+    Nausea (IV/IM): 12.5mg Q8H
+    Hiccups (IV): 50mg over 24 hours
+pharmaceutics:
+    presentation: 25mg and 100mg tablets; 5mg/mL syrup; clear pale-yellow 25mg/mL solution
+    compatibility: Dilute IV in 0.9% NaCl to ≤1mg/mL; do not mix with other drugs
+    solubility: Hydrochloride salt is water-soluble and light-sensitive
+pharmacokinetics:
+    absorption: Erratic/incomplete; PO bioavailability 10-80%; Tmax PO 1-4 hours, IM 15-30 minutes
+    distribution:
+        pKa: 9.3
+        vd: 10-35L/kg; mean 22L/kg
+        protein binding: 90-99%
+    metabolism:
+        half-life: 2-3 hours early; ~15 hours intermediate; up to 60 days terminal
+        duration:
+        pathway: Extensive hepatic first-pass metabolism; demethylation, N-oxidation, sulphoxidation, deamination and conjugation
+        metabolites:
+            - 7-Hydroxychlorpromazine (active)
+            - 3-Hydroxychlorpromazine (active)
+            - Desmethylchlorpromazine (active)
+            - Chlorpromazine N-oxide (active)
+            - Chlorpromazine sulphoxide (inactive)
+    elimination:
+        renal: 43-65% of daily dose as metabolites; <1% unchanged
+mechanism:
+    target:
+        - D2 receptors
+        - α1 receptors
+        - H1 receptors
+        - Muscarinic receptors
+        - 5-HT2A receptors
+    action: D2 antagonism in the chemoreceptor trigger zone → antiemesis; broad receptor antagonism → sedation and autonomic effects
+contraindications:
+    - Circulatory collapse
+    - CNS depression or coma
+    - Bone-marrow depression
+    - Phaeochromocytoma
+    - Hepatic failure or active hepatic disease
+pregnancy:
+    code: D
+    justification: High doses in late pregnancy → prolonged neonatal neurological disturbance
+pharmacodynamics:
+    resp:
+        - CNS depression → hypoventilation
+    cvs:
+        - α1 antagonism → ↓ MAP and reflex tachycardia
+        - QT prolongation
+    cns:
+        - Sedation
+        - Extrapyramidal effects
+        - Tardive dyskinesia
+        - Neuroleptic malignant syndrome
+        - ↓ Seizure threshold
+    endo:
+        - ↑ Prolactin
+    msk:
+    met:
+        - Hypothermia
+    ren:
+    gu:
+        - Urinary retention
+    git:
+        - Antiemetic
+        - Constipation
+    haeme:
+        - Bone-marrow suppression
+considerations:
+    - Monitor BP and vital signs after parenteral doses
+    - Deep IM or dilute IV infusion; injection is irritant
+    - Potentiates opioids, sedatives and other CNS depressants
+    - Renal/hepatic impairment → ↓ dose
+references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 8 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Clinect Pty Ltd. Largactil Australian Product Information. Revised 10 October 2023.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Young P, Psirides A. Wellington ICU Drug Manual. 2nd Ed. Wellington Regional Hospital. 2013.

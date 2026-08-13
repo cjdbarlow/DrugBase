@@ -1,0 +1,73 @@
+---
+aliases:
+    - Droleptan
+class: Butyrophenone dopamine antagonist
+chemistry: Butyrophenone; pKa 7.46
+dose:
+    Induction (IV): 0.25mg/kg
+    Maintenance (IV): 1.25-2.5mg
+    Regional (IV/IM): 2.5-5mg
+pharmaceutics:
+    presentation: Clear 2.5mg/mL solution in brown ampoules
+    compatibility: Compatible with 0.9% NaCl, 5% glucose and Hartmann's; incompatible with thiopentone and methohexital
+    solubility: Practically water-insoluble; light-sensitive
+pharmacokinetics:
+    absorption: Oral bioavailability ~75%; rapid after IM injection; onset 3-10 minutes
+    distribution:
+        pKa: 7.46
+        vd: 1.5L/kg
+        protein binding: 85-90%
+    metabolism:
+        half-life: 2 hours
+        duration: Sedation 2-4 hours; altered consciousness up to 12 hours
+        pathway: Extensive hepatic CYP3A4 metabolism
+        metabolites:
+            - Inactive metabolites
+    elimination:
+        renal: 75% as metabolites; <1% unchanged
+mechanism:
+    target:
+        - Central D2 receptors
+        - α1 receptors
+        - Muscarinic receptors
+    action: D2 antagonism in the chemoreceptor trigger zone → antiemesis and sedation; α1 and muscarinic antagonism → autonomic effects
+contraindications:
+    - QT prolongation or congenital long-QT syndrome
+    - Hypokalaemia or hypomagnesaemia
+    - Clinically significant bradycardia
+    - Coma
+    - Parkinson's disease
+    - Phaeochromocytoma
+pregnancy:
+    code: C
+    justification: High doses in late pregnancy → prolonged neonatal neurological disturbance
+pharmacodynamics:
+    resp:
+    cvs:
+        - QT prolongation → torsades de pointes
+        - α1 antagonism → ↓ MAP
+    cns:
+        - Sedation
+        - Extrapyramidal effects
+        - Neuroleptic malignant syndrome
+    endo:
+        - ↑ Prolactin
+    msk:
+    met:
+    ren:
+    gu:
+    git:
+        - Antiemetic
+        - Constipation
+    haeme:
+considerations:
+    - ECG before use; monitor for ≥7 hours after the procedure
+    - Correct electrolyte abnormalities before use
+    - Potentiates opioids and other CNS depressants
+    - CYP1A2/3A4 inhibitors → prolonged effect
+references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 8 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Southern Cross Pharma Pty Ltd. Droperidol Lupin Australian Product Information. Revised 31 January 2024.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.

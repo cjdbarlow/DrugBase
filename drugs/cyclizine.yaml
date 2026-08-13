@@ -1,0 +1,73 @@
+---
+aliases:
+    - Valoid
+    - Nausicalm
+class: First-generation H1 antagonist
+chemistry: Piperazine derivative; pKa 8.5
+dose:
+    Nausea (PO/IV/IM): 1mg/kg; max 150mg/day
+    PONV (IV): 50mg 20 minutes before end of surgery
+pharmaceutics:
+    presentation: 50mg tablet; clear colourless light-sensitive 50mg/mL solution
+    compatibility: Do not mix with other drugs
+    solubility: Water-soluble
+pharmacokinetics:
+    absorption: Oral bioavailability 50-80%; Tmax ~2 hours
+    distribution:
+        pKa: 8.5
+        vd: 16-20L/kg
+        protein binding: 59-76%
+    metabolism:
+        half-life: 20 hours
+        duration: 4-6 hours
+        pathway: Extensive hepatic CYP2D6 metabolism
+        metabolites:
+            - Norcyclizine (weak H1 activity)
+    elimination:
+        renal: <1% within 24 hours
+mechanism:
+    target:
+        - Central H1 receptors
+        - Muscarinic receptors
+    action: H1 and muscarinic antagonism in vestibular and brainstem emetic pathways
+contraindications:
+    - Acute alcohol intoxication
+pregnancy:
+    code: B3
+    justification:
+pharmacodynamics:
+    resp:
+        - ↓ Airway secretions
+    cvs:
+        - ↑ HR
+        - Severe heart failure → ↑ MAP and ↓ CO
+    cns:
+        - Sedation
+        - Delirium
+        - Hallucinations
+    endo:
+    msk:
+        - IV use → paralysis rarely
+    met:
+    ren:
+    gu:
+        - Urinary retention
+    git:
+        - Antiemetic
+        - ↑ Lower oesophageal sphincter tone
+        - Constipation
+    haeme:
+considerations:
+    - Pregnancy → use not advised
+    - Glaucoma, urinary retention, GI obstruction or prostatic hypertrophy
+    - Severe heart failure or acute MI
+    - Porphyria
+    - Additive CNS depression and antimuscarinic effects
+    - Abuse for euphoric/hallucinatory effects
+references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 8 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Brown & Burk UK Ltd. Cyclizine 50mg/mL solution for injection Summary of Product Characteristics. Revised 8 April 2026.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.
+    - Young P, Psirides A. Wellington ICU Drug Manual. 2nd Ed. Wellington Regional Hospital. 2013.
