@@ -1,0 +1,60 @@
+---
+aliases:
+class: Non-particulate antacid
+chemistry: Trisodium citrate salt
+dose:
+    Aspiration (PO): 30mL of 0.3mol/L immediately before anaesthesia
+pharmaceutics:
+    presentation: Clear colourless 0.3mol/L oral solution; 2.647g/30mL
+    compatibility:
+    solubility: Highly water-soluble
+pharmacokinetics:
+    absorption: Rapid systemic absorption
+    distribution:
+        pKa:
+        vd:
+        protein binding:
+    metabolism:
+        half-life:
+        duration: Short
+        pathway: Citrate enters intermediary metabolism
+        metabolites:
+            - Bicarbonate
+    elimination:
+        renal: Systemically absorbed citrate renally eliminated
+mechanism:
+    target:
+        - Gastric hydrochloric acid
+    action: Citrate alkalinity neutralises gastric acid → ↑ gastric pH
+contraindications:
+    - Metabolic or respiratory alkalosis
+    - Hypocalcaemia
+    - Hypochlorhydria
+pregnancy:
+    code:
+    justification:
+pharmacodynamics:
+    resp:
+        - ↓ Aspiration-pneumonitis severity
+    cvs:
+    cns:
+    endo:
+    msk:
+    met:
+        - Metabolic alkalosis
+    ren:
+        - Urinary alkalinisation
+    gu:
+    git:
+        - Rapid ↑ gastric pH
+        - Unpleasant taste
+    haeme:
+considerations:
+    - 30mL contains 27mmol Na+
+    - HF, oedema, renal impairment or hypertension → sodium load
+    - Citrate ↑ intestinal aluminium absorption
+    - Alters absorption and renal clearance of pH-dependent drugs
+references:
+    - Macarthys Laboratories Limited trading as Martindale Pharma. Sodium Citrate 0.3M Oral Solution Summary of Product Characteristics. Revised 11 February 2025.
+    - Smith S, Scarth E, Sasada M. Drugs in Anaesthesia and Intensive Care. 4th Ed. Oxford University Press. 2011.
+    - Petkov V. Essential Pharmacology For The ANZCA Primary Examination. Vesselin Petkov. 2012.

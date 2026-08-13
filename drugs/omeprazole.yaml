@@ -1,0 +1,69 @@
+---
+aliases:
+    - Losec
+class: Proton-pump inhibitor
+chemistry: Substituted benzimidazole prodrug
+dose:
+    GORD/PUD (PO): 20mg daily
+    Prophylaxis (PO/IV): 40mg daily
+    UGIB (IV): 40mg Q6-12H
+pharmaceutics:
+    presentation: Light pink 10mg and pink 20mg enteric-coated tablets; 40mg powder for IV injection
+    compatibility:
+    solubility: Slightly water-soluble; acid-labile; pKa 3.97
+pharmacokinetics:
+    absorption: Small-intestinal; bioavailability 35% initially and 60% with repeat dosing
+    distribution:
+        pKa: 3.97
+        vd: 0.3L/kg
+        protein binding: 97%
+    metabolism:
+        half-life: 0.5-1 hour
+        duration: Proton-pump inhibition up to 72 hours
+        pathway: Hepatic CYP2C19 and CYP3A4; acid activation in parietal-cell canaliculi
+        metabolites:
+            - Sulfenamide (active)
+            - Hydroxyomeprazole (inactive)
+            - Omeprazole sulphone (inactive)
+    elimination:
+        renal: 80% as metabolites; remainder in faeces
+mechanism:
+    target:
+        - Luminal gastric H+/K+-ATPase
+    action: Acid-activated sulfenamide covalently binds active proton pumps → irreversible inhibition of gastric-acid secretion
+contraindications:
+    - Cilostazol
+pregnancy:
+    code: B3
+    justification:
+pharmacodynamics:
+    resp:
+        - ↑ Pneumonia risk
+    cvs:
+    cns:
+        - Headache
+    endo:
+    msk:
+    met:
+        - Hypomagnesaemia
+        - Vitamin B12 and iron deficiency
+    ren:
+        - Interstitial nephritis
+    gu:
+    git:
+        - ↑ Gastric pH and ↓ secretion volume
+        - N/V, abdominal pain and diarrhoea
+        - ↑ C. difficile infection
+        - Rebound acid hypersecretion after withdrawal
+    haeme:
+considerations:
+    - Swallow or disperse enteric-coated pellets; do not crush or chew
+    - CYP2C19 variability and interactions
+    - ↓ Clopidogrel active-metabolite exposure
+    - Consider withholding during high-dose methotrexate
+references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 8 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Pharmaco (Australia) Ltd. LOSEC Australian Product Information. Version 3.0. Revised 21 October 2025.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Young P, Psirides A. Wellington ICU Drug Manual. 2nd Ed. Wellington Regional Hospital. 2013.
