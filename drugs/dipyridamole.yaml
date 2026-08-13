@@ -1,0 +1,74 @@
+---
+aliases:
+    - Persantin
+    - Pytazen
+class: Phosphodiesterase inhibitor; adenosine-uptake inhibitor
+chemistry: Pyrimido-pyrimidine
+dose:
+    CVA (PO): 200mg BD
+    Antithrombotic adjunct (PO): 150mg SR BD
+    Perfusion imaging (IV): 0.14mg/kg/min for 4 minutes; max 60mg
+    Stress echo (IV): 0.56mg/kg over 4 minutes, then 0.28mg/kg over 2 minutes after 4 minutes; max 0.84mg/kg
+pharmaceutics:
+    presentation: 25mg tablet; 150mg SR tablet/capsule; clear yellow 5mg/mL solution
+    compatibility: Dilute IV ≥1:2 with 0.45% or 0.9% NaCl or 5% glucose; do not mix with other drugs
+    solubility: Lipophilic; log P 3.92
+pharmacokinetics:
+    absorption: Variable PO absorption
+    distribution:
+        pKa:
+        vd: 100-140L at steady state
+        protein binding: 97-99%
+    metabolism:
+        half-life: "IV: distribution 3 minutes; elimination 40 minutes; terminal 15 hours"
+        duration:
+        pathway: Hepatic glucuronidation; possible enterohepatic recycling
+        metabolites:
+            - Dipyridamole monoglucuronide
+    elimination:
+        renal: ~5% after IV; faecal elimination also occurs
+mechanism:
+    target:
+        - Cyclic-nucleotide phosphodiesterases
+        - Adenosine uptake
+    action: PDE inhibition and ↓ adenosine uptake → ↑ platelet cAMP/cGMP → ↓ intracellular Ca2+ and platelet activation; coronary vasodilatation
+contraindications:
+    - Acute MI or unstable angina (IV stress)
+    - Symptomatic severe AS (IV stress)
+    - Haemodynamically significant arrhythmia or uncontrolled symptomatic CCF (IV stress)
+    - Acute PE or pulmonary infarction, myocarditis, pericarditis, active endocarditis or aortic dissection (IV stress)
+    - Regular oral dipyridamole (additional IV contraindicated)
+pregnancy:
+    code: B1
+    justification:
+pharmacodynamics:
+    resp:
+        - Bronchospasm
+    cvs:
+        - Vasodilatation → ↓ MAP and reflex tachycardia
+        - Coronary steal → angina or MI
+    cns:
+        - Headache
+        - Dizziness
+    endo:
+    msk:
+    met:
+    ren:
+    gu:
+    git:
+        - Nausea
+        - Diarrhoea
+    haeme:
+        - ↓ Platelet adhesion and aggregation
+        - Thrombocytopaenia
+        - Haemorrhage
+considerations:
+    - Cholinesterase inhibitors → worsening myasthenia gravis
+    - Aminophylline reverses most IV effects; variant angina → nitrates as aminophylline may worsen
+references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 8 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Clinect Pty Ltd. Persantin Australian Product Information. Revised 27 January 2021.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.
+    - Wellington Regional Hospital ICU. Wellington ICU Drug Manual. 2nd Ed. 2013.
