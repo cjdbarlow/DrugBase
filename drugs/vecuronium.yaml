@@ -1,0 +1,59 @@
+---
+aliases:
+    - Vecuronium SUN
+    - Norcuron
+class: Non-depolarising neuromuscular blocker
+chemistry: Monoquaternary aminosteroid
+dose:
+    Intubation (IV): 0.1mg/kg
+    Maintenance (IV): 0.02-0.04mg/kg
+    Infusion (IV): 0.8-1.4microg/kg/min
+pharmaceutics:
+    presentation: 10mg powder for IV injection or infusion
+    compatibility: Reconstitute with water for injection; incompatible with thiopentone
+    solubility: 16mg/mL in water; hydrolyses in aqueous solution
+pharmacokinetics:
+    absorption: Poor PO; IV only
+    distribution:
+        pKa: 8.97
+        vd: 0.2L/kg
+        protein binding: 77%
+    metabolism:
+        half-life: 110 minutes
+        duration: 20-40 minutes
+        pathway: ~5% hepatic metabolism
+        metabolites:
+            - 3-hydroxyvecuronium; ~80% potency
+    elimination:
+        renal: ~30%; 30-40% biliary
+mechanism:
+    target:
+        - Muscle-type nicotinic acetylcholine receptor
+    action: Competitive ACh antagonism at the motor end-plate prevents channel opening and depolarisation
+contraindications:
+pregnancy:
+    code: C
+    justification: No demonstrated fetal or neonatal adverse effects
+pharmacodynamics:
+    resp:
+        - Apnoea
+    cvs:
+        - No vagolysis → bradycardia may persist
+    cns:
+    endo:
+    msk:
+        - Flaccid paralysis
+    met:
+    ren:
+    gu:
+    git:
+    haeme:
+considerations:
+    - Minimal histamine release
+    - Reverse with sugammadex
+references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 8 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Sun Pharma ANZ Pty Ltd. VECURONIUM SUN Australian Product Information. Revised 19 June 2019.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.

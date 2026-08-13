@@ -1,0 +1,64 @@
+---
+aliases:
+    - Atracurium Besilate Medsurge
+    - Tracrium
+class: Non-depolarising neuromuscular blocker
+chemistry: Benzylisoquinolinium diester; mixture of 10 stereoisomers
+dose:
+    Intubation (IV): 0.5mg/kg
+    Maintenance (IV): 0.08-0.1mg/kg
+    Infusion (IV): 5-10microg/kg/min
+pharmaceutics:
+    presentation: 10mg/mL solution for IV injection or infusion
+    compatibility: Compatible with 0.9% NaCl, glucose 5% and Hartmann's (4h at ≥0.5mg/mL, ≤25°C); do not mix with alkaline solutions
+    solubility: Water-soluble
+pharmacokinetics:
+    absorption: Poor PO; IV only
+    distribution:
+        pKa: 19.02
+        vd: 0.12L/kg
+        protein binding: 38%
+    metabolism:
+        half-life: 21 minutes
+        duration: 15-35 minutes
+        pathway: Plasma ester hydrolysis and Hofmann elimination
+        metabolites:
+            - Laudanosine
+            - Quaternary acrylate
+    elimination:
+        renal: Minimal unchanged drug; metabolites in urine and bile
+mechanism:
+    target:
+        - Muscle-type nicotinic acetylcholine receptor
+    action: Competitive ACh antagonism at the motor end-plate prevents channel opening and depolarisation
+contraindications:
+pregnancy:
+    code: C
+    justification: No demonstrated fetal or neonatal adverse effects
+pharmacodynamics:
+    resp:
+        - Apnoea
+        - Histamine release → bronchospasm
+    cvs:
+        - Histamine release → flushing; ↓ MAP
+    cns:
+        - Laudanosine → ↓ seizure threshold
+    endo:
+    msk:
+        - Flaccid paralysis
+    met:
+    ren:
+    gu:
+    git:
+    haeme:
+considerations:
+    - Organ-independent inactivation → suitable in renal or hepatic failure
+    - Hypothermia → ↓ infusion requirement
+    - Laudanosine accumulation with prolonged ICU infusion
+references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 8 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Medsurge Pharma Pty Ltd. ATRACURIUM BESILATE MEDSURGE Australian Product Information. Revised 23 July 2026.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.
+    - Wellington Regional Hospital ICU. Wellington ICU Drug Manual. 2nd Ed. 2013.

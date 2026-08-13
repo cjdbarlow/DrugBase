@@ -1,0 +1,62 @@
+---
+aliases:
+    - Nimbex
+class: Non-depolarising neuromuscular blocker
+chemistry: Benzylisoquinolinium diester; R-cis,R′-cis atracurium stereoisomer
+dose:
+    Intubation (IV): 0.15mg/kg
+    Maintenance (IV): 0.03mg/kg
+    Infusion (IV): 1-3microg/kg/min
+pharmaceutics:
+    presentation: 2mg/mL or 5mg/mL solution for IV injection or infusion
+    compatibility: Do not mix with alkaline solutions, thiopentone, ketorolac or propofol emulsion
+    solubility: Water-soluble
+pharmacokinetics:
+    absorption: Poor PO; IV only
+    distribution:
+        pKa: 19.02
+        vd: 0.2L/kg
+        protein binding: 38%
+    metabolism:
+        half-life: 26 minutes
+        duration: 25-30 minutes
+        pathway: Hofmann elimination; metabolite ester hydrolysis
+        metabolites:
+            - Laudanosine
+            - Monoquaternary acrylate
+    elimination:
+        renal: Minimal unchanged drug; renal and hepatic metabolite clearance
+mechanism:
+    target:
+        - Muscle-type nicotinic acetylcholine receptor
+    action: Competitive ACh antagonism at the motor end-plate prevents channel opening and depolarisation
+contraindications:
+pregnancy:
+    code: C
+    justification: No demonstrated fetal or neonatal adverse effects
+pharmacodynamics:
+    resp:
+        - Apnoea
+    cvs:
+        - Bradycardia
+        - ↓ MAP; flushing
+    cns:
+        - Laudanosine → ↓ seizure threshold
+    endo:
+    msk:
+        - Flaccid paralysis
+    met:
+    ren:
+    gu:
+    git:
+    haeme:
+considerations:
+    - Organ-independent inactivation → suitable in renal or hepatic failure
+    - Less histamine release and laudanosine than atracurium
+    - Hypothermia → ↓ infusion requirement
+references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 8 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Aspen Pharmacare Australia Pty Ltd. NIMBEX Australian Product Information. Revised 23 January 2023.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.

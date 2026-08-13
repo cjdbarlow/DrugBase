@@ -1,0 +1,61 @@
+---
+aliases:
+    - Pancuronium Bromide Juno
+    - Pavulon
+class: Non-depolarising neuromuscular blocker
+chemistry: Bisquaternary aminosteroid
+dose:
+    Intubation (IV): 0.05-0.1mg/kg
+    Maintenance (IV): 0.01-0.02mg/kg
+    ICU (IV): 0.06mg/kg Q1-1.5H
+pharmaceutics:
+    presentation: 2mg/mL solution for IV injection
+    compatibility: Do not mix with other drugs or infusion solutions; altered pH may precipitate
+    solubility: Water-soluble bromide salt
+pharmacokinetics:
+    absorption: Poor PO; IV only
+    distribution:
+        pKa: 7.4
+        vd: 0.2L/kg
+        protein binding: 82%
+    metabolism:
+        half-life: 110 minutes
+        duration: 45-60 minutes
+        pathway: <1% hepatic metabolism
+        metabolites:
+    elimination:
+        renal: 80-90% unchanged; 10-20% hepatic or biliary
+mechanism:
+    target:
+        - Muscle-type nicotinic acetylcholine receptor
+    action: Competitive ACh antagonism at the motor end-plate prevents channel opening and depolarisation
+contraindications:
+    - Concurrent depolarising neuromuscular blocker
+pregnancy:
+    code: B2
+    justification:
+pharmacodynamics:
+    resp:
+        - Apnoea
+    cvs:
+        - Vagal muscarinic block → ↑ HR, MAP and CO
+        - Arrhythmias
+    cns:
+    endo:
+    msk:
+        - Flaccid paralysis
+    met:
+    ren:
+    gu:
+    git:
+    haeme:
+considerations:
+    - Long duration; cumulative with repeat dosing
+    - Minimal histamine release
+    - Renal or hepatobiliary impairment → prolonged block
+references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 8 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Pfizer Healthcare Ireland. Pancuronium Bromide 2mg/mL Solution for Injection Summary of Product Characteristics. Revised 18 December 2020.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.

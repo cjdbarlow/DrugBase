@@ -1,0 +1,62 @@
+---
+aliases:
+    - Rocuronium Baxter
+    - Esmeron
+class: Non-depolarising neuromuscular blocker
+chemistry: Quaternary aminosteroid; vecuronium analogue
+dose:
+    Intubation (IV): 0.6mg/kg
+    RSI (IV): 1mg/kg
+    Maintenance (IV): 0.15mg/kg
+    Infusion (IV): 0.3-0.6mg/kg/hour
+pharmaceutics:
+    presentation: 10mg/mL solution for IV injection or infusion
+    compatibility: Compatible with 0.9% NaCl, glucose 5% and Hartmann's; flush shared lines between drugs
+    solubility: Freely water-soluble; >200mg/mL
+pharmacokinetics:
+    absorption: Poor PO; IV only
+    distribution:
+        pKa: 7.96
+        vd: 0.27L/kg
+        protein binding: 46%
+    metabolism:
+        half-life: 60-100 minutes
+        duration: 30-40 minutes
+        pathway: <1% hepatic metabolism
+        metabolites:
+    elimination:
+        renal: ~10%; ~90% biliary
+mechanism:
+    target:
+        - Muscle-type nicotinic acetylcholine receptor
+    action: Competitive ACh antagonism at the motor end-plate prevents channel opening and depolarisation
+contraindications:
+pregnancy:
+    code: B2
+    justification:
+pharmacodynamics:
+    resp:
+        - Apnoea
+    cvs:
+        - High dose → ↑ HR
+    cns:
+    endo:
+    msk:
+        - Flaccid paralysis
+    met:
+    ren:
+    gu:
+    git:
+    haeme:
+considerations:
+    - Rapid onset; intermediate duration
+    - Higher anaphylaxis risk than other neuromuscular blockers
+    - Hepatic, biliary or renal impairment → prolonged block
+    - Reverse with sugammadex
+references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 8 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Baxter Healthcare Pty Ltd. ROCURONIUM BAXTER Australian Product Information. Revised 23 June 2026.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.
+    - Wellington Regional Hospital ICU. Wellington ICU Drug Manual. 2nd Ed. 2013.
