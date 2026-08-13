@@ -1,0 +1,70 @@
+---
+aliases:
+    - Caltrate
+    - Tums
+class: Antacid and calcium salt
+chemistry: Divalent-cation carbonate
+dose:
+    Dyspepsia (PO): 1-2g; repeat hourly PRN; max 7.5g/day
+    Calcium (PO): 500-1800mg elemental calcium/day
+pharmaceutics:
+    presentation: 500mg chewable tablet containing 200mg elemental calcium
+    compatibility:
+    solubility: Poorly water-soluble
+pharmacokinetics:
+    absorption: ~15% of oral calcium absorbed
+    distribution:
+        pKa:
+        vd:
+        protein binding:
+    metabolism:
+        half-life:
+        duration: 2-3 hours with food
+        pathway: Dissociates to calcium and carbonate
+        metabolites:
+    elimination:
+        renal: Absorbed calcium renally regulated; unabsorbed calcium in faeces
+mechanism:
+    target:
+        - Gastric hydrochloric acid
+    action: CaCO3 + 2HCl → CaCl2 + H2O + CO2
+contraindications:
+    - Hypercalcaemia
+    - Digitalis toxicity
+pregnancy:
+    code:
+    justification:
+pharmacodynamics:
+    resp:
+        - Particulate aspiration → pneumonitis
+    cvs:
+        - Hypercalcaemia → shortened QT and arrhythmia
+    cns:
+        - Severe hypercalcaemia → confusion or coma
+    endo:
+    msk:
+    met:
+        - Hypercalcaemia
+        - Metabolic alkalosis
+    ren:
+        - Nephrolithiasis
+        - Renal dysfunction
+    gu:
+    git:
+        - ↑ Gastric pH
+        - Belching and flatulence
+        - Constipation
+        - Rebound acid secretion
+    haeme:
+considerations:
+    - Separate tetracyclines, quinolones and levothyroxine
+    - Excess calcium plus alkali → milk-alkali syndrome
+    - Thiazides → ↑ hypercalcaemia risk
+    - Chew antacid tablets
+references:
+    - Allegiant Health. Calcium Carbonate 500mg Antacid official US label. Updated 1 May 2025.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Young P, Psirides A. Wellington ICU Drug Manual. 2nd Ed. Wellington Regional Hospital. 2013.
+    - Smith S, Scarth E, Sasada M. Drugs in Anaesthesia and Intensive Care. 4th Ed. Oxford University Press. 2011.
+    - Petkov V. Essential Pharmacology For The ANZCA Primary Examination. Vesselin Petkov. 2012.

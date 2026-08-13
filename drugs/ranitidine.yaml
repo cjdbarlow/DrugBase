@@ -1,0 +1,66 @@
+---
+aliases:
+    - Zantac
+class: H2-receptor antagonist
+chemistry: Guanidine derivative
+dose:
+    GORD/PUD (PO): 150mg BD or 300mg nocte
+    Prophylaxis (IV): 50mg Q8H
+pharmaceutics:
+    presentation: White 150mg round and 300mg capsule-shaped film-coated tablets
+    compatibility: IV formulation compatible with NS, D5W, D10W and Hartmann's
+    solubility: Highly water-soluble; pKa 7.8
+pharmacokinetics:
+    absorption: 50% oral bioavailability; peak 1-3 hours
+    distribution:
+        pKa: 7.8
+        vd: 1.4L/kg
+        protein binding: 13-25%
+    metabolism:
+        half-life: 2 hours
+        duration: 4-10 hours
+        pathway: ~50% hepatic N-oxidation, S-oxidation and demethylation
+        metabolites:
+            - Ranitidine N-oxide
+            - Ranitidine S-oxide
+            - Desmethylranitidine
+    elimination:
+        renal: ~50% parent and metabolites; tubular secretion
+mechanism:
+    target:
+        - Gastric parietal-cell H2 receptor
+    action: Competitive H2 antagonism → ↓ adenylyl cyclase/cAMP → ↓ H+/K+-ATPase recruitment and gastric-acid secretion
+contraindications:
+    - Acute porphyria
+pregnancy:
+    code: B1
+    justification:
+pharmacodynamics:
+    resp:
+        - ↑ Pneumonia risk
+    cvs:
+        - Rapid IV administration → ↓ HR, ↓ MAP and arrhythmia
+    cns:
+        - Confusion or hallucinations
+    endo:
+    msk:
+    met:
+    ren:
+    gu:
+    git:
+        - ↓ Gastric acid and pepsin secretion
+        - ↓ Gastric alcohol dehydrogenase
+        - N/V, abdominal pain and altered bowel habit
+    haeme:
+        - Rare cytopenias
+considerations:
+    - Renal impairment → reduce dose
+    - Exclude gastric malignancy before treating ulcer
+    - Raised gastric pH → altered drug absorption
+    - Sucralfate ≥2g ↓ ranitidine absorption; separate by 2 hours
+references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 8 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Aspen Pharmacare Australia Pty Ltd. ZANTAC 150 and ZANTAC 300 Australian Product Information. Revised 11 December 2024.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Young P, Psirides A. Wellington ICU Drug Manual. 2nd Ed. Wellington Regional Hospital. 2013.
