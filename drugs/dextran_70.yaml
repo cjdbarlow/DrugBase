@@ -1,0 +1,64 @@
+---
+aliases:
+    - Gentran 70
+class: Synthetic colloid; vWF inhibitor
+chemistry: High-molecular-weight sugar synthesised from sucrose by bacteria
+dose:
+    Shock (IV): 500-1000mL initially; may repeat 500mL
+    Shock (paediatric, IV): Child 10mL/kg; infant 5mL/kg
+pharmaceutics:
+    presentation: Clear colourless 6% dextran 70 in 0.9% NaCl; 500mL or 1L bag
+    compatibility: Do not administer blood through the same giving set
+    solubility: Colloidal aqueous solution
+pharmacokinetics:
+    absorption: IV only
+    distribution:
+        pKa:
+        vd: Predominantly intravascular
+        protein binding:
+    metabolism:
+        half-life:
+        duration:
+        pathway: Partial metabolism
+        metabolites:
+    elimination:
+        renal: ~70% within 24 hours; remainder faecal or metabolised
+mechanism:
+    target:
+        - Plasma oncotic pressure
+        - von Willebrand factor-mediated platelet adhesion
+    action: Retains ~20mL water/g intravascularly → plasma expansion; impairs platelet adhesion and coagulation
+contraindications:
+    - Thrombocytopaenia
+    - Severe heart failure
+    - Severe oliguria or anuria
+    - Heparin or low-molecular-weight heparin
+pregnancy:
+    code:
+    justification:
+pharmacodynamics:
+    resp:
+        - Volume overload → pulmonary oedema
+    cvs:
+        - ↑ Circulating volume
+        - ↑ BP and capillary perfusion
+    cns:
+    endo:
+    msk:
+    met:
+        - Transient acidosis
+    ren:
+        - Tubular injury
+        - Acute glomerulonephritis rarely
+    gu:
+    git:
+    haeme:
+        - ↓ Platelet adhesion
+        - Dilutional coagulopathy
+        - Bleeding
+considerations:
+    - Interferes with enzymatic blood-group typing
+references:
+    - Baxter Healthcare Limited. Gentran 70 Summary of Product Characteristics. Irish Medicines Board. Revised March 2007.
+    - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.
+    - AnaesthesiaMCQ. The Fluid Book. http://www.anaesthesiamcq.com/FluidBook/fl7_2.php
