@@ -1,0 +1,66 @@
+---
+aliases:
+    - Optisulin
+    - Lantus
+class: Long-acting insulin analogue
+chemistry: Human insulin analogue; AsnA21 → Gly with ArgB31 and ArgB32 added
+dose:
+    T1DM (SC): 0.2-1units/kg/day total; 40-50% as basal insulin
+pharmaceutics:
+    presentation: Clear colourless 100units/mL solution in 3mL cartridge or pen
+    compatibility: Do not mix or dilute
+    solubility: Soluble at pH 4; precipitates at physiological pH
+pharmacokinetics:
+    absorption: Slow release from SC microprecipitates; onset 1-3 hours; no peak
+    distribution:
+        pKa:
+        vd: 0.44L/kg
+        protein binding: Minimal
+    metabolism:
+        half-life:
+        duration: ~24 hours
+        pathway: Rapid β-chain carboxyl-terminal proteolysis
+        metabolites:
+            - M1 (active)
+            - M2 (active)
+    elimination:
+        renal: ~1% unchanged
+mechanism:
+    target:
+        - Insulin receptor tyrosine kinase
+    action: Neutralisation after SC injection → microprecipitates → sustained release; receptor activation → IRS/PI3K/Akt signalling → GLUT4 translocation and altered enzyme activity
+contraindications:
+pregnancy:
+    code: B3
+    justification:
+pharmacodynamics:
+    resp:
+    cvs:
+        - Positive inotropy
+    cns:
+        - Severe hypoglycaemia → seizures or coma
+    endo:
+        - ↓ BGL
+        - ↓ Glucagon release
+        - Hypoglycaemia
+    msk:
+        - ↑ Glucose and amino-acid uptake
+        - ↑ Glycogen and protein synthesis
+    met:
+        - ↓ K+
+        - ↓ Lipolysis and proteolysis
+        - ↑ Lipogenesis
+    ren:
+    gu:
+    git:
+    haeme:
+considerations:
+    - SC only; IV administration may cause severe hypoglycaemia
+    - Once daily at the same time
+    - Rotate injection sites
+    - Renal or hepatic impairment → ↓ insulin requirement
+references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 8 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - sanofi-aventis australia pty ltd. OPTISULIN Australian Product Information. Version 15. Revised 3 September 2024.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.

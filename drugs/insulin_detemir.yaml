@@ -1,0 +1,66 @@
+---
+aliases:
+    - Levemir
+class: Long-acting insulin analogue
+chemistry: Human insulin analogue; ThrB30 deleted and LysB29 myristoylated
+dose:
+    T1DM (SC): 0.2-1units/kg/day total; 40-50% as basal insulin
+    T2DM (SC): 0.1-0.2units/kg daily initially
+pharmaceutics:
+    presentation: Clear colourless 100units/mL solution in 3mL cartridge or pen
+    compatibility:
+    solubility: Soluble; self-associates and binds albumin
+pharmacokinetics:
+    absorption: SC onset 50-120 minutes; no peak effect; Cmax 6-8 hours
+    distribution:
+        pKa:
+        vd: 0.1L/kg
+        protein binding: ">97%"
+    metabolism:
+        half-life: 5-7 hours
+        duration: Up to 24 hours; dose-dependent
+        pathway: Proteolysis similar to human insulin
+        metabolites:
+            - Inactive peptides
+    elimination:
+        renal: ~1% unchanged
+mechanism:
+    target:
+        - Insulin receptor tyrosine kinase
+    action: SC self-association and reversible albumin binding prolong delivery; receptor activation → IRS/PI3K/Akt signalling → GLUT4 translocation and altered enzyme activity
+contraindications:
+pregnancy:
+    code: A
+    justification:
+pharmacodynamics:
+    resp:
+    cvs:
+        - Positive inotropy
+    cns:
+        - Severe hypoglycaemia → seizures or coma
+    endo:
+        - ↓ BGL
+        - ↓ Glucagon release
+        - Hypoglycaemia
+    msk:
+        - ↑ Glucose and amino-acid uptake
+        - ↑ Glycogen and protein synthesis
+    met:
+        - ↓ K+
+        - ↓ Lipolysis and proteolysis
+        - ↑ Lipogenesis
+    ren:
+    gu:
+    git:
+    haeme:
+considerations:
+    - SC only; do not add to infusion fluids
+    - Lower doses may require twice-daily dosing
+    - Rotate injection sites
+    - Severe hypoalbuminaemia → limited data
+    - Renal or hepatic impairment → adjust dose
+references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 8 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Novo Nordisk Pharmaceuticals Pty Limited. Levemir Australian Product Information. Revised 29 September 2023.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
