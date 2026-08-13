@@ -1,0 +1,59 @@
+---
+aliases:
+    - Sugammadex Juno
+    - Bridion
+class: Selective relaxant binding agent
+chemistry: Modified gamma-cyclodextrin
+dose:
+    Moderate block (IV): 2mg/kg at reappearance of T2
+    Deep block (IV): 4mg/kg at 1-2 post-tetanic counts
+    Immediate (IV): 16mg/kg 3 minutes after rocuronium 1.2mg/kg
+pharmaceutics:
+    presentation: 100mg/mL clear colourless to slightly yellow-brown solution; 200mg/2mL or 500mg/5mL
+    compatibility:
+    solubility: pH 7-8; osmolality 300-500mOsm/kg
+pharmacokinetics:
+    absorption: IV
+    distribution:
+        pKa: 2.82
+        vd: 0.16-0.20L/kg
+        protein binding: Minimal
+    metabolism:
+        half-life: ~2 hours
+        duration: 1.5-3 minutes to TOF ratio 0.9
+        pathway: Not metabolised
+        metabolites:
+    elimination:
+        renal: 96% of dose in urine; ≥95% of urinary recovery unchanged
+mechanism:
+    target:
+        - Rocuronium
+        - Vecuronium
+    action: Encapsulates free aminosteroid blocker → plasma-NMJ concentration gradient and reversal
+contraindications:
+pregnancy:
+    code: B2
+    justification:
+pharmacodynamics:
+    resp:
+        - Residual or recurrent neuromuscular block
+    cvs:
+        - Bradycardia → cardiac arrest
+    cns:
+    endo:
+    msk:
+        - Reverses rocuronium and vecuronium block
+    met:
+    ren:
+    gu:
+    git:
+    haeme:
+        - Transient ↑ aPTT and PT(INR)
+considerations:
+    - Dose to quantitative depth of block
+references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 8 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Juno Pharmaceuticals Pty Ltd. SUGAMMADEX JUNO Australian Product Information. Revised 2 December 2025.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.
