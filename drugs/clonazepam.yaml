@@ -1,0 +1,68 @@
+---
+aliases:
+    - Rivotril
+    - Paxam
+class: Benzodiazepine anticonvulsant
+chemistry: 7-nitro-1,4-benzodiazepine
+dose:
+    Status (IV): 1mg slowly; repeat to control, max 10mg
+    Epilepsy (PO): 1mg/day initially; maintenance 4-8mg/day in 3-4 doses, max 20mg/day
+pharmaceutics:
+    presentation: 0.5mg tablet; 2.5mg/mL oral liquid; 1mg/mL injection with supplied diluent
+    compatibility: Mix injection 1:1 with diluent to 0.5mg/mL; for infusion add 1mg to at least 85mL compatible fluid
+    solubility:
+pharmacokinetics:
+    absorption: PO bioavailability 90%; peak 2-3 hours
+    distribution:
+        pKa:
+        vd: 3L/kg
+        protein binding: 82-86%
+    metabolism:
+        half-life: 39 ± 8 hours
+        duration:
+        pathway: Hepatic reduction (CYP3A4), hydroxylation and acetylation
+        metabolites:
+            - 7-amino-clonazepam (inactive)
+            - 7-acetamido-clonazepam (inactive)
+    elimination:
+        renal: 50-70% metabolites; <2% unchanged
+mechanism:
+    target:
+        - GABA-A receptor benzodiazepine site
+    action: Positive allosteric modulation → ↑ frequency of GABA-mediated Cl- channel opening
+contraindications:
+    - Chronic obstructive airways disease with incipient respiratory failure
+    - Severe hepatic impairment
+    - Dependence on alcohol, drugs of abuse or CNS depressants
+pregnancy:
+    code: B3
+    justification: High-dose labour exposure → neonatal hypotonia, respiratory depression and hypothermia; prolonged use → neonatal withdrawal
+pharmacodynamics:
+    resp:
+        - ↓ VT
+        - Apnoea
+    cvs:
+        - ↓ MAP
+    cns:
+        - Sedation and hypnosis
+        - Anticonvulsant
+        - Anterograde amnesia
+        - Ataxia
+    endo:
+    msk:
+        - Skeletal muscle relaxation
+    met:
+    ren:
+    gu:
+    git:
+    haeme:
+considerations:
+    - May ↑ salivation
+    - Reversal with flumazenil
+references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 8 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Pharmaco (Australia) Ltd. RIVOTRIL Australian Product Information. Revised 18 March 2026.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.
+    - Wellington Regional Hospital ICU. Wellington ICU Drug Manual. 2nd Ed. 2013.
