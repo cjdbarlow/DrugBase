@@ -1,0 +1,66 @@
+---
+aliases:
+    - Diflucan
+class: Triazole antifungal
+chemistry: Fluorinated bis-triazole
+dose:
+    Severe infection (IV/PO): 400mg load, then 200-400mg daily
+pharmaceutics:
+    presentation: 100mg/50mL, 200mg/100mL and 400mg/200mL IV solutions; oral tablets, capsules and suspension
+    compatibility: IV solution compatible with 0.9% NaCl and Hartmann's; do not mix with other drugs
+    solubility: Sparingly water-soluble
+pharmacokinetics:
+    absorption: ">90% bioavailability PO; unaffected by gastric pH"
+    distribution:
+        pKa:
+        vd: Approximates total body water
+        protein binding: 11-12%
+    metabolism:
+        half-life: 30 hours
+        duration:
+        pathway: Limited
+        metabolites:
+    elimination:
+        renal: 80% unchanged; 11% as metabolites
+mechanism:
+    target:
+        - Fungal CYP51 14α-sterol demethylase
+    action: Inhibits ergosterol synthesis → abnormal fungal cell membrane
+contraindications:
+    - Cisapride, astemizole, pimozide, quinidine or erythromycin
+    - Terfenadine with ≥400mg/day
+pregnancy:
+    code: D
+    justification: Spontaneous abortion and congenital anomalies; repeated 400-800mg/day → characteristic birth-defect pattern
+pharmacodynamics:
+    resp:
+    cvs:
+        - QT prolongation; torsades de pointes
+    cns:
+        - Headache
+        - Seizures
+    endo:
+    msk:
+    met:
+    ren:
+    gu:
+    git:
+        - Nausea; diarrhoea
+        - Hepatitis; hepatic failure
+    haeme:
+        - Leukopaenia
+        - Thrombocytopaenia
+considerations:
+    - Fungistatic
+    - Candida, Cryptococcus and endemic mycoses; no useful Aspergillus activity
+    - Good CSF penetration independent of meningeal inflammation
+    - Potent CYP2C9/2C19 and moderate CYP3A4 inhibitor → numerous interactions
+    - Renal impairment → dose reduction; haemodialysis removes ~50%
+    - Monitor LFTs; severe cutaneous reactions
+references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 8 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Baxter Healthcare Pty Ltd. FLUCONAZOLE-BAXTER Australian Product Information. Revised 11 May 2026.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.
+    - Wellington Regional Hospital ICU. Wellington ICU Drug Manual. 2nd Ed. 2013.

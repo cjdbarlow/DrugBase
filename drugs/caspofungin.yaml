@@ -1,0 +1,72 @@
+---
+aliases:
+    - Cancidas
+    - Caspofungin AN
+class: Echinocandin antifungal
+chemistry: Semisynthetic lipopeptide
+dose:
+    Load (IV): 70mg
+    Infection (IV): 50mg daily
+pharmaceutics:
+    presentation: 50mg and 70mg powder for IV infusion
+    compatibility: 0.9%, 0.45% or 0.225% NaCl or Hartmann's; glucose solutions → instability; do not co-infuse with other drugs
+    solubility: Freely water-soluble
+pharmacokinetics:
+    absorption: IV only
+    distribution:
+        pKa:
+        vd:
+        protein binding: 97%
+    metabolism:
+        half-life: 9-11 hours; terminal phase 40-50 hours
+        duration:
+        pathway: Slow hydrolysis, N-acetylation and spontaneous degradation
+        metabolites:
+            - L-747969
+            - Amino-acid degradates
+    elimination:
+        renal: 41% of radioactivity; 1.4% unchanged
+        faecal: 34% of radioactivity
+mechanism:
+    target:
+        - β-(1,3)-D-glucan synthase
+    action: Inhibits β-glucan synthesis → defective fungal cell wall and osmotic instability
+contraindications:
+pregnancy:
+    code: B3
+    justification:
+pharmacodynamics:
+    resp:
+        - Histamine release → bronchospasm
+    cvs:
+        - Histamine release → flushing, ↑ HR
+    cns:
+        - Headache
+    endo:
+    msk:
+    met:
+        - ↓ K+
+    ren:
+    gu:
+    git:
+        - Nausea; diarrhoea
+        - ↑ LFTs; hepatitis
+    haeme:
+        - Anaemia
+considerations:
+    - Fungicidal against Candida; fungistatic against Aspergillus
+    - Candida including azole-resistant strains and biofilms; Aspergillus
+    - No activity against Cryptococcus, Fusarium or Trichosporon
+    - Infuse over ~1 hour; rapid infusion ↑ histamine release
+    - Moderate hepatic impairment → 35mg daily after 70mg load
+    - Renal impairment and dialysis → no dose adjustment
+    - Rifampicin and other clearance inducers → consider 70mg daily
+    - ↓ tacrolimus exposure → monitor concentration
+    - IV phlebitis
+references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 8 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Juno Pharmaceuticals Pty Ltd. CASPOFUNGIN AN Australian Product Information. Revised 28 November 2025.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.
+    - Wellington Regional Hospital ICU. Wellington ICU Drug Manual. 2nd Ed. 2013.

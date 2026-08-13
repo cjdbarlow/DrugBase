@@ -1,0 +1,76 @@
+---
+aliases:
+    - Vfend
+class: Triazole antifungal
+chemistry: Fluoropyrimidine triazole
+dose:
+    Load (IV): 6mg/kg Q12H for 2 doses
+    Mould infection (IV): 4mg/kg Q12H
+    Candida infection (IV): 3mg/kg Q12H
+    Infection (PO, ≥40kg): 200mg BD
+pharmaceutics:
+    presentation: 50mg and 200mg tablets; 40mg/mL oral suspension; 200mg powder for IV infusion
+    compatibility: Do not mix with other drugs, blood products, concentrated electrolytes or sodium bicarbonate; separate line for other infusions
+    solubility: 0.7mg/mL in water; IV formulation contains sulfobutyl betadex
+pharmacokinetics:
+    absorption: 96% bioavailability PO; high-fat meals ↓ absorption
+    distribution:
+        pKa:
+        vd: 4.6L/kg
+        protein binding: 58%
+    metabolism:
+        half-life: ~6 hours; dose-dependent
+        duration:
+        pathway: Hepatic CYP2C19, CYP2C9 and CYP3A4
+        metabolites:
+            - Minimally active voriconazole N-oxide
+    elimination:
+        renal: <2% unchanged; ~80% as metabolites
+mechanism:
+    target:
+        - Fungal CYP51 14α-sterol demethylase
+    action: Inhibits ergosterol synthesis → abnormal fungal cell membrane
+contraindications:
+    - Rifampicin, carbamazepine, phenobarbitone or St John's wort
+    - Sirolimus or ergot alkaloids
+    - QT-prolonging CYP3A4 substrates
+pregnancy:
+    code: B3
+    justification:
+pharmacodynamics:
+    resp:
+    cvs:
+        - QT prolongation; torsades de pointes
+        - ↓ MAP; ↑ HR
+    cns:
+        - Visual disturbance
+        - Hallucinations; confusion
+        - Headache
+    endo:
+    msk:
+        - Long-term use → periostitis
+    met:
+        - ↓ K+, Mg2+ and Ca2+
+    ren:
+        - AKI
+    gu:
+    git:
+        - Nausea; diarrhoea
+        - Hepatitis; hepatic failure
+    haeme:
+        - Cytopaenias
+considerations:
+    - Broad-spectrum; Aspergillus, Candida including C. krusei, Scedosporium and Fusarium
+    - Non-linear pharmacokinetics; CYP2C19 genotype → marked exposure variability
+    - Inhibits CYP2C19, CYP2C9 and CYP3A4 → numerous interactions
+    - Therapeutic drug monitoring
+    - Take PO ≥1 hour before or after food
+    - CrCl <50mL/min → prefer PO because IV vehicle accumulates
+    - Child-Pugh A-B → halve maintenance dose
+    - Monitor LFTs, electrolytes and ECG; phototoxicity with long-term use
+references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 8 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Pfizer Australia Pty Ltd. VFEND Australian Product Information. Revised 15 April 2026.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.
