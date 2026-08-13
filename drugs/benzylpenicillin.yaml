@@ -1,0 +1,62 @@
+---
+aliases:
+    - BenPen
+    - Penicillin G
+class: Narrow-spectrum penicillin
+chemistry: Natural penicillin; β-lactam sodium salt
+dose:
+    Infection (IV/IM): 1.2-2.4g Q4-6H
+    Meningitis (IV): 2.4g Q4H
+pharmaceutics:
+    presentation: 600mg, 1.2g and 3g powder for injection
+    compatibility: Reconstitute with water for injection; dilute IV in water or 0.9% NaCl
+    solubility: Water-soluble
+pharmacokinetics:
+    absorption:
+    distribution:
+        pKa:
+        vd: ~0.35L/kg
+        protein binding: ~60%
+    metabolism:
+        half-life: 30 minutes
+        duration: 4-6 hours after 600mg IM
+        pathway: <30% hepatic inactivation to penicilloic acid
+        metabolites:
+            - Penicilloic acid
+    elimination:
+        renal: ">70% within 6 hours; mainly tubular secretion"
+mechanism:
+    target:
+        - Penicillin-binding proteins
+    action: Inhibits peptidoglycan cross-linking → defective bacterial cell wall and lysis
+contraindications:
+pregnancy:
+    code: A
+    justification:
+pharmacodynamics:
+    resp:
+    cvs:
+    cns:
+        - Convulsions and coma with massive doses, especially renal failure
+    endo:
+    msk:
+    met:
+        - Hypernatraemia
+    ren:
+        - Interstitial nephritis
+    gu:
+    git:
+        - Diarrhoea; C. difficile colitis
+    haeme:
+        - Cytopaenias
+considerations:
+    - Bactericidal; time-dependent killing
+    - Narrow Gram-positive and anaerobic activity; inactivated by penicillinases
+    - Poor CSF penetration without meningeal inflammation
+references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 8 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Seqirus Pty Ltd. BENPEN Australian Product Information. Revised 5 April 2023.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.
+    - Young P, Psirides A. Wellington ICU Drug Manual. 2nd Ed. Wellington Regional Hospital. 2013.

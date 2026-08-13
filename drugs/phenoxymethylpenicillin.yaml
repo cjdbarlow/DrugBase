@@ -1,0 +1,59 @@
+---
+aliases:
+    - LPV
+    - Penicillin V
+class: Narrow-spectrum penicillin
+chemistry: Natural penicillin; β-lactam potassium salt
+dose:
+    Infection (PO): 250-500mg Q6H
+    Rheumatic fever prophylaxis (PO): 125-250mg BD
+pharmaceutics:
+    presentation: 250mg and 500mg capsules
+    compatibility:
+    solubility: Freely water-soluble; practically ethanol-insoluble
+pharmacokinetics:
+    absorption: ~25% absorbed; slightly ↑ fasting
+    distribution:
+        pKa:
+        vd:
+        protein binding: 80%
+    metabolism:
+        half-life:
+        duration:
+        pathway:
+        metabolites:
+    elimination:
+        renal: Rapid; delayed in renal impairment
+mechanism:
+    target:
+        - Penicillin-binding proteins
+    action: Inhibits peptidoglycan cross-linking → defective bacterial cell wall and lysis
+contraindications:
+pregnancy:
+    code: A
+    justification:
+pharmacodynamics:
+    resp:
+    cvs:
+    cns:
+    endo:
+    msk:
+    met:
+    ren:
+        - Interstitial nephritis
+    gu:
+    git:
+        - Nausea
+        - Diarrhoea; C. difficile colitis
+    haeme:
+        - Cytopaenias
+considerations:
+    - Bactericidal; time-dependent killing
+    - Oral treatment of mild-moderate infections; unsuitable for acute severe infection
+    - Narrow Gram-positive and anaerobic activity; inactivated by penicillinases
+references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 8 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - iNova Pharmaceuticals (Australia) Pty Limited. LPV Australian Product Information. Revised 16 May 2023.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.

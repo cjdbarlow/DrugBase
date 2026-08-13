@@ -1,0 +1,64 @@
+---
+aliases:
+    - Amoxil
+    - Amoxycillin
+class: Extended-spectrum penicillin
+chemistry: Aminopenicillin; β-lactam
+dose:
+    Infection (PO): 250-500mg Q8H
+    Infection (IV): 1-2g Q6H
+pharmaceutics:
+    presentation: 250mg and 500mg capsules; 125mg/5mL, 250mg/5mL and 100mg/mL oral liquids; 1g powder for injection
+    compatibility: IV stable 6 hours in 0.9% NaCl, 3 hours in Hartmann's and 1 hour in glucose solutions
+    solubility: Slightly water-soluble
+pharmacokinetics:
+    absorption: Rapid and well absorbed PO; acid-stable; food has little effect
+    distribution:
+        pKa:
+        vd:
+        protein binding: 17%
+    metabolism:
+        half-life: 61 minutes; 16-20 hours in anuria
+        duration:
+        pathway: Limited hydrolysis to penicilloic acid
+        metabolites:
+            - Penicilloic acid
+    elimination:
+        renal: 75% within 6 hours; 60% unchanged and 15% penicilloic acid
+mechanism:
+    target:
+        - Penicillin-binding proteins
+    action: Inhibits peptidoglycan cross-linking → defective bacterial cell wall and lysis
+contraindications:
+pregnancy:
+    code: A
+    justification:
+pharmacodynamics:
+    resp:
+    cvs:
+    cns:
+        - Convulsions at high concentrations
+    endo:
+    msk:
+    met:
+    ren:
+        - Interstitial nephritis
+    gu:
+    git:
+        - Nausea
+        - Diarrhoea; C. difficile colitis
+    haeme:
+        - Cytopaenias
+considerations:
+    - Bactericidal; time-dependent killing
+    - Broad Gram-positive and limited Gram-negative activity; susceptible to β-lactamases
+    - CSF penetration improves with meningeal inflammation
+    - Probenecid ↓ tubular secretion; allopurinol or infectious mononucleosis → ↑ rash
+    - Renal impairment → dose reduction
+references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 8 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Aspen Pharmacare Australia Pty Ltd. AMOXIL Australian Product Information. Revised 20 May 2024.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.
+    - Young P, Psirides A. Wellington ICU Drug Manual. 2nd Ed. Wellington Regional Hospital. 2013.

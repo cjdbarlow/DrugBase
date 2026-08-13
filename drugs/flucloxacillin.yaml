@@ -1,0 +1,65 @@
+---
+aliases:
+    - Flopen
+    - Staphlex
+class: Antistaphylococcal penicillin
+chemistry: Isoxazolyl penicillin; β-lactam
+dose:
+    Infection (PO): 500mg Q6H
+    Infection (IV): 1-2g Q6H
+pharmaceutics:
+    presentation: 250mg and 500mg capsules; 250mg, 500mg and 1g powder for injection
+    compatibility: IV compatible with water, 0.9% NaCl, Hartmann's and 5% glucose; do not mix with aminoglycosides
+    solubility: Water-soluble
+pharmacokinetics:
+    absorption: Food delays and reduces oral absorption; give 30-60 minutes before meals
+    distribution:
+        pKa:
+        vd:
+        protein binding: 95%
+    metabolism:
+        half-life:
+        duration:
+        pathway: Minimal hepatic metabolism
+        metabolites:
+    elimination:
+        renal: Major route; ≥10% active metabolite, up to 50% in renal failure
+mechanism:
+    target:
+        - Penicillin-binding proteins
+    action: Inhibits peptidoglycan cross-linking → defective bacterial cell wall and lysis
+contraindications:
+    - Previous flucloxacillin-associated jaundice/hepatic dysfunction
+pregnancy:
+    code: B1
+    justification:
+pharmacodynamics:
+    resp:
+    cvs:
+    cns:
+        - Convulsions at high concentrations
+    endo:
+    msk:
+    met:
+        - Paracetamol → 5-oxoprolinaemia/HAGMA; ↑ risk with sepsis, malnutrition or renal impairment
+        - High doses → ↓ K+, ↑ Na+
+    ren:
+        - Interstitial nephritis
+    gu:
+    git:
+        - Diarrhoea; C. difficile colitis
+        - Cholestatic hepatitis
+    haeme:
+        - Cytopaenias
+considerations:
+    - Bactericidal; time-dependent killing
+    - Penicillinase-stable; active against susceptible staphylococci, not MRSA
+    - Probenecid ↓ tubular secretion; flucloxacillin ↓ tacrolimus concentration
+    - Age >55 or >14 days → ↑ cholestatic hepatitis
+references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 8 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Baxter Healthcare Pty Ltd. FLUCLOXACILLIN BAXTER Australian Product Information. Version 1. First approved 30 July 2024.
+    - Alphapharm Pty Ltd. FLOPEN VIATRIS Australian Product Information. Revised 2 June 2026.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.
+    - Young P, Psirides A. Wellington ICU Drug Manual. 2nd Ed. Wellington Regional Hospital. 2013.

@@ -1,0 +1,61 @@
+---
+aliases:
+    - Austrapen
+class: Extended-spectrum penicillin
+chemistry: Aminopenicillin; β-lactam
+dose:
+    Infection (IV/IM): 250-500mg Q6H
+    Meningitis/septicaemia (IV): 200mg/kg/day divided Q4-6H; max 12g/day
+pharmaceutics:
+    presentation: 1g powder for injection
+    compatibility: Reconstitute with water for injection; stable in 0.9% NaCl or Ringer's for 24 hours
+    solubility: Freely water-soluble
+pharmacokinetics:
+    absorption:
+    distribution:
+        pKa: 2.5
+        vd:
+        protein binding: 29 ± 12%
+    metabolism:
+        half-life: 1 hour; up to 20 hours in anuria
+        duration:
+        pathway: Limited hydrolysis to penicilloic acid
+        metabolites:
+            - Penicilloic acid
+    elimination:
+        renal: 66-73% within 6 hours; unchanged and penicilloic acid
+mechanism:
+    target:
+        - Penicillin-binding proteins
+    action: Inhibits peptidoglycan cross-linking → defective bacterial cell wall and lysis
+contraindications:
+pregnancy:
+    code: A
+    justification:
+pharmacodynamics:
+    resp:
+    cvs:
+    cns:
+        - Convulsions at high concentrations
+    endo:
+    msk:
+    met:
+    ren:
+        - Interstitial nephritis
+    gu:
+    git:
+        - Nausea
+        - Diarrhoea; C. difficile colitis
+    haeme:
+        - Cytopaenias
+considerations:
+    - Bactericidal; time-dependent killing
+    - Broad Gram-positive and limited Gram-negative activity; susceptible to β-lactamases
+    - CSF penetration improves with meningeal inflammation
+    - Probenecid ↓ tubular secretion; allopurinol or infectious mononucleosis → ↑ rash
+references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 8 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Alphapharm Pty Ltd. AUSTRAPEN Australian Product Information. Revised 20 March 2025.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.
