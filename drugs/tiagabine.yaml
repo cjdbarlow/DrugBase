@@ -1,0 +1,62 @@
+---
+aliases:
+    - Gabitril
+class: Anticonvulsant; GABA reuptake inhibitor
+chemistry: R(-)-enantiomer; nipecotic acid derivative
+dose:
+    Adjunct (PO): 7.5-15mg/day in 3 doses with meals; ↑ 5-15mg/week; usual 30-50mg/day, max 70mg/day
+pharmaceutics:
+    presentation: 5mg, 10mg and 15mg tablets
+    compatibility:
+    solubility: pKa 3.3 (carboxyl) and 9.4 (amine); sparingly water-soluble
+pharmacokinetics:
+    absorption: Rapid and near-complete; bioavailability 80-90%; food ↓ rate but not extent
+    distribution:
+        pKa: 3.3 and 9.4
+        vd: 1L/kg
+        protein binding: 96%
+    metabolism:
+        half-life: 7-9 hours; 2-5 hours with enzyme inducers; 12-16 hours in hepatic impairment
+        duration:
+        pathway: Hepatic CYP3A
+        metabolites:
+            - No active metabolites
+    elimination:
+        renal: <2% unchanged in urine and faeces; renal clearance negligible
+mechanism:
+    target:
+        - GABA transporter 1
+    action: Inhibits neuronal and glial GABA reuptake → ↑ GABAergic inhibition
+contraindications:
+    - Severe hepatic impairment
+    - St John's wort
+pregnancy:
+    code: B3
+    justification: Risk relative to conventional anticonvulsants is unknown
+pharmacodynamics:
+    resp:
+    cvs:
+    cns:
+        - Anticonvulsant
+        - Dizziness, somnolence and tremor
+        - ↓ Concentration and depressed mood
+    endo:
+    msk:
+    met:
+    ren:
+    gu:
+    git:
+        - Diarrhoea
+    haeme:
+considerations:
+    - Enzyme inducers ↑ clearance ~60%; lower maintenance dose without inducers
+    - New seizures or non-convulsive status, including without epilepsy
+    - May aggravate absence seizures
+    - Hepatic impairment → dose or interval reduction
+    - Rare visual field defects
+    - Serious vesiculobullous rash
+references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 8 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Teva Pharma Australia Pty Limited. GABITRIL Australian Product Information. Version 1.0. Revised 18 May 2018.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.

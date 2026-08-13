@@ -1,0 +1,59 @@
+---
+aliases:
+    - Keppra
+class: Anticonvulsant
+chemistry: S-enantiomer pyrrolidone; racetam
+dose:
+    Monotherapy (PO/IV): 250mg BD for 2 weeks, then 500mg BD; max 1500mg BD
+    Adjunct (PO/IV): 500mg BD; max 1500mg BD
+pharmaceutics:
+    presentation: 250mg, 500mg and 1g tablets; 100mg/mL oral solution; IV solution
+    compatibility: IV dose may be diluted in 100mL 0.9% NaCl and infused over 15 minutes
+    solubility: pKa -2.0; very water-soluble
+pharmacokinetics:
+    absorption: Rapid and complete PO absorption; bioavailability ~100%; peak 1.3 hours
+    distribution:
+        pKa: -2.0
+        vd: 0.5-0.7L/kg
+        protein binding: <10%
+    metabolism:
+        half-life: 7 ± 1 hours
+        duration:
+        pathway: Non-CYP acetamide hydrolysis
+        metabolites:
+            - ucb L057 (inactive)
+    elimination:
+        renal: 95%; 66% unchanged and 24% ucb L057 within 48 hours
+mechanism:
+    target:
+        - Synaptic vesicle protein 2A
+        - N-type Ca2+ channels
+    action: Mechanism incompletely defined; SV2A binding and partial ↓ N-type Ca2+ currents contribute
+contraindications:
+pregnancy:
+    code: B3
+    justification: Risk relative to conventional anticonvulsants is unknown
+pharmacodynamics:
+    resp:
+    cvs:
+    cns:
+        - Anticonvulsant
+        - Somnolence, asthenia and dizziness
+        - Behavioural and psychiatric disturbance
+    endo:
+    msk:
+    met:
+    ren:
+    gu:
+    git:
+    haeme:
+considerations:
+    - Renal impairment → dose reduction
+    - PO↔IV conversion uses the same total daily dose and frequency
+    - Minimal CYP-mediated interactions
+    - Aggression, depression, psychosis and suicidality
+references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 8 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - UCB Pharma. KEPPRA Australian Product Information. Revised 26 February 2025.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.

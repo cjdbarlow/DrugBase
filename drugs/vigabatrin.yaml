@@ -1,0 +1,56 @@
+---
+aliases:
+    - Sabril
+class: Anticonvulsant; irreversible GABA-transaminase inhibitor
+chemistry: GABA analogue; racemate with active S(+)-enantiomer
+dose:
+    Adjunct (PO): 2g/day in 1-2 doses; adjust by 1g/week; max 4g/day
+pharmaceutics:
+    presentation: 500mg tablets and 500mg oral powder sachets
+    compatibility:
+    solubility: Water-soluble
+pharmacokinetics:
+    absorption: Rapid PO absorption; bioavailability ~70%; food has no effect
+    distribution:
+        pKa:
+        vd: Slightly greater than total body water
+        protein binding: Nil
+    metabolism:
+        half-life: 5-8 hours
+        duration: Determined by GABA-transaminase resynthesis
+        pathway: Not extensively metabolised
+        metabolites:
+    elimination:
+        renal: 70% unchanged within 24 hours
+mechanism:
+    target:
+        - GABA-transaminase
+    action: Irreversible dose-dependent inhibition → ↑ CNS GABA
+contraindications:
+pregnancy:
+    code: D
+    justification: Risk relative to conventional anticonvulsants is unknown
+pharmacodynamics:
+    resp:
+    cvs:
+    cns:
+        - Anticonvulsant
+        - Sedation, somnolence and impaired concentration
+        - Depression, agitation and psychosis
+    endo:
+    msk:
+    met:
+    ren:
+    gu:
+    git:
+    haeme:
+considerations:
+    - Perimetry at baseline and ~6-monthly
+    - Avoid concomitant retinotoxic drugs
+    - CrCl <60mL/min → dose or frequency reduction
+    - Haemodialysis removes 40-60%
+references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 8 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - sanofi-aventis australia pty ltd. SABRIL Australian Product Information. Revised 28 May 2026.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
