@@ -1,0 +1,80 @@
+---
+aliases:
+    - Succinylcholine
+    - Succinyl choline
+    - Suxamethonium Medsurge
+class: Depolarising neuromuscular blocker
+chemistry: Bis-choline ester; two ACh molecules linked at their acetyl groups
+dose:
+    Intubation (IV): 0.6mg/kg; range 0.3-1.1mg/kg
+    Paediatric (IV): 1-2mg/kg
+    IM: Up to 2.5mg/kg; max 150mg
+pharmaceutics:
+    presentation: 50mg/mL clear colourless solution; 100mg/2mL
+    compatibility: Do not mix with other drugs; incompatible with thiopental
+    solubility: pH 3-5
+pharmacokinetics:
+    absorption: IV or IM
+    distribution:
+        pKa: ≥13
+        vd: 0.14L/kg
+        protein binding: 20%
+    metabolism:
+        half-life: 1-2 minutes
+        duration: IV 2-3 minutes; offset within 10 minutes
+        pathway: Rapid hydrolysis by plasma butyrylcholinesterase
+        metabolites:
+            - Succinylmonocholine
+            - Choline
+    elimination:
+        renal: ~10% unchanged
+mechanism:
+    target:
+        - Muscle-type nicotinic acetylcholine receptor
+    action: ACh agonism → persistent end-plate depolarisation and voltage-gated Na+ channel inactivation
+contraindications:
+    - MH susceptibility
+    - Risk of ↑ K+ if severe hyperkalaemia, burns (post-acute phase), or upper/lower motor-neurone lesion with major muscle wasting
+    - Myopathy or congenital myotonia
+    - Atypical or low plasma butyrylcholinesterase
+    - Acute narrow-angle glaucoma or penetrating eye injury
+pregnancy:
+    code: A
+    justification:
+pharmacodynamics:
+    resp:
+        - Apnoea
+        - Prolonged respiratory failure
+    cvs:
+        - Bradycardia
+        - Dysrhythmias and cardiac arrest
+    cns:
+        - ↑ ICP
+    endo:
+    msk:
+        - Fasciculation → myalgia
+        - Masseter spasm
+        - Flaccid paralysis
+    met:
+        - ↑ K+
+        - Malignant hyperthermia
+    ren:
+        - Rhabdomyolysis and myoglobinuria → AKI
+    gu:
+    git:
+        - ↑ Intragastric pressure
+    haeme:
+considerations:
+    - Rapid onset; ultrashort duration
+    - ~20% reaches the NMJ because of rapid plasma hydrolysis
+    - Butyrylcholinesterase deficiency → prolonged apnoea
+    - ↑ IOP; avoid penetrating eye injury
+    - High anaphylaxis risk
+    - Refrigerate at 2-8°C; do not freeze
+references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 8 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Medsurge Pharma Pty Ltd. SUXAMETHONIUM MEDSURGE Australian Product Information. Revised 8 May 2026.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.
+    - Wellington Regional Hospital ICU. Wellington ICU Drug Manual. 2nd Ed. 2013.
