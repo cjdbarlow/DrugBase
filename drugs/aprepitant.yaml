@@ -1,0 +1,61 @@
+---
+aliases:
+    - Emend
+class: Neurokinin-1 antagonist
+chemistry: Triazolinone; pKa 9.7
+dose:
+    PONV (PO): 40mg within 3 hours before induction
+    CINV (PO): 165mg 1 hour before chemotherapy
+pharmaceutics:
+    presentation: 40mg, 80mg, 125mg and 165mg capsules
+    compatibility:
+    solubility: Practically water-insoluble
+pharmacokinetics:
+    absorption: Oral bioavailability ~67%; Tmax ~4 hours
+    distribution:
+        pKa: 9.7
+        vd: 1L/kg
+        protein binding: 99%
+    metabolism:
+        half-life: 9-13 hours
+        duration: Up to 48 hours
+        pathway: Hepatic oxidation, principally CYP3A4; minor CYP1A2 and CYP2C19
+        metabolites:
+            - Seven weakly active metabolites
+    elimination:
+        renal: No unchanged drug; metabolites in urine (5%) and faeces (86%)
+mechanism:
+    target:
+        - Central NK1 receptors
+    action: Competitive substance P antagonism → ↓ emetic signalling
+contraindications:
+    - Pimozide, terfenadine, astemizole or cisapride
+pregnancy:
+    code: B1
+    justification:
+pharmacodynamics:
+    resp:
+        - Hiccups
+    cvs:
+    cns:
+        - Headache
+        - Fatigue
+    endo:
+    msk:
+    met:
+    ren:
+    gu:
+    git:
+        - Antiemetic
+        - Constipation
+    haeme:
+considerations:
+    - CYP3A4 substrate and dose-dependent inhibitor; CYP2C9 inducer
+    - ↓ Dexamethasone and methylprednisolone doses when coadministered
+    - ↓ Hormonal contraceptive efficacy during treatment and for 1 month after
+    - Strong CYP3A4 inhibitors ↑ exposure; inducers ↓ exposure
+references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 8 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Arrotex Pharmaceuticals Pty Ltd. APREPITANT ARX Australian Product Information. Revised 9 April 2026.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.

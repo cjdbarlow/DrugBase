@@ -1,0 +1,67 @@
+---
+aliases:
+    - Zofran
+class: 5-HT3 antagonist
+chemistry: Carbazole; pKa 7.4
+dose:
+    PONV (IV/IM): 4mg at induction; established PONV 4mg, may ↑ to 8mg
+    Nausea (PO/IV): 4-8mg Q6H
+pharmaceutics:
+    presentation: 4mg and 8mg tablets or wafers; 0.8mg/mL oral liquid; clear colourless 2mg/mL solution
+    compatibility: Compatible with 0.9% NaCl, 5% glucose, Hartmann's and 10% mannitol
+    solubility: Sparingly water-soluble
+pharmacokinetics:
+    absorption: Oral bioavailability ~60%; Tmax ~1.5 hours
+    distribution:
+        pKa: 7.4
+        vd: 2.5L/kg
+        protein binding: 70-76%
+    metabolism:
+        half-life: 3.8 hours
+        duration: 4-8 hours
+        pathway: Hepatic CYP1A2, CYP2D6 and CYP3A4; hydroxylation then glucuronide/sulphate conjugation
+        metabolites:
+            - Inactive conjugates
+    elimination:
+        renal: ~5% unchanged; predominantly metabolites
+mechanism:
+    target:
+        - Central and peripheral 5-HT3 ligand-gated cation channels
+    action: Competitive antagonism on vagal afferents and in the area postrema → ↓ emetic signalling
+contraindications:
+    - Apomorphine
+pregnancy:
+    code: B1
+    justification:
+pharmacodynamics:
+    resp:
+    cvs:
+        - QT prolongation
+        - Rapid IV administration → bradycardia
+        - Arrhythmias
+    cns:
+        - Headache
+        - Rapid IV administration → dizziness or transient visual disturbance
+    endo:
+    msk:
+    met:
+    ren:
+    gu:
+    git:
+        - Antiemetic
+        - Constipation
+    haeme:
+considerations:
+    - Avoid in 1st trimester
+    - Congenital long-QT syndrome
+    - Correct hypokalaemia and hypomagnesaemia
+    - Moderate/severe hepatic impairment → max 8mg/day
+    - Serotonergic drugs → serotonin syndrome
+    - Does not treat motion sickness or dopamine-agonist emesis
+references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 8 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Aspen Pharmacare Australia Pty Ltd. Zofran Australian Product Information. Revised 26 May 2022.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.
+    - Young P, Psirides A. Wellington ICU Drug Manual. 2nd Ed. Wellington Regional Hospital. 2013.
