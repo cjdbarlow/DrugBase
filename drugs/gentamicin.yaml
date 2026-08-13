@@ -1,0 +1,64 @@
+---
+aliases:
+    - Gentamicin Noridem
+class: Aminoglycoside antibiotic
+chemistry: Gentamicin sulfate; mixture of related aminoglycosides
+dose:
+    Infection (IV): 7mg/kg daily
+pharmaceutics:
+    presentation: 80mg/2mL solution for IV or IM injection
+    compatibility: Dilute in 100-200mL 0.9% NaCl or glucose 5%; do not mix with other drugs
+    solubility: Water-soluble
+pharmacokinetics:
+    absorption: Poor PO; rapid and complete IM
+    distribution:
+        pKa:
+        vd: 0.2L/kg
+        protein binding: 0-3%
+    metabolism:
+        half-life: 2-3 hours; up to 70 hours in renal failure
+        duration:
+        pathway: None
+        metabolites:
+    elimination:
+        renal: Almost entirely unchanged by glomerular filtration
+mechanism:
+    target:
+        - 30S ribosomal subunit
+    action: Irreversible binding disrupts initiation and translocation and causes mRNA misreading → defective proteins
+contraindications:
+    - Previous aminoglycoside ototoxicity or nephrotoxicity
+pregnancy:
+    code: D
+    justification: Fetal nephrotoxicity and eighth-nerve toxicity
+pharmacodynamics:
+    resp:
+        - Neuromuscular blockade → apnoea
+    cvs:
+    cns:
+        - Irreversible vestibular or auditory toxicity
+    endo:
+    msk:
+        - Weakness
+    met:
+    ren:
+        - Usually reversible nephrotoxicity
+    gu:
+    git:
+    haeme:
+considerations:
+    - Bactericidal; concentration-dependent killing with post-antibiotic effect
+    - Oxygen-dependent uptake → inactive against anaerobes
+    - Peak 8-10× MIC
+    - Narrow therapeutic index → therapeutic drug monitoring
+    - Renal impairment → extend dose interval
+    - Frusemide and other ototoxic or nephrotoxic drugs ↑ toxicity
+    - Potentiates neuromuscular blockers
+references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 8 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Interpharma Pty Ltd. GENTAMICIN NORIDEM Australian Product Information. Version 1.7, July 2023.
+    - Panpharma UK Ltd. Gentamicin 40mg/mL Solution for Injection/Infusion Summary of Product Characteristics. Revised 4 September 2025.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.
+    - Wellington Regional Hospital ICU. Wellington ICU Drug Manual. 2nd Ed. 2013.

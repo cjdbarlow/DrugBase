@@ -1,0 +1,63 @@
+---
+aliases:
+    - Vancomycin Baxter
+class: Glycopeptide antibiotic
+chemistry: Glycosylated tricyclic heptapeptide
+dose:
+    Load (IV): 15-20mg/kg
+    C. difficile (PO): 500mg-2g/day divided TDS-QID
+pharmaceutics:
+    presentation: 500mg and 1g powder for IV infusion or oral solution
+    compatibility: β-lactams precipitate; flush line between drugs; dilute to ≤5mg/mL
+    solubility: Water-soluble hydrochloride salt
+pharmacokinetics:
+    absorption: Poor PO; systemic absorption may occur with colitis
+    distribution:
+        pKa:
+        vd: 0.3-0.69L/kg
+        protein binding: 55%
+    metabolism:
+        half-life: 4-6 hours; 7.5 days in anuria
+        duration:
+        pathway: None
+        metabolites:
+    elimination:
+        renal: 75% unchanged within 24 hours by glomerular filtration
+mechanism:
+    target:
+        - D-Ala-D-Ala terminus of peptidoglycan precursors
+    action: Inhibits peptidoglycan polymerisation and cross-linking → defective bacterial cell wall
+contraindications:
+pregnancy:
+    code: B2
+    justification:
+pharmacodynamics:
+    resp:
+    cvs:
+        - Rapid infusion → histamine release, flushing, ↓ MAP, ↑ HR
+    cns:
+        - Ototoxicity
+    endo:
+    msk:
+    met:
+    ren:
+        - Nephrotoxicity
+    gu:
+    git:
+        - Oral solution is extremely unpalatable
+    haeme:
+        - Neutropenia
+        - Thrombocytopenia
+considerations:
+    - Bactericidal; time-dependent killing
+    - Gram-positive activity only; synergistic with aminoglycosides
+    - Poor CSF penetration; improves with meningeal inflammation
+    - Renal impairment → dose adjustment and therapeutic drug monitoring
+    - IV phlebitis
+references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 8 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Baxter Healthcare Pty Ltd. VANCOMYCIN BAXTER Australian Product Information. Revised 16 June 2023.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.
+    - Wellington Regional Hospital ICU. Wellington ICU Drug Manual. 2nd Ed. 2013.

@@ -1,0 +1,71 @@
+---
+aliases:
+    - Flagyl
+class: Nitroimidazole antibiotic
+chemistry: 5-nitroimidazole
+dose:
+    Infection (IV): 500mg Q8H
+    Infection (PO): 400mg Q8H
+pharmaceutics:
+    presentation: 500mg/100mL ready-to-use IV solution; contains 310mg sodium
+    compatibility: Compatible with 0.9% NaCl and glucose solutions; incompatible with Hartmann's and Ringer's solutions
+    solubility:
+pharmacokinetics:
+    absorption: ~100% bioavailability PO; oral and IV exposure equivalent
+    distribution:
+        pKa:
+        vd:
+        protein binding: Insignificant
+    metabolism:
+        half-life: 7.3 hours
+        duration:
+        pathway: Hepatic hydroxylation, side-chain oxidation and glucuronidation
+        metabolites:
+            - Active hydroxymethyl metabolite
+    elimination:
+        renal: ~75% as unchanged drug and metabolites within 5 days
+        faecal: Most of remainder
+mechanism:
+    target:
+        - DNA
+    action: Anaerobic reduction forms cytotoxic intermediates and free radicals → DNA strand breaks and cell death
+contraindications:
+    - Blood dyscrasia
+    - Active organic CNS disease
+    - Disulfiram within 2 weeks
+    - Alcohol or propylene glycol during and for 3 days after treatment
+    - Cockayne syndrome (IV)
+pregnancy:
+    code: B2
+    justification:
+pharmacodynamics:
+    resp:
+    cvs:
+    cns:
+        - Peripheral neuropathy
+        - Seizures; encephalopathy
+    endo:
+    msk:
+    met:
+    ren:
+        - Dark urine
+    gu:
+    git:
+        - Nausea; vomiting
+        - Metallic taste
+    haeme:
+        - Cytopaenias
+considerations:
+    - Bactericidal against anaerobes; antiprotozoal
+    - Crosses BBB and placenta
+    - Severe hepatic impairment → dose reduction
+    - Haemodialysis removes drug and active metabolite → supplementary dose
+    - Alcohol → disulfiram-like reaction
+    - ↑ warfarin effect; cimetidine ↑ and enzyme inducers ↓ metronidazole exposure
+references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 8 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Fresenius Kabi Australia Pty Limited. METRONIDAZOLE KABI Australian Product Information. Revised 23 February 2026.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.
+    - Wellington Regional Hospital ICU. Wellington ICU Drug Manual. 2nd Ed. 2013.
