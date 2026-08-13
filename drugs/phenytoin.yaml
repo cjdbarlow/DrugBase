@@ -1,0 +1,74 @@
+---
+aliases:
+    - Dilantin
+    - DBL Phenytoin Injection
+class: Anticonvulsant; class IB antiarrhythmic
+chemistry: Hydantoin
+dose:
+    Status (IV): 10-15mg/kg; rate ≤50mg/min
+    Dysrhythmia (IV): 3-5mg/kg; repeat if required
+pharmaceutics:
+    presentation: 50mg/mL clear colourless solution with propylene glycol and ethanol
+    compatibility: Do not dilute; give into a large vein, flush with 0.9% NaCl; incompatible with glucose
+    solubility: pH 12; pKa 8.0-9.2; poor water solubility
+pharmacokinetics:
+    absorption: IV bioavailability 100%
+    distribution:
+        pKa: 8.0-9.2
+        vd: 1.6-2.5L
+        protein binding: 90%
+    metabolism:
+        half-life: ~22 hours; range 7-42 hours
+        duration: IV effect up to 24 hours
+        pathway: Hepatic CYP2C9 and CYP2C19 hydroxylation; saturable
+        metabolites:
+            - HPPH (inactive)
+    elimination:
+        renal: Biliary metabolites are reabsorbed then excreted in urine
+mechanism:
+    target:
+        - Voltage-gated Na+ channels
+    action: Stabilises the inactivated state → ↓ generation and propagation of action potentials
+contraindications:
+    - Sinus bradycardia
+    - SA block
+    - Second- or third-degree AV block
+    - Stokes-Adams syndrome
+pregnancy:
+    code: D
+    justification: Fetal hydantoin syndrome, neurodevelopmental disorder and fetal or neonatal bleeding
+pharmacodynamics:
+    resp:
+        - Rapid IV administration → respiratory depression
+    cvs:
+        - ↓ MAP
+        - Bradycardia, conduction block and cardiac arrest
+        - ↓ Ventricular automaticity and QT
+    cns:
+        - Anticonvulsant
+        - Ataxia, nystagmus and dysarthria
+    endo:
+    msk:
+    met:
+        - Chronic use → ↓ vitamin D
+    ren:
+    gu:
+    git:
+        - Hepatotoxicity
+        - Gingival hyperplasia
+    haeme:
+        - Folate deficiency and blood dyscrasias
+considerations:
+    - Therapeutic total concentration 10-20microg/mL; free 0.8-2microg/mL
+    - Hypoalbuminaemia or uraemia → measure or interpret free concentration
+    - Continuous ECG and BP monitoring during IV loading
+    - High pH and propylene glycol → purple-glove syndrome and tissue necrosis
+    - Potent CYP inducer → many interactions
+    - SJS, TEN and DRESS
+references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 8 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Pfizer Australia Pty Ltd. DBL PHENYTOIN INJECTION Australian Product Information. Revised 26 June 2023.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.
+    - Wellington Regional Hospital ICU. Wellington ICU Drug Manual. 2nd Ed. 2013.

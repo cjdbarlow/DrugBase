@@ -1,0 +1,66 @@
+---
+aliases:
+    - Lamictal
+class: Anticonvulsant; mood stabiliser
+chemistry: Substituted asymmetric triazine
+dose:
+    Monotherapy (PO): 25mg daily for 2 weeks, then 50mg daily for 2 weeks; maintenance 100-200mg/day
+    Valproate (PO): 25mg alternate days for 2 weeks, then 25mg daily for 2 weeks; maintenance 100-200mg/day
+    Enzyme inducer without valproate (PO): 50mg daily for 2 weeks, then 100mg/day for 2 weeks; maintenance 200-400mg/day
+pharmaceutics:
+    presentation: 25mg, 50mg, 100mg and 200mg tablets; 2-200mg dispersible/chewable tablets
+    compatibility:
+    solubility: pKa 5.7; very slightly water-soluble
+pharmacokinetics:
+    absorption: Rapid and complete PO absorption; peak 2.5 hours
+    distribution:
+        pKa: 5.7
+        vd: 0.92-1.22L/kg
+        protein binding: 55%
+    metabolism:
+        half-life: 29 hours; 14 hours with inducers; 70 hours with valproate
+        duration:
+        pathway: Hepatic glucuronidation
+        metabolites:
+            - N-glucuronides (inactive)
+    elimination:
+        renal: 94%; 8% unchanged
+mechanism:
+    target:
+        - Voltage-gated Na+ channels
+    action: Stabilises the inactivated state and ↓ glutamate release → ↓ repetitive neuronal firing
+contraindications:
+pregnancy:
+    code: D
+    justification: Risk relative to conventional anticonvulsants is unknown
+pharmacodynamics:
+    resp:
+    cvs:
+        - Class IB antiarrhythmic activity
+    cns:
+        - Anticonvulsant
+        - Dizziness, ataxia and diplopia
+    endo:
+    msk:
+    met:
+    ren:
+    gu:
+    git:
+        - Nausea and vomiting
+    haeme:
+        - Cytopenias
+considerations:
+    - Slow titration ↓ severe rash risk
+    - Rash → stop unless clearly unrelated
+    - SJS, TEN and DRESS; risk ↑ with valproate or excessive escalation
+    - HLA-B*1502 → ↑ SJS/TEN risk
+    - Co-administration of valproate doubles half-life
+    - Aseptic meningitis
+    - Haemophagocytic lymphohistiocytosis
+    - Avoid with cardiac conduction disease or sodium-channelopathy
+references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 8 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Aspen Pharmacare Australia Pty Ltd. LAMICTAL Australian Product Information. Revised 25 February 2025.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.

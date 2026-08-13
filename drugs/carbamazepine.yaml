@@ -1,0 +1,73 @@
+---
+aliases:
+    - Tegretol
+class: Anticonvulsant; class I antiarrhythmic
+chemistry: Tricyclic dibenzoazepine
+dose:
+    Epilepsy (PO): 100-200mg 1-2 times/day initially; usually 400mg 2-3 times/day
+pharmaceutics:
+    presentation: 100mg/5mL liquid; 200mg tablet; 200mg and 400mg CR tablets
+    compatibility: Dilute liquid 1:1 with water for NG administration
+    solubility: pKa 7-13; minimally water-soluble and highly lipid-soluble
+pharmacokinetics:
+    absorption: PO bioavailability ~85%; slow, peak 4-24 hours
+    distribution:
+        pKa: 7-13
+        vd: 0.7-1.4L/kg
+        protein binding: 75-80%
+    metabolism:
+        half-life: 36 hours single dose; 16-24 hours after autoinduction
+        duration:
+        pathway: Hepatic CYP3A4 epoxidation; induces its own metabolism
+        metabolites:
+            - Carbamazepine-10,11-epoxide (active)
+    elimination:
+        renal: 72% mainly metabolites; 28% faeces
+mechanism:
+    target:
+        - Voltage-gated Na+ channels
+    action: Stabilises the inactivated state → ↓ sustained repetitive neuronal firing
+contraindications:
+    - AV block
+    - Hepatic porphyria
+    - Bone-marrow depression
+    - Significant hepatic dysfunction
+    - MAOI use within 2 weeks
+pregnancy:
+    code: D
+    justification: ~1% spina bifida; craniofacial, nail and developmental abnormalities; fetal or neonatal bleeding
+pharmacodynamics:
+    resp:
+    cvs:
+        - ↓ Ventricular automaticity
+        - Toxicity → QRS prolongation and dysrhythmias
+    cns:
+        - Anticonvulsant
+        - Ataxia, nystagmus and diplopia
+        - Anticholinergic toxicity
+    endo:
+        - ADH-like effect → fluid retention and hyponatraemia
+    msk:
+    met:
+    ren:
+    gu:
+    git:
+        - Hepatotoxicity
+    haeme:
+        - Thrombocytopenia and leukopenia
+        - Aplastic anaemia and agranulocytosis
+considerations:
+    - Autoinduction over 2-4 weeks → falling concentration and shorter half-life
+    - Potent CYP3A4 inducer → many interactions
+    - Therapeutic concentration 4-12microg/mL
+    - HLA-B*1502 and HLA-A*3101 → ↑ severe cutaneous reactions
+    - SJS, TEN and DRESS
+    - Antagonises non-depolarising neuromuscular blockers
+    - Monitor FBC, LFT and Na+
+references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 8 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Novartis Pharmaceuticals Australia Pty Limited. TEGRETOL Australian Product Information. Revised 26 March 2026.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.
+    - Wellington Regional Hospital ICU. Wellington ICU Drug Manual. 2nd Ed. 2013.
