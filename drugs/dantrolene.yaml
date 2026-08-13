@@ -1,0 +1,62 @@
+---
+aliases:
+    - Dantrium
+class: Direct-acting skeletal muscle relaxant
+chemistry: Hydantoin derivative; sodium hemiheptahydrate
+dose:
+    MH (IV): 2.5mg/kg Q10-15 minutes up to 10mg/kg
+pharmaceutics:
+    presentation: 20mg light-yellow powder with 3g mannitol; reconstitute with 60mL water for injection to 0.333mg/mL
+    compatibility: Compatible only with water for injection; protect from light and use within 6 hours
+    solubility: pH ~9.5 after reconstitution
+pharmacokinetics:
+    absorption: IV
+    distribution:
+        pKa:
+        vd:
+        protein binding: 85%
+    metabolism:
+        half-life: 5 hours
+        duration:
+        pathway: Hepatic
+        metabolites:
+            - 5-hydroxydantrolene (active)
+            - Acetamido analogue
+    elimination:
+        renal: Dantrolene and metabolites
+mechanism:
+    target:
+        - Ryanodine receptor 1
+    action: Inhibits Ca2+ release from the sarcoplasmic reticulum → uncouples excitation-contraction
+contraindications:
+pregnancy:
+    code: B2
+    justification:
+pharmacodynamics:
+    resp:
+        - Skeletal muscle weakness → respiratory failure
+    cvs:
+        - Fluid load → pulmonary oedema
+    cns:
+        - Drowsiness
+        - Dizziness
+    endo:
+    msk:
+        - Skeletal muscle relaxation
+    met:
+    ren:
+        - Mannitol → diuresis
+    gu:
+    git:
+        - Hepatotoxicity
+    haeme:
+considerations:
+    - High pH → extravasation necrosis
+    - Each 20mg vial requires 60mL diluent → substantial fluid load
+references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 8 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Pfizer Australia Pty Ltd. DANTRIUM Australian Product Information. Revised 20 September 2024.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.
+    - Wellington Regional Hospital ICU. Wellington ICU Drug Manual. 2nd Ed. 2013.
