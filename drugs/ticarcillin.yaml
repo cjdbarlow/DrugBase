@@ -1,0 +1,69 @@
+---
+aliases:
+    - Timentin
+    - Ticarcillin/clavulanate
+class: Antipseudomonal penicillin
+chemistry: Carboxypenicillin; β-lactam disodium salt
+dose:
+    Infection ≥60kg (IV): 3g/0.1g ticarcillin/clavulanate Q4-6H
+    Infection <60kg (IV): 200-300mg/kg/day ticarcillin divided Q4-6H
+pharmaceutics:
+    presentation: 3g/0.1g ticarcillin/clavulanate powder for infusion
+    compatibility: Reconstitute with water; dilute in 0.9% NaCl, 5% glucose or Hartmann's
+    solubility: Very water-soluble
+pharmacokinetics:
+    absorption:
+    distribution:
+        pKa:
+        vd: 9L
+        protein binding: 45%
+    metabolism:
+        half-life: 1.1 hours
+        duration:
+        pathway: Minimal
+        metabolites:
+    elimination:
+        renal: ~70% unchanged within 12 hours; filtration and tubular secretion
+mechanism:
+    target:
+        - Penicillin-binding proteins
+        - β-lactamases (clavulanate)
+    action: Inhibits peptidoglycan cross-linking → defective bacterial cell wall and lysis; clavulanate inhibits susceptible β-lactamases
+contraindications:
+pregnancy:
+    code: B2
+    justification:
+pharmacodynamics:
+    resp:
+    cvs:
+    cns:
+        - Myoclonus, depressed consciousness and convulsions, especially renal failure
+    endo:
+    msk:
+    met:
+        - Hypokalaemia
+        - Hypernatraemia
+    ren:
+        - Haemorrhagic cystitis
+    gu:
+    git:
+        - Nausea
+        - Diarrhoea; C. difficile colitis
+        - ↑ Transaminases
+    haeme:
+        - Impaired platelet aggregation → bleeding
+        - Cytopaenias
+considerations:
+    - Bactericidal; time-dependent killing
+    - Gram-negative and Pseudomonas activity; clavulanate restores activity against susceptible β-lactamases
+    - Less active than piperacillin against Pseudomonas
+    - 359mg sodium/3.1g vial
+    - Renal impairment → dose reduction
+    - Probenecid ↓ ticarcillin tubular secretion
+references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 8 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - GlaxoSmithKline Inc. TIMENTIN Product Monograph. Revised 7 February 2014.
+    - Therapeutic Goods Administration. TIMENTIN Australian Register of Therapeutic Goods public summary. Accessed 8 August 2026. https://www.tga.gov.au/resources/artg/11165
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.
