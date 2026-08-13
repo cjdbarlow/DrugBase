@@ -1,0 +1,77 @@
+---
+aliases:
+    - Thiopental
+    - Pentothal
+class: Ultrashort-acting IV barbiturate anaesthetic
+chemistry: Thiobarbiturate; sulfur analogue of pentobarbitone
+dose:
+    Induction (IV): 3-4mg/kg
+pharmaceutics:
+    presentation: 470mg yellow hygroscopic powder with 30mg sodium carbonate; equivalent to 500mg mixture
+    compatibility: Reconstitute to 25mg/mL; do not mix with acidic drugs or administer precipitated solution
+    solubility: pKa 7.4; reconstituted pH 10-11
+pharmacokinetics:
+    absorption: IV
+    distribution:
+        pKa: 7.4
+        vd: 2.5L/kg
+        protein binding: 80%
+    metabolism:
+        half-life: 3-8 hours
+        duration: 5-10 minutes after induction
+        pathway: Hepatic oxidation and desulfuration
+        metabolites:
+            - Predominantly inactive metabolites
+            - Pentobarbitone (minor active metabolite)
+    elimination:
+        renal: Metabolites; minimal unchanged
+mechanism:
+    target:
+        - GABA-A receptor
+    action: ↑ Duration of GABA-mediated Cl- channel opening; high concentrations directly activate GABA-A and ↓ glutamate excitation
+contraindications:
+    - Acute or variegate porphyria
+    - Severe respiratory compromise or inability to maintain the airway
+    - Constrictive pericarditis
+pregnancy:
+    code: A
+    justification: General anaesthetics may depress neonatal CNS and respiration, particularly in a compromised fetus
+pharmacodynamics:
+    resp:
+        - Apnoea
+        - Respiratory depression
+        - Bronchospasm and laryngospasm
+    cvs:
+        - Venodilation and vasodilation → ↓ MAP
+        - ↓ Contractility
+        - ↑ HR
+    cns:
+        - Hypnosis; no analgesia
+        - Anticonvulsant
+        - ↓ CMRO2, CBF and ICP
+        - Dose-dependent EEG suppression
+    endo:
+    msk:
+    met:
+        - Acute porphyric crisis
+    ren:
+        - ↓ RBF and UO
+    gu:
+    git:
+        - ↓ Lower oesophageal sphincter tone
+    haeme:
+considerations:
+    - Onset 30-40 seconds; offset by redistribution
+    - Repeat doses or infusion → accumulation and prolonged recovery
+    - High pH → extravasation necrosis
+    - Intra-arterial injection → arteriospasm, ischaemia and gangrene
+    - ↑ Free drug in acidosis or hypoalbuminaemia
+    - Haemodynamic instability → reduce dose and inject slowly
+    - CNS depressants → synergistic depression
+references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 8 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Omegapharm Pty Ltd. OMEGAPHARM THIOPENTAL SODIUM Australian Product Information. Revised 1 May 2025.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.
+    - Wellington Regional Hospital ICU. Wellington ICU Drug Manual. 2nd Ed. 2013.

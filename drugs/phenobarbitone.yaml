@@ -1,0 +1,69 @@
+---
+aliases:
+    - Phenobarbital
+class: Long-acting barbiturate anticonvulsant
+chemistry: 5-phenyl-5-ethylbarbituric acid
+dose:
+    Status (IV): 20mg/kg; rate ≤60mg/min
+pharmaceutics:
+    presentation: 200mg phenobarbitone equivalent in 1mL clear colourless solution; contains ethanol
+    compatibility: Dilute 1:10 with water for injection; avoid SC administration
+    solubility: Phenobarbital sodium is highly water-soluble and alkaline
+pharmacokinetics:
+    absorption: PO 70-90%; IV or IM
+    distribution:
+        pKa:
+        vd:
+        protein binding: 40%
+    metabolism:
+        half-life: 90-100 hours
+        duration: Parenteral 4-6 hours
+        pathway: Hepatic microsomal oxidation
+        metabolites:
+            - p-hydroxyphenobarbitone (inactive)
+    elimination:
+        renal: 25% unchanged; 75% metabolites
+mechanism:
+    target:
+        - GABA-A receptor
+    action: Positive allosteric modulation → ↑ duration of GABA-mediated Cl- channel opening; high concentrations ↓ repetitive neuronal firing
+contraindications:
+    - Acute or variegate porphyria
+    - Severe respiratory depression
+    - Severe hepatic or renal impairment
+    - Acute alcohol, hypnotic or analgesic intoxication
+pregnancy:
+    code: D
+    justification: ↑ Congenital craniofacial, cardiac and digital abnormalities; neonatal bleeding and dependence
+pharmacodynamics:
+    resp:
+        - Hypoventilation
+        - Apnoea
+        - Bronchospasm and laryngospasm
+    cvs:
+        - Bradycardia
+        - ↓ MAP → circulatory collapse
+    cns:
+        - Anticonvulsant
+        - Sedation
+        - Ataxia and nystagmus
+    endo:
+    msk:
+    met:
+    ren:
+    gu:
+    git:
+        - Hepatic enzyme induction
+    haeme:
+        - Chronic use → megaloblastic anaemia
+considerations:
+    - High alkalinity → extravasation or intra-arterial injection causes necrosis
+    - Monitor plasma concentration; therapeutic range 15-40microg/mL
+    - Potent CYP and UGT inducer → many interactions
+    - Risk of seizures if abrupt withdrawal
+references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 8 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Aspen Pharmacare Australia Pty Ltd. PHENOBARBITONE INJECTION Australian Product Information. Revised 5 April 2024.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Wellington Regional Hospital ICU. Wellington ICU Drug Manual. 2nd Ed. 2013.
