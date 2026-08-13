@@ -1,0 +1,75 @@
+---
+aliases:
+    - Stemetil
+class: Phenothiazine dopamine antagonist
+chemistry: Piperazine phenothiazine; pKa 8.39
+dose:
+    Nausea (PO): 5-10mg BD-TDS
+    Acute nausea (PO): 20mg, then 10mg after 2 hours if required
+    Nausea (IM): 12.5mg; commence PO after 6 hours if required
+pharmaceutics:
+    presentation: 5mg tablet; clear pale-yellow 12.5mg/mL solution
+    compatibility:
+    solubility: Slightly water-soluble
+pharmacokinetics:
+    absorption: Oral bioavailability 12.5%
+    distribution:
+        pKa: 8.39
+        vd: 22L/kg
+        protein binding: Up to 99%
+    metabolism:
+        half-life: 4-8 hours
+        duration: 4-8 hours
+        pathway: Extensive hepatic metabolism with enterohepatic circulation
+        metabolites:
+            - Inactive metabolites
+    elimination:
+        renal: Minimal
+mechanism:
+    target:
+        - Central D2 receptors
+        - α1 receptors
+        - H1 receptors
+        - Muscarinic receptors
+        - 5-HT receptors
+    action: Predominantly D2 antagonism in the chemoreceptor trigger zone → antiemesis
+contraindications:
+    - Circulatory collapse
+    - CNS depression or coma
+    - Bone-marrow depression
+pregnancy:
+    code: C
+    justification: High doses in late pregnancy → prolonged neonatal neurological disturbance
+pharmacodynamics:
+    resp:
+        - ↓ Airway secretions
+    cvs:
+        - α1 antagonism → ↓ MAP and reflex tachycardia
+        - QT prolongation
+    cns:
+        - Sedation
+        - Extrapyramidal effects
+        - Tardive dyskinesia
+        - Neuroleptic malignant syndrome
+    endo:
+        - ↑ Prolactin
+    msk:
+    met:
+    ren:
+    gu:
+        - Urinary retention
+    git:
+        - Antiemetic
+        - Constipation
+    haeme:
+        - Blood dyscrasias
+considerations:
+    - Parkinson's disease, narrow-angle glaucoma or prostatic hypertrophy
+    - Hepatic impairment → ↓ dose
+    - Potentiates opioids and other CNS depressants
+    - Parenteral use → IM only; no current PI IV/SC regimen
+references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 8 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Atnahs Pharma Australia Pty Ltd. Stemetil Australian Product Information. Revised 31 January 2025.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
