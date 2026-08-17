@@ -1,0 +1,64 @@
+---
+aliases:
+    - Neurontin
+    - Nupentin
+class: Anticonvulsant; neuropathic analgesic
+chemistry: GABA analogue; amino acid
+dose:
+    Epilepsy (PO): 300mg TDS; usual 900-1800mg/day, max 2400mg/day
+    Neuropathic pain (PO/NG): 300mg TDS; max 3600mg/day
+pharmaceutics:
+    presentation: 100mg, 300mg and 400mg capsules; 600mg and 800mg tablets
+    compatibility: Capsules may be opened and mixed with 10mL water for NG administration
+    solubility: Freely water-soluble
+pharmacokinetics:
+    absorption: Saturable PO absorption; bioavailability ~60% at 300-600mg TDS and ↓ with dose; food has no effect
+    distribution:
+        pKa:
+        vd: 58 ± 6L
+        protein binding: <3%
+    metabolism:
+        half-life: 5-7 hours
+        duration:
+        pathway: Not appreciably metabolised
+        metabolites:
+    elimination:
+        renal: Unchanged
+mechanism:
+    target:
+        - α2δ subunit of presynaptic voltage-gated Ca2+ channels
+    action: Precise mechanism uncertain; ↓ Ca2+ entry and excitatory neurotransmitter release
+contraindications:
+pregnancy:
+    code: D
+    justification: Risk relative to conventional anticonvulsants is unknown
+pharmacodynamics:
+    resp:
+        - Respiratory depression
+    cvs:
+        - Peripheral oedema
+    cns:
+        - Anticonvulsant
+        - Neuropathic analgesia
+        - Somnolence, dizziness, ataxia and confusion
+    endo:
+    msk:
+    met:
+        - Weight gain
+    ren:
+    gu:
+    git:
+        - Nausea, diarrhoea and constipation
+    haeme:
+considerations:
+    - Renal impairment → dose reduction; haemodialysable
+    - Opioids/CNS depressants → ↑ sedation, respiratory depression, coma and death
+    - Misuse, dependence and withdrawal
+    - Abrupt withdrawal → seizures or status epilepticus
+    - DRESS, SJS and TEN
+references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 8 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Viatris Pty Ltd. NEURONTIN Australian Product Information. Revised 10 June 2026.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Young P, Psirides A. Wellington ICU Drug Manual. 2nd Ed. Wellington Regional Hospital. 2013.
