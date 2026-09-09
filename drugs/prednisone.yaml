@@ -1,0 +1,67 @@
+---
+aliases:
+    - Panafcort
+class: Intermediate-acting glucocorticoid prodrug
+chemistry: Synthetic corticosteroid; 11-keto prodrug of prednisolone
+dose:
+    Inflammation: Adults initially 20-40mg/day PO; maintenance 5-20mg/day
+pharmaceutics:
+    presentation: 1mg, 5mg or 25mg tablet
+    compatibility: After food; morning dosing ↓ HPA suppression; alternate-day dosing if disease control permits
+    solubility: Lipid soluble; very slightly water soluble
+pharmacokinetics:
+    absorption: ~80% PO bioavailability (variable)
+    distribution:
+        pKa: '12.59'
+        vd: 1.0L/kg
+        protein binding:
+    metabolism:
+        half-life: Plasma 3-4h; preconversion biological ~60min (PI)
+        duration: Biological t½ 12-36h
+        pathway: Rapid hepatic conversion to active prednisolone, then corticosteroid metabolism
+        metabolites:
+            - Active prednisolone
+            - Inactive conjugates
+    elimination:
+        renal: Minimal unchanged drug; predominantly metabolites
+mechanism:
+    target:
+        - Glucocorticoid receptors after conversion to prednisolone
+    action: Receptor binding → genomic and non-genomic regulation of inflammatory, immune and metabolic pathways
+contraindications:
+    - Systemic fungal infection
+    - Uncontrolled infection
+pregnancy:
+    code: A
+    justification:
+pharmacodynamics:
+    resp:
+        - ↓ Airway inflammation
+    cvs:
+        - ↑ Vascular response to catecholamines; fluid retention at high doses
+    cns:
+        - Insomnia, mood disturbance and psychosis
+    endo:
+        - HPA-axis suppression and Cushingoid state
+    msk:
+        - Proximal myopathy and osteoporosis
+    met:
+        - ↑ Gluconeogenesis and protein catabolism; hyperglycaemia
+    ren:
+        - Na+ and water retention; K+ loss at high doses
+    gu:
+    git:
+        - Peptic ulceration and pancreatitis
+    haeme:
+        - Neutrophilia, lymphopenia and impaired immune function
+considerations:
+    - Requires hepatic activation; prednisolone is already active
+    - ~4 times hydrocortisone glucocorticoid potency
+    - Infection risk; taper after prolonged treatment
+    - Avoid live vaccines during corticosteroid therapy (replacement dosing excepted)
+references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 8 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Aspen Pharmacare Australia Pty Ltd. PANAFCORT Australian Product Information. Revised 5 May 2026.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Young P, Psirides A. Wellington ICU Drug Manual. 2nd Ed. Wellington Regional Hospital. 2013.

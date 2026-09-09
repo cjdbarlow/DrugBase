@@ -1,0 +1,62 @@
+---
+aliases:
+    - Florinef
+class: Potent mineralocorticoid
+chemistry: Fluorinated synthetic corticosteroid
+dose:
+    Addison's: 0.1mg PO daily
+pharmaceutics:
+    presentation: 0.1mg fludrocortisone acetate tablet
+    compatibility:
+    solubility: Lipid soluble; acetate practically water insoluble
+pharmacokinetics:
+    absorption: 70-100% PO bioavailability (very variable)
+    distribution:
+        pKa: '12.55'
+        vd: 1.2L/kg
+        protein binding: 70-80%
+    metabolism:
+        half-life: 18-36h
+        duration: 1-2 days
+        pathway: Extensive hepatic metabolism
+        metabolites:
+            - Inactive metabolites
+    elimination:
+        renal: Predominantly inactive metabolites
+mechanism:
+    target:
+        - Mineralocorticoid receptors
+    action: Receptor activation → genomic ↑ distal Na+ reabsorption and K+/H+ secretion
+contraindications:
+    - Systemic fungal infection
+pregnancy:
+    code: C
+    justification:
+pharmacodynamics:
+    resp:
+    cvs:
+        - ↑ ECF and MAP; oedema and heart failure
+    cns:
+        - Mood disturbance and psychosis at high doses
+    endo:
+        - HPA-axis suppression at high doses
+    msk:
+        - Myopathy and osteoporosis at high doses
+    met:
+        - Hypokalaemic alkalosis; high doses → hyperglycaemia
+    ren:
+        - ↑ Na+ and water retention; ↑ K+ excretion
+    gu:
+    git:
+        - Peptic ulceration at high doses
+    haeme:
+considerations:
+    - Give with a glucocorticoid in primary adrenal insufficiency
+    - Monitor MAP, oedema, Na+ and K+
+    - Reduce to 0.05mg daily if treatment-related hypertension develops
+    - Substantial maternal exposure may suppress neonatal adrenal function
+references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 8 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Aspen Pharmacare Australia Pty Ltd. FLORINEF Australian Product Information. Revised 24 June 2026.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
