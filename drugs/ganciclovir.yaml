@@ -1,0 +1,62 @@
+---
+aliases:
+    - Cymevene
+class: Antiviral
+chemistry: Synthetic guanine nucleoside analogue
+dose:
+    CMV induction: 5mg/kg IV Q12H for 14-21 days
+    CMV maintenance: 5mg/kg IV daily 7 days/week or 6mg/kg IV daily 5 days/week
+pharmaceutics:
+    presentation: 500mg lyophilised powder; 10mL sterile WFI → 50mg/mL; pH ~11
+    compatibility: Dilute to ≤10mg/mL in 0.9% NaCl, 5% glucose, Ringer's or Hartmann's; infuse over 1h
+    solubility: Ganciclovir 2.6mg/mL in water at 25°C
+pharmacokinetics:
+    absorption: Complete IV bioavailability
+    distribution:
+        pKa: 2.2 and 9.4
+        vd: 0.54-0.87L/kg (IV Vss)
+        protein binding: 1-2%
+    metabolism:
+        half-life: ~2.9h (IV; normal renal function)
+        duration:
+        pathway: No significant metabolism
+        metabolites:
+    elimination:
+        renal: ">90% of IV dose unchanged in urine within 24h (normal renal function); glomerular filtration and tubular secretion"
+mechanism:
+    target:
+        - CMV UL97 kinase
+        - Viral DNA polymerase
+    action: UL97 and cellular kinases form ganciclovir triphosphate → viral DNA polymerase inhibition and eventual termination of DNA elongation
+contraindications:
+    - Pregnancy
+    - ANC <0.5×10⁹/L, platelets <25×10⁹/L or Hb <80g/L
+pregnancy:
+    code: D
+    justification: Teratogenic and embryotoxic in animals
+pharmacodynamics:
+    resp:
+    cvs:
+    cns:
+        - Confusion, neuropathy and seizures
+    endo:
+    msk:
+    met:
+    ren:
+        - ↑ Creatinine
+    gu:
+        - Impaired fertility
+    git:
+        - Diarrhoea, nausea and vomiting
+    haeme:
+        - Neutropenia, anaemia and thrombocytopenia
+considerations:
+    - Cytotoxic handling precautions
+    - Adjust dose in renal impairment
+    - Avoid imipenem-cilastatin due to seizure risk
+    - Mutagenic, carcinogenic and gonadotoxic potential
+references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 8 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Pharmaco (Australia) Ltd. CYMEVENE Australian Product Information. Revised 9 January 2025.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Young P, Psirides A. Wellington ICU Drug Manual. 2nd Ed. Wellington Regional Hospital. 2013.
