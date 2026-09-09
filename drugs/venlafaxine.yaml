@@ -1,0 +1,66 @@
+---
+aliases:
+    - Efexor-XR
+class: Serotonin-noradrenaline reuptake inhibitor
+chemistry: Phenethylamine derivative; racemate
+dose:
+    Depression/anxiety (PO, MR): 75mg daily; max 225mg daily
+    Panic disorder (PO, MR): 37.5mg daily for 4-7 days, then 75mg daily; max 225mg daily
+pharmaceutics:
+    presentation: 37.5mg, 75mg and 150mg modified-release capsules
+    compatibility: Swallow whole; do not divide, crush, chew or dissolve
+    solubility: Freely water-soluble
+pharmacokinetics:
+    absorption: At least 92%; bioavailability ~45% due to first-pass metabolism; MR peaks ~6 hours (parent) and ~9 hours (O-desmethylvenlafaxine)
+    distribution:
+        pKa: ~10
+        vd: 6-7L/kg
+        protein binding: 27%
+    metabolism:
+        half-life: 'Disposition: 5 hours; O-desmethylvenlafaxine 11 hours; MR apparent: 15 hours (absorption-limited)'
+        duration:
+        pathway: Hepatic CYP2D6 to O-desmethylvenlafaxine; CYP3A4 N-demethylation
+        metabolites:
+            - O-desmethylvenlafaxine (active)
+            - N-desmethylvenlafaxine and N,O-didesmethylvenlafaxine
+    elimination:
+        renal: '87% of dose in urine within 48 hours: 5% of dose unchanged, remainder metabolites'
+mechanism:
+    target:
+        - Serotonin and noradrenaline transporters
+    action: Inhibits serotonin and noradrenaline reuptake; weak dopamine reuptake inhibition
+contraindications:
+    - MAOI use within 14 days; wait at least 7 days after venlafaxine before an MAOI
+pregnancy:
+    code: B2
+    justification:
+pharmacodynamics:
+    resp:
+    cvs:
+        - ↑ MAP and HR
+    cns:
+        - Antidepressant and anxiolytic
+        - Dizziness, somnolence or insomnia
+    endo:
+        - SIADH and hyponatraemia
+    msk:
+    met:
+    ren:
+    gu:
+        - Sexual dysfunction
+    git:
+        - Nausea, xerostomia and constipation
+    haeme:
+        - Increased bleeding
+considerations:
+    - Serotonergic medicines may cause serotonin syndrome
+    - Abrupt cessation commonly causes discontinuation symptoms
+    - 'GFR 10-70mL/min: reduce dose by 25-50%; haemodialysis: reduce by 50%'
+    - 'Mild-moderate hepatic impairment: reduce dose by 50%; consider further reduction if severe'
+    - Overdose may cause seizures, QRS/QT prolongation and dysrhythmias
+references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 8 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Viatris Pty Ltd. EFEXOR-XR Australian Product Information. Revised 2 February 2026.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Petkov V. Essential Pharmacology for the ANZCA Primary Examination. 2012.

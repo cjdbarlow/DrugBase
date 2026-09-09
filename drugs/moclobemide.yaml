@@ -1,0 +1,63 @@
+---
+aliases:
+    - Aurorix
+class: Reversible selective monoamine oxidase inhibitor
+chemistry: Benzamide derivative
+dose:
+    Depression (PO): Initially 300 or 450mg/day in 2 divided doses after meals; usual 300-600mg/day; no increase in the first week
+pharmaceutics:
+    presentation: 150mg and 300mg tablets
+    compatibility:
+    solubility: Poorly water-soluble
+pharmacokinetics:
+    absorption: Complete; bioavailability ~50% due to first-pass metabolism and increases with repeated dosing
+    distribution:
+        pKa: ~6.2
+        vd: ~1.2L/kg (Vss)
+        protein binding: 50%
+    metabolism:
+        half-life: ~2 hours
+        duration: MAO inhibition ~24 hours
+        pathway: Hepatic morpholine oxidation, hydroxylation and deamination; partly CYP2C19/2D6
+        metabolites:
+            - N-oxide metabolite (slight activity; very low circulating concentrations)
+            - Other metabolites (some activity in vitro/animals; very low circulating concentrations)
+    elimination:
+        renal: Metabolites; less than 1% unchanged
+mechanism:
+    target:
+        - Monoamine oxidase A
+    action: Reversible preferential MAO-A inhibition reduces noradrenaline, serotonin and dopamine metabolism
+contraindications:
+    - Acute confusional states
+    - Serotonin syndrome
+    - Clomipramine, selegiline, bupropion, triptans, pethidine, tramadol, dextromethorphan or linezolid
+pregnancy:
+    code: B3
+    justification:
+pharmacodynamics:
+    resp:
+    cvs:
+        - Hypertension
+    cns:
+        - Antidepressant
+        - Restlessness, agitation, insomnia and dizziness
+    endo:
+    msk:
+    met:
+    ren:
+    gu:
+    git:
+        - Nausea
+    haeme:
+considerations:
+    - Serotonergic medicines may cause serotonin syndrome
+    - Sympathomimetics and large tyramine loads may cause hypertension
+    - MAO activity returns within ~24 hours of cessation
+    - Severe hepatic impairment requires half to one-third dose
+references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 8 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Viatris Pty Ltd. AURORIX Australian Product Information. Revised 10 July 2023.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Petkov V. Essential Pharmacology for the ANZCA Primary Examination. 2012.

@@ -1,0 +1,71 @@
+---
+aliases:
+    - Endep
+class: Tricyclic antidepressant
+chemistry: Tricyclic compound
+dose:
+    Neuropathic pain (ICU, PO/NG): 10mg nocte; increase to 25-50mg nocte
+    Depression (PO, outpatient): 75mg/day in divided doses; max 150mg/day
+    Depression (PO, inpatient): 100mg/day initially; usual max 200mg/day; exceptionally 300mg/day
+pharmaceutics:
+    presentation: 10mg, 25mg and 50mg tablets
+    compatibility:
+    solubility: Water-insoluble and lipid-soluble
+pharmacokinetics:
+    absorption: Rapid and complete; bioavailability 33-62% due to first-pass metabolism
+    distribution:
+        pKa: 9.76
+        vd: 19L/kg
+        protein binding: 84%
+    metabolism:
+        half-life: ~20 hours
+        duration:
+        pathway: Hepatic N-demethylation and hydroxylation, mainly CYP2D6
+        metabolites:
+            - Nortriptyline (active)
+            - Hydroxy and N-oxide metabolites (some antidepressant activity)
+    elimination:
+        renal: Mainly metabolites and conjugates; very little unchanged
+mechanism:
+    target:
+        - Noradrenaline and serotonin transporters
+        - Muscarinic, H1 and alpha1 receptors
+        - Cardiac Na+ channels in overdose
+    action: Inhibits noradrenaline and serotonin reuptake; antimuscarinic, H1 and alpha1 antagonism
+contraindications:
+    - MAOI use within 14 days
+    - Cisapride
+    - Acute recovery after myocardial infarction
+pregnancy:
+    code: C
+    justification: Prolonged maternal use may cause neonatal withdrawal
+pharmacodynamics:
+    resp:
+    cvs:
+        - ↓ MAP and ↑ HR
+        - Overdose causes QRS/QT prolongation and dysrhythmias
+    cns:
+        - Antidepressant and neuropathic analgesia
+        - Sedation and blurred vision
+        - Decreased seizure threshold
+    endo:
+    msk:
+    met:
+    ren:
+        - Urinary retention
+    gu:
+    git:
+        - Xerostomia and constipation
+    haeme:
+considerations:
+    - Sympathomimetics and ketamine may cause dysrhythmias or variable BP
+    - Serotonergic medicines may cause serotonin syndrome
+    - Overdose causes cardiac Na+ channel blockade
+    - Abrupt cessation may cause withdrawal
+references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 8 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Alphapharm Pty Ltd trading as Viatris. ENDEP Australian Product Information. Revised 25 July 2025.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Petkov V. Essential Pharmacology for the ANZCA Primary Examination. 2012.
+    - Young P, Psirides A. Wellington ICU Drug Manual. 2nd Ed. Wellington Regional Hospital. 2013.
