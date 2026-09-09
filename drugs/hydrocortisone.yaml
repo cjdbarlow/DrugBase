@@ -1,0 +1,69 @@
+---
+aliases:
+    - Solu-Cortef
+class: Short-acting glucocorticoid; mineralocorticoid
+chemistry: Endogenous corticosteroid; sodium succinate ester for injection
+dose:
+    Shock: 100mg IV Q8H
+pharmaceutics:
+    presentation: 100mg, 250mg and 500mg powder for IV/IM injection
+    compatibility: Compatible with 0.9% NaCl and 5% glucose
+    solubility: Lipid soluble; water-soluble sodium succinate ester
+pharmacokinetics:
+    absorption: 97% PO bioavailability; rapid IM absorption
+    distribution:
+        pKa: 12.59
+        vd: 0.5L/kg
+        protein binding: 90%
+    metabolism:
+        half-life: ~60min; up to 2h at high doses
+        duration: Biological activity 8-12h
+        pathway: Mainly hepatic; 11β-HSD2 and CYP3A4
+        metabolites:
+            - Inactive conjugates
+    elimination:
+        renal: Minimal active drug; IV dose excretion nearly complete within 12h
+mechanism:
+    target:
+        - Glucocorticoid receptor
+        - Mineralocorticoid receptor
+    action: Receptor binding → genomic and non-genomic regulation of inflammatory, immune, metabolic and electrolyte pathways
+contraindications:
+    - Systemic fungal infection
+    - Intrathecal or epidural administration
+    - Live vaccines with immunosuppressive dosing
+pregnancy:
+    code: A
+    justification:
+pharmacodynamics:
+    resp:
+        - ↓ Airway oedema; ↑ response to catecholamines
+    cvs:
+        - ↑ Inotropy, vascular response and MAP
+    cns:
+        - Insomnia, mood disturbance and psychosis
+    endo:
+        - HPA-axis suppression and Cushingoid state
+    msk:
+        - Proximal myopathy, osteoporosis and skin thinning
+    met:
+        - ↑ Gluconeogenesis, protein catabolism and lipolysis
+        - Hyperglycaemia, hypernatraemia and hypokalaemia
+    ren:
+        - Na+ and water retention; K+ loss
+    gu:
+    git:
+        - Peptic ulceration and pancreatitis
+    haeme:
+        - Neutrophilia, lymphopenia and impaired immune function
+considerations:
+    - Greater mineralocorticoid activity than prednisolone, methylprednisolone or dexamethasone
+    - Infection risk; taper after prolonged therapy to avoid adrenal crisis
+    - Hepatic impairment may ↑ effect; CYP3A4 inducers ↓ and inhibitors ↑ exposure
+references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 8 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Pfizer Australia Pty Ltd. SOLU-CORTEF / SOLU-CORTEF ACT-O-VIAL Australian Product Information. Version pfpsoluv10725. Revised 17 July 2025.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.
+    - Young P, Psirides A. Wellington ICU Drug Manual. 2nd Ed. Wellington Regional Hospital. 2013.

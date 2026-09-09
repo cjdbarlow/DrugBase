@@ -1,0 +1,71 @@
+---
+aliases:
+class: Long-acting glucocorticoid
+chemistry: Fluorinated synthetic corticosteroid
+dose:
+    Cerebral oedema: 10mg IV, then 4mg IM Q6H
+    Airway oedema: 8-16mg IV 1h before extubation
+    Nausea: 4-8mg IV
+    Shock: 2-6mg/kg IV adjunct for haemorrhagic/traumatic/surgical shock; repeat after 2-6h if persistent; usually ≤48-72h
+pharmaceutics:
+    presentation: 4mg/mL dexamethasone phosphate solution for injection
+    compatibility: Compatible with 0.9% NaCl and 5% glucose; protect from light and freezing
+    solubility: Lipid soluble; water-soluble phosphate salt
+pharmacokinetics:
+    absorption: 70-100% PO bioavailability; rapid IM absorption
+    distribution:
+        pKa: 12.42
+        vd: 0.65L/kg
+        protein binding: 65%
+    metabolism:
+        half-life: Plasma 4-5h
+        duration: Biological activity 36-72h
+        pathway: Extensive hepatic metabolism
+        metabolites:
+            - Inactive glucuronide and sulfate conjugates
+    elimination:
+        renal: Inactive metabolites; small amount unchanged
+mechanism:
+    target:
+        - Glucocorticoid receptor
+    action: Receptor binding → genomic and non-genomic regulation of inflammatory, immune and metabolic pathways
+contraindications:
+    - Systemic fungal infection; other systemic infection without specific anti-infective therapy
+    - Live vaccines with immunosuppressive dosing
+    - Myasthenia gravis
+    - Peptic ulcer, osteoporosis or psychosis
+pregnancy:
+    code: A
+    justification:
+pharmacodynamics:
+    resp:
+        - ↓ Airway oedema; ↑ response to catecholamines
+    cvs:
+        - ↑ Inotropy and vascular response to catecholamines
+    cns:
+        - ↓ Vasogenic cerebral oedema
+        - Insomnia, mood disturbance and psychosis
+    endo:
+        - HPA-axis suppression and Cushingoid state
+    msk:
+        - Proximal myopathy, osteoporosis and skin thinning
+    met:
+        - ↑ Gluconeogenesis, protein catabolism and lipolysis
+        - Hyperglycaemia; minimal mineralocorticoid effect
+    ren:
+    gu:
+    git:
+        - Peptic ulceration and pancreatitis
+    haeme:
+        - Neutrophilia, lymphopenia and impaired immune function
+considerations:
+    - ~25 times hydrocortisone glucocorticoid potency; minimal mineralocorticoid activity
+    - Infection risk; taper after prolonged therapy to avoid adrenal crisis
+    - CYP3A4 inducers ↓ and inhibitors ↑ exposure
+references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 8 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Pfizer Australia Pty Ltd. DBL DEXAMETHASONE SODIUM PHOSPHATE INJECTION Australian Product Information. Version pfpdexai11125. Revised 4 November 2025.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.
+    - Young P, Psirides A. Wellington ICU Drug Manual. 2nd Ed. Wellington Regional Hospital. 2013.

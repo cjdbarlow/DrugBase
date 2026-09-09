@@ -1,0 +1,67 @@
+---
+aliases:
+    - Panafcortelone
+class: Intermediate-acting glucocorticoid
+chemistry: Synthetic corticosteroid
+dose:
+    Inflammation: Initially 20-40mg PO daily; up to 80mg/day
+pharmaceutics:
+    presentation: 1mg, 5mg and 25mg tablets
+    compatibility:
+    solubility: Poorly water soluble; highly lipid soluble
+pharmacokinetics:
+    absorption: 70% PO bioavailability; peak 1-2h
+    distribution:
+        pKa: 12.59
+        vd: 0.64L/kg
+        protein binding: 65-91%; concentration-dependent
+    metabolism:
+        half-life: 2-3h
+        duration: Intermediate acting
+        pathway: Hepatic and renal conjugation; interconversion with prednisone
+        metabolites:
+            - Prednisone
+            - Inactive conjugates
+    elimination:
+        renal: Free and conjugated metabolites; appreciable unchanged drug
+mechanism:
+    target:
+        - Glucocorticoid receptor
+    action: Receptor binding → genomic and non-genomic regulation of inflammatory, immune and metabolic pathways
+contraindications:
+    - Uncontrolled infection
+pregnancy:
+    code: A
+    justification:
+pharmacodynamics:
+    resp:
+        - ↓ Airway oedema; ↑ response to catecholamines
+    cvs:
+        - ↑ Inotropy, vascular response and MAP
+    cns:
+        - Insomnia, mood disturbance and psychosis
+    endo:
+        - HPA-axis suppression and Cushingoid state
+    msk:
+        - Proximal myopathy, osteoporosis and skin thinning
+    met:
+        - ↑ Gluconeogenesis, protein catabolism and lipolysis
+        - Hyperglycaemia, Na+ retention and hypokalaemia
+    ren:
+        - Na+ and water retention; K+ loss
+    gu:
+    git:
+        - Peptic ulceration and pancreatitis
+    haeme:
+        - Neutrophilia, lymphopenia and impaired immune function
+considerations:
+    - Avoid live vaccines during corticosteroid therapy (replacement dosing excepted)
+    - 25mg prednisolone ≈100mg hydrocortisone
+    - Infection risk; taper after prolonged therapy to avoid adrenal crisis
+    - Food affects initial absorption, not overall bioavailability
+references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 8 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Aspen Pharmacare Australia Pty Ltd. PANAFCORTELONE Australian Product Information. Revised 6 May 2026.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.
