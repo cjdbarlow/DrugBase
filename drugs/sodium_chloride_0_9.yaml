@@ -1,0 +1,54 @@
+---
+aliases:
+    - Normal saline
+class: Isotonic crystalloid
+chemistry: Sodium chloride aqueous solution
+dose:
+pharmaceutics:
+    presentation: 0.9% NaCl; Na+ 154mmol/L and Cl− 154mmol/L; pH 4.5-7.0
+    compatibility: Additives require compatibility assessment
+    solubility: Freely soluble in water
+pharmacokinetics:
+    absorption: 100% IV bioavailability
+    distribution:
+        pKa:
+        vd: 0.2L/kg; extracellular fluid (25% intravascular, 75% interstitial)
+        protein binding:
+    metabolism:
+        half-life: Fluid half-life 20-40min in healthy volunteers; prolonged in shock or mechanical ventilation (up to 8h)
+        duration:
+        pathway: None
+        metabolites:
+    elimination:
+        renal: Excess Na+, Cl− and water; tubular reabsorption regulates Na+ and Cl− excretion
+mechanism:
+    target:
+        - Extracellular fluid compartment
+    action: Replaces extracellular water, Na+ and Cl− and expands circulating volume
+contraindications:
+    - Congestive heart failure, severe renal impairment, oedema with Na+ retention or liver cirrhosis unless benefits outweigh risks
+pregnancy:
+    code: A
+    justification: No known fetal harm at physiological concentrations
+pharmacodynamics:
+    resp:
+        - Fluid overload → pulmonary oedema
+    cvs:
+        - ↑ Circulating and extracellular volume
+    cns:
+        - Rapid correction of hypo-/hypernatraemia is dangerous; acute hyponatraemia may cause cerebral oedema and seizures
+    endo:
+    msk:
+    met:
+        - Hyperchloraemic metabolic acidosis with large volumes
+        - Hypernatraemia or dilutional hyponatraemia
+    ren:
+        - Renal Na+ clearance may increase
+    gu:
+    git:
+    haeme:
+considerations:
+    - Monitor fluid balance, electrolytes and acid-base status with large or prolonged infusions
+    - Chloride load may worsen hyperchloraemic acidosis
+references:
+    - Baxter Healthcare Pty Ltd. SODIUM CHLORIDE 0.9% INTRAVENOUS INFUSION in VIAFLO Plastic Container Australian Product Information. Version 2.0. Revised 18 October 2019.
