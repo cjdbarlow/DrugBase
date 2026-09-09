@@ -1,0 +1,62 @@
+---
+aliases:
+    - Vimpat
+class: Anticonvulsant
+chemistry: Functionalised amino acid
+dose:
+    Load: 200mg IV over 15-60min (adults)
+    Maintenance: Initially 100mg IV BID from ~12h after load; over 15-60min (adults)
+pharmaceutics:
+    presentation: 200mg/20mL solution for IV infusion
+    compatibility: Compatible with 0.9% NaCl, 5% glucose and Hartmann's
+    solubility: Sparingly water soluble (30mg/mL at 25°C)
+pharmacokinetics:
+    absorption: ~100% PO bioavailability; IV Cmax at end of infusion
+    distribution:
+        pKa:
+        vd: 0.6L/kg
+        protein binding: <15%
+    metabolism:
+        half-life: 13h
+        duration:
+        pathway: CYP2C19/2C9/3A4 → O-desmethyl metabolite; metabolism incompletely characterised
+        metabolites:
+            - Inactive O-desmethyl-lacosamide
+            - Polar metabolites (proposed serine derivatives)
+    elimination:
+        renal: "Radiolabel: ~95% urine, <0.5% faeces; ~40% of dose unchanged, <30% O-desmethyl metabolite in urine"
+mechanism:
+    target:
+        - Voltage-gated Na+ channels
+    action: Enhances slow inactivation → ↓ neuronal membrane hyperexcitability
+contraindications:
+    - Second- or third-degree AV block
+pregnancy:
+    code: B3
+    justification: Uncontrolled epilepsy poses greater maternal and foetal risk than treatment
+pharmacodynamics:
+    resp:
+    cvs:
+        - Dose-dependent PR prolongation; bradycardia and AV block
+        - Syncope
+    cns:
+        - Anticonvulsant
+        - Dizziness, ataxia, diplopia and somnolence
+    endo:
+    msk:
+    met:
+    ren:
+    gu:
+    git:
+        - Nausea and vomiting
+    haeme:
+considerations:
+    - Load under medical supervision; not studied in status epilepticus
+    - ECG before treatment and after titration to steady state in cardiac disease or with conduction-slowing drugs
+    - "Adults with CrCl ≤30mL/min or ESRD: max 250mg/day; 4h haemodialysis → AUC ↓~50%"
+    - Antiepileptic drugs may ↑ suicidal ideation
+references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 8 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - UCB Pharma. VIMPAT INJECTION Australian Product Information. Revised 16 May 2022.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
