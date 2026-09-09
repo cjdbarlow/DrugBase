@@ -1,0 +1,69 @@
+---
+aliases:
+    - Methylthioninium chloride
+    - Proveblue
+class: Methaemoglobinaemia antidote
+chemistry: Phenothiazinium dye
+dose:
+    Methaemoglobinaemia: 1-2mg/kg lean body weight IV over 5min; repeat after 1h if required; maximum cumulative 7mg/kg
+    Vasoplegia (off-label): 0.5-2mg/kg IV once
+pharmaceutics:
+    presentation: 5mg/mL methylene blue trihydrate solution for injection
+    compatibility: May dilute in 5% glucose; do not dilute in 0.9% NaCl
+    solubility: Slightly soluble in water and ethanol
+pharmacokinetics:
+    absorption: Complete IV bioavailability
+    distribution:
+        pKa:
+        vd:
+        protein binding:
+    metabolism:
+        half-life:
+        duration:
+        pathway: Rapid tissue reduction
+        metabolites: Leucomethylene blue, active reducing form
+    elimination:
+        renal: ~75% of an oral dose in urine, mainly leucomethylene blue; some biliary excretion
+mechanism:
+    target:
+        - NADPH-dependent methaemoglobin reductase system
+    action: Reduced to leucomethylene blue → converts methaemoglobin Fe³⁺ to haemoglobin Fe²⁺
+contraindications:
+    - G6PD deficiency
+    - Severe renal impairment
+    - Chlorate-induced methaemoglobinaemia
+    - Methaemoglobinaemia during cyanide poisoning
+pregnancy:
+    code: D
+    justification: Neonatal haemolytic anaemia and hyperbilirubinaemia after intra-amniotic exposure
+pharmacodynamics:
+    resp:
+        - Dyspnoea and hypoxia
+    cvs:
+        - ↑ or ↓ MAP, tachycardia and arrhythmia
+        - May reduce vasoplegia via NO-related actions
+    cns:
+        - Dizziness, paraesthesia, confusion and headache
+        - Serotonin toxicity with serotonergic drugs
+    endo:
+    msk:
+    met:
+        - High doses cause methaemoglobinaemia
+    ren:
+        - Blue-green urine
+    gu:
+    git:
+        - Nausea, vomiting and abdominal pain
+    haeme:
+        - Haemolysis, especially with G6PD deficiency or high doses
+considerations:
+    - Not recommended in infants <4 months
+    - Potent MAO inhibitor; avoid serotonergic drugs where possible
+    - Blue discolouration interferes with pulse oximetry and BIS
+    - Dapsone-induced methaemoglobinaemia maximum cumulative dose 4mg/kg
+    - Protect patient from strong light after administration (photosensitivity)
+references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 8 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Clinect Pty Ltd. PROVEBLUE Australian Product Information. Revised 24 October 2022.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Young P, Psirides A. Wellington ICU Drug Manual. 2nd Ed. Wellington Regional Hospital. 2013.
