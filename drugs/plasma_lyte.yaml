@@ -1,0 +1,56 @@
+---
+aliases:
+    - Plasma-Lyte 148
+class: Balanced isotonic crystalloid
+chemistry: Sodium, chloride, potassium, magnesium, acetate and gluconate solution
+dose:
+pharmaceutics:
+    presentation: Na+ 140, Cl− 98, K+ 5, Mg2+ 1.5, acetate 27 and gluconate 23mmol/L; pH 6.5-8.0; 271mOsm/kg
+    compatibility: Additives require compatibility assessment
+    solubility: Aqueous solution
+pharmacokinetics:
+    absorption: IV only
+    distribution:
+        pKa:
+        vd: Extracellular fluid
+        protein binding:
+    metabolism:
+        half-life:
+        duration:
+        pathway: Acetate and gluconate → CO2 and water
+        metabolites:
+            - Carbon dioxide
+            - Water
+    elimination:
+        renal: Excess water and electrolytes
+mechanism:
+    target:
+        - Extracellular fluid compartment
+    action: Replaces extracellular water and electrolytes; acetate and gluconate metabolism consumes H+
+contraindications:
+pregnancy:
+    code:
+    justification:
+pharmacodynamics:
+    resp:
+        - Fluid overload → pulmonary oedema
+    cvs:
+        - ↑ Circulating and extracellular volume
+    cns:
+        - Acute hyponatraemia may cause cerebral oedema and seizures
+    endo:
+    msk:
+    met:
+        - Alkalinising effect
+        - Hyperkalaemia, hypermagnesaemia or hyponatraemia with excess or impaired clearance
+    ren:
+        - May induce diuresis, depending on clinical condition
+    gu:
+    git:
+    haeme:
+considerations:
+    - Not primary treatment for severe metabolic acidosis; not for hypomagnesaemia or severe K+ deficiency
+    - Caution in renal impairment, hyperkalaemia, hypermagnesaemia or alkalosis
+    - Contains no Ca2+
+references:
+    - Baxter Healthcare Pty Ltd. PLASMA-LYTE 148 (APPROX PH 7.4) INTRAVENOUS INFUSION Australian Product Information. Version 1.1. Revised 30 May 2019.

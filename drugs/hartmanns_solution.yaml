@@ -1,0 +1,58 @@
+---
+aliases:
+    - Compound sodium lactate
+    - Ringer's lactate
+class: Balanced isotonic crystalloid
+chemistry: Sodium, chloride, potassium, calcium and lactate solution
+dose:
+pharmaceutics:
+    presentation: Na+ 131, Cl− 112, K+ 5, Ca2+ 2 and lactate 28mmol/L; pH 5.0-7.0; 255mOsm/kg
+    compatibility: No simultaneous citrate-anticoagulated blood through the same set; do not mix with ceftriaxone
+    solubility: Aqueous solution
+pharmacokinetics:
+    absorption: 100% IV bioavailability
+    distribution:
+        pKa:
+        vd: Extracellular fluid
+        protein binding:
+    metabolism:
+        half-life:
+        duration:
+        pathway: Lactate → bicarbonate and water over ~1-2h (normal physiology)
+        metabolites:
+            - Bicarbonate
+    elimination:
+        renal: Excess Na+, K+ and Ca2+
+mechanism:
+    target:
+        - Extracellular fluid compartment
+    action: Replaces extracellular water and electrolytes; lactate → bicarbonate, which buffers H+
+contraindications:
+    - Congestive heart failure or severe renal impairment
+    - States in which Na+ and Cl− administration is detrimental
+    - Concomitant ceftriaxone in neonates ≤28 days, even through separate lines
+pregnancy:
+    code: C
+    justification: No adequate pregnancy data
+pharmacodynamics:
+    resp:
+        - Fluid overload → pulmonary oedema
+    cvs:
+        - ↑ Circulating and extracellular volume
+    cns:
+        - Acute hyponatraemia may cause cerebral oedema and seizures
+    endo:
+    msk:
+    met:
+        - Mild alkalinising effect
+        - Hyperkalaemia, hypercalcaemia or hyponatraemia with excess or impaired clearance
+    ren:
+    gu:
+    git:
+    haeme:
+considerations:
+    - Not for lactic acidosis, severe metabolic acidosis or severe K+ deficiency
+    - Severe hepatic impairment or shock may impair lactate metabolism
+    - "Age >28 days: ceftriaxone may be given sequentially after thorough line flushing with compatible fluid; not simultaneously through the same line"
+references:
+    - Fresenius Kabi Australia Pty Limited. COMPOUND SODIUM LACTATE (HARTMANN'S SOLUTION) Australian Product Information. Revised 12 October 2023.
