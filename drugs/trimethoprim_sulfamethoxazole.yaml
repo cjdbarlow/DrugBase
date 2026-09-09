@@ -1,0 +1,72 @@
+---
+aliases:
+    - Co-trimoxazole
+    - TMP-SMX
+class: Antifolate antibacterial combination
+chemistry: Diaminopyrimidine and sulfonamide in a 1:5 dose ratio
+dose:
+    Standard: 160mg trimethoprim + 800mg sulfamethoxazole IV Q12H
+    Severe infection: 240mg trimethoprim + 1200mg sulfamethoxazole IV Q12H
+    PJP: 20mg/kg/day trimethoprim + 100mg/kg/day sulfamethoxazole equally divided Q6H; initially IV, convert to PO when tolerated; total 14 days
+pharmaceutics:
+    presentation: 80mg trimethoprim + 400mg sulfamethoxazole per 5mL concentrate; pH ~10
+    compatibility: Diluted IV infusion only; add 5mL to 125mL 0.9% NaCl or 5% glucose; infuse over ≤1.5h; protect stock from light; do not refrigerate
+    solubility: Sulfamethoxazole practically insoluble and trimethoprim very slightly soluble in water
+pharmacokinetics:
+    absorption: Complete IV bioavailability
+    distribution:
+        pKa:
+        vd: Trimethoprim ~9× sulfamethoxazole
+        protein binding: Trimethoprim 44%; sulfamethoxazole 70%
+    metabolism:
+        half-life: Trimethoprim ~11h; sulfamethoxazole ~10h
+        duration:
+        pathway: Hepatic oxidation, hydroxylation, acetylation and glucuronidation
+        metabolites:
+    elimination:
+        renal: 60% trimethoprim and 25-50% sulfamethoxazole within 24h
+mechanism:
+    target:
+        - Dihydropteroate synthase
+        - Dihydrofolate reductase
+    action: Sequential inhibition of bacterial folate synthesis → ↓ thymidine, purines and nucleic acids
+contraindications:
+    - Previous trimethoprim- or sulfonamide-induced immune thrombocytopenia
+    - Marked hepatic damage, blood dyscrasia or folate-deficient megaloblastic anaemia
+    - Severe renal impairment without drug-level monitoring
+    - Infants <8 weeks
+    - Dofetilide
+pregnancy:
+    code: C
+    justification: Sulfonamide neonatal jaundice and haemolysis; trimethoprim inhibits folate metabolism
+pharmacodynamics:
+    resp:
+        - Pulmonary hypersensitivity and infiltrates
+    cvs:
+    cns:
+        - Headache, aseptic meningitis and seizures
+    endo:
+        - Hypoglycaemia
+    msk:
+        - Myalgia and arthralgia
+    met:
+        - Hyperkalaemia, hyponatraemia and metabolic acidosis
+    ren:
+        - Crystalluria, interstitial nephritis and renal impairment/failure
+    gu:
+    git:
+        - Nausea, vomiting and diarrhoea
+        - Hepatitis and pancreatitis
+    haeme:
+        - Neutropenia, thrombocytopenia, megaloblastic or haemolytic anaemia
+considerations:
+    - IV therapy generally ≤3 days before oral conversion
+    - Adjust dose in renal impairment
+    - Stop for SJS, TEN, DRESS or other severe cutaneous reaction
+    - ↑ Warfarin effect, ↑ phenytoin and ↑ methotrexate toxicity
+references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 8 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Pfizer Australia Pty Ltd. DBL SULFAMETHOXAZOLE 400 MG AND TRIMETHOPRIM 80 MG Australian Product Information. Version pfpsulfi11222. Revised 5 December 2022.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Young P, Psirides A. Wellington ICU Drug Manual. 2nd Ed. Wellington Regional Hospital. 2013.
