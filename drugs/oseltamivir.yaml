@@ -1,0 +1,60 @@
+---
+aliases:
+    - Tamiflu
+class: Neuraminidase inhibitor
+chemistry: Ethyl ester prodrug of a sialic acid analogue
+dose:
+    Influenza: 75mg PO BD for 5 days
+    Immunocompromised: 75mg PO BD for 10 days
+    Post-exposure: 75mg PO daily for 10 days
+pharmaceutics:
+    presentation: 30mg, 45mg and 75mg capsules; 6mg/mL oral suspension
+    compatibility:
+    solubility:
+pharmacokinetics:
+    absorption: Rapid; ≥75% of oral dose reaches systemic circulation as active metabolite
+    distribution:
+        pKa:
+        vd: Mean Vss ~23L (active metabolite)
+        protein binding: ~3% active metabolite
+    metabolism:
+        half-life: 6-10h active metabolite
+        duration:
+        pathway: Predominantly hepatic esterases
+        metabolites: Oseltamivir carboxylate, active
+    elimination:
+        renal: Active metabolite >99% eliminated renally; glomerular filtration and tubular secretion
+mechanism:
+    target:
+        - Influenza A and B neuraminidase
+    action: Active metabolite inhibits neuraminidase → impaired virion release and spread
+contraindications:
+pregnancy:
+    code: B1
+    justification:
+pharmacodynamics:
+    resp:
+    cvs:
+    cns:
+        - Headache
+        - Delirium, abnormal behaviour and seizures reported; causality uncertain
+    endo:
+    msk:
+    met:
+    ren:
+    gu:
+    git:
+        - Nausea, vomiting and abdominal pain
+    haeme:
+considerations:
+    - Doses shown for adults/adolescents ≥13y
+    - Treatment within 48h of symptoms; post-exposure prophylaxis within 2 days of close contact
+    - "Pregnancy: observational reassurance; no adequate controlled studies; use if benefit outweighs risk"
+    - Adjust dose in renal impairment
+    - Food may improve GI tolerance
+    - Vaccination remains preferred routine prophylaxis
+references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 8 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Roche Products Pty Limited. TAMIFLU Australian Product Information. Version Tamiflu20230822. Revised 22 August 2023.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
