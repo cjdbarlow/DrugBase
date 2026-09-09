@@ -1,0 +1,71 @@
+---
+aliases:
+    - Nardil
+class: Irreversible non-selective monoamine oxidase inhibitor
+chemistry: Hydrazine derivative
+dose:
+    Depression (PO): 15mg TDS; increase to at least 60mg/day; max 90mg/day
+pharmaceutics:
+    presentation: 15mg tablets
+    compatibility:
+    solubility:
+pharmacokinetics:
+    absorption: Rapid
+    distribution:
+        pKa:
+        vd:
+        protein binding:
+    metabolism:
+        half-life: 1.2h
+        duration: MAO inhibition up to 2 weeks
+        pathway: Acetylation
+        metabolites:
+            - Phenylacetic acid
+            - Parahydroxyphenylacetic acid
+    elimination:
+        renal: Up to 79% of dose as metabolites within 96h
+mechanism:
+    target:
+        - Monoamine oxidase A and B
+    action: Irreversibly inactivates MAO → reduced monoamine metabolism
+contraindications:
+    - Phaeochromocytoma
+    - Cerebrovascular disease or congestive heart failure
+    - Current/past hepatic disease or abnormal LFTs
+    - Guanethidine, sympathomimetics, other antidepressants, pethidine or dextromethorphan
+    - Elective GA; cease at least 10 days before surgery
+pregnancy:
+    code: B3
+    justification:
+pharmacodynamics:
+    resp:
+    cvs:
+        - Orthostatic ↓ MAP
+        - Tyramine or sympathomimetics may cause hypertensive crisis
+    cns:
+        - Antidepressant
+        - Sedation, dizziness, insomnia and tremor
+        - Seizures in toxicity
+    endo:
+    msk:
+    met:
+        - Weight gain
+    ren:
+    gu:
+        - Sexual dysfunction
+    git:
+        - Xerostomia, nausea and constipation
+        - Hepatotoxicity
+    haeme:
+considerations:
+    - Tyramine-restricted diet during treatment and for 2 weeks after cessation
+    - Serotonergic medicines may cause serotonin syndrome
+    - Sympathomimetics may cause hypertensive crisis
+    - Cocaine and local anaesthetics containing sympathomimetic vasoconstrictors are contraindicated
+    - Abrupt cessation may cause withdrawal
+references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 8 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Neon Healthcare Pty Ltd. NARDIL Australian Product Information. Revised 25 June 2025.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Petkov V. Essential Pharmacology for the ANZCA Primary Examination. 2012.
