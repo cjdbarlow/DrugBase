@@ -1,0 +1,61 @@
+---
+aliases:
+    - Carbosorb X
+class: Gastrointestinal adsorbent
+chemistry: Activated carbon with a high internal surface area
+dose:
+    Single dose: 1g/kg PO/NG once; maximum 50g
+    Multiple dose (adult): 1g/kg PO/NG once, then 25g Q2H
+pharmaceutics:
+    presentation: 50g activated charcoal in 250mL aqueous suspension
+    compatibility: Adsorbs enteral medicines and antidotes
+    solubility:
+pharmacokinetics:
+    absorption: Not absorbed from the GIT
+    distribution:
+        pKa:
+        vd:
+        protein binding:
+    metabolism:
+        half-life:
+        duration:
+        pathway:
+        metabolites:
+    elimination:
+        renal:
+mechanism:
+    target:
+        - Unabsorbed drugs and toxins in the GIT
+    action: Physical surface adsorption → ↓ toxin absorption; repeated doses interrupt enterohepatic recirculation and enhance enteral elimination
+contraindications:
+    - Unprotected airway
+    - Bowel obstruction, perforation or non-intact GIT
+    - Corrosives, hydrocarbons, alcohols, lithium, iron and other poorly adsorbed toxins
+pregnancy:
+    code:
+    justification:
+pharmacodynamics:
+    resp:
+        - Aspiration pneumonia and respiratory failure
+    cvs:
+    cns:
+    endo:
+    msk:
+    met:
+    ren:
+    gu:
+    git:
+        - Vomiting, constipation, bezoar, obstruction and perforation
+        - Black stools
+    haeme:
+considerations:
+    - Greatest benefit within 1h of ingestion
+    - Multiple doses for life-threatening carbamazepine, dapsone, phenobarbitone, quinine or theophylline poisoning
+    - Check bowel sounds before each repeat dose; stop if absent
+    - Give concurrent medicines parenterally where possible
+    - Monitor fluids/electrolytes with repeated doses, especially children
+references:
+    - Phebra Pty Ltd. CARBOSORB X Australian Product Information. Version 10. Revised 15 February 2022.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Young P, Psirides A. Wellington ICU Drug Manual. 2nd Ed. Wellington Regional Hospital. 2013.
