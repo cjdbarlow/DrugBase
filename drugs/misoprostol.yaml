@@ -1,0 +1,68 @@
+---
+aliases:
+    - Angusta
+    - Cytotec
+class: Prostaglandin agonist
+chemistry: Synthetic prostaglandin E₁ analogue
+dose:
+    Labour induction: 25microg PO Q2H or 50microg PO Q4H; maximum 200microg/24h
+    PPH: 600microg PO or SL
+pharmaceutics:
+    presentation: 25microg oral tablet
+    compatibility:
+    solubility: Water soluble; pKa 14.68
+pharmacokinetics:
+    absorption: Rapid; oral bioavailability 54%; peak active metabolite ~30min
+    distribution:
+        pKa: 14.68
+        vd: 13.6L/kg
+        protein binding: ~90%
+    metabolism:
+        half-life: 20-40min (misoprostol acid)
+        duration: 2-4h
+        pathway: Rapid de-esterification to active misoprostol acid; beta fatty-acid oxidation
+        metabolites: Misoprostol acid, active; inactive dinor and tetranor acids
+    elimination:
+        renal: Active metabolite ~80% renally cleared
+mechanism:
+    target:
+        - Prostaglandin E receptors
+    action: PGE-class ↑ cervical collagenase activity (in vitro); cervical ripening and uterine contraction; ↓ gastric acid secretion
+contraindications:
+    - Established labour or foetal compromise before induction
+    - Concurrent oxytocic or labour-induction agent
+    - Suspected or established uterine scar after uterine/cervical surgery
+    - Uterine abnormality or malpresentation precluding vaginal delivery
+    - Placenta praevia or unexplained vaginal bleeding after 24 weeks in current pregnancy
+    - GFR <15mL/min/1.73m²
+pregnancy:
+    code: X
+    justification: May cause serious birth defects; miscarriage may cause dangerous bleeding
+pharmacodynamics:
+    resp:
+    cvs:
+    cns:
+        - Dizziness
+    endo:
+    msk:
+    met:
+    ren:
+        - PGE-class ↑ renal blood flow; clinically insignificant in short-course induction
+    gu:
+        - Cervical ripening and ↑ uterine contraction
+        - Uterine hyperstimulation or rupture and abnormal foetal HR
+    git:
+        - ↓ Gastric acid and ↑ mucus secretion
+        - Nausea, vomiting, diarrhoea and abdominal cramps
+    haeme:
+        - Postpartum haemorrhage reported with labour induction
+considerations:
+    - Listed contraindications apply to Angusta labour induction
+    - Labour-induction data principally at ≥37 weeks
+    - Consider lower dose/longer intervals in renal/hepatic impairment for Angusta induction
+    - Wait ≥4h after last dose before oxytocin
+    - PPH dose off-label; may be slightly less effective than oxytocin
+references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 8 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Norgine Pty Ltd. ANGUSTA Australian Product Information. First approved 20 December 2022.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
