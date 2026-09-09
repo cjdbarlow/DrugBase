@@ -1,0 +1,59 @@
+---
+aliases:
+    - Chlorhexidine gluconate
+class: Antiseptic and disinfectant
+chemistry: Cationic bisbiguanide
+dose:
+    Wound: Water rinse; 0.1% just to cover wound; gentle wash; thorough rinse
+    Catheterisation: Thorough external genital irrigation with 0.2% before bladder catheterisation
+pharmaceutics:
+    presentation: 0.1% and 0.2% sterile blue irrigation solution
+    compatibility: External irrigation only; hypotonic and haemolytic
+    solubility: Gluconate solution is miscible with water
+pharmacokinetics:
+    absorption: Negligible topical absorption
+    distribution:
+        pKa:
+        vd:
+        protein binding:
+    metabolism:
+        half-life:
+        duration: Persistent residual skin activity with repeated use
+        pathway:
+        metabolites:
+    elimination:
+        renal:
+mechanism:
+    target:
+        - Microbial cell membranes
+    action: Membrane adsorption → leakage of small molecules and precipitation of cytoplasmic proteins
+contraindications:
+    - Brain, meninges, eyes or perforated eardrum irrigation
+    - Body-cavity irrigation or enema
+pregnancy:
+    code: A
+    justification:
+pharmacodynamics:
+    resp:
+        - Anaphylaxis
+    cvs:
+    cns:
+        - Neurotoxicity with neural exposure; deafness with middle-ear exposure
+    endo:
+    msk:
+    met:
+    ren:
+    gu:
+        - Haematuria after bladder irrigation
+    git:
+    haeme:
+        - Haemolysis if injected IV
+considerations:
+    - More active against Gram-positive organisms; not sporicidal at room temperature
+    - Neonatal irritation and chemical burns, especially premature infants
+    - Selected irrigation product not for pre-op face/head skin preparation
+    - Irreversible corneal injury after eye exposure
+references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 8 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Bridgewest Perth Pharma Pty Ltd. BRIDGEWEST CHLORHEXIDINE IRRIGATION SOLUTION Australian Product Information. Revised 12 September 2023.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
