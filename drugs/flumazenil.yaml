@@ -1,0 +1,65 @@
+---
+aliases:
+    - Anexate
+class: Benzodiazepine-site antagonist
+chemistry: Imidazobenzodiazepine
+dose:
+    Sedation: 0.2mg IV over 15sec, then 0.1mg Q1min; maximum 1mg
+    Overdose: 0.3mg IV, then 0.1mg Q1min; maximum 2mg; infusion 0.1-0.4mg/h if resedated
+pharmaceutics:
+    presentation: 0.5mg/5mL solution for IV injection
+    compatibility: Compatible with 5% glucose and 0.9% NaCl; complete infusion within 24h of preparation
+    solubility: Weak lipophilic base
+pharmacokinetics:
+    absorption: IV; onset 1-2min
+    distribution:
+        pKa:
+        vd: 0.95L/kg (Vss)
+        protein binding: 50%
+    metabolism:
+        half-life: 53min (40-80min)
+        duration: Shorter than most benzodiazepines
+        pathway: Almost complete hepatic metabolism
+        metabolites:
+            - Inactive carboxylic acid and conjugate
+    elimination:
+        renal: Urine 90-95%, faeces 5-10% (radioactivity); negligible unchanged drug
+mechanism:
+    target:
+        - Benzodiazepine site on GABAA receptors
+    action: Competitive antagonism → reverses benzodiazepine and Z-drug CNS effects
+contraindications:
+    - Benzodiazepine treatment of status epilepticus or raised ICP
+    - Severe tricyclic or tetracyclic antidepressant toxicity
+pregnancy:
+    code: B3
+    justification:
+pharmacodynamics:
+    resp:
+        - Reversal of benzodiazepine respiratory depression is unpredictable
+    cvs:
+        - Dysrhythmias after mixed tricyclic overdose
+    cns:
+        - Rapid reversal of sedation
+        - Seizures and acute benzodiazepine withdrawal
+    endo:
+    msk:
+    met:
+    ren:
+    gu:
+    git:
+        - Nausea and vomiting
+    haeme:
+considerations:
+    - Resedation is common
+    - Inpatient use under continued observation only; not outpatient/short-stay or diagnostic use
+    - Prolonged ICU-sedation reversal not recommended
+    - Hepatic impairment ↓ clearance and prolongs half-life
+    - Avoid rapid injection in benzodiazepine dependence
+references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 8 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Pharmaco (Australia) Ltd. ANEXATE Australian Product Information. Version 2024-10 v2.2. Revised 22 October 2024.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Young P, Psirides A. Wellington ICU Drug Manual. 2nd Ed. Wellington Regional Hospital. 2013.
+    - Petkov V. Essential Pharmacology for the ANZCA Primary Examination. 2012.
