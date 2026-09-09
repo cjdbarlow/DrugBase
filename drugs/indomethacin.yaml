@@ -1,0 +1,67 @@
+---
+aliases:
+    - Indometacin
+    - Indocid
+class: Non-selective NSAID; tocolytic
+chemistry: Indole acetic acid derivative
+dose:
+    Inflammation: 50-200mg/day PO or PR in divided doses
+pharmaceutics:
+    presentation: 25mg capsules; 100mg suppositories
+    compatibility:
+    solubility:
+pharmacokinetics:
+    absorption: ~100% PO bioavailability; peak ~2h
+    distribution:
+        pKa:
+        vd:
+        protein binding: ~90%
+    metabolism:
+        half-life: ~4.5h
+        duration:
+        pathway: Hepatic metabolism with enterohepatic circulation
+        metabolites:
+            - Desmethyl, desbenzoyl and desmethyl-desbenzoyl metabolites
+    elimination:
+        renal: "Of oral dose: 60% in urine and 33% in faeces as drug/metabolites"
+mechanism:
+    target:
+        - COX-1 > COX-2
+    action: Reversible COX inhibition → ↓ prostaglandin and thromboxane synthesis
+contraindications:
+    - Active or recurrent peptic ulceration
+    - Aspirin- or NSAID-induced asthma, urticaria or rhinitis
+    - Severe heart failure
+    - Severe hepatic impairment
+    - Peri-CABG pain
+pregnancy:
+    code: C
+    justification: May cause fetal renal dysfunction and ductus arteriosus closure
+pharmacodynamics:
+    resp:
+        - Bronchospasm in aspirin-sensitive patients
+    cvs:
+        - ↑ MAP, oedema, heart failure and thrombotic risk
+    cns:
+        - Headache, dizziness, confusion and seizures
+    endo:
+    msk:
+    met:
+    ren:
+        - May ↓ RBF and GFR; AKI, Na+ retention and hyperkalaemia
+    gu:
+        - ↓ Prostaglandin synthesis → myometrial relaxation
+        - Fetal ductus arteriosus constriction and oligohydramnios
+    git:
+        - Dyspepsia, ulceration, bleeding and perforation
+    haeme:
+        - Reversible platelet inhibition
+considerations:
+    - Tocolysis off-label; avoid after 32wk; courses <72h have lower fetal circulatory risk
+    - May blunt diuretics, ACE inhibitors, ARBs and β-blockers
+    - Probenecid ↑ indometacin concentration
+references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 8 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Aspen Pharmacare Australia Pty Ltd. INDOCID Australian Product Information. Revised 10 September 2024.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
