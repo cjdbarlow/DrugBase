@@ -1,0 +1,63 @@
+---
+aliases:
+    - Prostin F2α
+    - Prostaglandin F2α
+class: Endogenous prostaglandin; oxytocic
+chemistry: Prostaglandin F2α tromethamine salt
+dose:
+    PPH (intramyometrial): 0.5-1mg; repeat if required, max 3mg total
+pharmaceutics:
+    presentation: 5mg/mL injection
+    compatibility: Store at 15-30°C; dilute to 0.5mg/mL with 0.9% NaCl
+    solubility:
+pharmacokinetics:
+    absorption:
+    distribution:
+        pKa:
+        vd:
+        protein binding:
+    metabolism:
+        half-life:
+        duration:
+        pathway: Rapid systemic metabolism
+        metabolites:
+    elimination:
+        renal: Metabolites predominantly renal
+mechanism:
+    target:
+        - Prostaglandin FP receptors
+    action: Stimulates myometrium → uterine contraction
+contraindications:
+    - Active cardiac, pulmonary, renal or hepatic disease
+    - Acute pelvic inflammatory disease
+    - Severe asthma
+pregnancy:
+    code: C
+    justification:
+pharmacodynamics:
+    resp:
+        - Bronchoconstriction
+    cvs:
+        - Large doses → ↑ SVR and MAP
+    cns:
+        - Headache
+    endo:
+    msk:
+    met:
+        - Fever and chills
+    ren:
+    gu:
+        - ↑ Uterine contraction frequency and tone
+    git:
+        - Nausea, vomiting and diarrhoea
+    haeme:
+considerations:
+    - Second-line severe atonic PPH; off-label (Queensland 2013)
+    - Aspirate before intramyometrial injection; avoid systemic injection
+references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 8 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Pfizer Canada Inc. PROSTIN F2α Canadian Product Monograph (archived). Revised 6 November 2014.
+    - Queensland Maternity and Neonatal Clinical Guidelines Program. Primary postpartum haemorrhage. MN12.1-V4-R17. December 2012, amended October 2013. Table 9, p17. https://medi-guide.meditool.cn/ymtpdf/1BA1F04F-44A2-7AC2-ACC0-A21401FE431E.pdf
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.
