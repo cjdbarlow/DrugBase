@@ -1,0 +1,63 @@
+---
+aliases:
+    - Acetylcysteine
+    - NAC
+    - Acetadote
+class: Paracetamol antidote
+chemistry: N-acetyl derivative of L-cysteine; sulfhydryl donor
+dose:
+    Loading: 150mg/kg IV over 15-60min
+    Second: 50mg/kg IV over 4h
+    Third: 100mg/kg IV over 16h
+pharmaceutics:
+    presentation: 200mg/mL concentrate for IV infusion; pH 6.5-7.5
+    compatibility: Dilute in 5% glucose; incompatible with rubber (except silicone), iron, copper and nickel; plastic compatible
+    solubility: Soluble in water and alcohol
+pharmacokinetics:
+    absorption: Complete IV bioavailability
+    distribution:
+        pKa:
+        vd:
+        protein binding: Parent and metabolites circulate free and protein-bound
+    metabolism:
+        half-life: "IV mean terminal: 1.95h reduced; 5.58h total acetylcysteine"
+        duration:
+        pathway: Hepatic deacetylation and oxidation
+        metabolites: Cysteine, N-acetylcystine and N,N-diacetylcystine
+    elimination:
+        renal: ~30% of total clearance
+mechanism:
+    target:
+        - Hepatic glutathione and NAPQI
+    action: Restores glutathione and provides an alternative sulfhydryl substrate for NAPQI conjugation
+contraindications:
+pregnancy:
+    code: B2
+    justification:
+pharmacodynamics:
+    resp:
+        - Bronchospasm, dyspnoea and stridor
+    cvs:
+        - Flushing, tachycardia and ↓ MAP
+    cns:
+        - Syncope and seizures reported
+    endo:
+    msk:
+    met:
+        - Hyponatraemia with excessive diluent volume
+    ren:
+    gu:
+    git:
+        - Nausea and vomiting
+    haeme:
+        - Thrombocytopenia reported
+considerations:
+    - Start promptly when indicated; do not await paracetamol assay
+    - Anaphylactoid reactions occur mainly during loading
+    - Reduce diluent volume if <40kg or fluid restricted
+references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 8 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Phebra Pty Ltd. ACETADOTE CONCENTRATED INJECTION Australian Product Information. Version 04. Revised 18 January 2021.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Young P, Psirides A. Wellington ICU Drug Manual. 2nd Ed. Wellington Regional Hospital. 2013.
