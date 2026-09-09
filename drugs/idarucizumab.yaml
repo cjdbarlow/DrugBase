@@ -1,0 +1,56 @@
+---
+aliases:
+    - Praxbind
+class: Dabigatran antidote
+chemistry: Humanised monoclonal antibody Fab fragment
+dose:
+    Reversal: 5g IV as 2 consecutive 2.5g infusions (5-10min each) or boluses
+pharmaceutics:
+    presentation: 2.5g/50mL solution for injection or infusion
+    compatibility: Do not mix; flush line with 0.9% NaCl
+    solubility: Water soluble protein
+pharmacokinetics:
+    absorption:
+    distribution:
+        pKa:
+        vd: Vss 8.9L (healthy subjects)
+        protein binding:
+    metabolism:
+        half-life: Initial 47min; terminal 10.3h (healthy subjects)
+        duration: Coagulation-assay reversal ≥24h (healthy subjects)
+        pathway: Protein catabolism to peptides and amino acids
+        metabolites:
+    elimination:
+        renal: "After 5g IV in healthy subjects: urine 32.1% of dose in 0-6h, <1% in 6-24h; remainder presumed protein catabolism, mainly renal"
+mechanism:
+    target:
+        - Dabigatran and its acyl glucuronides
+    action: High-affinity binding → neutralises anticoagulant activity
+contraindications:
+pregnancy:
+    code: B2
+    justification:
+pharmacodynamics:
+    resp:
+    cvs:
+        - Thrombosis after reversal
+    cns:
+    endo:
+    msk:
+    met:
+    ren:
+        - Transient overflow proteinuria; not renal injury
+    gu:
+    git:
+    haeme:
+        - Immediate >99% ↓ unbound dabigatran (healthy subjects)
+        - Reverses dabigatran-induced dTT, aPTT, ECT, TT and ACT prolongation (healthy subjects)
+considerations:
+    - Dabigatran reversal for emergency surgery/urgent procedures or life-threatening/uncontrolled bleeding
+    - Re-elevation may occur 1-24h after administration
+    - Consider second 5g for clinically relevant recurrent bleeding or repeat emergency surgery/urgent procedure, in either case with prolonged clotting times; repeat safety/efficacy unestablished
+    - Contains 4g sorbitol per 5g dose; caution in hereditary fructose intolerance
+    - Resume anticoagulation when appropriate
+references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 8 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Boehringer Ingelheim Pty Limited. PRAXBIND Australian Product Information. Version PI0156-05. Revised 14 January 2022.

@@ -1,0 +1,72 @@
+---
+aliases:
+    - Vitamin K1
+    - Phytonadione
+    - Konakion
+class: Vitamin K
+chemistry: Fat-soluble 2-methyl-3-phytyl-1,4-naphthoquinone
+dose:
+    Major VKA bleeding: 5-10mg IV with four-factor PCC (Beriplex)
+    Life-threatening VKA bleeding: 10mg IV with four-factor PCC (Beriplex)
+    INR 5-9 (low risk): Withhold warfarin; no vitamin K
+    INR 5-9 (high risk): 1-2mg PO or 0.5-1mg IV
+    INR >9 (low risk): 2.5-5mg PO or 1mg IV
+    INR >9 (high risk): 1mg IV
+pharmaceutics:
+    presentation: 10mg/mL mixed-micelle solution for IV injection or oral use
+    compatibility: Do not dilute; may inject into a running 0.9% NaCl or 5% glucose infusion
+    solubility: Insoluble in water; soluble in alcohol and oils; light sensitive
+pharmacokinetics:
+    absorption: ~50% PO bioavailability; onset 1-3h IV and 4-6h PO
+    distribution:
+        pKa:
+        vd: "Primary distribution compartment: plasma volume"
+        protein binding: 90% bound to lipoproteins
+    metabolism:
+        half-life: Terminal 14 ± 6h after IV (adults on phenprocoumon)
+        duration:
+        pathway: Rapid conversion to polar metabolites
+        metabolites:
+            - Vitamin K1 2,3-epoxide; partly recycled to vitamin K1
+    elimination:
+        renal: Bile and urine as glucuronide and sulfate conjugates; <10% unchanged in urine
+mechanism:
+    target:
+        - Hepatic gamma-glutamyl carboxylase
+    action: Cofactor for gamma-carboxylation of factors II, VII, IX and X and proteins C and S
+contraindications:
+    - Pronounced allergic diathesis
+    - Pregnancy
+pregnancy:
+    code:
+    justification: Contraindicated in pregnancy by the selected PI
+pharmacodynamics:
+    resp:
+        - Dyspnoea with rapid IV administration
+    cvs:
+        - Very rare IV anaphylactoid reaction
+        - Rare ↓ MAP and tachycardia
+    cns:
+    endo:
+    msk:
+    met:
+    ren:
+    gu:
+    git:
+    haeme:
+        - Reverses vitamin K antagonist effect
+        - Restores thrombosis risk
+considerations:
+    - "INR regimens: adults without bleeding; withhold warfarin"
+    - High bleeding risk includes active GI disorders, antiplatelet therapy, major surgery within 2weeks or thrombocytopenia
+    - Recheck INR within 24h if 5-9; in 6-12h if >9
+    - Give IV doses slowly over at least 30s
+    - Not an antidote for heparin
+    - Effect is delayed while new clotting factors are synthesised
+    - Large doses may cause temporary warfarin resistance
+references:
+    - Pharmaco (Australia) Ltd. KONAKION MM Australian Product Information. Version 2025-01 v2.0. Revised 21 January 2025.
+    - CSL Behring (Australia) Pty Ltd. BERIPLEX AU Australian Product Information. Version 3.00. Revised 28 June 2024.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Young P, Psirides A. Wellington ICU Drug Manual. 2nd Ed. Wellington Regional Hospital. 2013.

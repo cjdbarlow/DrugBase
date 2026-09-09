@@ -1,0 +1,70 @@
+---
+aliases:
+    - PCC
+    - Beriplex
+class: Four-factor prothrombin complex concentrate
+chemistry: Human plasma-derived factors II, VII, IX and X with proteins C and S
+dose:
+    INR 2-3.9: 25IU factor IX/kg IV
+    INR 4-6: 35IU factor IX/kg IV
+    INR >6: 50IU factor IX/kg IV
+pharmaceutics:
+    presentation: 500IU factor IX powder with diluent
+    compatibility: Do not dilute or mix; administer through a separate line
+    solubility: Reconstitutes to a clear or slightly opalescent solution
+pharmacokinetics:
+    absorption: Immediate after IV administration
+    distribution:
+        pKa:
+        vd: As endogenous factors II, VII, IX and X
+        protein binding:
+    metabolism:
+        half-life: Factor II 60h; VII 4h; IX 17h; X 31h; protein C 47h; protein S 49h (healthy Beriplex P/N medians; IX/C/S terminal)
+        duration:
+        pathway: As endogenous coagulation factors
+        metabolites:
+    elimination:
+        renal:
+mechanism:
+    target:
+        - Vitamin K-dependent coagulation factor deficiency
+    action: Replaces factors II, VII, IX and X → restores thrombin and fibrin generation
+contraindications:
+    - Active DIC
+    - Previous HIT
+pregnancy:
+    code:
+    justification: Use only if clearly indicated
+pharmacodynamics:
+    resp:
+        - Pulmonary embolism with overdose
+    cvs:
+        - MI with overdose
+        - Arterial thrombosis
+        - ↓ MAP and tachycardia
+    cns:
+        - Headache
+        - Ischaemic stroke
+    endo:
+    msk:
+    met:
+    ren:
+    gu:
+    git:
+        - Nausea and vomiting
+    haeme:
+        - Rapid ↓ INR
+        - Venous thrombosis and DIC
+considerations:
+    - Beriplex AU regimen for rapid VKA reversal in major bleeding/urgent surgery
+    - Dose by factor IX content, pretreatment INR and weight; cap dosing weight at 100kg
+    - Give vitamin K concurrently for sustained VKA reversal
+    - Slow IV at ≤3IU/kg/min; maximum 210IU/min (~8mL/min)
+    - Repeat dosing for urgent VKA reversal not recommended
+    - Thrombotic risk ↑ with repeated doses
+    - Contains heparin
+    - Human plasma product; record batch number
+references:
+    - CSL Behring (Australia) Pty Ltd. BERIPLEX AU Australian Product Information. Version 3.00. Revised 28 June 2024.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
