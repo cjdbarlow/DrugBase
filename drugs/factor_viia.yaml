@@ -1,0 +1,64 @@
+---
+aliases:
+    - Eptacog alfa
+    - Recombinant activated factor VII
+    - rFVIIa
+    - NovoSeven RT
+class: Activated coagulation factor VII
+chemistry: Recombinant human glycoprotein produced in baby hamster kidney cells
+dose:
+    Factor VIII/IX inhibitors: Bleeding 35-120microg/kg IV Q2-3H until controlled; then Q3-12H if needed
+    Factor VII deficiency: Congenital deficiency 15-30microg/kg IV Q4-6H
+    Glanzmann thrombasthenia: 80-120microg/kg IV at ≤2.5h intervals; at least 3 doses
+pharmaceutics:
+    presentation: 1-8mg lyophilised powder with histidine diluent; 1mg/mL after reconstitution
+    compatibility: Do not mix with infusion solutions; give as IV bolus
+    solubility: Reconstitutes to a clear colourless solution
+pharmacokinetics:
+    absorption:
+    distribution:
+        pKa:
+        vd: Mean Vss 130-165mL/kg in healthy subjects
+        protein binding:
+    metabolism:
+        half-life: Coagulant activity ~2.6h (haemophilia with inhibitors)
+        duration: Coagulant activity normalises by 8-12h after 35-70microg/kg (haemophilia with inhibitors)
+        pathway:
+        metabolites:
+    elimination:
+        renal:
+mechanism:
+    target:
+        - Tissue factor
+        - Factors IX and X
+    action: Activates factors IX and X; pharmacological doses directly activate factor X on activated platelets → local thrombin burst
+contraindications:
+    - Mouse, hamster or bovine protein hypersensitivity
+pregnancy:
+    code: B1
+    justification:
+pharmacodynamics:
+    resp:
+    cvs:
+        - Arterial and venous thrombosis
+    cns:
+    endo:
+    msk:
+    met:
+    ren:
+    gu:
+    git:
+    haeme:
+        - ↑ Local factor Xa, thrombin and fibrin generation
+        - DIC
+        - Inhibitory antibodies in congenital factor VII deficiency
+considerations:
+    - Give as IV bolus over 2-5min
+    - "Glanzmann: anti-GPIIb/IIIa and/or anti-HLA antibodies with past/present platelet-transfusion refractoriness"
+    - Coagulation tests do not reliably predict haemostasis
+    - Avoid simultaneous PCC
+    - ↑ Thrombosis risk with vascular disease, sepsis, DIC or major surgery
+references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 8 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Novo Nordisk Pharmaceuticals Pty Ltd. NOVOSEVEN RT Australian Product Information. Revised 29 September 2023.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.

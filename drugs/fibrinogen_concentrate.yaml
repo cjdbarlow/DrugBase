@@ -1,0 +1,59 @@
+---
+aliases:
+    - Factor I concentrate
+    - RiaSTAP
+class: Fibrinogen replacement
+chemistry: Human plasma-derived fibrinogen
+dose:
+    Unknown level: 70mg/kg IV
+    Known level: (target - measured functional fibrinogen in g/L) / 0.017 = mg/kg IV
+pharmaceutics:
+    presentation: 1g powder with 50mL water for injection; ~20mg/mL after reconstitution
+    compatibility: Do not mix; administer through a separate site
+    solubility: Reconstitutes to a clear or slightly opalescent solution
+pharmacokinetics:
+    absorption: Immediate after IV administration
+    distribution:
+        pKa:
+        vd: Mean Vss 52.7mL/kg (afibrinogenaemia)
+        protein binding:
+    metabolism:
+        half-life: Mean terminal 78.7h (afibrinogenaemia)
+        duration:
+        pathway: As endogenous fibrinogen
+        metabolites:
+    elimination:
+        renal:
+mechanism:
+    target:
+        - Fibrinogen deficiency
+    action: Thrombin converts fibrinogen to fibrin; factor XIIIa cross-links fibrin into a stable clot
+contraindications:
+pregnancy:
+    code: B2
+    justification:
+pharmacodynamics:
+    resp:
+    cvs:
+        - Thromboembolic events
+        - ↓ MAP and tachycardia with anaphylaxis
+    cns:
+    endo:
+    msk:
+    met:
+    ren:
+    gu:
+    git:
+        - Nausea and vomiting with allergic/anaphylactic reactions
+    haeme:
+        - ↑ Fibrinogen and clot firmness
+considerations:
+    - Selected PI indicates acute bleeding in congenital afibrinogenaemia/hypofibrinogenaemia
+    - Maintain target 1g/L for minor bleeding ≥3 days; 1.5g/L for major bleeding 7 days
+    - Slow IV ≤5mL/min
+    - Monitor fibrinogen and thrombosis
+    - Human plasma product; record batch number
+references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 8 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - CSL Behring (Australia) Pty Ltd. RIASTAP Australian Product Information. Version 10.00. Revised 21 May 2020.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.

@@ -1,0 +1,62 @@
+---
+aliases:
+    - ATIII
+    - Thrombotrol-VF
+class: Antithrombin replacement
+chemistry: Human plasma-derived alpha2-glycoprotein
+dose:
+    Initial: (desired - measured functional ATIII, % normal) × weight (kg) / 2.2 = IU IV
+pharmaceutics:
+    presentation: 1000IU lyophilised powder with diluent
+    compatibility: Do not mix with other fluids or blood
+    solubility: Reconstitutes to a clear or slightly opalescent solution
+pharmacokinetics:
+    absorption:
+    distribution:
+        pKa:
+        vd: Circulates in plasma
+        protein binding:
+    metabolism:
+        half-life: 2.8 days by functional assay (asymptomatic congenital deficiency; pre-VF product)
+        duration:
+        pathway:
+        metabolites:
+    elimination:
+        renal:
+mechanism:
+    target:
+        - Thrombin
+        - Factors IXa, Xa, XIa and XIIa
+        - Plasmin
+    action: Forms inactive 1:1 complexes with serine proteases; heparin accelerates neutralisation
+contraindications:
+pregnancy:
+    code: C
+    justification:
+pharmacodynamics:
+    resp:
+        - ↓ PE risk in hereditary deficiency
+    cvs:
+        - ↓ Venous thrombosis in hereditary deficiency
+    cns:
+        - Dizziness reported with ATIII concentrates
+    endo:
+    msk:
+    met:
+    ren:
+    gu:
+    git:
+        - Abdominal cramps reported with ATIII concentrates
+    haeme:
+        - ↑ Antithrombin activity
+        - ↑ Heparin effect
+considerations:
+    - Measure functional ATIII before and 20min post-infusion, then at least Q12H and before the next dose
+    - Maintain functional ATIII >80%
+    - Hereditary ATIII deficiency; slow IV ~3mL/min or as tolerated
+    - Pregnancy ↑ thrombosis risk in ATIII deficiency
+    - Human plasma product
+references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 8 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - CSL Behring (Australia) Pty Ltd. THROMBOTROL-VF Australian Product Information. Version 10.00. Revised 6 April 2020.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.

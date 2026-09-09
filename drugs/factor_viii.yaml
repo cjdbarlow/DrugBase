@@ -1,0 +1,59 @@
+---
+aliases:
+    - Octocog alfa
+    - Advate
+class: Coagulation factor VIII replacement
+chemistry: Recombinant human glycoprotein produced in CHO cells
+dose:
+    Minor bleeding: 10-20IU/kg IV Q12-24H (adults)
+    Moderate bleeding: 15-30IU/kg IV Q12-24H (adults)
+    Major bleeding: 30-50IU/kg IV Q8-24H (adults)
+    Prophylaxis: 20-40IU/kg IV every other day
+pharmaceutics:
+    presentation: 250-4000IU lyophilised powder with water for injection
+    compatibility:
+    solubility: Reconstitutes to a clear colourless solution
+pharmacokinetics:
+    absorption:
+    distribution:
+        pKa:
+        vd: Mean Vss 0.55dL/kg in adults
+        protein binding:
+    metabolism:
+        half-life: 13h in adults
+        duration:
+        pathway:
+        metabolites:
+    elimination:
+        renal:
+mechanism:
+    target:
+        - Factor VIII deficiency
+    action: Factor VIIIa is a cofactor for factor IXa-mediated factor X activation → thrombin and fibrin formation
+contraindications:
+    - Mouse or hamster protein hypersensitivity
+pregnancy:
+    code: B2
+    justification:
+pharmacodynamics:
+    resp:
+    cvs:
+    cns:
+    endo:
+    msk:
+    met:
+    ren:
+    gu:
+    git:
+    haeme:
+        - ↑ Factor VIII activity
+        - Neutralising inhibitor formation
+considerations:
+    - Required IU = weight (kg) × desired factor VIII rise (% normal or IU/dL) × 0.5
+    - Monitor factor VIII activity, especially in major bleeding or surgery
+    - Not indicated for von Willebrand disease
+    - IV bolus over <5min; max 10mL/min
+references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 8 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Takeda Pharmaceuticals Australia Pty Ltd. ADVATE Australian Product Information. Version 1.0. Revised 7 October 2020.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.

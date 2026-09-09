@@ -1,0 +1,63 @@
+---
+aliases:
+    - Nonacog alfa
+    - BeneFIX
+class: Coagulation factor IX replacement
+chemistry: Recombinant human glycoprotein produced in CHO cells
+dose:
+    Initial (scheduled): Approx. 20-50IU/kg IV 2-3 times/week over several minutes; individual recovery determines dose
+    Minor bleeding: Target factor IX 20-30%; repeat 12-24-hourly
+    Moderate bleeding: Target factor IX 25-50%; repeat 12-24-hourly
+    Major bleeding: Target factor IX 50-100%; repeat 12-24-hourly
+pharmaceutics:
+    presentation: 250-3000IU lyophilised powder with 0.234% NaCl diluent
+    compatibility: Do not mix or share tubing with other drugs
+    solubility: Reconstitutes to a clear colourless solution
+pharmacokinetics:
+    absorption:
+    distribution:
+        pKa:
+        vd:
+        protein binding:
+    metabolism:
+        half-life: Mean 22h (haemophilia B; initial study)
+        duration:
+        pathway:
+        metabolites:
+    elimination:
+        renal:
+mechanism:
+    target:
+        - Factor IX deficiency
+    action: Factor IXa with factor VIIIa activates factor X → thrombin and fibrin formation
+contraindications:
+    - Previous allergic reaction to hamster protein (may contraindicate use)
+pregnancy:
+    code: B2
+    justification:
+pharmacodynamics:
+    resp:
+    cvs:
+        - Rare ↓ MAP and tachycardia
+        - Thrombosis
+    cns:
+        - Headache and dizziness
+    endo:
+    msk:
+    met:
+    ren:
+    gu:
+    git:
+        - Nausea, vomiting and diarrhoea
+    haeme:
+        - ↑ Factor IX activity
+        - Neutralising inhibitor formation
+considerations:
+    - Dose by weight, desired factor IX rise and individual recovery
+    - Activity targets are % normal (= IU/dL)
+    - Recombinant factor IX has lower recovery than plasma-derived products
+    - Monitor factor IX activity, especially during surgery
+references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 8 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Pfizer Australia Pty Ltd. BENEFIX Australian Product Information. Version pfpbenev10719. Revised 9 July 2019.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
