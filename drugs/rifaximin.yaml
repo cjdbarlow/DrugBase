@@ -1,0 +1,56 @@
+---
+aliases:
+    - Xifaxan
+class: Non-systemic rifamycin antibiotic
+chemistry: Semi-synthetic rifamycin SV derivative
+dose:
+    Encephalopathy: 550mg PO BID (recurrence prevention)
+pharmaceutics:
+    presentation: 550mg film-coated tablet
+    compatibility: May take with or without food
+    solubility:
+pharmacokinetics:
+    absorption: <1% PO; peak ~1h in healthy subjects; systemic exposure ↑ markedly in hepatic impairment
+    distribution:
+        pKa:
+        vd: Acts locally in intestinal lumen
+        protein binding: 67.5% healthy; 62% hepatic impairment
+    metabolism:
+        half-life:
+        duration:
+        pathway: Absorbed fraction metabolised; enzymes undefined in vivo, CYP3A4 implicated in vitro; P-gp substrate
+        metabolites:
+    elimination:
+        renal: "After PO dosing in healthy volunteers: 96.6% radioactivity faecal (almost all unchanged); 0.32% urinary (mostly metabolites)"
+mechanism:
+    target:
+        - Bacterial DNA-dependent RNA polymerase β subunit
+    action: Inhibits bacterial RNA synthesis; ↓ encephalopathy recurrence, probably via altered intestinal flora
+contraindications:
+    - Intestinal obstruction
+pregnancy:
+    code: B1
+    justification:
+pharmacodynamics:
+    resp:
+    cvs:
+    cns:
+        - ↓ Recurrent hepatic encephalopathy
+    endo:
+    msk:
+    met:
+    ren:
+    gu:
+    git:
+        - Local broad-spectrum antibacterial activity
+        - Nausea, abdominal pain and C. difficile colitis
+    haeme:
+considerations:
+    - Recurrence prevention when other treatments failed or are contraindicated
+    - Severe hepatic impairment ↑ systemic exposure
+    - Ciclosporin markedly ↑ exposure; caution with P-gp inhibitors
+    - Monitor INR with warfarin
+references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 8 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Norgine Pty Ltd. XIFAXAN 550mg FILM COATED TABLETS Australian Product Information. Revised 20 April 2023.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
