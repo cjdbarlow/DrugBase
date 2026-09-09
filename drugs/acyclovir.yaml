@@ -1,0 +1,65 @@
+---
+aliases:
+    - Aciclovir
+    - DBL Aciclovir
+class: Antiviral
+chemistry: Synthetic acyclic purine nucleoside analogue
+dose:
+    HSV: 5mg/kg IV Q8H for 5-7 days
+    HSV encephalitis: 10mg/kg IV Q8H for ≥10 days
+    VZV (immunocompromised): 10mg/kg IV Q8H for 5-7 days
+pharmaceutics:
+    presentation: 25mg/mL solution for IV infusion; pH ~11
+    compatibility: Diluted infusion 2.5-5mg/mL in 0.9% NaCl, 0.18% NaCl/4% glucose, 0.9% NaCl/5% glucose or Hartmann's; ≥1h; do not refrigerate
+    solubility: Free aciclovir 2.5mg/mL in water at 37°C
+pharmacokinetics:
+    absorption: Complete IV bioavailability
+    distribution:
+        pKa:
+        vd:
+        protein binding: 9-33%
+    metabolism:
+        half-life: ~2.9h (adult IV terminal)
+        duration:
+        pathway: Minor metabolism
+        metabolites: 9-carboxymethoxymethylguanine
+    elimination:
+        renal: ~60% unchanged; glomerular filtration and tubular secretion
+mechanism:
+    target:
+        - Viral thymidine kinase
+        - Viral DNA polymerase
+    action: Viral thymidine kinase initiates activation to aciclovir triphosphate → viral DNA polymerase inhibition and chain termination
+contraindications:
+pregnancy:
+    code: B3
+    justification:
+pharmacodynamics:
+    resp:
+    cvs:
+        - ↓ MAP
+    cns:
+        - Confusion, hallucinations, tremor and seizures
+    endo:
+    msk:
+    met:
+    ren:
+        - Crystal nephropathy and acute kidney injury
+    gu:
+    git:
+        - Nausea and diarrhoea
+    haeme:
+        - TTP/HUS reported in immunocompromised patients
+considerations:
+    - Adult doses with normal renal function
+    - HSV regimen for immunocompromised mucocutaneous infection or severe first-episode genital infection in immunocompetent patients
+    - Infuse over ≥1h with adequate hydration
+    - "5% glucose compatibility below 25°C: 2.5mg/mL stable 6h; 4.5mg/mL stable 24h"
+    - Adjust dose in renal impairment
+    - Extravasation may cause tissue necrosis
+    - Pregnancy registry found no increased or consistent pattern of birth defects; balance benefit against possible risk
+references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 8 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Pfizer Australia Pty Ltd. DBL ACICLOVIR INTRAVENOUS INFUSION Australian Product Information. Version pfpaciii10723. Revised 10 July 2023.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Young P, Psirides A. Wellington ICU Drug Manual. 2nd Ed. Wellington Regional Hospital. 2013.
