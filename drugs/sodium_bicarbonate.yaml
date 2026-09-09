@@ -1,0 +1,65 @@
+---
+aliases:
+class: Systemic and urinary alkaliniser
+chemistry: Sodium hydrogen carbonate
+dose:
+    Severe acidosis: 1mmol/kg IV (with myocardial dysfunction)
+    Less urgent acidosis: 2-5mmol/kg IV total over 4-8h
+    Na+-blocker poisoning: 2mmol/kg IV for severe cardiotoxicity; repeat until cardiovascular stability
+pharmaceutics:
+    presentation: 8.4% solution; 1mmol/mL Na+ and HCO3−
+    compatibility: Compatible with 5% glucose and 0.9% NaCl; incompatible with many drugs and Ca2+-containing solutions
+    solubility: Water soluble
+pharmacokinetics:
+    absorption: IV only
+    distribution:
+        pKa:
+        vd:
+        protein binding:
+    metabolism:
+        half-life:
+        duration:
+        pathway: HCO3− + H+ → CO2 + H2O
+        metabolites:
+            - Carbon dioxide
+            - Water
+    elimination:
+        renal: Excess bicarbonate and sodium
+mechanism:
+    target:
+        - Extracellular hydrogen ions
+    action: Buffers H+ → ↑ plasma HCO3− and pH; ↑ urinary pH and weak-acid ionisation
+contraindications:
+    - Respiratory or metabolic alkalosis
+    - Hypoventilation or chloride depletion
+    - Hypernatraemia, hypertension or oedema
+    - Hypokalaemia or hypocalcaemia
+pregnancy:
+    code:
+    justification:
+pharmacodynamics:
+    resp:
+        - ↑ CO2 load; inadequate ventilation → paradoxical intracellular acidosis
+    cvs:
+        - Na+ load → ↑ circulating volume and pulmonary oedema
+    cns:
+        - Cerebral oedema; rapid infusion in children <2y may cause intracranial haemorrhage
+    endo:
+    msk:
+        - Tetany with hypocalcaemia
+    met:
+        - Metabolic alkalosis, hypernatraemia, hypokalaemia and hypocalcaemia
+    ren:
+        - ↑ Urinary weak-acid excretion
+    gu:
+    git:
+    haeme:
+considerations:
+    - 'Renal failure or poorly controlled CCF: ↑ fluid-overload risk from Na+ load'
+    - Ensure adequate ventilation
+    - Hypertonic and irritant; central administration preferred and extravasation may cause necrosis
+    - Base deficit correction is imprecise; reassess ABG and electrolytes after partial correction
+references:
+    - Phebra Pty Ltd. SODIUM BICARBONATE 8.4% INJECTION Australian Product Information. Version 04.1. Revised 19 February 2021.
+    - Young P, Psirides A. Wellington ICU Drug Manual. 2nd Ed. Wellington Regional Hospital. 2013.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.

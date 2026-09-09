@@ -1,0 +1,61 @@
+---
+aliases:
+    - Hypertonic saline
+class: Hypertonic crystalloid; concentrated electrolyte
+chemistry: Sodium chloride aqueous solution
+dose:
+pharmaceutics:
+    presentation: 20% NaCl (3.4mmol/mL each of Na+ and Cl−) and 23.4% NaCl (4mmol/mL each of Na+ and Cl−) concentrates
+    compatibility: Dilute before IV use; check additive compatibility
+    solubility: Water soluble
+pharmacokinetics:
+    absorption: IV only
+    distribution:
+        pKa:
+        vd: Extracellular fluid; ~one-third total body Na+ in skeleton
+        protein binding:
+    metabolism:
+        half-life:
+        duration:
+        pathway: None
+        metabolites:
+    elimination:
+        renal: 'Na+: predominantly renal; small faecal and sweat losses'
+mechanism:
+    target:
+        - Extracellular fluid osmolality
+    action: ↑ Extracellular Na+ and osmolality → extracellular volume expansion and intracellular water shift
+contraindications:
+    - Congestive heart failure
+    - Severe renal impairment
+    - Sodium retention or oedema
+    - Cirrhosis
+pregnancy:
+    code:
+    justification:
+pharmacodynamics:
+    resp:
+        - Volume overload → pulmonary oedema
+    cvs:
+        - ↑ Circulating volume; hypernatraemia may ↑ MAP
+    cns:
+        - ↓ Cerebral oedema; overrapid correction of hyponatraemia may cause osmotic demyelination
+        - Hypernatraemia → confusion, seizures and coma
+    endo:
+    msk:
+        - Twitching and rigidity with severe hypernatraemia
+    met:
+        - Hypernatraemia, hyperchloraemia, hypokalaemia and metabolic acidosis
+    ren:
+        - Inadvertent concentrate administration may cause renal cortical necrosis
+    gu:
+    git:
+        - Thirst
+    haeme:
+        - Inadvertent concentrate administration may cause haemolysis
+considerations:
+    - Australian PI product is a concentrate for dilution, not a ready-to-infuse 3% solution
+    - Monitor Na+, Cl−, osmolality, acid-base status and fluid balance
+references:
+    - Phebra Pty Ltd. SODIUM CHLORIDE 20% AND 23.4% CONCENTRATED INJECTION FOR INFUSION Australian Product Information. Version 04. Revised 29 June 2021.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
