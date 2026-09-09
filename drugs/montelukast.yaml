@@ -1,0 +1,55 @@
+---
+aliases:
+    - Singulair
+class: Leukotriene receptor antagonist
+chemistry: Montelukast sodium
+dose:
+    Maintenance (≥15y): 10mg PO daily; evening for asthma
+pharmaceutics:
+    presentation: 10mg film-coated tablet; 4mg or 5mg chewable tablet; 4mg granules (not supplied in Australia per PI)
+    compatibility: 10mg tablet is not bioequivalent to two 5mg chewable tablets
+    solubility: Montelukast sodium is water soluble
+pharmacokinetics:
+    absorption: 64% PO bioavailability; peak 3h (fasted adults, 10mg film-coated tablet)
+    distribution:
+        pKa:
+        vd: 8-11L (Vss)
+        protein binding: ">99%"
+    metabolism:
+        half-life: 2.7-5.5h (healthy young adults)
+        duration: ~24h
+        pathway: Extensive hepatic CYP2C8; lesser CYP3A4 and CYP2C9
+        metabolites:
+    elimination:
+        renal: Predominantly biliary; oral radiolabel recovery 86% in faeces over 5 days, <0.2% in urine
+mechanism:
+    target:
+        - CysLT1 receptors
+    action: Selective antagonism → blocks cysteinyl-leukotriene-mediated bronchoconstriction and airway inflammation
+contraindications:
+pregnancy:
+    code: B1
+    justification:
+pharmacodynamics:
+    resp:
+        - Bronchodilation within 2h
+        - ↓ Airway oedema, mucus and bronchial smooth-muscle constriction
+    cvs:
+    cns:
+        - Neuropsychiatric effects, including depression and suicidality
+    endo:
+    msk:
+    met:
+    ren:
+    gu:
+    git:
+    haeme:
+considerations:
+    - Not for acute bronchospasm
+    - Stop if neuropsychiatric symptoms occur
+    - Additive bronchodilation with β agonists
+references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 8 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Organon Pharma Pty Ltd. SINGULAIR Tablets and Granules Australian Product Information. Version S-WPC-MK0476-MF-112018. Revised 15 April 2025.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
