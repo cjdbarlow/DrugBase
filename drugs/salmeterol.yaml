@@ -1,0 +1,61 @@
+---
+aliases:
+    - Serevent
+class: Long-acting selective β2 partial agonist
+chemistry: Synthetic sympathomimetic amine; xinafoate racemate
+dose:
+    Maintenance: 50microg inhaled BID; up to 100microg BID in severe asthma
+pharmaceutics:
+    presentation: 50microg dry-powder inhalation
+    compatibility: Accuhaler contains lactose and milk protein
+    solubility:
+pharmacokinetics:
+    absorption: Local pulmonary action; plasma concentration ≤200pg/mL after inhalation
+    distribution:
+        pKa:
+        vd:
+        protein binding: 95-98%
+    metabolism:
+        half-life: Plasma radioactivity ~67h after an oral radiolabelled dose
+        duration: ~12h
+        pathway: Extensive hepatic CYP3A4-mediated aliphatic hydroxylation
+        metabolites:
+            - α-Hydroxysalmeterol
+    elimination:
+        renal: Predominantly faecal; lesser urinary excretion
+mechanism:
+    target:
+        - β2 adrenoceptors
+    action: Prolonged Gs activation → ↑ cAMP → bronchial smooth-muscle relaxation
+contraindications:
+    - Severe milk-protein allergy
+pregnancy:
+    code: B3
+    justification: Asthma-control benefit outweighs potential adverse pregnancy outcome
+pharmacodynamics:
+    resp:
+        - Bronchodilation; onset 10-30min, peak 3-4h
+        - ↓ HPV → ↑ shunt and possible ↓ PaO2 without supplemental O2
+    cvs:
+        - ↑ HR at high doses; ↓ MAP from peripheral vasodilation at lower doses
+    cns:
+    endo:
+    msk:
+        - Tremor; potentiates non-depolarising NMBs
+    met:
+        - Hypokalaemia and hyperglycaemia
+    ren:
+    gu:
+        - Uterine relaxation
+    git:
+    haeme:
+considerations:
+    - Not for acute bronchospasm
+    - Use with inhaled corticosteroid in asthma
+    - Strong CYP3A4 inhibitors ↑ exposure and may prolong QTc
+references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 8 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - GlaxoSmithKline Australia Pty Ltd. SEREVENT ACCUHALER Australian Product Information. Version 4.0. Revised 11 August 2021.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.

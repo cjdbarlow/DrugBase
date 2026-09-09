@@ -1,0 +1,59 @@
+---
+aliases:
+    - Spiriva
+class: Long-acting inhaled muscarinic antagonist
+chemistry: Non-chiral quaternary ammonium compound
+dose:
+    Maintenance: 5microg inhaled daily (2 puffs)
+pharmaceutics:
+    presentation: 2.5microg/puff solution for Respimat inhaler
+    compatibility: Use only with the Respimat inhaler
+    solubility: Sparingly water soluble
+pharmacokinetics:
+    absorption: ~33% systemic bioavailability after inhalation (young healthy volunteers); 2-3% PO; peak 5-7min
+    distribution:
+        pKa:
+        vd: 32L/kg
+        protein binding: 72%
+    metabolism:
+        half-life: 27-45h (effective; inhaled COPD/asthma)
+        duration: "≥24h"
+        pathway: Minimal; mainly non-enzymatic ester cleavage
+        metabolites:
+            - N-Methylscopine (inactive at muscarinic receptors)
+            - Dithienylglycolic acid (inactive at muscarinic receptors)
+    elimination:
+        renal: 74% unchanged after IV dosing (young healthy volunteers); 18.6% of inhaled dose in COPD, with most remainder unabsorbed in faeces
+mechanism:
+    target:
+        - Muscarinic receptors (M3-mediated bronchodilation)
+    action: Competitive antagonism with slow M3 dissociation → prolonged bronchodilation
+contraindications:
+pregnancy:
+    code: B1
+    justification:
+pharmacodynamics:
+    resp:
+        - Bronchodilation
+    cvs:
+    cns:
+        - Minimal CNS penetration
+    endo:
+    msk:
+    met:
+    ren:
+    gu:
+        - Urinary retention
+    git:
+        - Dry mouth, constipation and ileus
+    haeme:
+considerations:
+    - Maintenance only; not for acute bronchospasm
+    - Caution with narrow-angle glaucoma or urinary outflow obstruction
+    - Moderate-severe renal impairment ↑ exposure
+references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 8 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Boehringer Ingelheim Pty Limited. SPIRIVA RESPIMAT (re-usable) Australian Product Information. Version PI0167-03. Revised 17 May 2024.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.

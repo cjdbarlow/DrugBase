@@ -1,0 +1,60 @@
+---
+aliases:
+    - Atrovent
+class: Short-acting inhaled muscarinic antagonist
+chemistry: Quaternary ammonium atropine derivative
+dose:
+    Bronchospasm: 250-500microg nebulised QID
+pharmaceutics:
+    presentation: 250microg/mL or 500microg/mL inhalation solution
+    compatibility: Dilute to 2-3mL with 0.9% NaCl; protect UDV from light
+    solubility: Water soluble; low lipid solubility
+pharmacokinetics:
+    absorption: <1% of inhaled dose absorbed through bronchial mucosa; oral absorption contributes ~2% of systemic levels
+    distribution:
+        pKa: 15.3
+        vd: 2.4-4.6L/kg
+        protein binding: <20%
+    metabolism:
+        half-life: 1.5-3h; IV terminal ~1.6h
+        duration: Up to 6h
+        pathway: ~60% of systemic dose metabolised, probably hepatic
+        metabolites:
+            - Inactive urinary metabolites
+    elimination:
+        renal: ~40% of systemic dose unchanged; biliary/faecal radioactivity <10% after IV dosing
+mechanism:
+    target:
+        - Muscarinic receptors (non-selective; M3-mediated bronchodilation)
+    action: Competitive antagonism → ↓ vagal bronchial smooth-muscle contraction
+contraindications:
+pregnancy:
+    code: B1
+    justification:
+pharmacodynamics:
+    resp:
+        - Bronchodilation without impaired mucociliary clearance
+        - Onset 3-5min; peak 1.5-2h
+    cvs:
+        - Tachycardia
+    cns:
+        - Minimal CNS penetration
+    endo:
+    msk:
+    met:
+    ren:
+    gu:
+        - Urinary retention
+    git:
+        - Dry mouth; ↓ GI secretions at large doses
+    haeme:
+considerations:
+    - Eye exposure may cause mydriasis or acute angle-closure glaucoma
+    - Caution with prostatic hyperplasia or bladder-neck obstruction
+    - Additive bronchodilation with β2 agonists or xanthines
+references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 8 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Boehringer Ingelheim Pty Limited. ATROVENT Inhalation Solutions Australian Product Information. Version PI0059-14. Revised 28 November 2019.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.
