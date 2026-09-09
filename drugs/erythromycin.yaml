@@ -1,0 +1,66 @@
+---
+aliases:
+    - Erythrocin
+class: Macrolide antibiotic and prokinetic
+chemistry: Erythromycin lactobionate for IV use
+dose:
+    Prokinetic: 125-250mg IV Q6H
+    Infection: 15-20mg/kg/day IV in 4 doses; up to 4g/day (severe infection)
+pharmaceutics:
+    presentation: 1g powder for IV infusion
+    compatibility: Reconstitute with sterile water for injection only; dilute in 0.9% NaCl or Hartmann's
+    solubility: Water-soluble lactobionate salt
+pharmacokinetics:
+    absorption:
+    distribution:
+        pKa:
+        vd: Wide tissue distribution; poor CSF penetration
+        protein binding: ~75%
+    metabolism:
+        half-life: 1.4h (normal renal function)
+        duration:
+        pathway: Presumed hepatic metabolism; CYP3A and P-gp inhibitor
+        metabolites:
+    elimination:
+        renal: 12-15% unchanged after IV dosing; predominantly hepatic/biliary handling
+mechanism:
+    target:
+        - Bacterial 50S ribosomal subunit
+        - Motilin receptors
+    action: Inhibits bacterial translocation and protein synthesis; motilin agonism ↑ gastric emptying
+contraindications:
+    - History of QT prolongation or ventricular dysrhythmia
+    - Uncorrected hypokalaemia or hypomagnesaemia
+    - Severe hepatic impairment
+    - NYHA IV heart failure
+    - Concurrent QT-prolonging drugs, ergotamine or dihydroergotamine
+    - Concurrent simvastatin, lovastatin or atorvastatin
+pregnancy:
+    code: A
+    justification:
+pharmacodynamics:
+    resp:
+    cvs:
+        - QT prolongation and ventricular dysrhythmias
+    cns:
+    endo:
+    msk:
+        - May aggravate myasthenia gravis
+    met:
+    ren:
+    gu:
+    git:
+        - Prokinetic; abdominal pain, nausea and diarrhoea
+        - Cholestatic hepatitis and C. difficile colitis
+    haeme:
+considerations:
+    - No IV push; infuse over ≥60min, or 2h if dysrhythmia risk
+    - Rapid tolerance to prokinetic effect
+    - Numerous CYP3A/P-gp interactions
+    - ↑ Theophylline, digoxin, midazolam and warfarin effects
+references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 8 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Amdipharm Mercury (Australia) Pty Ltd. ERYTHROCIN IV Australian Product Information. Revised 10 December 2020.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Young P, Psirides A. Wellington ICU Drug Manual. 2nd Ed. Wellington Regional Hospital. 2013.
