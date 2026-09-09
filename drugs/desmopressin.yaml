@@ -1,0 +1,71 @@
+---
+aliases:
+    - DDAVP
+    - Minirin
+    - Octostim
+class: Selective vasopressin V2 agonist
+chemistry: Deaminated D-arginine vasopressin analogue
+dose:
+    Central DI (adult): Minirin 1-4microg/day IV/IM in 2 doses
+    Haemophilia A/vWD: 0.3microg/kg IV (mild-moderate)
+    Platelet bleeding: 0.3microg/kg IV over 30min
+pharmaceutics:
+    presentation: Minirin 4microg/mL (IV/IM); Octostim 15microg/mL (IV only)
+    compatibility: Dilute haemostatic doses in 0.9% NaCl
+    solubility: Water soluble peptide
+pharmacokinetics:
+    absorption: 100% IV; ~85% SC bioavailability
+    distribution:
+        pKa:
+        vd: 0.3-0.5L/kg
+        protein binding:
+    metabolism:
+        half-life: 1.5-2.5h
+        duration: Haemostasis depends on factor VIII activity (t½ ~8-12h)
+        pathway: Negligible CYP metabolism in vitro; in-vivo metabolism unstudied
+        metabolites:
+    elimination:
+        renal: 52% unchanged
+mechanism:
+    target:
+        - Vasopressin V2 receptors
+    action: Collecting-duct V2 agonism → ↑ water reabsorption; extrarenal V2 agonism → vWF and factor VIII release
+contraindications:
+    - Hyponatraemia or SIADH
+    - Psychogenic or habitual polydipsia
+    - Cardiac failure or diuretic-requiring disease
+    - Type IIB von Willebrand disease
+pregnancy:
+    code: B1
+    justification:
+pharmacodynamics:
+    resp:
+    cvs:
+        - Minor ↓ MAP and reflex ↑ HR at haemostatic doses
+        - Rare thrombosis
+    cns:
+        - Hyponatraemic encephalopathy and seizures
+    endo:
+        - ADH analogue
+    msk:
+    met:
+        - Water retention and hyponatraemia
+    ren:
+        - ↓ Urine volume; ↑ urine osmolality
+    gu:
+        - "Intranasal: slight uterine stimulation in non-pregnant women"
+    git:
+        - Nausea
+    haeme:
+        - ↑ vWF and factor VIII; ↓ bleeding time
+considerations:
+    - "Fluid: replace urinary losses in central DI; restrict for haemostasis"
+    - Monitor Na+, osmolality and urine output
+    - Ineffective in nephrogenic diabetes insipidus
+    - Repeated haemostatic doses may cause tachyphylaxis and fluid retention
+references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 8 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Ferring Pharmaceuticals Pty Ltd. MINIRIN/OCTOSTIM INJECTIONS Australian Product Information. Version AU-MN-2400002_v.4.0. Revised 29 July 2024.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Young P, Psirides A. Wellington ICU Drug Manual. 2nd Ed. Wellington Regional Hospital. 2013.
