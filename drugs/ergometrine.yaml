@@ -1,0 +1,66 @@
+---
+aliases:
+    - Ergonovine
+class: Ergot alkaloid; oxytocic
+chemistry: Amide ergot alkaloid; maleate salt
+dose:
+    PPH: 200microg IM; 200microg slow IV in emergency
+pharmaceutics:
+    presentation: 500microg/mL solution for IM or IV injection
+    compatibility: Protect from light; refrigerate at 2-8°C
+    solubility: Water-soluble (BP); sparingly soluble (USP)
+pharmacokinetics:
+    absorption: Rapid and complete after IM injection
+    distribution:
+        pKa:
+        vd:
+        protein binding:
+    metabolism:
+        half-life:
+        duration: 45min IV; ≥3h IM
+        pathway: Probably predominantly hepatic
+        metabolites:
+    elimination:
+        renal: Probably predominantly non-renal; faecal excretion
+mechanism:
+    target:
+        - α-adrenergic receptors
+        - 5-HT2 receptors
+    action: Partial agonism → uterine contraction and vasoconstriction; sustained uterine contraction at high doses
+contraindications:
+    - Pre-eclampsia, eclampsia or hypertension (including history)
+    - Peripheral vascular or heart disease
+    - Hepatic or renal impairment
+    - Before placental delivery or with suspected retained placenta
+    - Severe or persistent sepsis
+pregnancy:
+    code: C
+    justification: May cause premature or hypertonic labour
+pharmacodynamics:
+    resp:
+        - Dyspnoea and pulmonary oedema
+    cvs:
+        - ↑ SVR, CVP and MAP; ↓ HR
+        - Coronary vasospasm, myocardial ischaemia and dysrhythmias
+    cns:
+        - Headache, dizziness and seizures with severe hypertension
+    endo:
+        - Repeated doses → ↓ prolactin and lactation
+    msk:
+    met:
+    ren:
+    gu:
+        - ↑ Uterine contraction frequency and tone; fetal distress
+    git:
+        - Nausea, vomiting and diarrhoea
+    haeme:
+considerations:
+    - IV only in emergency; give over ≥1min
+    - Sympathomimetics and β-blockers may ↑ vasoconstriction
+    - Prolonged use may cause ergotism and gangrene
+references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 8 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Pfizer Australia Pty Ltd. DBL ERGOMETRINE Australian Product Information. Version pfpergoi10620. Revised 3 June 2020.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.

@@ -1,0 +1,71 @@
+---
+aliases:
+    - Syntocinon
+class: Posterior pituitary hormone; oxytocic
+chemistry: Synthetic cyclic nonapeptide
+dose:
+    Labour: 1-4mU/min IV; ↑ by 1-2mU/min at ≥20min intervals; max 20mU/min
+    PPH: 5-10IU IM or 5IU slow IV
+    Caesarean: 5IU slow IV after fetal delivery
+pharmaceutics:
+    presentation: 5IU/mL and 10IU/mL solutions for injection
+    compatibility: Physically compatible with 0.9% NaCl/5% glucose; use electrolyte-containing diluent; incompatible with bisulphites/metabisulphites
+    solubility:
+pharmacokinetics:
+    absorption: IV injection <1min; IM injection 2-4min
+    distribution:
+        pKa:
+        vd: 0.17L/kg (healthy men, IV)
+        protein binding: Very low
+    metabolism:
+        half-life: 3-20min
+        duration: 30-60min IM; possibly shorter IV
+        pathway: Oxytocinases in plasma, liver and kidney
+        metabolites:
+    elimination:
+        renal: <1% unchanged; hepatic and renal clearance
+mechanism:
+    target:
+        - Oxytocin receptors
+        - Vasopressin V2 receptors at high doses
+    action: Oxytocin-receptor Gq activation → ↑ intracellular Ca2+ and myometrial contraction
+contraindications:
+    - Foetal distress
+    - Obstructed labour or contraindication to vaginal delivery
+    - Placenta praevia, vasa praevia or placental abruption
+    - Hypertonic uterine contractions
+    - Severe toxaemia
+    - Within 6h of vaginal prostaglandins
+pregnancy:
+    code: A
+    justification: Idiosyncratic uterine sensitivity may cause fetal anoxia
+pharmacodynamics:
+    resp:
+        - Fluid overload may cause pulmonary oedema
+    cvs:
+        - Rapid IV bolus → ↓ MAP, flushing and reflex ↑ HR
+        - QTc prolongation and myocardial ischaemia
+    cns:
+        - Headache; water intoxication may cause seizures or coma
+    endo:
+        - ↑ Milk ejection
+    msk:
+    met:
+        - ADH-like effect → water retention and hyponatraemia
+    ren:
+        - ↓ Urine output with prolonged high-dose infusion
+    gu:
+        - ↑ Uterine contraction frequency and tone
+    git:
+        - Nausea and vomiting
+    haeme:
+considerations:
+    - Avoid rapid IV bolus
+    - Electrolyte-free fluid ↑ water-intoxication risk
+    - Blood products may contain oxytocinase; avoid co-administration through the same line
+references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 8 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Arrotex Pharmaceuticals Pty Ltd. SYNTOCINON Australian Product Information. Revised 10 February 2025.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.

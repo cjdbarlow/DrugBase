@@ -1,0 +1,63 @@
+---
+aliases:
+    - Hemabate
+class: Prostaglandin F2α analogue; oxytocic
+chemistry: 15-methyl prostaglandin F2α trometamol salt
+dose:
+    Refractory atonic PPH: 250microg deep IM; repeat ~q90min (≥15min in severe cases); max 2mg
+pharmaceutics:
+    presentation: 250microg/mL solution for IM injection
+    compatibility: Refrigerate at 2-8°C; do not freeze
+    solubility:
+pharmacokinetics:
+    absorption: Peak plasma concentration 15-60min after IM injection
+    distribution:
+        pKa:
+        vd:
+        protein binding:
+    metabolism:
+        half-life:
+        duration: Longer acting than dinoprost
+        pathway:
+        metabolites:
+    elimination:
+        renal:
+mechanism:
+    target:
+        - Prostaglandin FP receptors
+    action: Stimulates myometrial smooth muscle → uterine contraction and placental-site haemostasis
+contraindications:
+    - Active cardiac, pulmonary, renal or hepatic disease
+    - Acute pelvic inflammatory disease
+    - Pregnancy
+pregnancy:
+    code: D
+    justification: Uterine stimulation may cause fetal loss, irreversible injury or death
+pharmacodynamics:
+    resp:
+        - Bronchoconstriction and hypoxia
+        - Rare pulmonary oedema
+    cvs:
+        - ↑ SVR, MAP and HR
+    cns:
+        - Headache and dizziness
+    endo:
+    msk:
+    met:
+        - Transient fever and flushing
+    ren:
+    gu:
+        - ↑ Uterine tone and contraction
+    git:
+        - Diarrhoea, nausea, vomiting and abdominal cramping
+    haeme:
+considerations:
+    - Do not give IV
+    - Use cautiously in asthma, glaucoma, hypertension, epilepsy or scarred uterus
+    - Potentiates other oxytocics; concomitant use not recommended
+references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 8 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Dr Reddy's Laboratories (Australia) Pty Ltd. CARBOPROST DR.REDDY'S Australian Product Information. First approved 2 May 2023.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.
