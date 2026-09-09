@@ -1,0 +1,58 @@
+---
+aliases:
+    - Andexxa
+class: Direct factor Xa inhibitor antidote
+chemistry: Recombinant modified inactive human factor Xa
+dose:
+    Low: 400mg IV bolus then 4mg/min for 120min
+    High: 800mg IV bolus then 8mg/min for 120min
+pharmaceutics:
+    presentation: 200mg lyophilised powder
+    compatibility: Administer through a 0.2-0.22micrometre low-protein-binding filter
+    solubility: Reconstitutes to a clear colourless-to-yellow solution
+pharmacokinetics:
+    absorption:
+    distribution:
+        pKa:
+        vd: 3.0-4.4L
+        protein binding:
+    metabolism:
+        half-life: 2.7-3.3h
+        duration: Anti-Xa activity returns to placebo levels ~2h after infusion
+        pathway:
+        metabolites:
+    elimination:
+        renal:
+mechanism:
+    target:
+        - Apixaban
+        - Rivaroxaban
+        - Tissue factor pathway inhibitor
+    action: Sequesters direct factor Xa inhibitors; inhibits TFPI → ↑ thrombin generation
+contraindications:
+pregnancy:
+    code: B2
+    justification:
+pharmacodynamics:
+    resp:
+    cvs:
+        - Arterial and venous thrombosis
+        - MI, ischaemic stroke, cardiac arrest and sudden death
+    cns:
+    endo:
+    msk:
+    met:
+    ren:
+    gu:
+    git:
+    haeme:
+        - Rapid ↓ anti-Xa activity
+        - Re-elevation or incomplete reversal
+considerations:
+    - Only indicated for apixaban or rivaroxaban
+    - Avoid unfractionated heparin after administration
+    - Commercial anti-Xa assays are unreliable after administration
+    - Resume anticoagulation when appropriate
+references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 8 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - AstraZeneca Pharmaceuticals LP. ANDEXXA US Prescribing Information. Revised May 2025.
