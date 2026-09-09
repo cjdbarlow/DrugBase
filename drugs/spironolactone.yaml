@@ -1,0 +1,68 @@
+---
+aliases:
+    - Aldactone
+class: Mineralocorticoid receptor antagonist; potassium-sparing diuretic
+chemistry: Steroid lactone
+dose:
+    Hypertension: 50-100mg PO daily
+    CCF oedema: 100mg PO daily; 25-200mg/day maintenance
+pharmaceutics:
+    presentation: 25mg and 100mg tablets
+    compatibility:
+    solubility: Practically insoluble in water
+pharmacokinetics:
+    absorption: 95% PO bioavailability with food
+    distribution:
+        pKa: 18.01
+        vd: ~2L/kg
+        protein binding: 90%
+    metabolism:
+        half-life: 2-3h; active metabolites 10-12h
+        duration: Onset 3-4h; maximum effect ~2 days
+        pathway: Complete hepatic metabolism
+        metabolites:
+            - Canrenone
+            - Sulfur-containing active metabolites
+    elimination:
+        renal: Metabolites (including inactive); some biliary excretion
+mechanism:
+    target:
+        - Mineralocorticoid receptor
+        - Androgen receptor
+    action: Competitive aldosterone antagonism in the distal nephron → ↓ ENaC expression, ↑ Na+ excretion and ↓ K+ secretion
+contraindications:
+    - Acute renal insufficiency, significant renal impairment or anuria
+    - Hyperkalaemia or Addison's disease
+    - Pregnancy
+    - Concurrent eplerenone
+pregnancy:
+    code: B3
+    justification: Potential feminisation of the male fetus
+pharmacodynamics:
+    resp:
+    cvs:
+        - ↓ MAP and circulating volume
+    cns:
+        - Drowsiness, dizziness, confusion and ataxia
+    endo:
+        - Gynaecomastia, menstrual irregularity and impotence
+    msk:
+    met:
+        - Hyperkalaemia, hyponatraemia and type 4 RTA
+    ren:
+        - Mild diuresis with K+ retention
+    gu:
+        - Antiandrogenic effects
+    git:
+        - Nausea, vomiting, diarrhoea and gastritis
+    haeme:
+considerations:
+    - Monitor K+ and renal function; avoid K+ supplements and other potassium-sparing drugs
+    - ACE inhibitors, ARBs and NSAIDs ↑ hyperkalaemia; ↑ lithium and digoxin exposure
+references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 8 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Pfizer Australia Pty Ltd. ALDACTONE Australian Product Information. Version pfpaldat10625. Revised 18 June 2025.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.
+    - Young P, Psirides A. Wellington ICU Drug Manual. 2nd Ed. Wellington Regional Hospital. 2013.
