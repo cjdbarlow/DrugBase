@@ -1,0 +1,66 @@
+---
+aliases:
+    - Numbrino
+class: Ester local anaesthetic; indirect sympathomimetic
+chemistry: Tropane ester
+dose:
+    Nasal topical: 40-160mg via pledgets for up to 20 minutes; max 3mg/kg
+pharmaceutics:
+    presentation: 4% nasal solution
+    compatibility:
+    solubility: Hydrochloride water-soluble
+pharmacokinetics:
+    absorption: ~23% systemic absorption after 160mg via nasal pledgets; peak ~30 minutes from application
+    distribution:
+        pKa: 8.6
+        vd: ~2L/kg
+        protein binding: 84-92%
+    metabolism:
+        half-life: 1.54 hours (4% nasal pledgets)
+        duration: Topical anaesthesia at least 30 minutes
+        pathway: Plasma butyrylcholinesterase and hepatic carboxylesterases; minor CYP3A4 N-demethylation
+        metabolites:
+            - Benzoylecgonine and ecgonine methyl ester (inactive)
+            - Norcocaine (active; <1% of parent exposure)
+    elimination:
+        renal: Almost entirely metabolites; less than 5% unchanged
+mechanism:
+    target:
+        - Voltage-gated Na+ channels
+        - Noradrenaline, dopamine and serotonin transporters
+    action: Reversible Na+ channel blockade plus inhibition of monoamine reuptake
+contraindications:
+pregnancy:
+    code:
+    justification:
+pharmacodynamics:
+    resp:
+        - Toxicity causes respiratory depression and apnoea
+    cvs:
+        - Vasoconstriction, ↑ MAP and HR
+        - Coronary vasoconstriction and QT prolongation
+        - Toxicity causes myocardial depression and ventricular dysrhythmias
+    cns:
+        - Local anaesthesia
+        - Abuse → euphoria and agitation
+        - Toxicity → hyperthermia
+        - Toxicity causes seizures, coma and apnoea
+    endo:
+    msk:
+    met:
+    ren:
+    gu:
+    git:
+    haeme:
+considerations:
+    - High abuse and dependence potential
+    - Avoid damaged nasal mucosa
+    - Sympathomimetics may cause severe hypertension and dysrhythmias
+    - Disulfiram increases cocaine exposure
+    - Plasma cholinesterase deficiency may increase toxicity
+references:
+    - Omnivium Pharmaceuticals LLC. NUMBRINO United States Prescribing Information. Revised August 2023.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.
+    - Smith S, Scarth E, Sasada M. Drugs in Anaesthesia and Intensive Care. 4th Ed. Oxford University Press. 2011.

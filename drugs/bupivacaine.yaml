@@ -1,0 +1,69 @@
+---
+aliases:
+    - Marcain
+class: Amide local anaesthetic
+chemistry: Racemic amino-amide
+dose:
+    Block: Up to 2mg/kg
+    Lumbar epidural analgesia: 15-60mg bolus; 12.5-18.75mg/hour infusion
+pharmaceutics:
+    presentation: 0.25% and 0.5% injection (± adrenaline); 0.125% epidural infusion; 0.375% registered but not marketed in selected PI
+    compatibility:
+    solubility: Lipid-soluble
+pharmacokinetics:
+    absorption: Site-dependent; intercostal greatest and subcutaneous least; adrenaline slows absorption
+    distribution:
+        pKa: 8.1
+        vd: 73L
+        protein binding: 96%
+    metabolism:
+        half-life: 2.7 hours (IV; longer after epidural administration)
+        duration: '0.5%: 2-5 hours epidural; up to 12 hours peripheral nerve block'
+        pathway: Hepatic
+        metabolites:
+            - Pipecolylxylidine and 4-hydroxybupivacaine (inactive)
+    elimination:
+        renal: Mainly metabolites; ~6% unchanged
+mechanism:
+    target:
+        - Open and inactivated voltage-gated Na+ channels
+    action: Use-dependent Na+ channel blockade → reversible interruption of impulse conduction
+contraindications:
+    - IV administration or Bier block
+    - Obstetric paracervical block
+    - Uncorrected hypotension for neuraxial anaesthesia
+    - Infection at injection site or septicaemia
+pregnancy:
+    code: A
+    justification:
+pharmacodynamics:
+    resp:
+        - Toxicity causes respiratory depression and apnoea
+    cvs:
+        - Neuraxial sympathetic block → vasodilation and ↓ MAP
+        - Toxicity causes myocardial depression, conduction block and ventricular dysrhythmias
+    cns:
+        - Local and regional anaesthesia
+        - Toxicity may progress from circumoral paraesthesia and tinnitus to seizures, coma and apnoea
+    endo:
+    msk:
+        - Concentration-dependent motor block
+    met:
+    ren:
+    gu:
+    git:
+        - Drug-induced liver injury
+    haeme:
+considerations:
+    - Most cardiotoxic commonly used local anaesthetic; slow dissociation from myocardial Na+ channels
+    - Acidosis, hyperkalaemia, hypocalcaemia and hypoxia worsen toxicity
+    - Fractional injection with repeated aspiration reduces intravascular injection risk
+    - Continuous intra-articular infusion may cause chondrolysis
+    - Lipid emulsion for severe local-anaesthetic systemic toxicity
+references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 8 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Aspen Pharmacare Australia Pty Ltd. MARCAIN AND MARCAIN WITH ADRENALINE Australian Product Information. Revised 25 May 2023.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.
+    - Smith S, Scarth E, Sasada M. Drugs in Anaesthesia and Intensive Care. 4th Ed. Oxford University Press. 2011.

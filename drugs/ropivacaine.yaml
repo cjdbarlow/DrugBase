@@ -1,0 +1,68 @@
+---
+aliases:
+    - Naropin
+class: Amide local anaesthetic
+chemistry: Pure S(-)-enantiomer amino-amide
+dose:
+    Block: Up to 3mg/kg
+    Lumbar epidural analgesia: 20-40mg bolus; 12-28mg/hour infusion
+pharmaceutics:
+    presentation: 0.2%, 0.75% and 1% injection; 0.5% registered but not marketed in selected PI
+    compatibility:
+    solubility: Hydrochloride water solubility ~50mg/mL
+pharmacokinetics:
+    absorption: Complete and biphasic from epidural space; absorption half-lives 14 minutes and 4 hours
+    distribution:
+        pKa: 8.1
+        vd: 47L
+        protein binding: 94%
+    metabolism:
+        half-life: 1.8 hours (IV; longer after epidural administration)
+        duration: Long-acting
+        pathway: Hepatic CYP1A2 aromatic hydroxylation; minor CYP3A4 N-dealkylation
+        metabolites:
+            - 3-hydroxyropivacaine (weak intrinsic activity; rapidly conjugated)
+            - 2,6-pipecoloxylidide (PPX; ~one-twelfth of ropivacaine activity)
+    elimination:
+        renal: 86% urine (~1% unchanged); 9% faeces after IV administration
+mechanism:
+    target:
+        - Open and inactivated voltage-gated Na+ channels
+    action: Use-dependent Na+ channel blockade → reversible interruption of impulse conduction
+contraindications:
+    - IV administration or Bier block
+    - Uncorrected hypotension for neuraxial anaesthesia
+    - Infection at injection site or septicaemia
+pregnancy:
+    code: B1
+    justification:
+pharmacodynamics:
+    resp:
+        - Toxicity causes respiratory depression and apnoea
+    cvs:
+        - Neuraxial sympathetic block → vasodilation and ↓ MAP
+        - Toxicity causes myocardial depression, conduction block and ventricular dysrhythmias
+    cns:
+        - Local and regional anaesthesia
+        - Toxicity may progress from circumoral paraesthesia and tinnitus to seizures, coma and apnoea
+    endo:
+    msk:
+        - Less motor block than bupivacaine
+    met:
+    ren:
+    gu:
+    git:
+    haeme:
+considerations:
+    - Less cardiotoxic than bupivacaine; faster dissociation from myocardial Na+ channels
+    - Fractional injection with repeated aspiration reduces intravascular injection risk
+    - Continuous intra-articular infusion may cause chondrolysis
+    - CYP1A2 inhibitors may reduce clearance
+    - Lipid emulsion for severe local-anaesthetic systemic toxicity
+references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 8 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Aspen Pharmacare Australia Pty Ltd. NAROPIN Australian Product Information. Revised 26 February 2024.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.
+    - Smith S, Scarth E, Sasada M. Drugs in Anaesthesia and Intensive Care. 4th Ed. Oxford University Press. 2011.
