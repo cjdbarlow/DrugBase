@@ -1,0 +1,73 @@
+---
+aliases:
+    - Fluothane
+class: Volatile general anaesthetic
+chemistry: Halogenated alkane
+dose:
+    Maintenance: 0.5-1.5%; MAC ~0.75%
+pharmaceutics:
+    presentation: 100% volatile liquid stabilised with 0.01% thymol
+    compatibility: Requires an agent-specific vaporiser; protect from light
+    solubility: Blood:gas 2.4-2.5; oil:gas 224
+pharmacokinetics:
+    absorption: Pulmonary; high blood solubility → slow wash-in and wash-out
+    distribution:
+        pKa:
+        vd:
+        protein binding:
+    metabolism:
+        half-life:
+        duration: Slow offset
+        pathway: ~20-25% hepatic oxidative and reductive metabolism
+        metabolites:
+            - Trifluoroacetic acid and trifluoroacetylated protein adducts
+            - Bromide and chloride ions
+    elimination:
+        renal: Predominantly exhaled unchanged; metabolites renal
+mechanism:
+    target:
+        - GABAA and glycine receptors
+        - NMDA and nicotinic acetylcholine receptors
+    action: Enhances inhibitory and suppresses excitatory ion-channel transmission
+contraindications:
+    - Known or suspected malignant-hyperthermia susceptibility
+    - Previous unexplained jaundice or fever after halothane
+    - Porphyria
+    - Raised ICP
+pregnancy:
+    code: A
+    justification: May cause neonatal CNS and respiratory depression
+pharmacodynamics:
+    resp:
+        - Bronchodilation
+        - ↓ VT and MV; ↑ RR
+    cvs:
+        - Greatest ↓ inotropy, HR and MAP among volatile agents
+        - Sensitises myocardium to catecholamines → ventricular dysrhythmias
+    cns:
+        - Hypnosis without analgesia
+        - Greatest ↑ CBF above 1.1 MAC; may ↑ ICP
+    endo:
+    msk:
+        - Muscle relaxation and potentiation of non-depolarising NMBs
+    met:
+        - May trigger malignant hyperthermia
+    ren:
+        - ↓ RBF, GFR and urine output secondary to haemodynamic effects
+    gu:
+        - Potent uterine relaxation
+    git:
+        - Halothane hepatitis and fulminant hepatic necrosis
+    haeme:
+considerations:
+    - Previous exposure increases immune-mediated hepatitis risk
+    - Adrenaline and noradrenaline may cause ventricular tachycardia or fibrillation
+    - Thymol accumulates in vaporisers → drain and clean regularly
+references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 8 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - World Health Organization. WHO Model Formulary for Children 2010. Halothane monograph.
+    - "Hospira Inc. HALOTHANE United States Package Insert. EN-0953. Revised June 2005. Reprint: https://www.drugs.com/pro/halothane.html"
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.
+    - Petkov V. Essential Pharmacology for the ANZCA Primary Examination. 2012.
