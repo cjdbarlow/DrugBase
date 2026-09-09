@@ -1,0 +1,61 @@
+---
+aliases:
+    - Sandostatin
+class: Somatostatin analogue
+chemistry: Synthetic octapeptide
+dose:
+    Variceal bleed: 50microg SC, then 25microg/h IV
+    Chylothorax: 100microg SC Q8H
+pharmaceutics:
+    presentation: 50microg/mL, 100microg/mL or 500microg/mL solution for injection
+    compatibility: Dilute 500microg in 50mL 0.9% NaCl for infusion; protect from light
+    solubility: Water soluble peptide
+pharmacokinetics:
+    absorption: Rapid and complete SC absorption; peak 0.4h after 100microg; bioavailability 80-135% relative to IV
+    distribution:
+        pKa:
+        vd: 0.27L/kg (IV)
+        protein binding: ~65%
+    metabolism:
+        half-life: 1.5h
+        duration: Up to 12h (tumour-dependent)
+        pathway:
+        metabolites:
+    elimination:
+        renal: ~32% unchanged; clearance ~halved in dialysis-dependent renal failure
+mechanism:
+    target:
+        - Somatostatin receptors
+    action: Receptor agonism → ↓ GH, glucagon, insulin and gastro-entero-pancreatic peptide release; ↓ splanchnic flow
+contraindications:
+pregnancy:
+    code: C
+    justification: May retard foetal growth, probably via GH suppression
+pharmacodynamics:
+    resp:
+    cvs:
+        - ↓ Splanchnic blood flow; bradycardia
+        - AV block reported with IV bolus/high-dose infusion
+    cns:
+    endo:
+        - ↓ GH, TSH, insulin and glucagon
+        - Hypo- or hyperglycaemia; hypothyroidism
+    msk:
+    met:
+        - Fat malabsorption; ↓ vitamin B12 levels
+    ren:
+    gu:
+    git:
+        - ↓ GI hormone secretion and secretory diarrhoea
+        - Biliary sludge, gallstones, nausea and diarrhoea
+    haeme:
+considerations:
+    - Monitor glucose during variceal bleeding
+    - "Prolonged therapy: monitor thyroid/gallbladder; B12 if prior deficiency"
+    - ↓ Ciclosporin absorption
+references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 8 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Novartis Pharmaceuticals Australia Pty Limited. SANDOSTATIN Australian Product Information. Document sas110624i. Revised 11 June 2024.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Young P, Psirides A. Wellington ICU Drug Manual. 2nd Ed. Wellington Regional Hospital. 2013.
