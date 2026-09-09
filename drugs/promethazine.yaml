@@ -1,0 +1,64 @@
+---
+aliases:
+    - Phenergan
+class: Sedating H1 antagonist and antiemetic
+chemistry: Phenothiazine derivative
+dose:
+    Nausea: 12.5-25mg IM/IV Q4H PRN (adults; established, non-motion-sickness nausea)
+    Sedation: 25-50mg IM/IV (adults)
+pharmaceutics:
+    presentation: 25mg/mL solution for injection
+    compatibility: Dilute IV dose 1 in 10 with water for injections; deep IM preferred
+    solubility:
+pharmacokinetics:
+    absorption: Well absorbed parenterally; antihistamine onset 3-5min IV or ~20min IM
+    distribution:
+        pKa:
+        vd: Wide tissue distribution; crosses BBB and placenta
+        protein binding:
+    metabolism:
+        half-life: 7-14h
+        duration: Antihistamine ≥12h; sedation 2-8h
+        pathway: Hepatic metabolism
+        metabolites:
+            - Inactive promethazine sulfoxide
+            - Glucuronides
+    elimination:
+        renal: Slow urinary and faecal excretion of metabolites
+mechanism:
+    target:
+        - Histamine H1 receptors
+        - Central muscarinic receptors
+    action: Reversible H1 antagonism; antimuscarinic activity; antihistamine, sedative and antiemetic effects
+contraindications:
+    - Age <2 years
+    - Coma; administration after large doses of other CNS depressants
+pregnancy:
+    code: C
+    justification: High late-pregnancy doses may cause prolonged neonatal neurological disturbance
+pharmacodynamics:
+    resp:
+        - Respiratory depression
+    cvs:
+        - ↓ MAP; tachycardia and dysrhythmias
+    cns:
+        - Sedation; confusion, extrapyramidal effects and seizures
+    endo:
+    msk:
+    met:
+    ren:
+    gu:
+        - Urinary retention
+    git:
+        - Antiemesis; dry mouth and constipation
+    haeme:
+considerations:
+    - All parenteral routes risk tissue injury, especially IV/extravasation; never intra-arterial or SC
+    - IV only if benefit outweighs tissue-injury risk
+    - IV rate ≤25mg/min
+    - Additive CNS depression with opioids, anaesthetics and alcohol
+references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 8 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Pfizer Australia Pty Ltd. DBL PROMETHAZINE HYDROCHLORIDE INJECTION BP Australian Product Information. Version pfpprozi10226. Revised 5 February 2026.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
