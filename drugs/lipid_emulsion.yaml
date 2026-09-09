@@ -1,0 +1,66 @@
+---
+aliases:
+    - Intralipid
+    - Intravenous lipid emulsion
+    - ILE
+class: Lipophilic-drug antidote
+chemistry: Soya-oil triglyceride emulsion with egg phospholipid
+dose:
+    LAST: 1.5mL/kg IV bolus of 20% emulsion over 1min, then 15mL/kg/h
+pharmaceutics:
+    presentation: 20% soya-oil emulsion for IV infusion
+    compatibility: Do not add drugs unless compatibility is documented
+    solubility: Stable oil-in-water emulsion; particle size <1micrometre
+pharmacokinetics:
+    absorption: Complete IV bioavailability
+    distribution:
+        pKa:
+        vd:
+        protein binding:
+    metabolism:
+        half-life: Not established
+        duration:
+        pathway: Initially chylomicron-like clearance; lipoprotein-lipase hydrolysis to fatty acids and glycerol
+        metabolites: Fatty acids and glycerol
+    elimination:
+        renal:
+mechanism:
+    target:
+        - Lipophilic drug in plasma and tissues
+        - Myocardial fatty-acid metabolism
+    action: Proposed lipid sink extracts lipophilic drug from aqueous compartments; fatty acids may restore myocardial energy supply
+contraindications:
+    - Severe liver damage or other impaired fat metabolism
+pregnancy:
+    code:
+    justification:
+pharmacodynamics:
+    resp:
+        - Dyspnoea and tachypnoea
+    cvs:
+        - Reversal of local-anaesthetic cardiovascular toxicity
+        - ↑ or ↓ MAP
+    cns:
+        - Headache and dizziness; focal seizures in fat-overload syndrome
+    endo:
+    msk:
+    met:
+        - Hypertriglyceridaemia and fat-overload syndrome
+    ren:
+    gu:
+    git:
+        - Nausea, vomiting and pancreatitis
+    haeme:
+        - Haemolysis and thrombocytopenia
+considerations:
+    - Foetal risk unknown
+    - Antidote use and dose are off-label
+    - ↓ Fat utilisation in renal failure and hypertriglyceridaemia
+    - May interfere with bilirubin, LDH, oxygen saturation, Hb, amylase and lipase assays
+    - Propofol is not a substitute for lipid rescue
+references:
+    - Fresenius Kabi Australia Pty Limited. INTRALIPID Australian Product Information. Revised 23 May 2022.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.
+    - Christie LE, Picard J, Weinberg GL. Local anaesthetic systemic toxicity. Continuing Education in Anaesthesia Critical Care & Pain. 2015;15(3):136-142.
