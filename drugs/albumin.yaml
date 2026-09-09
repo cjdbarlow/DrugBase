@@ -1,0 +1,60 @@
+---
+aliases:
+    - Albumex
+class: Natural colloid; plasma volume expander
+chemistry: Human plasma protein
+dose:
+    Hypovolaemic shock: Usually ≥1L 4% albumin IV (average adult)
+    Plasma exchange: Match infusion rate to plasma removal
+pharmaceutics:
+    presentation: 4% solution; Na+ 140mmol/L, Cl− 128mmol/L; pH 6.7-7.3
+    compatibility: Do not add other medicines; use immediately after opening
+    solubility: Water soluble
+pharmacokinetics:
+    absorption: IV only
+    distribution:
+        pKa: 6.75
+        vd: 0.07L/kg
+        protein binding:
+    metabolism:
+        half-life: ~27 days
+        duration: Volume effect ~6-12h; shorter with capillary leak
+        pathway: Reticuloendothelial degradation
+        metabolites:
+    elimination:
+        renal: Minimal; ~10% gastrointestinal loss
+mechanism:
+    target:
+        - Plasma colloid oncotic pressure
+        - Circulating ligands and xenobiotics
+    action: Intravascular oncotic retention of water and molecular binding → plasma expansion and transport
+contraindications:
+    - Cardiac failure
+    - Pulmonary oedema
+    - Severe anaemia
+pregnancy:
+    code:
+    justification:
+pharmacodynamics:
+    resp:
+        - Volume overload → pulmonary oedema
+    cvs:
+        - ↑ Circulating volume and preload
+        - May ↓ MAP
+    cns:
+        - 4% albumin associated with ↑ mortality after severe traumatic brain injury
+    endo:
+    msk:
+    met:
+        - Minimal effect on osmolality and electrolytes
+    ren:
+    gu:
+    git:
+    haeme:
+considerations:
+    - Monitor for circulatory overload; critically ill patients may have unpredictable capillary leak
+    - Human plasma product; record product name and batch number
+    - ACE inhibitors ↑ risk of ↓ MAP
+references:
+    - CSL Behring (Australia) Pty Ltd. ALBUMEX 4 Australian Product Information. Version 10.00. Revised 2 April 2020.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
