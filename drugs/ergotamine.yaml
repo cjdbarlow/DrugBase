@@ -1,0 +1,64 @@
+---
+aliases:
+    - Ergomar
+class: Ergot alkaloid
+chemistry: Amide derivative of d-lysergic acid
+dose:
+    Migraine: 2mg SL; repeat Q30MIN; maximum 6mg/24h and 10mg/week
+pharmaceutics:
+    presentation: 2mg sublingual tablet
+    compatibility:
+    solubility:
+pharmacokinetics:
+    absorption: Low oral bioavailability due to extensive first-pass metabolism
+    distribution:
+        pKa:
+        vd:
+        protein binding:
+    metabolism:
+        half-life: ~2h
+        duration: Vasoconstriction ≥24h
+        pathway: Hepatic CYP3A metabolism
+        metabolites:
+    elimination:
+        renal: ~90% of metabolites excreted in bile
+mechanism:
+    target:
+        - 5-HT₁B/1D receptors
+        - Adrenergic and serotonergic receptors
+    action: Partial agonism and antagonism at monoamine receptors → cranial and peripheral vasoconstriction; direct uterine smooth-muscle contraction
+contraindications:
+    - Pregnancy
+    - Peripheral or coronary vascular disease, hypertension or sepsis
+    - Hepatic or renal impairment
+    - Potent CYP3A inhibitors
+pregnancy:
+    code: C
+    justification: Uterine contraction may cause premature or hypertonic labour; larger or frequent doses may impede foetal blood supply
+pharmacodynamics:
+    resp:
+    cvs:
+        - Vasospasm, ischaemia, gangrene and ↑ MAP
+        - Transient tachycardia or bradycardia
+    cns:
+        - Paresthesia, numbness, weakness and vertigo
+    endo:
+        - Ergot-class ↓ prolactin
+    msk:
+        - Leg weakness and muscle pain
+    met:
+    ren:
+    gu:
+        - ↑ Uterine tone and contraction
+    git:
+        - Nausea and vomiting
+    haeme:
+considerations:
+    - Potent CYP3A inhibitors may cause fatal ergotism
+    - Avoid concurrent vasoconstrictors; separate triptans by ≥24h
+    - Pleuropulmonary, retroperitoneal or valvular fibrosis reported with chronic ergotamine/caffeine
+    - Ergonovine and methylergonovine are preferred obstetric ergots
+references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 8 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Pangea Pharmaceuticals LLC. ERGOMAR SUBLINGUAL United States Prescribing Information. Revised February 2025.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
