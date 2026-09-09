@@ -1,0 +1,61 @@
+---
+aliases:
+    - Bricanyl
+class: Short-acting β2-adrenoceptor agonist; tocolytic
+chemistry: Non-catechol phenylethanolamine; sulfate salt
+dose:
+    Bronchospasm: 250microg SC; repeat q6h if required
+pharmaceutics:
+    presentation: 500microg/mL solution for SC injection
+    compatibility:
+    solubility:
+pharmacokinetics:
+    absorption: SC peak effect ~30min
+    distribution:
+        pKa: 10.1
+        vd:
+        protein binding: ~20%
+    metabolism:
+        half-life: ~14h
+        duration: 4-5h
+        pathway: GI conjugation after swallowed or oral drug
+        metabolites:
+    elimination:
+        renal: Mainly urinary; predominantly unchanged after inhalation; total elimination nearly complete by 72h
+mechanism:
+    target:
+        - β2-adrenoceptors
+    action: Gs → ↑ cAMP → PKA activation → MLCK inhibition and smooth-muscle relaxation
+contraindications:
+pregnancy:
+    code: A
+    justification:
+pharmacodynamics:
+    resp:
+        - Bronchodilation and ↑ mucociliary clearance
+    cvs:
+        - ↑ HR, palpitations, dysrhythmias and myocardial ischaemia
+        - ↓ MAP and pulmonary oedema during tocolysis
+    cns:
+        - Tremor, headache, nervousness and agitation
+    endo:
+        - ↑ Glucose and insulin (large systemic doses); transient hypoglycaemia in preterm neonates after maternal β2-agonists
+    msk:
+        - Tremor and cramps
+    met:
+        - Hypokalaemia and lactic acidosis
+    ren:
+    gu:
+        - Myometrial relaxation
+    git:
+        - Nausea and vomiting
+    haeme:
+considerations:
+    - Tocolysis is off-label and delays birth mainly during the first 48h
+    - Avoid halothane (dysrhythmias); caution with other halogenated anaesthetics
+    - β-blockers antagonise bronchodilation and may cause bronchospasm
+references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 8 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - AstraZeneca Pty Ltd. BRICANYL INJECTION Australian Product Information. Version 3. Revised 28 August 2020.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
