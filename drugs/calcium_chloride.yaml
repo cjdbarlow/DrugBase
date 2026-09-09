@@ -1,0 +1,72 @@
+---
+aliases:
+class: Concentrated calcium salt
+chemistry: Calcium chloride dihydrate
+dose:
+    Hyperkalaemia: 1g IV for ECG changes; repeat under ECG monitoring
+    Hypocalcaemia: Initially 3.5-7mmol calcium IV (adults)
+pharmaceutics:
+    presentation: 10% solution; 1g/10mL = 6.8mmol calcium
+    compatibility: Compatible with 5% glucose and 0.9% NaCl; incompatible with phosphate, bicarbonate and ceftriaxone
+    solubility: Water soluble
+pharmacokinetics:
+    absorption:
+    distribution:
+        pKa:
+        vd: "Total body calcium: 99% bone/teeth; 1% other tissues/fluids"
+        protein binding: Plasma calcium 45% protein-bound, 50% ionised and 5% complexed
+    metabolism:
+        half-life:
+        duration:
+        pathway: "Homeostasis: PTH, calcitonin and vitamin D"
+        metabolites:
+    elimination:
+        renal: "Physiological excretion: ~20% urine, ~80% faeces (includes unabsorbed dietary calcium)"
+mechanism:
+    target:
+        - Cell-membrane function
+        - Excitation-contraction coupling
+    action: ↑ Extracellular calcium → stabilises excitable membranes and supports muscle contraction
+contraindications:
+    - Hypercalcaemia or hypercalciuria
+    - Renal calculi
+    - Sarcoidosis
+    - Ventricular fibrillation
+    - Digitalis toxicity
+pregnancy:
+    code:
+    justification:
+pharmacodynamics:
+    resp:
+    cvs:
+        - Membrane stabilisation in hyperkalaemia
+        - ↑ Contractility; bradycardia or dysrhythmias if given rapidly
+    cns:
+        - Supports neurotransmission
+    endo:
+        - Regulates hormone release
+    msk:
+        - Supports skeletal and smooth-muscle contraction
+    met:
+        - Hypercalcaemia and tissue calcification
+    ren:
+        - Hypercalciuria and renal calculi
+    gu:
+    git:
+        - Nausea, constipation and pancreatitis in hypercalcaemia
+    haeme:
+        - Supports coagulation
+considerations:
+    - Give centrally where possible; extravasation causes severe necrosis
+    - Renal impairment → usual dose; monitor calcium
+    - Ongoing digoxin → avoid where possible; only for clear indications, slow/small IV doses with ECG monitoring
+    - Maximum rate 0.35-0.7mmol calcium/min
+    - ~3 times the calcium per 10mL of 10% calcium gluconate
+references:
+    - Phebra Pty Ltd. CALCIUM CHLORIDE 10% Australian Product Information. Version 13. Revised 10 November 2023.
+    - Phebra Pty Ltd. CALCIUM GLUCONATE Australian Product Information. Version 2.0. Revised 5 December 2023.
+    - Fresenius Kabi Australia Pty Limited. COMPOUND SODIUM LACTATE (HARTMANN'S SOLUTION) Australian Product Information. Revised 12 October 2023.
+    - Phebra Pty Ltd. Sodium Bicarbonate 8.4% Injection Australian Product Information. Version 04.1. Revised 19 February 2021.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Young P, Psirides A. Wellington ICU Drug Manual. 2nd Ed. Wellington Regional Hospital. 2013.

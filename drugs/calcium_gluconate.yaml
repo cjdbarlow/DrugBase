@@ -1,0 +1,69 @@
+---
+aliases:
+class: Calcium salt
+chemistry: Calcium gluconate monohydrate
+dose:
+    Hyperkalaemia: 10mL IV (2.2mmol calcium) for ECG changes; repeat under ECG monitoring
+    Hypocalcaemia: Initially 7-14mEq calcium IV (adults)
+    Hypermagnesaemia: Initially 7mEq calcium IV (adults)
+pharmaceutics:
+    presentation: 10mL contains 931mg calcium gluconate + 46mg calcium saccharate; 2.2mmol calcium
+    compatibility: Dilute with 0.9% NaCl, 5% glucose or Hartmann's; avoid phosphate-containing fluids
+    solubility: Supersaturated solution; discard if precipitated
+pharmacokinetics:
+    absorption:
+    distribution:
+        pKa:
+        vd: "Total body calcium: 99% bone; 1% intracellular/extracellular fluid"
+        protein binding: Plasma calcium 45% protein-bound, 50% ionised and 5% complexed
+    metabolism:
+        half-life:
+        duration:
+        pathway: "Homeostasis: PTH, calcitonin and vitamin D"
+        metabolites:
+    elimination:
+        renal: "Physiological excretion: mainly faecal (includes unabsorbed dietary calcium); small urinary fraction"
+mechanism:
+    target:
+        - Cell-membrane function
+        - Excitation-contraction coupling
+    action: ↑ Extracellular calcium → stabilises excitable membranes and supports muscle contraction
+contraindications:
+    - Hypercalcaemia or hypercalciuria
+    - Calcium loss due to immobilisation
+    - Severe cardiac disease
+    - Digitalis toxicity
+pregnancy:
+    code:
+    justification:
+pharmacodynamics:
+    resp:
+    cvs:
+        - Membrane stabilisation in hyperkalaemia
+        - ↑ Contractility; bradycardia or dysrhythmias if given rapidly
+    cns:
+        - Supports neurotransmission
+    endo:
+        - Regulates hormone release
+    msk:
+        - Supports skeletal and smooth-muscle contraction
+    met:
+        - Hypercalcaemia and tissue calcification
+    ren:
+        - Hypercalciuria and renal calculi
+    gu:
+    git:
+        - Nausea, constipation and pancreatitis in hypercalcaemia
+    haeme:
+        - Supports coagulation
+considerations:
+    - No IM/SC; extravasation may cause severe necrosis
+    - Renal impairment → usual dose; monitor calcium
+    - Ongoing digoxin → avoid where possible; only for clear indications, slow/small IV doses with ECG monitoring
+    - Maximum rate 2mL/min
+    - ~one-third the calcium per 10mL of 10% calcium chloride
+references:
+    - Phebra Pty Ltd. CALCIUM GLUCONATE Australian Product Information. Version 2.0. Revised 5 December 2023.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Young P, Psirides A. Wellington ICU Drug Manual. 2nd Ed. Wellington Regional Hospital. 2013.
