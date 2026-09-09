@@ -1,0 +1,70 @@
+---
+aliases:
+    - Penthrox
+class: Inhaled analgesic; volatile anaesthetic
+chemistry: Halogenated methyl ethyl ether
+dose:
+    Analgesia: 3mL inhaled; may repeat once; max 6mL/day and 15mL/week
+pharmaceutics:
+    presentation: 99.9% volatile liquid in 3mL bottles with 0.01% w/w butylated hydroxytoluene
+    compatibility: Administer via PENTHROX inhaler; soluble in rubber and extracts PVC
+    solubility: Blood:gas 10.2-14.1; oil:gas 825 (37°C)
+pharmacokinetics:
+    absorption: Pulmonary
+    distribution:
+        pKa:
+        vd: Accumulates in adipose tissue and is released over days
+        protein binding:
+    metabolism:
+        half-life:
+        duration:
+        pathway: 50-70% of absorbed dose metabolised hepatically
+        metabolites:
+            - Fluoride
+            - Oxalic acid
+            - Difluoromethoxyacetic acid
+            - Dichloroacetic acid
+    elimination:
+        renal: ~20% of uptake exhaled; ~30% of uptake in urine as organic fluorine, fluoride and oxalate
+mechanism:
+    target:
+        - GABAA and glycine receptors (putative)
+        - NMDA and nicotinic acetylcholine receptors (putative)
+    action: Proposed class mechanism — enhances inhibitory and suppresses excitatory ion-channel transmission
+contraindications:
+    - Hypersensitivity to other fluorinated anaesthetics
+    - Renal impairment or failure
+    - Cardiovascular instability
+    - Respiratory depression
+    - Head injury or loss of consciousness
+    - Known or suspected malignant-hyperthermia susceptibility
+    - Use as an anaesthetic
+pregnancy:
+    code: C
+    justification: May cause neonatal CNS and respiratory depression
+pharmacodynamics:
+    resp:
+        - Respiratory depression and hypoxia
+    cvs:
+        - Anaesthetic doses → ↓ MAP, contractility and CO; may ↓ HR
+    cns:
+        - Analgesia, drowsiness and dizziness
+    endo:
+    msk:
+    met:
+    ren:
+        - Dose-related fluoride/dichloroacetic acid nephrotoxicity; renal failure may be irreversible
+    gu:
+    git:
+        - Rare hepatic dysfunction and necrosis
+    haeme:
+considerations:
+    - Consecutive-day use is not recommended
+    - Enzyme inducers may ↑ metabolism and nephrotoxicity
+    - Avoid after previous hepatic injury from methoxyflurane or halothane
+references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 8 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Medical Developments International Ltd. PENTHROX Australian Product Information. Revised 6 October 2023.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.

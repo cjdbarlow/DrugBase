@@ -1,0 +1,64 @@
+---
+aliases:
+    - LENOXe
+class: Inhaled general anaesthetic gas
+chemistry: Inert gas
+dose:
+    Maintenance (adults, ASA I-II): 51-69% with ≥30% O2 and opioids; MAC ~71%
+pharmaceutics:
+    presentation: 100% liquefied medicinal gas
+    compatibility: Requires a xenon-calibrated anaesthetic system
+    solubility: Blood:gas 0.14; oil:gas 1.9
+pharmacokinetics:
+    absorption: Pulmonary; very low blood solubility → rapid wash-in and wash-out
+    distribution:
+        pKa:
+        vd:
+        protein binding:
+    metabolism:
+        half-life:
+        duration: Rapid offset
+        pathway: Not metabolised
+        metabolites:
+    elimination:
+        renal: Exhaled unchanged
+mechanism:
+    target:
+        - NMDA receptors
+        - TREK two-pore K+ channels
+    action: Non-competitive NMDA antagonism and TREK activation → analgesia and anaesthesia
+contraindications:
+pregnancy:
+    code:
+    justification:
+pharmacodynamics:
+    resp:
+        - ↓ RR and ↑ VT; MV preserved
+        - Dense, viscous gas → ↑ airway resistance
+        - Less diffusion hypoxia than N2O
+    cvs:
+        - MAP and contractility preserved; may ↓ HR
+    cns:
+        - Analgesia and anaesthesia
+        - ↓ cerebral metabolism and CBF
+        - ↑ PONV
+    endo:
+    msk:
+        - Muscle relaxation at >60%
+        - Does not trigger malignant hyperthermia
+    met:
+    ren:
+        - No reported nephrotoxicity
+    gu:
+    git:
+        - No reported hepatotoxicity
+    haeme:
+considerations:
+    - Historical LENOXe regimen (HAS 2008); maintenance only, not induction
+    - Cannot provide 1 MAC when >30-35% O2 is required
+    - Rare and expensive; low-flow circuits permit recycling
+references:
+    - Haute Autorité de Santé. LENOXe 100% (v/v) Transparency Committee Opinion. 1 October 2008.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.
+    - Petkov V. Essential Pharmacology for the ANZCA Primary Examination. 2012.

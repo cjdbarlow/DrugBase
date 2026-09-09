@@ -1,0 +1,74 @@
+---
+aliases:
+    - Laughing gas
+class: Inhaled analgesic and weak general anaesthetic
+chemistry: Inorganic oxide gas
+dose:
+    Analgesia: 25-50% with O2
+    Anaesthesia (adjunct): Up to 79% with ≥21% O2
+pharmaceutics:
+    presentation: 100% compressed medical gas stored as a liquefied gas
+    compatibility: Supports combustion; use gas-specific regulators and scavenging
+    solubility: Blood:gas 0.46-0.47; oil:gas 1.4
+pharmacokinetics:
+    absorption: Rapid pulmonary uptake
+    distribution:
+        pKa:
+        vd: Rapidly enters and expands gas-filled spaces
+        protein binding:
+    metabolism:
+        half-life:
+        duration: Rapid onset and offset
+        pathway: Negligible metabolism
+        metabolites:
+    elimination:
+        renal: Exhaled unchanged
+mechanism:
+    target:
+        - NMDA receptors
+        - Dynorphin and κ-opioid signalling
+    action: NMDA antagonism with proposed opioid signalling → analgesia and anaesthesia
+contraindications:
+    - Trapped gas where expansion is hazardous
+    - Vitamin B12/folate deficiency or genetic disorders of this pathway
+    - Severe cardiac dysfunction or pronounced cardiac failure
+    - Signs suggesting raised ICP
+    - Reduced consciousness or cooperation when used for analgesia
+pregnancy:
+    code: A
+    justification: May cause neonatal CNS and respiratory depression
+pharmacodynamics:
+    resp:
+        - Small ↓ VT and ↑ RR; MV unchanged
+        - Diffusion hypoxia
+    cvs:
+        - ↑ SNS tone offsets mild myocardial depression
+        - ↑ PVR
+    cns:
+        - Analgesia at >20%; weak anaesthesia with MAC ~105%
+        - ↑ CBF and ICP
+        - ↑ PONV
+    endo:
+    msk:
+        - Does not trigger malignant hyperthermia
+    met:
+        - Inactivates vitamin B12 → ↑ homocysteine and impaired DNA synthesis
+    ren:
+    gu:
+        - Minimal uterine relaxation
+    git:
+        - Expands bowel gas
+    haeme:
+        - Prolonged or repeated exposure → megaloblastic change and leucopenia
+considerations:
+    - Avoid methotrexate; additive folate toxicity
+    - Prolonged or repeated exposure may cause myeloneuropathy
+    - Give supplemental O2 after anaesthesia
+    - Entonox is 50% N2O/50% O2
+references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 8 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Coregas Pty Ltd. COREGAS MEDICAL NITROUS OXIDE GAS Australian Product Information. Version 6.00. Revised 12 October 2023.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.
+    - Petkov V. Essential Pharmacology for the ANZCA Primary Examination. 2012.

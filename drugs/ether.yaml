@@ -1,0 +1,52 @@
+---
+aliases:
+    - Diethyl ether
+    - Anaesthetic ether
+class: Volatile general anaesthetic
+chemistry: Simple aliphatic ether
+dose:
+pharmaceutics:
+    presentation: Clear, colourless volatile liquid; may contain an antioxidant
+    compatibility: Store tightly closed, dry and protected from light at ≤15°C
+    solubility: Miscible with 10 parts water and ethanol (~750g/L)
+pharmacokinetics:
+    absorption: Pulmonary
+    distribution:
+        pKa:
+        vd:
+        protein binding:
+    metabolism:
+        half-life:
+        duration:
+        pathway:
+        metabolites:
+    elimination:
+        renal:
+mechanism:
+    target:
+    action: Reversible CNS depression producing general anaesthesia
+contraindications:
+pregnancy:
+    code:
+    justification:
+pharmacodynamics:
+    resp:
+        - Limited respiratory compromise relative to early alternatives
+    cvs:
+        - Limited circulatory compromise relative to early alternatives
+    cns:
+        - General anaesthesia
+    endo:
+    msk:
+    met:
+    ren:
+    gu:
+    git:
+    haeme:
+considerations:
+    - Highly flammable; vapour mixtures with air, O2 or N2O may explode
+    - Do not use >24h after removal from the original container
+    - May deteriorate in partly used containers; peroxide contamination is hazardous
+references:
+    - World Health Organization. The International Pharmacopoeia. 6th Ed. Anaesthetic Ether monograph. 2016.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
