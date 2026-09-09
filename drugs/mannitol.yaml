@@ -1,0 +1,70 @@
+---
+aliases:
+    - Osmitrol
+class: Osmotic diuretic; osmotherapy agent
+chemistry: Six-carbon sugar alcohol
+dose:
+    Raised ICP: 0.25-1g/kg IV
+    Renal test: 0.2g/kg IV over 3-5min
+pharmaceutics:
+    presentation: 10% and 20% solutions for IV infusion
+    compatibility: Do not co-infuse with blood; KCl/NaCl may precipitate; some antibiotics incompatible
+    solubility: Water soluble; may crystallise at low temperature
+pharmacokinetics:
+    absorption: IV only
+    distribution:
+        pKa: 12.59
+        vd: 0.2L/kg
+        protein binding:
+    metabolism:
+        half-life:
+        duration:
+        pathway: Small amount metabolised
+        metabolites:
+    elimination:
+        renal: Predominantly unchanged by glomerular filtration; <10% tubular reabsorption
+mechanism:
+    target:
+    action: ↑ Extracellular and tubular osmolality → intracellular water shift, medullary washout and osmotic diuresis
+contraindications:
+    - Pre-existing plasma hyperosmolality
+    - Severe heart failure or pulmonary oedema
+    - Anuria due to severe renal disease or no response to test dose
+    - Active intracranial bleeding except during craniotomy
+    - Severe dehydration
+    - Disrupted blood-brain barrier
+pregnancy:
+    code: B2
+    justification:
+pharmacodynamics:
+    resp:
+        - Initial volume expansion may cause pulmonary oedema
+    cvs:
+        - Initial ↑ circulating volume; later hypovolaemia from diuresis
+    cns:
+        - ↓ ICP and brain volume
+        - Headache, confusion, seizures and rebound ↑ ICP
+    endo:
+    msk:
+        - Cramps
+    met:
+        - Hypo- or hypernatraemia, hypo- or hyperkalaemia and acid-base disturbance
+        - ↑ Serum osmolality
+    ren:
+        - ↑ RBF and osmotic diuresis
+        - Osmotic nephrosis and AKI
+    gu:
+    git:
+        - Nausea, vomiting and thirst
+    haeme:
+considerations:
+    - Monitor osmolality, electrolytes, renal function and urine output
+    - Give renal test dose in marked oliguria; stop if urine output remains inadequate
+    - Inspect 20% solution for crystals; warm to redissolve, cool and reinspect; use a sterile filter-type set
+    - Selected PI does not recommend use in acute TBI or acute stroke
+references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 8 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Baxter Healthcare Pty Ltd. OSMITROL INTRAVENOUS INFUSION Australian Product Information. Version 1.1. Revised 11 January 2021.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.

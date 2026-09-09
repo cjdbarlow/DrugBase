@@ -1,0 +1,68 @@
+---
+aliases:
+    - Diamox
+class: Carbonic anhydrase inhibitor; diuretic
+chemistry: Sulfonamide derivative
+dose:
+    Oedema: 5mg/kg PO daily for 1-2 days; alternate with a rest day
+pharmaceutics:
+    presentation: 250mg tablets
+    compatibility:
+    solubility: Slightly soluble in water
+pharmacokinetics:
+    absorption: 60-100% PO bioavailability
+    distribution:
+        pKa: 7.2
+        vd: 0.3L/kg
+        protein binding: 90%
+    metabolism:
+        half-life: 6-10h
+        duration: 8-12h
+        pathway: None
+        metabolites:
+    elimination:
+        renal: All unchanged
+mechanism:
+    target:
+        - Carbonic anhydrase
+    action: Non-competitive inhibition in the proximal tubule → ↓ HCO3− reabsorption and bicarbonate diuresis
+contraindications:
+    - Hyperchloraemic acidosis
+    - Hypokalaemia or hyponatraemia
+    - Adrenal insufficiency
+    - GFR <10mL/min
+    - Marked hepatic impairment or cirrhosis
+    - Severe glaucoma due to peripheral anterior synechiae or haemorrhagic glaucoma
+    - Long-term use in chronic noncongestive angle-closure glaucoma
+pregnancy:
+    code: B3
+    justification:
+pharmacodynamics:
+    resp:
+        - ↑ RR secondary to metabolic acidosis
+    cvs:
+        - ↓ MAP from diuresis
+    cns:
+        - ↓ IOP and ICP
+        - Paraesthesia, drowsiness and ataxia
+    endo:
+    msk:
+    met:
+        - Hyperchloraemic metabolic acidosis, hypokalaemia and hyponatraemia
+    ren:
+        - Urinary alkalinisation and diuresis
+        - Crystalluria and nephrolithiasis
+    gu:
+    git:
+        - Nausea, vomiting and diarrhoea
+    haeme:
+        - Blood dyscrasias
+considerations:
+    - Reduce dose by half or extend interval if GFR >10mL/min with renal impairment
+    - Salicylates may cause severe toxicity; acetazolamide alters weak-acid/base clearance
+references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 8 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Arrotex Pharmaceuticals Pty Ltd. DIAMOX Australian Product Information. Revised 28 November 2025.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.

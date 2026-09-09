@@ -1,0 +1,64 @@
+---
+aliases:
+    - Dithiazide
+class: Thiazide diuretic
+chemistry: Benzothiadiazine derivative
+dose:
+    Hypertension: 12.5-50mg PO daily; max 100mg/day
+    Oedema: 25-100mg PO once or twice daily; max 200mg/day
+pharmaceutics:
+    presentation: 25mg tablets
+    compatibility:
+    solubility: Practically insoluble in water
+pharmacokinetics:
+    absorption: 65-75% PO bioavailability
+    distribution:
+        pKa: 9.09
+        vd: 1.5-4.2L/kg
+        protein binding: 40-68%
+    metabolism:
+        half-life: 6-9h
+        duration: 6-12h
+        pathway: None
+        metabolites:
+    elimination:
+        renal: Virtually all unchanged
+mechanism:
+    target:
+        - NCC
+    action: NCC inhibition in the distal convoluted tubule → ↑ Na+ and Cl− excretion and ↑ Ca2+ reabsorption
+contraindications:
+    - Anuria
+pregnancy:
+    code: C
+    justification: May cause fetal electrolyte disturbance and neonatal thrombocytopenia
+pharmacodynamics:
+    resp:
+        - Acute pulmonary oedema (uncommon); ARDS (very rare)
+    cvs:
+        - ↓ MAP, plasma volume and SVR
+    cns:
+        - Dizziness and headache
+    endo:
+    msk:
+        - Cramps and weakness with electrolyte depletion
+    met:
+        - Hypokalaemic hypochloraemic alkalosis and hyponatraemia
+        - Hyperuricaemia, hyperglycaemia and hypercalcaemia
+    ren:
+        - RBF usually unchanged; GFR may ↓ without significant volume depletion; moderate diuresis
+    gu:
+    git:
+        - Nausea, vomiting and pancreatitis
+    haeme:
+        - Thrombocytopenia and other blood dyscrasias
+considerations:
+    - NSAIDs ↓ diuresis; thiazides ↑ lithium toxicity
+    - May cause acute angle-closure glaucoma; cumulative-dose association with non-melanoma skin cancer
+    - Avoid after hydrochlorothiazide-associated ARDS
+references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 8 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Phebra Pty Ltd. DITHIAZIDE Australian Product Information. Version 16. Revised 26 September 2022.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.

@@ -1,0 +1,60 @@
+---
+aliases:
+class: ENaC blocker; potassium-sparing diuretic
+chemistry: Pyrazinoylguanidine derivative
+dose:
+    Oedema or hypertension: 5mg PO daily with a kaliuretic diuretic; may ↑ to 10mg; 15mg then 20mg/day only if hypokalaemia persists at 10mg, with electrolyte monitoring
+pharmaceutics:
+    presentation: 5mg tablets
+    compatibility:
+    solubility: Sparingly soluble in water
+pharmacokinetics:
+    absorption: 50% PO bioavailability; reduced by food
+    distribution:
+        pKa: 8.67
+        vd: 5L/kg
+        protein binding: 23%
+    metabolism:
+        half-life: 6-9h
+        duration: ~24h
+        pathway: None
+        metabolites:
+    elimination:
+        renal: ~50% of a 20mg dose unchanged in urine and ~40% in faeces within 72h
+mechanism:
+    target:
+        - ENaC
+    action: ENaC inhibition in the distal nephron → ↓ Na+ reabsorption and ↓ K+ and H+ secretion
+contraindications:
+    - Hyperkalaemia
+    - Anuria, renal insufficiency or diabetic nephropathy
+    - Concurrent potassium-sparing diuretic
+pregnancy:
+    code: C
+    justification: May cause fetal electrolyte disturbance
+pharmacodynamics:
+    resp:
+    cvs:
+        - ↓ MAP and circulating volume
+    cns:
+        - Headache, dizziness and paraesthesia
+    endo:
+    msk:
+        - Weakness and cramps with electrolyte disturbance
+    met:
+        - Hyperkalaemia, hyponatraemia and metabolic acidosis
+    ren:
+        - Weak natriuresis with K+ retention
+    gu:
+    git:
+        - Nausea, diarrhoea and abdominal pain
+    haeme:
+considerations:
+    - Monitor K+ closely, especially with renal impairment, diabetes, ACE inhibitors or ARBs
+    - Avoid K+ supplements and potassium-containing salt substitutes
+references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 8 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Par Health USA, LLC. AMILORIDE HYDROCHLORIDE TABLETS, USP US Prescribing Information. Revised June 2026. DailyMed.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.
