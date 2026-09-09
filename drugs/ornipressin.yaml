@@ -1,0 +1,69 @@
+---
+aliases:
+    - POR-8
+    - Ornithine vasopressin
+class: Vasopressin analogue
+chemistry: Synthetic nonapeptide
+dose:
+    Surgical haemostasis (local): 5IU diluted in 30mL NS; max 5IU
+pharmaceutics:
+    presentation: Clear colourless 5IU/mL solution in 1mL ampoule
+    compatibility: Dilute in NS; local-anaesthetic compatibility unestablished
+    solubility:
+pharmacokinetics:
+    absorption: Systemic absorption possible after tissue infiltration
+    distribution:
+        pKa:
+        vd:
+        protein binding:
+    metabolism:
+        half-life:
+        duration:
+        pathway:
+        metabolites:
+    elimination:
+        renal:
+mechanism:
+    target:
+        - Vasopressin V1A receptor
+    action: V1A agonism → vascular smooth-muscle contraction → local haemostasis
+contraindications:
+    - Coronary artery disease
+    - Severe hypertension
+    - Advanced atherosclerosis
+    - Epilepsy
+    - Pregnancy
+    - Pregnancy-related infection
+pregnancy:
+    code: B3
+    justification:
+pharmacodynamics:
+    resp:
+    cvs:
+        - Local vasoconstriction
+        - ↑ MAP
+        - Dysrhythmias
+        - Angina
+        - Cardiac arrest
+    cns:
+        - Convulsions at high doses
+    endo:
+    msk:
+    met:
+        - ↑ Sweating
+    ren:
+    gu:
+    git:
+        - ↑ Motility
+    haeme:
+        - ↓ Surgical bleeding
+considerations:
+    - Regional tissue infiltration
+    - Use dilution on day of preparation
+    - Refrigerate and protect from light
+    - Australian registration cancelled 23 April 2024
+references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 8 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Ferring Pharmaceuticals Pty Ltd. POR-8 FERRING Australian Consumer Medicine Information. Prepared April 2012.
+    - National Center for Advancing Translational Sciences. Inxight Drugs — Ornipressin. Accessed 9 September 2026. https://drugs.ncats.io/drug/1KTH6N080W
+    - Therapeutic Goods Administration. POR-8 FERRING (ARTG 13369) cancellation. Effective 23 April 2024. https://www.tga.gov.au/resources/cancellations-by-sponsors/por-8-ferring-ornipressin-5-iuml-injection-ampoule-cancelled-under-section-301c-act
