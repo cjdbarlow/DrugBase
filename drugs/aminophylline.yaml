@@ -1,0 +1,74 @@
+---
+aliases:
+    - DBL Aminophylline
+class: Water-soluble methylxanthine bronchodilator
+chemistry: 2:1 theophylline-ethylenediamine complex
+dose:
+    Load: 6mg/kg IV over 20-30min (no current theophylline/aminophylline)
+    Infusion: 0.7mg/kg/h IV for 12h, then 0.5mg/kg/h (non-smoking adults)
+pharmaceutics:
+    presentation: 250mg/10mL solution for IV injection
+    compatibility: Alkaline; many drug incompatibilities; acidic-media precipitation except dilute IV infusion solutions
+    solubility: More water soluble than theophylline
+pharmacokinetics:
+    absorption: Rapidly dissociates to theophylline in biological fluids
+    distribution:
+        pKa:
+        vd: "Theophylline: 0.3-0.7L/kg (mean 0.45L/kg)"
+        protein binding: "Theophylline: ~60% (adults)"
+    metabolism:
+        half-life: 7-9h (theophylline; healthy non-smoking asthmatic adults)
+        duration:
+        pathway: Hepatic CYP metabolism; may be capacity limited
+        metabolites:
+            - 1,3-Dimethyluric acid
+            - 1-Methyluric acid
+            - 3-Methylxanthine (less active)
+    elimination:
+        renal: Metabolites; ~10% unchanged theophylline in adults
+mechanism:
+    target:
+        - Phosphodiesterase (non-selective)
+        - Adenosine receptors (antagonist)
+    action: Theophylline; proposed PDE inhibition → ↓ cAMP hydrolysis → bronchodilation; adenosine antagonism
+contraindications:
+    - Coronary artery disease where myocardial stimulation is hazardous
+    - Bronchiolitis
+    - Ethylenediamine hypersensitivity
+pregnancy:
+    code: A
+    justification:
+pharmacodynamics:
+    resp:
+        - Bronchodilation; ↑ diaphragmatic contractility
+        - Medullary respiratory stimulation
+    cvs:
+        - ↑ Inotropy/chronotropy at higher doses; ↓ SVR
+        - Tachyarrhythmias
+    cns:
+        - CNS stimulation; tremor and seizures
+        - Cerebral vasoconstriction
+    endo:
+    msk:
+    met:
+        - Hypokalaemia, hyperglycaemia and metabolic acidosis in toxicity
+    ren:
+        - Transient diuresis
+    gu:
+    git:
+        - ↑ Gastric secretion; nausea and vomiting
+    haeme:
+considerations:
+    - Calculate dose from lean body weight
+    - Narrow therapeutic index; target total theophylline 10-20microg/mL
+    - Theophylline within 24h → level before loading; no load if ≥10microg/mL
+    - Active peptic ulcer or seizure disorder → caution
+    - Smoking ↑ clearance; older age, hepatic dysfunction and heart failure ↓ clearance
+    - Avoid concurrent xanthines; numerous CYP interactions
+references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 8 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Pfizer Australia Pty Ltd. DBL AMINOPHYLLINE Australian Product Information. Version pfpamini10823. Revised 1 August 2023.
+    - iNova Pharmaceuticals (Australia) Pty Ltd. NUELIN-SR AND NUELIN Australian Product Information. Revised 8 January 2019.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Young P, Psirides A. Wellington ICU Drug Manual. 2nd Ed. Wellington Regional Hospital. 2013.
