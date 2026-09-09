@@ -1,0 +1,61 @@
+---
+aliases:
+    - 2-PAM
+    - Protopam
+class: Cholinesterase reactivator
+chemistry: Quaternary pyridinium oxime
+dose:
+    Organophosphate poisoning (adult): 1-2g IV over 15-30min; if weakness persists, repeat after 1h, then Q10-12H
+pharmaceutics:
+    presentation: 1g pralidoxime chloride lyophilised powder; 20mL WFI → 50mg/mL IV stock
+    compatibility: Further dilute in 0.9% NaCl to 10-20mg/mL
+    solubility: Water soluble
+pharmacokinetics:
+    absorption: Complete IV bioavailability
+    distribution:
+        pKa:
+        vd: 0.6-2.7L/kg (apparent Vss)
+        protein binding: None
+    metabolism:
+        half-life: 74-77min apparent; ~3h after IM
+        duration: Short; repeated dosing may be required
+        pathway: Partial hepatic metabolism
+        metabolites: Unspecified hepatic metabolite
+    elimination:
+        renal: Rapid tubular secretion, partly unchanged
+mechanism:
+    target:
+        - Phosphorylated acetylcholinesterase
+    action: Removes the organophosphate group before ageing → reactivates acetylcholinesterase, particularly at the neuromuscular junction
+contraindications:
+pregnancy:
+    code:
+    justification:
+pharmacodynamics:
+    resp:
+        - Reverses respiratory-muscle paralysis
+        - Rapid infusion may worsen laryngospasm or paralysis
+    cvs:
+        - Tachycardia and ↑ MAP
+    cns:
+        - Dizziness, headache, drowsiness and blurred vision
+    endo:
+    msk:
+        - ↑ Neuromuscular transmission; weakness with excessive dose
+    met:
+    ren:
+    gu:
+    git:
+        - Nausea
+    haeme:
+considerations:
+    - Give with atropine; pralidoxime has limited central and muscarinic effect
+    - Give early before acetylcholinesterase ageing
+    - Reduce dose in renal impairment
+    - Maximum intermittent infusion rate 200mg/min
+    - Not indicated for carbamate poisoning; may ↑ carbaryl toxicity
+    - "Pregnancy: no animal reproductive studies; foetal/reproductive risk unknown; use only if clearly needed"
+references:
+    - Baxter Healthcare Corporation. PROTOPAM CHLORIDE United States Prescribing Information. Document 07-19-00-9629. Revised April 2026.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
