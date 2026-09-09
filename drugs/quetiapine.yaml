@@ -1,0 +1,67 @@
+---
+aliases:
+    - Seroquel
+class: Atypical antipsychotic
+chemistry: Dibenzothiazepine derivative; fumarate salt
+dose:
+    Schizophrenia: 50mg/day PO day 1 → 300mg/day by day 4; usual 300-450mg/day (adults; divided BID)
+    Mania: 100mg/day PO day 1 → 400mg/day by day 4; usual 400-800mg/day (adults; divided BID)
+pharmaceutics:
+    presentation: 25mg, 100mg, 200mg or 300mg film-coated tablet
+    compatibility: May take with or without food
+    solubility:
+pharmacokinetics:
+    absorption: Well absorbed PO; food has no material effect
+    distribution:
+        pKa:
+        vd:
+        protein binding: 83%
+    metabolism:
+        half-life: Quetiapine 7h; norquetiapine 12h
+        duration: 5-HT2/D2 receptor occupancy up to 12h
+        pathway: Extensive hepatic CYP3A4; lesser CYP2D6 and CYP2C9
+        metabolites:
+            - Active norquetiapine
+            - 7-Hydroxy-norquetiapine
+    elimination:
+        renal: "Radiolabel: 73% urine, 21% faeces; parent <5% of drug-related material in urine/faeces"
+mechanism:
+    target:
+        - Serotonin 5-HT2 receptors
+        - Dopamine D1 and D2 receptors
+        - Histamine H1 and α1 adrenoceptors
+    action: 5-HT2>D2 affinity (PI); antagonism → antipsychotic effect; H1 antagonism → sedation; α1 antagonism → ↓ MAP
+contraindications:
+pregnancy:
+    code: C
+    justification: Third-trimester exposure may cause neonatal EPS or withdrawal
+pharmacodynamics:
+    resp:
+    cvs:
+        - Orthostatic ↓ MAP, tachycardia and syncope
+        - QT prolongation, particularly in overdose
+    cns:
+        - Antipsychotic, sedative and antidepressant effects
+        - Somnolence, dizziness, EPS and tardive dyskinesia
+    endo:
+        - ↓ Thyroid hormones; hyperprolactinaemia
+    msk:
+        - Neuroleptic malignant syndrome
+    met:
+        - Weight gain, hyperglycaemia and dyslipidaemia
+    ren:
+    gu:
+    git:
+        - Norquetiapine antimuscarinic effects → constipation and dry mouth
+    haeme:
+        - Neutropenia
+considerations:
+    - "Hepatic impairment: start 25mg/day"
+    - CYP3A4 inhibitors ↑ and inducers ↓ exposure
+    - Avoid QT-prolonging drugs and uncorrected hypokalaemia/hypomagnesaemia
+    - Monitor weight, glucose and lipids
+references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 8 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Luye Pharma Australia Pty Ltd. SEROQUEL Australian Product Information. Revised 14 May 2025.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
