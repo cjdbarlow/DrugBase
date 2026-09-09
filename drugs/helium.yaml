@@ -1,0 +1,58 @@
+---
+aliases:
+    - Heliox
+class: Inert medical gas
+chemistry: Inert element (He)
+dose:
+    Airway obstruction: 72% helium/28% O2 inhaled
+pharmaceutics:
+    presentation: Heliox28 compressed premixed gas
+    compatibility: 'Heliox28: dedicated regulator; non-flammable but supports combustion'
+    solubility: Low tissue solubility at atmospheric pressure
+pharmacokinetics:
+    absorption: Not significantly absorbed systemically at atmospheric pressure
+    distribution:
+        pKa:
+        vd: Proportional to tissue solubility and partial pressure
+        protein binding:
+    metabolism:
+        half-life:
+        duration:
+        pathway: Not metabolised
+        metabolites:
+    elimination:
+        renal: Exhaled unchanged
+mechanism:
+    target:
+        - Airway gas flow
+    action: Low gas density → ↓ Reynolds number and turbulence → ↑ laminar flow through obstructed airways
+contraindications:
+    - Pneumothorax
+    - Subcutaneous emphysema
+pregnancy:
+    code:
+    justification:
+pharmacodynamics:
+    resp:
+        - ↓ Work of breathing, PaCO2 and dyspnoea; ↑ PEFR
+        - Dry secretions and atelectasis
+    cvs:
+    cns:
+        - High-pressure neurological syndrome at >16atm
+    endo:
+    msk:
+    met:
+        - Hypothermia with prolonged inhalation
+    ren:
+    gu:
+    git:
+    haeme:
+considerations:
+    - Monitor SpO2 and add O2 if required
+    - ↑ Vocal pitch
+    - Long-term safety is unstudied
+    - Avoid oils, grease, smoking and naked flames
+references:
+    - BOC Limited. HELIOX 28 Australian Product Information. Revised 9 November 2020.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - 'Royal Adelaide Hospital. Advanced Diving Medicine Course Notes. Chapter 6: Oxygen and Carbon Dioxide Toxicity.'
