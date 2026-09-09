@@ -1,0 +1,73 @@
+---
+aliases:
+    - Sevorane
+class: Volatile general anaesthetic
+chemistry: Fluorinated methyl isopropyl ether
+dose:
+    Induction: Inspired concentration up to 5% in adults or 7% in children
+    Maintenance: 0.5-3%; MAC ~2% (middle-aged, O2)
+pharmaceutics:
+    presentation: 100% volatile liquid with ≥300ppm water
+    compatibility: Requires an agent-specific vaporiser
+    solubility: Blood:gas 0.63-0.69; oil:gas 47.2-53.9 (37°C)
+pharmacokinetics:
+    absorption: Pulmonary; low blood solubility → rapid wash-in and wash-out
+    distribution:
+        pKa:
+        vd:
+        protein binding:
+    metabolism:
+        half-life:
+        duration: Rapid offset
+        pathway: ~5% hepatic CYP2E1 metabolism
+        metabolites:
+            - Hexafluoroisopropanol, inorganic fluoride and CO2
+    elimination:
+        renal: Predominantly exhaled unchanged; HFIP rapidly glucuronidated and eliminated
+mechanism:
+    target:
+        - GABAA and glycine receptors
+        - NMDA (putative) and nicotinic acetylcholine receptors
+    action: Enhances inhibitory and suppresses excitatory ion-channel transmission
+contraindications:
+    - Baralyme-containing rebreathing circuits
+    - Known or suspected malignant-hyperthermia susceptibility
+    - Previous hepatitis or unexplained hepatic dysfunction after a halogenated anaesthetic
+pregnancy:
+    code: B2
+    justification: May cause neonatal CNS and respiratory depression
+pharmacodynamics:
+    resp:
+        - Non-irritant bronchodilator
+        - ↓ VT and MV with ↑ RR and PaCO2
+        - Impaired HPV
+    cvs:
+        - ↓ SVR and MAP without reflex tachycardia
+        - Minimal negative inotropy and QT prolongation
+    cns:
+        - Hypnosis; limited analgesic effect
+        - ↓ CMRO2; smallest ↑ CBF above 1.1 MAC
+        - Postoperative agitation in children
+    endo:
+    msk:
+        - Muscle relaxation and potentiation of non-depolarising NMBs
+    met:
+        - May trigger malignant hyperthermia
+    ren:
+        - ↓ RBF, GFR and urine output secondary to haemodynamic effects
+    gu:
+        - Uterine relaxation
+    git:
+        - Rare hepatitis
+    haeme:
+considerations:
+    - Soda lime degradation produces Compound A; nephrotoxic in rats but not established in humans
+    - Avoid desiccated CO2 absorbents; fresh gas flow <2L/min in circle absorber systems not recommended
+    - CYP2E1 induction by isoniazid or alcohol increases fluoride production
+references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 8 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - AbbVie Pty Ltd. SEVORANE Australian Product Information. Version 12 (CCDS version 7). Revised 10 March 2026.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.
+    - Petkov V. Essential Pharmacology for the ANZCA Primary Examination. 2012.

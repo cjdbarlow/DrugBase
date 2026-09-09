@@ -1,0 +1,74 @@
+---
+aliases:
+    - Aerrane
+    - Forane
+class: Volatile general anaesthetic
+chemistry: Halogenated methyl ethyl ether; structural isomer of enflurane
+dose:
+    Induction: 0.5%, increasing to 1.3-3% inspired
+    Maintenance: 1-2.5% with N2O/O2 or 1.5-3.5% in O2; MAC ~1.15% (middle-aged, O2)
+pharmaceutics:
+    presentation: 100% volatile liquid
+    compatibility: Requires an agent-specific vaporiser
+    solubility: Blood:gas 1.4; oil:gas 98
+pharmacokinetics:
+    absorption: Pulmonary; moderate blood solubility → intermediate wash-in and wash-out
+    distribution:
+        pKa:
+        vd:
+        protein binding:
+    metabolism:
+        half-life:
+        duration:
+        pathway: ~0.2% hepatic metabolism
+        metabolites:
+            - Trifluoroacetic acid and inorganic fluoride
+    elimination:
+        renal: ~95% recovered in expired air; metabolites renal
+mechanism:
+    target:
+        - GABAA and glycine receptors
+        - NMDA (putative) and nicotinic acetylcholine receptors
+    action: Enhances inhibitory and suppresses excitatory ion-channel transmission
+contraindications:
+    - Known or suspected malignant-hyperthermia susceptibility
+    - Previous hepatitis or unexplained hepatic dysfunction after a halogenated anaesthetic
+    - Non-selective MAOI use
+    - Obstetric surgery
+pregnancy:
+    code: B3
+    justification: May cause neonatal CNS and respiratory depression
+pharmacodynamics:
+    resp:
+        - Airway irritation, coughing and laryngospasm
+        - ↓ VT and MV with ↑ RR and PaCO2
+        - Bronchodilation and impaired HPV
+    cvs:
+        - ↓ SVR and MAP with reflex ↑ HR
+        - Mild negative inotropy
+    cns:
+        - Hypnosis; limited analgesic effect
+        - ↓ CMRO2; ↑ CBF above 1 MAC
+    endo:
+    msk:
+        - Muscle relaxation and potentiation of non-depolarising NMBs
+    met:
+        - May trigger malignant hyperthermia
+    ren:
+        - ↓ RBF, GFR and urine output secondary to haemodynamic effects
+    gu:
+        - Uterine relaxation
+    git:
+        - Rare hepatitis
+    haeme:
+considerations:
+    - Coronary steal in selected animal models; human clinical significance uncertain
+    - Desiccated CO2 absorbent may produce carbon monoxide
+    - Repeat exposure within a short interval may increase hepatic risk
+references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 8 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Baxter Healthcare Pty Ltd. AERRANE Australian Product Information. Version 1.2. Revised 7 November 2018.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.
+    - Petkov V. Essential Pharmacology for the ANZCA Primary Examination. 2012.

@@ -1,0 +1,71 @@
+---
+aliases:
+    - Suprane
+class: Volatile general anaesthetic
+chemistry: Fluorinated methyl ethyl ether
+dose:
+    Maintenance: 2.5-8.5% end-tidal with O2 or O2-enriched air; MAC ~6.6% (age-dependent)
+pharmaceutics:
+    presentation: 100% volatile liquid
+    compatibility: Requires a heated agent-specific vaporiser
+    solubility: Blood:gas 0.42; oil:gas 29
+pharmacokinetics:
+    absorption: Pulmonary; very low blood solubility → rapid wash-in and wash-out
+    distribution:
+        pKa:
+        vd:
+        protein binding:
+    metabolism:
+        half-life:
+        duration: Rapid offset
+        pathway: Minimal hepatic metabolism (~0.02%)
+        metabolites:
+    elimination:
+        renal: Almost entirely exhaled unchanged
+mechanism:
+    target:
+        - GABAA and glycine receptors
+        - NMDA (putative) and nicotinic acetylcholine receptors
+    action: Enhances inhibitory and suppresses excitatory ion-channel transmission
+contraindications:
+    - Paediatric inhalational induction
+    - Known or suspected malignant-hyperthermia susceptibility
+    - Previous hepatitis or unexplained hepatic dysfunction after a halogenated anaesthetic
+pregnancy:
+    code: B3
+    justification: May cause neonatal CNS and respiratory depression
+pharmacodynamics:
+    resp:
+        - Airway irritation, coughing, breath-holding and laryngospasm
+        - ↓ VT and ↑ RR; >1 MAC → ↓ MV and ↑ PaCO2
+        - Bronchodilation and impaired HPV
+    cvs:
+        - ↓ SVR and MAP with minimal negative inotropy
+        - ↑ HR; rapid concentration increases cause marked sympathetic activation
+    cns:
+        - Hypnosis and amnesia
+        - ↓ CMRO2; ↑ CBF above 1 MAC
+    endo:
+    msk:
+        - Muscle relaxation and potentiation of non-depolarising NMBs
+    met:
+        - May trigger malignant hyperthermia
+    ren:
+        - Renal blood flow generally preserved; haemodynamic depression may ↓ GFR and urine output
+    gu:
+        - Uterine relaxation
+    git:
+        - Splanchnic blood flow generally preserved
+    haeme:
+considerations:
+    - Unsuitable for inhalational induction because of airway irritation
+    - Rapid increases above 1 MAC → tachycardia and hypertension
+    - Desiccated CO2 absorbent may produce carbon monoxide
+    - Greater global-warming effect than isoflurane or sevoflurane
+references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 8 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Baxter Healthcare Pty Ltd. SUPRANE Australian Product Information. Revised 23 January 2023.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.
+    - Petkov V. Essential Pharmacology for the ANZCA Primary Examination. 2012.

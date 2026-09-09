@@ -1,0 +1,70 @@
+---
+aliases:
+    - Ethrane
+class: Volatile general anaesthetic
+chemistry: Halogenated methyl ethyl ether; structural isomer of isoflurane
+dose:
+    Induction: 2-4.5% inspired
+    Maintenance: 0.5-3%; MAC ~1.7% in O2
+pharmaceutics:
+    presentation: 100% volatile liquid
+    compatibility: Requires an agent-specific vaporiser
+    solubility: Blood:gas 1.8; oil:gas 98
+pharmacokinetics:
+    absorption: Pulmonary; moderately blood-soluble → slower wash-in and wash-out
+    distribution:
+        pKa:
+        vd:
+        protein binding:
+    metabolism:
+        half-life:
+        duration:
+        pathway: Hepatic CYP2E1
+        metabolites:
+            - Inorganic fluoride
+    elimination:
+        renal: Predominantly exhaled unchanged; metabolites renal
+mechanism:
+    target:
+        - GABAA and glycine receptors
+        - NMDA (putative) and nicotinic acetylcholine receptors
+    action: Enhances inhibitory and suppresses excitatory ion-channel transmission
+contraindications:
+    - Seizure disorders
+    - Known or suspected malignant-hyperthermia susceptibility
+pregnancy:
+    code: A
+    justification: May cause neonatal CNS and respiratory depression
+pharmacodynamics:
+    resp:
+        - Marked ↓ VT and ↑ PaCO2
+        - Bronchodilation and impaired HPV
+    cvs:
+        - ↓ MAP from myocardial depression and some vasodilation
+    cns:
+        - Hypnosis and analgesia
+        - High concentrations and hypocapnia cause 3-Hz spike-wave activity and seizures
+        - ↓ CMRO2; ↑ CBF above 1 MAC
+    endo:
+    msk:
+        - Muscle relaxation and potentiation of non-depolarising NMBs
+    met:
+        - May trigger malignant hyperthermia
+    ren:
+        - Inorganic fluoride may cause nephrotoxicity
+    gu:
+        - Uterine relaxation
+    git:
+        - Rare hepatitis
+    haeme:
+considerations:
+    - Avoid hyperventilation because hypocapnia increases epileptiform activity
+    - Chronic isoniazid or other hydrazine-containing compounds → fluoride may exceed 50micromol/L, especially beyond 2 MAC-hours
+    - Desiccated CO2 absorbent may produce carbon monoxide
+references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 8 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Baxter Healthcare Corporation. ETHRANE United States Prescribing Information. Revised January 2010.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.
+    - Petkov V. Essential Pharmacology for the ANZCA Primary Examination. 2012.
