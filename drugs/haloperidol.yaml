@@ -1,0 +1,75 @@
+---
+aliases:
+    - Haldol
+    - Serenace
+class: Typical antipsychotic
+chemistry: Butyrophenone
+dose:
+    Agitation (IM/IV): 0.5-10mg; repeat after ≥1 hour IM or ≥30 minutes IV; max 20mg/day
+pharmaceutics:
+    presentation: 5mg/mL injection; tablets and 2mg/mL oral liquid
+    compatibility: IV undiluted or dilute in 5-10mL 0.9% NaCl; protect from light
+    solubility: Minimally water-soluble
+pharmacokinetics:
+    absorption: Rapid and complete PO absorption; bioavailability ~60%; IM peak ~20 minutes
+    distribution:
+        pKa: 8.66
+        vd: 18L/kg
+        protein binding: 92%
+    metabolism:
+        half-life: 14-36 hours
+        duration:
+        pathway: Hepatic CYP3A4 and CYP2D6; N-dealkylation and carbonyl reduction
+        metabolites:
+            - Piperidine metabolites (inactive)
+            - Hydroxyhaloperidol (weakly active)
+    elimination:
+        renal: Mainly metabolites; ~1% unchanged
+mechanism:
+    target:
+        - Dopamine D2 receptors
+        - α-adrenoceptors
+    action: Competitive postsynaptic D2 antagonism, predominantly in mesolimbic pathways
+contraindications:
+    - Parkinson disease or basal-ganglia lesions
+    - Coma or CNS depression
+    - Clinically significant cardiac disease, QTc prolongation or ventricular arrhythmia
+    - Clinically significant bradycardia, 2nd/3rd-degree heart block or uncorrected hypokalaemia
+    - Concomitant QT-prolonging drugs
+    - Prolactin-dependent tumour
+pregnancy:
+    code: C
+    justification: High doses in late pregnancy → prolonged neonatal neurological disturbance
+pharmacodynamics:
+    resp:
+        - Laryngospasm and bronchospasm
+    cvs:
+        - QT prolongation and torsades de pointes
+        - Tachycardia and ↓ MAP
+    cns:
+        - Antipsychotic
+        - Extrapyramidal effects and tardive dyskinesia
+        - ↓ Seizure threshold
+    endo:
+        - ↑ Prolactin
+    msk:
+    met:
+    ren:
+    gu:
+        - Urinary retention
+    git:
+        - Antiemetic
+        - Constipation and xerostomia
+    haeme:
+considerations:
+    - IM recommended; IV → continuous ECG monitoring
+    - Neuroleptic malignant syndrome
+    - Lithium → possible severe neurotoxicity
+    - CYP3A4/2D6 inhibitors or inducers alter exposure
+references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 8 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Medsurge Pharma Pty Ltd. HALOPERIDOL MEDSURGE Australian Product Information. Version 0.5. First approved 28 July 2025.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Smith S, Scarth E, Sasada M. Drugs in Anaesthesia and Intensive Care. 4th Ed. Oxford University Press. 2011.
+    - Young P, Psirides A. Wellington ICU Drug Manual. 2nd Ed. Wellington Regional Hospital. 2013.

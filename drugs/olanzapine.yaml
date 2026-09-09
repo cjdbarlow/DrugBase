@@ -1,0 +1,71 @@
+---
+aliases:
+    - Zyprexa
+class: Atypical antipsychotic
+chemistry: Thienobenzodiazepine
+dose:
+    Agitation (IM): 5-10mg; repeat ≤10mg after ≥2 hours, then ≥4 hours later; max 3 doses/30mg in 24 hours
+    Psychosis (PO/NG): 5-20mg daily
+pharmaceutics:
+    presentation: 10mg powder for IM injection; tablets and orally disintegrating wafers
+    compatibility: Reconstitute IM vial with 2.1mL water for injection; use within 1 hour
+    solubility: Practically insoluble in water
+pharmacokinetics:
+    absorption: PO bioavailability ~60%, peak 5-8 hours; IM peak 15-45 minutes
+    distribution:
+        pKa:
+        vd: 14L/kg
+        protein binding: 93%
+    metabolism:
+        half-life: 33 hours (5th-95th percentile 21-54 hours)
+        duration:
+        pathway: Hepatic glucuronidation and CYP1A2/2D6 oxidation
+        metabolites:
+            - 10-N-glucuronide (does not cross BBB)
+            - N-desmethyl and 2-hydroxymethyl metabolites (weak activity in animal studies)
+    elimination:
+        renal: 57% urine and 30% faeces; ~7% unchanged in urine
+mechanism:
+    target:
+        - 5-HT2A and 5-HT2C receptors
+        - Dopamine D1-D5 receptors
+        - Muscarinic receptors
+        - Histamine H1 receptors
+        - α1-adrenoceptors
+    action: Monoaminergic antagonism with greater affinity for 5-HT2 than D2 receptors
+contraindications:
+pregnancy:
+    code: C
+    justification: Third-trimester exposure → neonatal extrapyramidal or withdrawal symptoms
+pharmacodynamics:
+    resp:
+        - Respiratory depression (overdose)
+    cvs:
+        - ↓ MAP, bradycardia and tachycardia
+    cns:
+        - Antipsychotic
+        - Somnolence, dizziness and tremor
+        - ↓ Seizure threshold
+    endo:
+        - ↑ Prolactin
+    msk:
+    met:
+        - Weight gain, dyslipidaemia and hyperglycaemia
+    ren:
+    gu:
+    git:
+        - Xerostomia and constipation
+    haeme:
+considerations:
+    - IM + parenteral benzodiazepines → excessive sedation and cardiorespiratory depression
+    - Smoking and carbamazepine → ↑ CYP1A2 clearance
+    - Neuroleptic malignant syndrome
+    - Tardive dyskinesia
+    - Elderly dementia-related psychosis → ↑ mortality and cerebrovascular events
+references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 8 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Pharmaco (Australia) Ltd. ZYPREXA IM Australian Product Information. Version 2.0. Revised 14 October 2025.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Smith S, Scarth E, Sasada M. Drugs in Anaesthesia and Intensive Care. 4th Ed. Oxford University Press. 2011.
+    - Young P, Psirides A. Wellington ICU Drug Manual. 2nd Ed. Wellington Regional Hospital. 2013.
