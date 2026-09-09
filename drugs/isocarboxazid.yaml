@@ -1,0 +1,67 @@
+---
+aliases:
+    - Marplan
+class: Irreversible non-selective monoamine oxidase inhibitor
+chemistry: Hydrazine derivative
+dose:
+    Depression (PO): 10mg BD; increase by 10mg every 2-4 days to 40mg/day; max 60mg/day
+pharmaceutics:
+    presentation: 10mg tablets
+    compatibility:
+    solubility:
+pharmacokinetics:
+    absorption:
+    distribution:
+        pKa:
+        vd:
+        protein binding:
+    metabolism:
+        half-life:
+        duration: MAO inhibition persists after drug elimination
+        pathway:
+        metabolites:
+    elimination:
+        renal:
+mechanism:
+    target:
+        - Monoamine oxidase A and B
+    action: Irreversibly inhibits MAO → increased central biogenic amines
+contraindications:
+    - Other MAOIs, dibenzazepines, sympathomimetics, pethidine, dextromethorphan or serotonergic antidepressants
+    - Phaeochromocytoma
+    - Cardiovascular or cerebrovascular disease
+    - Hypertension
+    - Hepatic disease or abnormal LFTs
+pregnancy:
+    code:
+    justification:
+pharmacodynamics:
+    resp:
+    cvs:
+        - Orthostatic hypotension
+        - Tyramine or sympathomimetics may cause hypertensive crisis
+    cns:
+        - Antidepressant
+        - Dizziness, insomnia, somnolence and headache
+        - Seizures in toxicity
+    endo:
+        - SIADH
+    msk:
+    met:
+        - Weight gain
+    ren:
+    gu:
+        - Sexual dysfunction
+    git:
+        - Xerostomia, nausea and constipation
+    haeme:
+considerations:
+    - Second-line antidepressant
+    - Tyramine-restricted diet during treatment and for 2 weeks after cessation
+    - Serotonergic medicines may cause serotonin syndrome
+    - Sympathomimetics may cause hypertensive crisis
+    - Abrupt cessation may cause withdrawal
+references:
+    - Lifsa Drugs LLC. MARPLAN United States Prescribing Information. Revised April 2026.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.

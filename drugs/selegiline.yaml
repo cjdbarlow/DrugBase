@@ -1,0 +1,67 @@
+---
+aliases:
+    - Eldepryl
+    - L-deprenyl
+class: Irreversible selective monoamine oxidase B inhibitor
+chemistry: Substituted amphetamine
+dose:
+    Parkinson disease (PO): 5mg with breakfast and 5mg with lunch; max 10mg/day
+pharmaceutics:
+    presentation: 5mg tablets
+    compatibility:
+    solubility: Lipid-soluble; hydrochloride freely water-soluble
+pharmacokinetics:
+    absorption: Rapid; bioavailability ~10% due to first-pass metabolism and increased up to 3-fold by high-fat food
+    distribution:
+        pKa: 8.6
+        vd: ~25L/kg
+        protein binding: 96%
+    metabolism:
+        half-life: ~1.5 hours
+        duration: Prolonged by irreversible MAO-B inhibition
+        pathway: Hepatic CYP2B6; possible CYP3A4/2A6 contribution (in vitro)
+        metabolites:
+            - N-desmethylselegiline (active)
+            - L-methamphetamine (active)
+            - L-amphetamine (active)
+    elimination:
+        renal: 86% of active metabolites recovered in urine
+mechanism:
+    target:
+        - Monoamine oxidase B at doses 10mg/day or less
+    action: Irreversible MAO-B inhibition → reduced dopamine metabolism
+contraindications:
+    - Pethidine
+    - SSRIs, SNRIs, TCAs, sympathomimetics or other MAOIs
+    - Active peptic ulcer
+pregnancy:
+    code: B2
+    justification:
+pharmacodynamics:
+    resp:
+    cvs:
+        - Orthostatic hypotension
+        - Hypertension and dysrhythmias
+    cns:
+        - Antiparkinsonian
+        - Insomnia, dizziness, confusion and hallucinations
+        - Dyskinesia with levodopa
+    endo:
+    msk:
+    met:
+    ren:
+    gu:
+    git:
+        - Nausea, xerostomia and constipation
+    haeme:
+considerations:
+    - MAO-B selectivity diminishes above 20mg/day → possible tyramine sensitivity
+    - Pethidine may cause fatal hyperpyrexia and rigidity
+    - Serotonergic medicines may cause serotonin syndrome
+    - Levodopa adverse effects may require a 10-30% levodopa reduction
+    - May cause impulse-control disorders
+references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 8 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Orion Pharma (Aus) Pty Limited. ELDEPRYL Australian Product Information. Revised 18 April 2023.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.

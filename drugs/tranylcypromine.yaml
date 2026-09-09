@@ -1,0 +1,68 @@
+---
+aliases:
+    - Parnate
+class: Irreversible non-selective monoamine oxidase inhibitor
+chemistry: Substituted amphetamine
+dose:
+    Depression (PO): 10mg morning and afternoon; increase to 10mg TDS after 2 weeks; max 30mg/day
+pharmaceutics:
+    presentation: 10mg tablets
+    compatibility:
+    solubility: Reasonably water-soluble
+pharmacokinetics:
+    absorption: Rapid and complete; bioavailability ~50%
+    distribution:
+        pKa: 9.6
+        vd: 1.75L/kg
+        protein binding: Probably high
+    metabolism:
+        half-life: ~2 hours
+        duration: MAO activity recovers 3-5 days after cessation
+        pathway: N-acetylation and ring hydroxylation; probably hepatic
+        metabolites:
+            - N-acetylated and ring-hydroxylated metabolites (weakly active)
+    elimination:
+        renal: Minimal; 4% unchanged
+mechanism:
+    target:
+        - Monoamine oxidase A and B
+    action: Irreversibly inhibits MAO → increased central monoamines
+contraindications:
+    - Other MAOIs, TCAs, SSRIs, SNRIs, sympathomimetics, pethidine or dextromethorphan
+    - Phaeochromocytoma
+    - Cardiovascular or cerebrovascular disease
+    - Hypertension
+    - Hepatic disease
+pregnancy:
+    code: B2
+    justification:
+pharmacodynamics:
+    resp:
+    cvs:
+        - Orthostatic hypotension
+        - Tyramine or sympathomimetics may cause hypertensive crisis
+    cns:
+        - Antidepressant
+        - Insomnia, agitation and dizziness
+        - Seizures and mania
+    endo:
+    msk:
+    met:
+        - Hypoglycaemia
+    ren:
+    gu:
+        - Sexual dysfunction
+    git:
+        - Hepatotoxicity
+    haeme:
+considerations:
+    - Tyramine-restricted diet during treatment and for at least 1 week after cessation
+    - Serotonergic medicines may cause serotonin syndrome
+    - Sympathomimetics may cause hypertensive crisis
+    - Abrupt cessation may cause withdrawal
+references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 8 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Amdipharm Mercury (Australia) Pty Ltd. PARNATE Australian Product Information. Revised 5 March 2020.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Petkov V. Essential Pharmacology for the ANZCA Primary Examination. 2012.
