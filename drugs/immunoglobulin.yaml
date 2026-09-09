@@ -1,0 +1,70 @@
+---
+aliases:
+    - Human normal immunoglobulin
+    - IVIg
+    - Intragam 10
+class: Immunoglobulin replacement and immunomodulator
+chemistry: Pooled human plasma IgG
+dose:
+    Replacement: 0.2-0.8g/kg IV every 3-4 weeks (primary/secondary IgG deficiency)
+    ITP: Maximum cumulative 2g/kg IV divided over 2-5 days (high bleeding risk/pre-op)
+    GBS: 0.4g/kg IV daily for 5 days
+    Myasthenia: Crisis/pre-op induction 1-2g/kg IV divided over 2-5 days
+pharmaceutics:
+    presentation: 10% IgG solution for IV infusion
+    compatibility: May dilute with up to 2 parts 0.9% NaCl; separate from other IV fluids (except 0.9% NaCl) and drugs
+    solubility: Clear or slightly opalescent aqueous solution
+pharmacokinetics:
+    absorption: Immediately and completely bioavailable after IV infusion
+    distribution:
+        pKa:
+        vd: Plasma and extravascular fluid; equilibrium by 3-5 days
+        protein binding:
+    metabolism:
+        half-life: Median 34 days (adults with primary immunodeficiency)
+        duration:
+        pathway: Reticuloendothelial catabolism
+        metabolites:
+    elimination:
+        renal:
+mechanism:
+    target:
+        - Pathogens and antigens recognised by donor IgG
+        - Fc receptors and immune pathways
+    action: Restores low IgG; immunomodulation by multiple incompletely defined mechanisms
+contraindications:
+    - True anaphylaxis to human immunoglobulin, especially with anti-IgA antibodies
+pregnancy:
+    code:
+    justification: Use only if clearly indicated
+pharmacodynamics:
+    resp:
+        - Dyspnoea
+    cvs:
+        - Thrombosis including MI, stroke, PE and DVT
+        - Flushing; rare anaphylactic ↓ MAP
+    cns:
+        - Headache, migraine and aseptic meningitis
+    endo:
+    msk:
+        - Myalgia and arthralgia
+    met:
+        - Overdose → hyperviscosity and fluid overload
+    ren:
+        - Acute kidney injury
+    gu:
+    git:
+        - Nausea and vomiting
+    haeme:
+        - Haemolysis and neutropenia
+        - ↑ Platelets in ITP
+considerations:
+    - Infusion reactions are rate-related
+    - "Intragam 10: 1mL/min for 15min; gradually ↑ to max 3-4mL/min over the next 15min"
+    - Hydrate; minimum practicable dose and rate in renal or thrombosis risk
+    - May reduce live-vaccine efficacy for 6 weeks to 3 months; measles up to 1 year
+    - Human plasma product; record batch number
+references:
+    - CSL Behring (Australia) Pty Ltd. INTRAGAM 10 Australian Product Information. Version 12.00. Revised 21 April 2020.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
