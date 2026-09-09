@@ -1,0 +1,65 @@
+---
+aliases:
+    - DigiFab
+    - Digoxin antibodies
+class: Cardiac glycoside antidote
+chemistry: Purified ovine digoxin-specific monovalent Fab fragments
+dose:
+    Known steady state: Full neutralisation vials = serum digoxin [ng/mL] × weight [kg] / 100; round up to nearest vial, then give half initially
+    Unknown acute: 5 vials IV if stable or 10-20 vials IV if unstable
+    Unknown chronic: 2 vials IV; repeat 2 vials after 30min if toxicity persists or recurs
+pharmaceutics:
+    presentation: 40mg lyophilised powder per vial; each vial binds ~0.5mg digoxin
+    compatibility: Reconstitute with 4mL water for injection; may dilute in 0.9% NaCl; infuse over 30min; bolus if cardiac arrest imminent
+    solubility: Water-soluble protein
+pharmacokinetics:
+    absorption: Complete IV bioavailability
+    distribution:
+        pKa:
+        vd: 0.3L/kg
+        protein binding:
+    metabolism:
+        half-life: 15-20h in normal renal function; may be up to 10× longer in renal impairment
+        duration:
+        pathway: Reticuloendothelial clearance of Fab-digoxin complexes
+        metabolites:
+    elimination:
+        renal: Fab-digoxin complexes
+mechanism:
+    target:
+        - Free digoxin and related cardiac glycosides
+    action: Higher affinity than Na⁺/K⁺-ATPase → binds free digoxin, draws it from receptors and permits renal and reticuloendothelial clearance
+contraindications:
+pregnancy:
+    code: B2
+    justification:
+pharmacodynamics:
+    resp:
+        - Bronchospasm or anaphylaxis
+    cvs:
+        - Reverses digoxin-induced arrhythmias
+        - ↓ MAP, worsening heart failure or rapid ventricular response in AF
+    cns:
+        - Headache and confusion
+    endo:
+    msk:
+    met:
+        - Rapid ↓ K⁺ after reversal
+    ren:
+        - Delayed clearance and recurrent toxicity in renal failure
+    gu:
+    git:
+        - Nausea, vomiting and diarrhoea
+    haeme:
+considerations:
+    - Empirical regimens apply to adults and children >20kg when ingested dose and serum concentration are unknown
+    - Obtain digoxin level before Fab if possible; serum/tissue equilibration requires 6-8h after the last digoxin dose
+    - Standard total digoxin assays are misleading after administration
+    - Monitor ECG and K⁺ closely during and after administration
+    - Ovine, papain, alpha-gal and repeat-exposure sensitisation may increase reaction risk
+    - Prolonged monitoring in severe renal impairment
+references:
+    - Therapeutic Goods Administration. Prescribing medicines in pregnancy database. Accessed 8 August 2026. https://www.tga.gov.au/resources/health-professional-information-and-resources/australian-categorisation-system-prescribing-medicines-pregnancy/prescribing-medicines-pregnancy-database
+    - Phebra Pty Ltd. DIGIFAB Australian Product Information. Version 03. Revised 24 January 2023.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
