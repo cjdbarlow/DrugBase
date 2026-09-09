@@ -1,0 +1,66 @@
+---
+aliases:
+    - Medicinal oxygen
+class: Essential medical gas
+chemistry: Diatomic elemental gas
+dose:
+    Oxygen (normobaric): FiO2 0.21-1.0; avoid >0.6 when possible
+pharmaceutics:
+    presentation: ≥99.5% compressed colourless gas
+    compatibility: Strongly supports combustion; avoid oils, grease, smoking and naked flames
+    solubility: Poor water solubility
+pharmacokinetics:
+    absorption: Rapid alveolar diffusion down its partial-pressure gradient
+    distribution:
+        pKa:
+        vd: Haemoglobin-bound and dissolved in plasma
+        protein binding: Hb oxygen capacity ~1.34mL/g
+    metabolism:
+        half-life:
+        duration: Minutes
+        pathway: Mitochondrial electron transport and aerobic metabolism
+        metabolites:
+            - Carbon dioxide and water (products of aerobic metabolism)
+    elimination:
+        renal: CO2 exhaled; bicarbonate eliminated in urine
+mechanism:
+    target:
+        - Cytochrome c oxidase
+    action: Substrate for aerobic metabolism/oxidative phosphorylation → ATP production
+contraindications:
+pregnancy:
+    code: A
+    justification: Clinically required normobaric use at lowest concentration/shortest duration; category does not apply to hyperbaric treatment
+pharmacodynamics:
+    resp:
+        - ↑ Alveolar and arterial PO2
+        - Small initial ↓ respiratory drive; absorption atelectasis
+        - CO2 retention in susceptible patients (mainly V/Q mismatch and Haldane effect)
+        - Prolonged exposure at PiO2 >0.6bar → pulmonary toxicity risk
+    cvs:
+        - Corrects hypoxic cardiovascular dysfunction
+        - 'Hyperoxia: ↑ SVR; ↓ CO and PVR/PAP; coronary vasoconstriction'
+    cns:
+        - Hyperbaric toxicity, usually >1.6bar → neurological symptoms and seizures
+        - Retinopathy in premature neonates
+    endo:
+    msk:
+    met:
+        - Reactive oxygen species → lipid peroxidation and cell injury
+    ren:
+    gu:
+    git:
+    haeme:
+        - Haemolysis with oxygen toxicity
+considerations:
+    - Circulating O2 reserve ≤4min at basal consumption (healthy individuals)
+    - Use the lowest FiO2 that corrects hypoxaemia
+    - 'Bleomycin exposure: use <30% where possible'
+    - High FiO2 may worsen injury from amiodarone, nitrofurantoin or paraquat
+    - Fire risk
+references:
+    - Air Liquide Healthcare Pty Ltd. AIR LIQUIDE LIMITED MEDICAL OXYGEN Australian Product Information. Version PIv5 AU-1001-0924. Revised 11 November 2024.
+    - Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
+    - Katzung BG, Masters SB, Trevor AJ, eds. Basic & Clinical Pharmacology. 12th Ed. McGraw-Hill. 2012.
+    - Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.
+    - 'Royal Adelaide Hospital. Advanced Diving Medicine Course Notes. Chapter 6: Oxygen and Carbon Dioxide Toxicity.'
